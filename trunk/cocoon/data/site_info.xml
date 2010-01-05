@@ -69,7 +69,7 @@
 	</browse>
 	<page id="about" slug="About" title="About William Faulkner">
 		<section id="bio" title="Biography">
-			<h1>Test image</h1>
+			<h3>Test image</h3>
 			<img src="william-faulkner.jpg" alt="William Faulkner" title="William Faulkner" />
 			
 			<h3>Biography</h3>
