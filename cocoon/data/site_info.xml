@@ -69,6 +69,9 @@
 	</browse>
 	<page id="about" slug="About" title="About William Faulkner">
 		<section id="bio" title="Biography">
+			<h1>Test image</h1>
+			<img src="william-faulkner.jpg" alt="William Faulkner" title="William Faulkner" />
+			
 			<h3>Biography</h3>
 			<p>He was born William Cuthbert Falkner in New Albany, Mississippi, the eldest son of
 				Murry Cuthbert Falkner (August 17, 1870 – August 7, 1932) and Maud Butler (November
