@@ -119,9 +119,7 @@
 	</xsl:template>
 
 	<xsl:template match="unclear">
-		<span class="unclear tooltip" title="Text was unclear">[
-				<xsl:apply-templates/>
-			]</span>
+		<span class="unclear tooltip" title="Text was unclear">[<xsl:apply-templates/>]</span>
 	</xsl:template>
 
 	<xsl:template match="gap">
