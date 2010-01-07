@@ -57,25 +57,15 @@
 
 	<xsl:template match="div2">
 		<a name="{@id}"/>
-		<xsl:if test="head">
+		<!-- <xsl:if test="head">
 			<h3 class="div_head">
 				<xsl:value-of select="head"/>
-			</h3>
-		</xsl:if>
-		<a href="#top">top</a>
-		<!-- AddThis Button BEGIN -->
-		<a class="addthis_button"
-			href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b141d5f4ca01146"
-			addthis:url="" id="{@id}">
-			<img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16"
-				alt="Bookmark and Share" style="border:0"/>
-		</a>
-		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b141d5f4ca01146"/>
-		<!-- AddThis Button END -->
+			</h3> 
+			</xsl:if>-->
 		
 		<!-- need to grab the audio file name -->
 		<xsl:variable name="filename" select="//idno[@type='digital audio filename']"/>
-
+		
 		<script language="JavaScript" type="text/javascript">
 			try {
 				QT_WriteOBJECT(
@@ -88,6 +78,19 @@
 		catch (e) {
 			//document.write(e);
 		}</script>
+		
+		<a href="#top"><img src="{$path}/top.gif" alt=" link to top of the page" title="top" /></a>
+		<!-- AddThis Button BEGIN -->
+		<a class="addthis_button"
+			href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b141d5f4ca01146"
+			addthis:url="" id="{@id}">
+			<img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16"
+				alt="Bookmark and Share" style="border:0"/>
+		</a>
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b141d5f4ca01146"/>
+		<!-- AddThis Button END -->
+		
+		
 		<xsl:apply-templates select="u"/>
 
 		<hr/>
@@ -131,9 +134,7 @@
 	</xsl:template>
 
 	<xsl:template match="event[not(@desc='end of recording')]">
-		<span class="event tooltip" title="There was some {@desc} happening">[<i>
-				<xsl:value-of select="@desc"/>
-			</i>]</span>
+		<span class="event tooltip" title="There was some {@desc} happening">[<i><xsl:value-of select="@desc"/></i>]</span>
 	</xsl:template>
 
 	<xsl:template match="lb">
@@ -142,9 +143,7 @@
 
 	<xsl:template match="hi">
 		<xsl:if test="@rend='italic'">
-			<em>
-				<xsl:apply-templates/>
-			</em>
+			<em><xsl:apply-templates/></em>
 		</xsl:if>
 
 	</xsl:template>
