@@ -131,6 +131,11 @@ ul.menu li a {
 li {
 	font-family: Helvetica, "Trebuchet MS", Trebuchet, Verdana, arial, sans-serif;
 }
+
+.player-line {
+    height: 20px;
+}
+
 .alt {
 	color: #666;
 	font-family: "Warnock Pro", "Goudy Old Style","Palatino","Book Antiqua", Georgia, serif;
