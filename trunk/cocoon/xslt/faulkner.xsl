@@ -56,6 +56,7 @@
 	</xsl:template>
 
 	<xsl:template match="div2">
+		<div class="player-line">
 		<a name="{@id}"/>
 		<!-- <xsl:if test="head">
 			<h3 class="div_head">
@@ -89,7 +90,7 @@
 		</a>
 		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b141d5f4ca01146"/>
 		<!-- AddThis Button END -->
-		
+		</div>
 		
 		<xsl:apply-templates select="u"/>
 

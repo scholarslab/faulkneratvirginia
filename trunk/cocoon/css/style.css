@@ -29,6 +29,11 @@ input, select {
 	font-size:11px;
 	margin:0px 10px;
 }
+
+a img {
+    border: none;
+}
+
 #wrap {
 	width: 720px;
 	font-family: Georgia, serif;
