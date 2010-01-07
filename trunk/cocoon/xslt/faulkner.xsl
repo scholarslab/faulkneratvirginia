@@ -33,6 +33,8 @@
 					</div>
 					<xsl:call-template name="footer"/>
 				</div>
+				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b141d5f4ca01146"/>
+				<!-- AddThis Button END -->
 				<script type="text/javascript" src="{$path}javascript/addthis_urls.js">//</script>
 			</body>
 		</html>
@@ -88,8 +90,7 @@
 			<img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16"
 				alt="Bookmark and Share" style="border:0"/>
 		</a>
-		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b141d5f4ca01146"/>
-		<!-- AddThis Button END -->
+		
 		</div>
 		
 		<xsl:apply-templates select="u"/>
