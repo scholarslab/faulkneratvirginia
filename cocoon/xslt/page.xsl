@@ -23,7 +23,9 @@
 				
 				<script type="text/javascript" language="javascript">
 					$(document).ready(function(){
-						$('.essay_content a.large').lightbox({fixedNavigation:true});
+						$('#gallery a').lightBox({fixedNavigation:true});
+					
+					//	$('.essay_content a.large').lightbox({fixedNavigation:true});
 					}); 
 				</script>
 				
