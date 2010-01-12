@@ -25,7 +25,7 @@
 					$(document).ready(function(){
 						//$('#essay_content a').lightBox({fixedNavigation:true});
 					
-						$('.essay_content a.large').lightBox({fixedNavigation:true});
+						$('#essay_content a.large').lightBox({fixedNavigation:true});
 					}); 
 				</script>
 				
