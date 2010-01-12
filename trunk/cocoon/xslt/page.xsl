@@ -16,13 +16,19 @@
 			<head>
 				<title><xsl:value-of select="document('../data/site_info.xml')//title"/>:
 						<xsl:value-of select="descendant::page[@id=$id]/@title"/></title>
+						
 				<script type="text/javascript" language="javascript" src="javascript/jquery-1.3.2.min.js"/>
+				<script type="text/javascript" language="javascript" src="javascript/jquery.fancybox-1.2.6.pack.js"/>
 		
 				<link type="text/css" href="style.css" rel="stylesheet"/>
-				
+				<link type="text/css" href="jquery.fancybox-1.2.6.css" rel="stylesheet" media="screen"/>
 				
 				<script type="text/javascript" language="javascript">
-				
+				$(document).ready(function() { 
+					$(a.inline).fancybox({
+						'hideOnContentClick': true 
+					})
+				});
 				</script>
 				
 				
