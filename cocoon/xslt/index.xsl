@@ -13,8 +13,11 @@
 	<xsl:template match="/">
 		<html>
 			<head>
+				
+				<script type="text/javascript" language="javascript" src="javascript/jquery-1.3.2.min.js"/>
+				<script type="text/javascript" language="javascript" src="javascript/jquery.lightbox-0.5.pack.js"/>
 				<link type="text/css" href="style.css" rel="stylesheet"/>
-				<!--<script type="text/javascript" language="javascript" src="javascript/jquery-1.3.2.min.js"/>-->
+				<link type="text/css" href="jquery.lightbox-0.5.css" rel="stylesheet"/>
 				<title>
 					<xsl:value-of select="document('../data/site_info.xml')//title"/>
 				</title>
