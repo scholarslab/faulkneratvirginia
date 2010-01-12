@@ -132,6 +132,14 @@ li {
 	font-family: Helvetica, "Trebuchet MS", Trebuchet, Verdana, arial, sans-serif;
 }
 
+.uppercase {
+	text-transform: uppercase;
+}
+
+.caps {
+	text-transform: capitalize;
+}
+
 .player-line {
     height: 30px;
 }
