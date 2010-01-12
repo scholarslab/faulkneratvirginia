@@ -78,7 +78,7 @@
 			<!--'starttime','<xsl:value-of select="replace(@start, '\.', ':')"/>',
 			'endtime','<xsl:value-of select="replace(@end, '\.', ':')"/>'); -->
 			'starttime','<xsl:value-of select="@start"/>',
-			'endtime','<xsl:value-of select="replace(@end, '\.', ':')"/>');
+			'endtime','<xsl:value-of select="@end"/>:00');
 		}
 		catch (e) {
 			//document.write(e);
