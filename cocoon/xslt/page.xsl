@@ -22,9 +22,9 @@
 				<link type="text/css" href="jquery.lightbox-0.5.css" rel="stylesheet"/>
 				
 				<script type="text/javascript" language="javascript">
-					$(function(){
+					$(document).ready(function(){
 						$('.essay_content a.large').lighbox({fixedNavigation:true});
-					});
+					}); 
 				</script>
 				
 				
