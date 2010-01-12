@@ -23,7 +23,7 @@
 				
 				<script type="text/javascript" language="javascript">
 					$(function(){
-						$('#essay_content a.large').lighbox({fixedNavigation:true});
+						$('.essay_content a.large').lighbox({fixedNavigation:true});
 					});
 				</script>
 				
