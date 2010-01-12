@@ -77,7 +77,7 @@
 			'scale', 'tofit',
 			<!--'starttime','<xsl:value-of select="replace(@start, '\.', ':')"/>',
 			'endtime','<xsl:value-of select="replace(@end, '\.', ':')"/>'); -->
-			'starttime','<xsl:value-of select="@start"/>',
+			'starttime','<xsl:value-of select="@start"/>:00',
 			'endtime','<xsl:value-of select="@end"/>:00');
 		}
 		catch (e) {
