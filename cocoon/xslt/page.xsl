@@ -23,9 +23,9 @@
 				
 				<script type="text/javascript" language="javascript">
 					$(document).ready(function(){
-						$('#gallery a').lightBox({fixedNavigation:true});
+						//$('#essay_content a').lightBox({fixedNavigation:true});
 					
-					//	$('.essay_content a.large').lightbox({fixedNavigation:true});
+						$('.essay_content a.large').lightBox({fixedNavigation:true});
 					}); 
 				</script>
 				
