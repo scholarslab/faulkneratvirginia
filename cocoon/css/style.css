@@ -49,6 +49,10 @@ a img {
 .content {
 	min-height:400px;
 }
+
+.clearfix {
+	display: block;
+}
 /*
   ****************************************
   HEADER
@@ -80,8 +84,39 @@ ul.menu li {
 ul.menu li a {
 	text-decoration:none;
 }
-/*
-  ****************************************
+
+/*****************************************
+  Gallery DISPLAY
+  ***************************************/
+ul.gallery {
+	float: left;
+	min-width: 340px;
+	margin: 0 20px;
+	padding: 0;
+}
+
+ul.gallery li {
+	display: inline;
+	float: right;
+	list-style-image: none;
+	list-style-position: outside;
+	list-style-typ: none;
+	margin: 5px;
+}
+
+ul.gallery img {
+	margin: 0;
+	padding: 0;
+}
+
+ul.gallery img {
+	background: #bbe0eb none repeat scroll 0 0;
+	height: 110px;
+	padding: 3px;
+	width: 110px;
+}
+
+/*****************************************
   TEI DISPLAY
   ****************************************
  */
@@ -128,6 +163,7 @@ ul.menu li a {
 }
 .event {
 }
+
 li {
 	font-family: Helvetica, "Trebuchet MS", Trebuchet, Verdana, arial, sans-serif;
 }
