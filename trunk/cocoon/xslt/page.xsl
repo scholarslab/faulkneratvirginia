@@ -26,8 +26,7 @@
 				<script type="text/javascript" language="javascript">
 				$(document).ready(function() { 
 					$("a.inline").fancybox({ 
-						'hideOnContentClick': true,
-						'frameWidth': '700px' 
+						'hideOnContentClick': true
 					})
 				});
 				</script>
