@@ -25,7 +25,7 @@
 				
 				<script type="text/javascript" language="javascript">
 				$(document).ready(function() { 
-					$(a.inline).fancybox({
+					$("a.inline").fancybox({ 
 						'hideOnContentClick': true 
 					})
 				});
