@@ -28,6 +28,8 @@
 					$("a.inline").fancybox({ 
 						'hideOnContentClick': true
 					})
+					
+					$(".gallery a").fancybox();
 				});
 				</script>
 				
