@@ -75,8 +75,6 @@
 				'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="$filename"/>.mp4 ', ' 300 ', ' 30 ', '',
 			'autoplay', 'false',
 			'scale', 'tofit',
-			<!--'starttime','<xsl:value-of select="replace(@start, '\.', ':')"/>',
-			'endtime','<xsl:value-of select="replace(@end, '\.', ':')"/>'); -->
 			'starttime','<xsl:value-of select="@start"/>',
 			'endtime','<xsl:value-of select="@end"/>');
 		}
