@@ -32,6 +32,7 @@
 							inline: 'true',
 							href: loc,
 							title: img_title,
+							maxWidth: '60%',
 							onOpen: function(){
 								loc = $(this).attr('href');
 								$(loc).toggleClass('hidden');
