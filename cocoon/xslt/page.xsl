@@ -33,10 +33,12 @@
 							href: loc,
 							title: img_title,
 							onOpen: function(){
-								alert($(loc).attr('class'));
+								loc = $(this).attr('href');
+								$(loc).toggleClass('hidden');
 							},
 							onClosed: function(){
-								alert($(loc).attr('class'));
+								loc = $(this).attr('href');
+								$(loc).toggleClass('hidden');
 							}
 						});
 					});				
