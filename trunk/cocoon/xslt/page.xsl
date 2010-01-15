@@ -18,18 +18,34 @@
 						<xsl:value-of select="descendant::page[@id=$id]/@title"/></title>
 						
 				<script type="text/javascript" language="javascript" src="javascript/jquery-1.3.2.min.js"/>
-				<script type="text/javascript" language="javascript" src="javascript/jquery.fancybox-1.2.6.pack.js"/>
+				<script type="text/javascript" language="javascript" src="javascript/jquery.colorbox-min.js"/>
 		
 				<link type="text/css" href="style.css" rel="stylesheet"/>
-				<link type="text/css" href="jquery.fancybox-1.2.6.css" rel="stylesheet" media="screen"/>
+				<link type="text/css" href="colorbox.css" rel="stylesheet" media="screen"/>
 				
 				<script type="text/javascript" language="javascript">
 				$(document).ready(function() { 
-					$("a.inline").fancybox({ 
-						'hideOnContentClick': true
-					})
-					
-					$(".gallery a").fancybox();
+					$("a.inline").each(function(i){
+						loc = $(this).attr('href');
+						img_title = $(this).children('img').attr('title');
+						$(this).colorbox({
+							inline: 'true',
+							href: loc,
+							title: img_title,
+							onOpen: function(){
+								alert($(loc).attr('class'));
+							},
+							onClosed: function(){
+								alert($(loc).attr('class'));
+							}
+						});
+					});				
+					$(".gallery a").each(function(i){
+						img_title = $(this).children('img').attr('title');
+						$(this).colorbox({
+							title: img_title
+						});
+					});
 				});
 				</script>
 				
