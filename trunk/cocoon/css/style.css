@@ -3,21 +3,19 @@
   GLOBAL
   ****************************************
  */
-/*
-  body {
-  background-color:#0d2142;
-  background-image:url('background.jpg');
-  background-repeat:repeat-x;
-  }
- */
+
+body {
+  background-image:url('faulknerback2.jpg');
+}
+
 a:link {
-	color:#8BADCF;
+	color:#992222;
 }
 a:visited {
-	color:#8BADCF;
+	color:#992222;
 }
 a:hover {
-	color: #627eb7;
+	color: #CFAB88;
 }
 em {
 	font-weight:bold;
@@ -35,12 +33,12 @@ a img {
 }
 
 #wrap {
-	width: 720px;
+	width: 740px;
 	font-family: Georgia, serif;
 	margin: 25px auto;
-	padding: 0;
-	border: 0;
-	background-color:white;
+	padding: 5px 15px;
+	border: 4px solid #EFEFEF;
+	background: #F5F5F5;
 /*
   border:1px solid silver;
   padding:2px;
@@ -95,8 +93,8 @@ ul.menu li a {
   ***************************************/
 ul.gallery {
 	float: left;
-	min-width: 340px;
-	margin: 0 20px;
+	width: 735px;
+	/*margin: 0 20px;*/
 	padding: 0;
 }
 
@@ -106,7 +104,7 @@ ul.gallery li {
 	list-style-image: none;
 	list-style-position: outside;
 	list-style-typ: none;
-	margin: 5px;
+	margin: 2px 3px;
 }
 
 ul.gallery img {
@@ -115,10 +113,17 @@ ul.gallery img {
 }
 
 ul.gallery img {
-	background: #bbe0eb none repeat scroll 0 0;
+	/*background: #CFAB88 none repeat scroll 0 0;
 	height: 110px;
-	padding: 3px;
+	padding: 3px;*/
 	width: 110px;
+}
+ul.gallery a {
+	display: block;
+	height: 110px;
+	overflow: hidden;
+	border: 3px solid #CFAB88;
+	margin: 0;
 }
 
 /*****************************************
@@ -190,6 +195,10 @@ li {
 	font-family: "Warnock Pro", "Goudy Old Style","Palatino","Book Antiqua", Georgia, serif;
 	font-style: italic;
 	font-weight: normal;
+}
+#wrap .content h1 {
+	font-family: "Palatino","Book Antiqua", Georgia, serif;
+	color: #992222;
 }
 h3.div_head {
 	display:inline;
@@ -264,4 +273,8 @@ dd {
 }
 .addthis_button {
 	float:right;
+}
+#essay_content {
+	width: 660px;
+	margin: 0 auto;
 }
