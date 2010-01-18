@@ -142,7 +142,7 @@ ul.gallery a {
 	float: left;
 	width: 185px;
 	border-style: solid solid none solid;
-	border-color: #bcd2e6;
+	border-color: silver;
 	border-width: 1px;
 }
 #nav ul {
@@ -159,12 +159,12 @@ ul.gallery a {
 	text-decoration: none;
 }
 #nav li a:link, #nav li a:visited {
-	color: #8badcf;
+	color: #992222;
 	display: block;
 	padding: 8px 0 0 10px;
 }
 #nav li a:hover {
-	color: #627eb7;
+	color: #CFAB88;
 	padding: 8px 0 0 10px;
 }
 .unclear {
