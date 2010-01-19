@@ -84,7 +84,6 @@
 			//document.write(e);
 		}</script>
 		
-		<a href="#top"><img src="{$path}/top.gif" alt=" link to top of the page" title="top" /></a>
 		<!-- AddThis Button BEGIN -->
 		<a class="addthis_button"
 			href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b141d5f4ca01146"
@@ -92,6 +91,8 @@
 			<img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16"
 				alt="Bookmark and Share" style="border:0"/>
 		</a>
+		
+		<a href="#top"><img src="{$path}/top.gif" alt=" link to top of the page" title="top" /></a>
 		
 		</div>
 		
