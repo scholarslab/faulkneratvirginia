@@ -133,11 +133,16 @@
 <!ENTITY ndash  "&#x2013;"> <!-- latin en dash, U+2013 -->
 <!ENTITY mdash  "&#x2014;"> <!-- latin em dash, U+2014 -->
 
+<!-- MS Word mimicry -->
+<!ENTITY lsquo  "&#8216;"> <!-- left single quotation mark -->
+<!ENTITY rsquo  "&#8217;"> <!-- right single quotation mark -->
+<!ENTITY ldquo  "&#8220;"> <!-- left single quotation mark -->
+<!ENTITY rdquo  "&#8211;"> <!-- right single quotation mark -->
+
 <!-- Special 18th century type -->
 <!ENTITY s      "&#x017F;"> <!-- Latin small letter long s (U+017F) -->
 <!ENTITY macron "&#x0304;"> <!-- latin macron U+304-->
 <!ENTITY bar    "&#x0305;"> <!-- Combining Diacritical Marks Combining Overline -->
-
 
 <!-- Greek character set (thanks TJ) -->
 <!ENTITY agr     "&#945;" ><!--small alpha, Greek, U03B1 -->
