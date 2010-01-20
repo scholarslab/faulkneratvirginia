@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE site_info [
+	<!ENTITY % XMLSpecial PUBLIC "-//W3C//ENTITIES Special for XML//EN" "characters.ent">
+	%XMLSpecial;
+]>
 <site_info>
 	<title>Faulkner at Virginia</title>
 	<index>
