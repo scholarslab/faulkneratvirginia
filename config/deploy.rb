@@ -36,6 +36,13 @@ else
 end
 
 namespace :deploy do
+  
+  [:restart].each do |default_task|
+    task default_task do
+      # nothing
+    end
+  end
+  
   desc 'Runs a subversion update on the texts but does not fully redeploy the data'
   task :update_xml, :roles=>:app, :except => {:no_release => true} do
     run "cd #{current_path}/cocoon/data && svn up"
