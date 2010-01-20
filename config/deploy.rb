@@ -48,6 +48,12 @@ namespace :deploy do
     run "cd #{current_path}/cocoon/data && svn up"
   end
   
+  desc 'Updates the css and javascript elements'
+  task :update_assets, :roles => :app, :except => {:no_release => true} do
+    run "cd #{current_path}/cocoon/css && svn up"
+    run "cd #{current_path}/cocoon/javascript && svn up"
+  end
+  
   desc 'Set the symlink for the solr instance'
   task :index_symlink, :roles=>:app, :except => { :no_release => true } do
 		run "cd #{current_path}/solr-home/data && ln -snf #{shared_path}/index index"
@@ -74,5 +80,5 @@ namespace :solr do
   
 end
 
-after 'deploy', 'deploy:index_symlink', 'deploy:image_symlink', 'solr:reload_core', 'deploy:cleanup'
+after 'deploy', 'deploy:index_symlink', 'deploy:image_symlink', 'deploy:cleanup'
 after 'deploy:cold', 'solr:set_perms', 'deploy:index_symlink', 'deploy:image_symlink', 'solr:index'
