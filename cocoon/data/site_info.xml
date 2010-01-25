@@ -3,7 +3,8 @@
 	<!ENTITY % XMLSpecial PUBLIC "-//W3C//ENTITIES Special for XML//EN" "characters.ent">
 	%XMLSpecial;
 ]>
-<site_info>
+<site_info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="file:/Users/wsg4w/projects/faulkner_new/trunk/cocoon/data/schema.xsd">
 	<title>Faulkner at Virginia</title>
 	<index>
 		<center><img src="maintitle.gif" /></center>
@@ -76,6 +77,13 @@
 	</browse>
 	
 	<page id="essays" slug="Essays" title="Essays on Faulkner">
+	 
+	 <section id="us" title="The US in the Late 1950s">
+	  
+	  
+	  
+	 </section>
+	 
 		<section id="virginia" title="Virginia in the Late 1950s">
 			
 			<div id="essay_content">
