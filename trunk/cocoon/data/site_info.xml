@@ -4,7 +4,7 @@
 	%XMLSpecial;
 ]>
 <site_info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:noNamespaceSchemaLocation="file:/Users/wsg4w/projects/faulkner_new/trunk/cocoon/data/schema.xsd">
+ xsi:noNamespaceSchemaLocation="schema.xsd">
 	<title>Faulkner at Virginia</title>
 	<index>
 		<center><img src="maintitle.gif" /></center>
