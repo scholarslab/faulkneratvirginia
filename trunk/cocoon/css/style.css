@@ -34,6 +34,7 @@ a img {
     border: none;
 }
 
+
 #wrap {
 	width: 740px;
 	font-family: Georgia, serif;
@@ -128,6 +129,11 @@ ul.gallery a {
 	overflow: hidden;
 	border: 3px solid #CFAB88;
 	margin: 0;
+}
+
+ul.gallery li a {
+	min-height: 160px;
+	max-width: 110px;
 }
 
 /*****************************************
@@ -279,7 +285,13 @@ dd {
 .addthis_button {
 	float:right;
 }
+
 #essay_content {
 	width: 660px;
 	margin: 0 auto;
+}
+
+#essay_content img {
+	float: left;
+	margin: 0 15px 5px 0;
 }
