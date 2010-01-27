@@ -20,8 +20,8 @@
             <publicationStmt>
                 <publisher>University of Virginia Library</publisher>
                 <pubPlace>Charlottesville, Virginia</pubPlace>
-                <idno type="digital audio filename"/>
-                <idno type="analog tape"> x</idno>
+                <idno type="digital audio filename">wfaudioUVA</idno>
+                <idno type="analog tape">wfaudioUVA</idno>
             </publicationStmt>
             
             <sourceDesc>

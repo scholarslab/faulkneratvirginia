@@ -61,7 +61,7 @@
 			</td>
 			<td>
 				<a href="display/{document($uri)//idno[@type='digital audio filename']}">
-				<xsl:value-of select="document($uri)//settingDesc/setting/locale"/>
+					<xsl:value-of select="document($uri)//settingDesc/setting/locale"/>
 				</a>
 			</td>
 		</tr>
