@@ -72,7 +72,7 @@
 		<script language="JavaScript" type="text/javascript">
 			try {
 				QT_WriteOBJECT(
-				'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="$filename"/>.mp4 ', ' 300 ', ' 30 ', '',
+				'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="$filename"/>.mp4 ', '300', ' 16', '',
 			'autoplay', 'false',
 			'scale', 'tofit',
 			<!--'starttime','<xsl:value-of select="replace(@start, '\.', ':')"/>',
@@ -92,7 +92,7 @@
 				alt="Bookmark and Share" style="border:0"/>
 		</a>
 		
-		<a href="#top"><img src="{$path}/top.gif" alt=" link to top of the page" title="top" /></a>
+		<a href="#top" class="float_right"><img src="{$path}/top.png" alt=" link to top of the page" title="top" /></a>
 		
 		</div>
 		
