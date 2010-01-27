@@ -283,7 +283,11 @@ dd {
 	background-color:#EFEFEF;
 }
 .addthis_button {
-	float:right;
+	/*float:right;*/
+}
+
+.float_right {
+    float:right
 }
 
 #essay_content {
