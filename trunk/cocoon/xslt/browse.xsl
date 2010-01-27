@@ -24,7 +24,7 @@
 						<table class="browse_table">
 							<thead>
 								<tr>
-									<th style="width:15%;">Tape</th>
+									<!--<th style="width:15%;">Tape</th> -->
 									<th style="width:20%;">Date</th>
 									<th style="width:65%;">Location</th>
 								</tr>
@@ -51,16 +51,18 @@
 			</xsl:choose>
 		</xsl:variable>
 		<tr class="{$class}">
-			<td>
+			<!-- <td>
 				<a href="display/{document($uri)//idno[@type='digital audio filename']}">
 					<xsl:value-of select="document($uri)//idno[@type='analog tape']"/>
 				</a>
-			</td>
+				</td> -->
 			<td>
 				<xsl:value-of select="document($uri)//settingDesc/setting/date"/>
 			</td>
 			<td>
+				<a href="display/{document($uri)//idno[@type='digital audio filename']}">
 				<xsl:value-of select="document($uri)//settingDesc/setting/locale"/>
+				</a>
 			</td>
 		</tr>
 	</xsl:template>
