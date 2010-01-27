@@ -61,7 +61,7 @@
 						QT_WriteOBJECT(
 						'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="$filename"/>.mp4 ', '300', ' 16', '',
 						'autoplay', 'false',
-						'scale', 'tofit';
+						'scale', 'tofit');
 					}
 					catch (e) {
 						//document.write(e);
