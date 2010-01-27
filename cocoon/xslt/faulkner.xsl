@@ -114,6 +114,12 @@
 			</ul>
 		</div>
 	</xsl:template>
+	
+	<xsl:template match="writing">
+		<p class="writing">
+			<xsl:apply-templates />
+		</p>
+	</xsl:template>
 
 	<xsl:template match="u">
 		<!-- don't use this for realz -->
