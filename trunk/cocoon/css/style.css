@@ -108,7 +108,7 @@ ul.gallery li {
 	float: left;
 	list-style-image: none;
 	list-style-position: outside;
-	list-style-typ: none;
+	list-style-type: none;
 	margin: 2px 3px;
 }
 
@@ -284,6 +284,10 @@ dd {
 }
 .addthis_button {
 	/*float:right;*/
+}
+
+.writing {
+    color: #652720;
 }
 
 .float_right {
