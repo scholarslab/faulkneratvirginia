@@ -51,6 +51,23 @@
 					<xsl:value-of select="."/>
 				</h3>
 			</xsl:for-each>
+			
+			<p>
+				Play entire recording: 
+				<xsl:variable name="filename" select="//idno[@type='digital audio filename']"/>
+				
+				<script language="JavaScript" type="text/javascript">
+					try {
+						QT_WriteOBJECT(
+						'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="$filename"/>.mp4 ', '300', ' 16', '',
+						'autoplay', 'false',
+						'scale', 'tofit';
+					}
+					catch (e) {
+						//document.write(e);
+					}</script>
+			</p>
+			
 			<hr/>
 			<xsl:apply-templates select="div2"/>
 			<span class="event tooltip">[<i>end of recording</i>]</span>
@@ -117,7 +134,9 @@
 	
 	<xsl:template match="writing">
 		<p class="writing">
+			<span class="tooltip" title="Reading">
 			<xsl:apply-templates />
+			</span>
 		</p>
 	</xsl:template>
 
