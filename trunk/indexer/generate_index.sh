@@ -1,3 +1,5 @@
+echo Generating index...this will take some time...
+
 for i in `ls ../cocoon/data/tei/*.xml` ; do java -jar saxon/saxon9.jar -xi:on -s $i -xsl:transcription_to_solr.xsl > index/add_`basename $i`; done;
 java -jar saxon/saxon9.jar -xi:on -s ../cocoon/data/site_info.xml -xsl:prose_to_solr.xsl > index/add_site_info.xml
 echo "Processing `basename $i`"
