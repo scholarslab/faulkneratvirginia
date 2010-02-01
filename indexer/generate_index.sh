@@ -20,5 +20,5 @@ curl $URL --data-binary '<optimize/>' -H 'Content-type:text/xml; charset=utf-8'
 echo
 
 #reload the core
-curl http://localhost:8080/solr/admin/cores?action=RELOAD&core=faulkner
+curl http://localhost:8080/solr/admin/cores -F command=RELOAD -F core=faulkner
 echo
