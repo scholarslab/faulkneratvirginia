@@ -18,3 +18,7 @@ echo
 #optimize the index
 curl $URL --data-binary '<optimize/>' -H 'Content-type:text/xml; charset=utf-8'
 echo
+
+#reload the core
+curl http://localhost:8080/solr/admin/cores?action=RELOAD&core=faulkner
+echo
