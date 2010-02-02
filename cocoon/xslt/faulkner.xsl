@@ -146,7 +146,7 @@
 		<xsl:variable name="who" select="@who"/>
 
 		<p>
-			<strong><xsl:value-of select="//*[@id = $who]"/>:</strong> <xsl:apply-templates/>
+			<strong><xsl:value-of select="//*[@id = $who]"/>: </strong><xsl:apply-templates/>
 		</p>
 	</xsl:template>
 
