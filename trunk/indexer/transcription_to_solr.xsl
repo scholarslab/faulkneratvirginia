@@ -56,7 +56,7 @@
 				</field>
 			</xsl:for-each>
 			<field name="fulltext">
-				<xsl:for-each select="descendant-or-self::text()">
+				<xsl:for-each select="descendant-or-self::u">
 					<xsl:value-of select="normalize-space(.)"/>
 					<xsl:text> </xsl:text>
 				</xsl:for-each>

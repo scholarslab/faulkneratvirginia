@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
-	xmlns:cinclude="http://apache.org/cocoon/include/1.0"  exclude-result-prefixes="cinclude">
+	xmlns:cinclude="http://apache.org/cocoon/include/1.0" exclude-result-prefixes="cinclude">
 	<xsl:output method="xml" indent="yes" encoding="UTF-8" media-type="text/html"
 		doctype-public="-//W3C//DTD HTML 4.01 Transitional//EN"/>
 	<xsl:include href="header.xsl"/>
@@ -26,7 +26,8 @@
 								<tr>
 									<!--<th style="width:15%;">Tape</th> -->
 									<th style="width:20%;">Date</th>
-									<th style="width:65%;">Location</th>
+									<th style="width:60%;">Participants</th>
+									<th style="width:20%;">Reading</th>
 								</tr>
 							</thead>
 							<xsl:apply-templates select="descendant::browse/list/item"/>
@@ -39,7 +40,7 @@
 	</xsl:template>
 
 	<xsl:template match="item">
-		<xsl:variable name="uri" select="concat('../data/tei/', normalize-space(.), '.xml')"/>
+		<xsl:variable name="uri" select="concat('../data/tei/', normalize-space(id), '.xml')"/>
 		<xsl:variable name="class">
 			<xsl:choose>
 				<xsl:when test="position() mod 2 = 0">
@@ -50,6 +51,7 @@
 				</xsl:otherwise>
 			</xsl:choose>
 		</xsl:variable>
+
 		<tr class="{$class}">
 			<!-- <td>
 				<a href="display/{document($uri)//idno[@type='digital audio filename']}">
@@ -57,12 +59,33 @@
 				</a>
 				</td> -->
 			<td>
-				<xsl:value-of select="document($uri)//settingDesc/setting/date"/>
+				<xsl:if test="not(contains(id, '_')) or number(substring-after(id, '_')) &lt; 2">
+					<xsl:value-of select="document($uri)//settingDesc/setting/date"/>
+				</xsl:if>
 			</td>
 			<td>
-				<a href="display/{document($uri)//idno[@type='digital audio filename']}">
-					<xsl:value-of select="document($uri)//settingDesc/setting/locale"/>
-				</a>
+				<xsl:choose>
+					<xsl:when test="number(substring-after(id, '_')) &gt; 1">
+						<span style="padding-left:2em;">
+							<a href="display/{document($uri)//idno[@type='digital audio filename']}">
+								<xsl:value-of select="document($uri)//settingDesc/setting/locale"/>
+							</a>
+						</span>
+					</xsl:when>
+					<xsl:otherwise>
+						<a href="display/{document($uri)//idno[@type='digital audio filename']}">
+							<xsl:value-of select="document($uri)//settingDesc/setting/locale"/>
+						</a>
+					</xsl:otherwise>
+				</xsl:choose>
+
+				<xsl:if test="contains(id, '_')">
+					<xsl:text>, tape </xsl:text>
+					<xsl:value-of select="substring-after(id, '_')"/>
+				</xsl:if>
+			</td>
+			<td>
+				<xsl:value-of select="reading"/>
 			</td>
 		</tr>
 	</xsl:template>

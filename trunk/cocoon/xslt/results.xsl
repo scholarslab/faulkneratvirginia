@@ -100,7 +100,7 @@
 							</dd>
 						</div>
 						<div>
-							<dt>Location:</dt>
+							<dt>Participants:</dt>
 							<dd>
 								<xsl:value-of select="str[@name='location']"/>
 							</dd>
