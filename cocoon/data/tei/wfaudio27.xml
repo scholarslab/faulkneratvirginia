@@ -70,7 +70,8 @@
         <body>
             <div1 type="event1"><head>FILENAME: wfaudio27</head>
                 <head>DATE: 6 May 1958</head><head>OCCASION: What's the Good Word Radio Program</head>
-                <head>TAPE: T-141c</head><head>READING: N</head><div2 type="dialog" id="wfaudio27.1" start="00:00:13.09" end="00:01:10.46">
+                <head>TAPE: T-141c</head>
+                <div2 type="dialog" id="wfaudio27.1" start="00:00:13.09" end="00:01:10.46">
                     <head>Program Introduction</head>
                     <u who="E">You can hear the opening <unclear>for the program</unclear>.</u>
                     <u who="A">"What's the good word?" <event desc="theme music"/> </u>
