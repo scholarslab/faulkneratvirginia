@@ -55,7 +55,8 @@
 		<body>
 			<div1 type="event1"><head>FILENAME: wfaudio31</head>
 				<head>DATE: 15 May 1958</head><head>OCCASION: At Washington &amp; Lee University</head>
-				<head>TAPE: T-146</head><head>READING: From The Town</head>
+				<head>TAPE: T-146</head><head>LENGTH: 55:31</head>
+				<head>READING: From The Town</head>
 				<div2 type="dialog" id="wfaudio31.1" start="00:00:02.00" end="00:01:19.03">
 					<head>Introduction</head>
 					<u who="M">Ladies and gentlemen, on

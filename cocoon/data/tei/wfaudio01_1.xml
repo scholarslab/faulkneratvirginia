@@ -47,7 +47,7 @@
 			<settingDesc>
 				<setting>
 					<date value="1957-02-15">15 February 1957</date>
-					<locale>Gwynn's american Fiction Class</locale>
+					<locale>Gwynn's American Fiction Class</locale>
 					<name type="place">University of Virginia</name>
 					<name type="city">Charlottesville, Virginia</name>
 				</setting>
@@ -60,7 +60,7 @@
 				<head>FILENAME: wfaudio01_1</head>
 				<head>DATE: 15 February 1957</head>
 				<head>OCCASION: Gwynn's American Fiction Class</head>
-				<head>TAPE: T-120_Gwynn</head>
+				<head>TAPE: T-120_Gwynn</head><head>LENGTH: 51:03</head>
 				
 				<div2 type="dialog" id="wfaudio01_1.1" start="00:00:02.90" end="00:01:28.64">
 					<head>Introduction</head>

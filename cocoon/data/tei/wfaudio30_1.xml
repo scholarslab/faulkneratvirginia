@@ -54,7 +54,8 @@
     <text>
         <body>
             <div1 type="event1"><head>FILENAME: wfaudio30_1</head><head>DATE: 12 May 1958</head>
-                <head>OCCASION: Representatives from Other Colleges</head><head>TAPE: T-145a</head>
+                <head>OCCASION: Representatives from Other Colleges</head>
+                <head>TAPE: T-145a</head><head>LENGTH: 33:02</head>
                 
                 <div2 type="dialog" id="wfaudio30_1.1" start="00:00:02.78" end="00:01:05.40">
                     <head>Introduction</head>
