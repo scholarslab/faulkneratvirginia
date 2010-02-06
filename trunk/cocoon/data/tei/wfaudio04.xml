@@ -21,7 +21,7 @@
                 <publisher>University of Virginia Library</publisher>
                 <pubPlace>Charlottesville, Virginia</pubPlace>
                 <idno type="digital audio filename">wfaudio04</idno>
-                <idno type="analog tape">T110-T-111</idno>
+                <idno type="analog tape">T-110andT-111</idno>
             </publicationStmt>
             <sourceDesc>
                 <recordingStmt>
@@ -62,7 +62,7 @@
             <div1 type="event1"><head>FILENAME: wfaudio04</head>
                 <head>DATE: 11 March 1957</head>
                 <head>OCCASION: McAleer's Twentieth-Century Literature Class</head>
-                <head>TAPE: T110-T-111</head>
+                <head>TAPE: T-110andT-111</head><head>LENGTH: 50:36</head>
                 <div2 type="dialog" id="wfaudio04.1" start="00:00:00.00" end="00:01:47.83">
                     <head>Light in August</head>
                     <u who="WF">Yes, sir.</u>
