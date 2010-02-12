@@ -1,5 +1,6 @@
 set :application, "faulkner"
-set :repository, 'https://subversion.lib.virginia.edu/repos/faulkner/trunk/'
+#set :repository, 'https://subversion.lib.virginia.edu/repos/faulkner/trunk/'
+set :repository, 'http://faulkneratvirginia.googlecode.com/svn/trunk/'
 
 set :deploy_to, "/usr/local/projects/#{application}"
 set :deploy_via, :remote_cache
