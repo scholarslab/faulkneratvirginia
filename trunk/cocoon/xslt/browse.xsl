@@ -25,9 +25,9 @@
 							<thead>
 								<tr>
 									<!--<th style="width:15%;">Tape</th> -->
-									<th style="width:20%;" class="underline">Date</th>
-									<th style="width:60%;" class="underline">Participants</th>
-									<th style="width:20%;" class="underline">Reading</th>
+									<th class="underline">Date</th>
+									<th class="underline">Participants</th>
+									<th class="underline">Reading</th>
 								</tr>
 							</thead>
 							<xsl:apply-templates select="descendant::browse/list/item"/>
