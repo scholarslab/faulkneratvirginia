@@ -80,12 +80,13 @@
 					</xsl:choose> -->
 				<a href="display/{document($uri)//idno[@type='digital audio filename']}">
 					<xsl:value-of select="document($uri)//settingDesc/setting/locale"/>
+				
+					<xsl:if test="contains(id, '_')">
+						<xsl:text>, tape </xsl:text>
+						<xsl:value-of select="substring-after(id, '_')"/>
+					</xsl:if>
+					
 				</a>
-
-				<xsl:if test="contains(id, '_')">
-					<xsl:text>, tape </xsl:text>
-					<xsl:value-of select="substring-after(id, '_')"/>
-				</xsl:if>
 			</td>
 			<td>
 				<xsl:value-of select="reading"/>
