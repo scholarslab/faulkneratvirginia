@@ -329,6 +329,7 @@ dd {
 }
 #footer p {
     margin-top: 10px;
+    line-height: 5px;
 }
 .f_title {
     font-weight: bold;
@@ -338,6 +339,9 @@ dd {
     line-height: 5px;
     float: left;
     padding-left: 1em;
+}
+.f_wrap p {
+    line-height: 5px;
 }
 .copyright {
     padding-left: 1em;
