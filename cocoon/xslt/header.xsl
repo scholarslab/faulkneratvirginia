@@ -15,9 +15,6 @@
 					<li>
 						<a href="{$path}search">Search</a>
 					</li>
-					<!--<li>
-						<a href="{$path}search">Search</a>
-						</li>-->
 					<xsl:for-each select="document('../data/site_info.xml')//page">
 						<li>
 							<a href="{$path}page?id={@id}">
