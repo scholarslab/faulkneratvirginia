@@ -25,9 +25,9 @@
 							<thead>
 								<tr>
 									<!--<th style="width:15%;">Tape</th> -->
-									<th style="width:20%;">Date</th>
-									<th style="width:60%;">Participants</th>
-									<th style="width:20%;">Reading</th>
+									<th style="width:20%;" class="underline">Date</th>
+									<th style="width:60%;" class="underline">Participants</th>
+									<th style="width:20%;" class="underline">Reading</th>
 								</tr>
 							</thead>
 							<xsl:apply-templates select="descendant::browse/list/item"/>
@@ -51,9 +51,9 @@
 				</xsl:otherwise>
 			</xsl:choose>
 		</xsl:variable>
-
-		<tr class="{$class}">
-			<!-- <td>
+		<tr>
+		<!--<tr class="{$class}">
+			 <td>
 				<a href="display/{document($uri)//idno[@type='digital audio filename']}">
 					<xsl:value-of select="document($uri)//idno[@type='analog tape']"/>
 				</a>
@@ -64,7 +64,7 @@
 				</xsl:if>
 			</td>
 			<td>
-				<xsl:choose>
+				<!-- <xsl:choose>
 					<xsl:when test="number(substring-after(id, '_')) &gt; 1">
 						<span style="padding-left:2em;">
 							<a href="display/{document($uri)//idno[@type='digital audio filename']}">
@@ -77,7 +77,10 @@
 							<xsl:value-of select="document($uri)//settingDesc/setting/locale"/>
 						</a>
 					</xsl:otherwise>
-				</xsl:choose>
+					</xsl:choose> -->
+				<a href="display/{document($uri)//idno[@type='digital audio filename']}">
+					<xsl:value-of select="document($uri)//settingDesc/setting/locale"/>
+				</a>
 
 				<xsl:if test="contains(id, '_')">
 					<xsl:text>, tape </xsl:text>
