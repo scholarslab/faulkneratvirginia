@@ -305,3 +305,40 @@ dd {
 	float: left;
 	margin: 0 15px 5px 0;
 }
+
+/**
+ * Style Hacks
+ */
+
+.center { text-align: center; }
+.left { text-align: left; }
+.right { text-align: right; }
+
+.float_left { float: left; }
+.float_right { float: right; }
+
+/**
+* FOOTER
+*/
+ #footer {
+     
+ }
+ 
+ .f_title {
+    font-weight: bold;
+	font-style: italic;
+}
+		
+.f_wrap {
+    line-height: 5px;
+}
+		
+.copyright {
+    padding-left: 1em;
+	/** get the size of the image and put that in the margin */
+	margin-left: 84px;
+}
+		
+.float_left {
+	float:left;
+}
