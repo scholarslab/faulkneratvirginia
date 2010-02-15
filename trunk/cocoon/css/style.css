@@ -318,9 +318,13 @@ dd {
 .float_right {
     float: right;
 }
-/*
-  *
-  * FOOTER
+
+.underline {
+    text-decoration: underline;
+}
+
+/**
+ * FOOTER
  */
 #footer {
     margin: 0;
