@@ -25,7 +25,7 @@
 							<thead>
 								<tr>
 									<!--<th style="width:15%;">Tape</th> -->
-									<th style="width:15%" class="underline">Date</th>
+									<th style="width:20%" class="underline">Date</th>
 									<th class="underline">Participants</th>
 									<th class="underline">Reading</th>
 								</tr>
