@@ -3,7 +3,8 @@
 <!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
 <!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
 ]>
-<TEI.2 id="wfaudio01_1">
+
+<TEI.2 id="wfaudio01_1">		
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -108,7 +109,7 @@
 						some very important and very moving truth and failed. He's not satisfied, so
 						he tries again. He writes another book, trying to tell some—the same
 						moving truth, since there's only one truth, and they fail.  And this one I
-						worked hard at <unclear>that</unclear>, and it's like the—the idiot child
+						worked hardest at <unclear>that</unclear>, and it's like the—the idiot child
 						that the parents love the best. This one was the—the most splendid failure,
 						but I—I wish I hadn't done it because if I could do it now, I think I could
 						do it better. Of course, I couldn't, <event desc="audience laughter"/> but I
@@ -200,7 +201,7 @@
 						Jason could not use. Yet the vivid character development and ideas in this
 						novel depends upon the action as we have it. Does not this show one of the
 						dilemmas of art? That is, the difficulty of showing, at the same time,
-						realistic characters and actions and since the one must be somewhat
+						realistic character and action and since the one must be somewhat
 						sacrificed to the other, is not the expression of an idea or the
 						presentation of the character more important artistically than the writing
 						of realistic actions?</u>
@@ -214,7 +215,7 @@
 						fact. He will outrage simplicity. If he can find no better way to—to tell,
 						to show some passionate and moving facet of the human heart, which moved him
 						so much that he couldn't let be what he had to write. Does that answer your
-						question?  Yes, sir.</u>
+						question? </u>
 				</div2>
 				<div2 type="dialog" id="wfaudio01_1.10" start="00:10:51.09" end="00:11:52.72">
 					<head>Quentin and Shadows</head>
@@ -245,14 +246,14 @@
 						a good artist automatically does without realizing it?</u>
 					<u who="WF">I don't think that he's conscious of it, unless as we said a moment
 						ago, symbolism is some tool that he is using for lack of a better one.  But,
-						no, he's—he's not conscious of it. The symbolism lots of time is read into
+						no, he's—he's not conscious of it. The symbolism lots of times is read into
 						it. Of course, he put it there, but he didn't know it was there until
 						somebody told him about it.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio01_1.12" start="00:12:55.73" end="00:13:14.67">
+				<div2 type="dialog" id="wfaudio01_1.12" start="00:12:55.73" end="00:13:34.08">
 					<head>The Bear as Symbol</head>
 					<u who="G">Certainly something like "The Bear," you must've felt that the
-						bear himself was—stood for something more than just a big bear, as—.</u>
+						bear himself was—stood for something more than just a big bear, as—</u>
 					<u who="WF">Well, but he was such an obvious symbol. He represented the
 						vanishing wilderness. He was an obvious symbol.</u>
 				</div2>
@@ -265,7 +266,7 @@
 						interesting, you know. <event desc="audience laughter"/> It's the <unclear>dark</unclear>
 						proud one that's interesting.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio01_1.14" start="00:14:01.52" end="00:13:50.90">
+				<div2 type="dialog" id="wfaudio01_1.14" start="00:14:01.52" end="00:15:10.06">
 					<head>First Novel to Read</head>
 					<u who="Q">Sir, what would you advise a person to read first of yours?</u>
 					<u who="WF">Well, that's not a fair question to ask me because I would—I would
@@ -276,7 +277,7 @@
 					<u who="WF">Because it's easy to read. <event desc="audience laughter"/>
 						Compared to the others, I mean.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio01_1.15" start="00:14:53.04" end="00:14:58.98">
+				<div2 type="dialog" id="wfaudio01_1.15" start="00:14:53.04" end="00:15:17.98">
 					<head>His Favorite Book</head>
 					<u who="Q">Would it be fair to ask you what is your favorite of your books?</u>
 					<u who="WF"><hi rend="italic">The Sound and the Fury</hi>, yes.</u>
@@ -290,7 +291,7 @@
 						father's lack of values or the fact that he doesn't seem to pass down to
 						his son many values that will sustain him. Do you think that Quentin winds
 						up the way he does primarily because of that, or are we meant to see, would
-						you say, that the—the action comes primarily from what he is, just abetted by
+						you say, that the action comes primarily from what he is, just abetted by
 						what he gets from his father?</u>
 					<u who="WF">The action as portrayed by Quentin was transmitted to him through
 						his father. There was a—a basic failure before that. The grandfather had
@@ -327,7 +328,7 @@
 						that he's not really a first-rate writer.  Probably the first-rate writer is
 						angry and mad, but—but only when he brings himself to think about that first
 						book. He's—he's working on the second one by that time. He's still trying to
-						tell that truth, which by—by then he know he failed in the first one, so
+						tell that truth, which by—by then he knows he failed in the first one, so
 						he's—he's not interested in—in that book anymore. He wants it printed, of
 						course. The mechanics of it is simply to send it to a publisher and then
 						forget about it and work on the next one, and when it comes back, send it to
@@ -340,7 +341,7 @@
 						should worry too much about getting the stuff printed. The main thing is to
 						write it.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio01_1.19" start="00:19:30.10" end="00:22:40.78">
+				<div2 type="dialog" id="wfaudio01_1.19" start="00:19:30.10" end="00:22:44.68">
 					<head>Wolfe and Failure</head>
 					<u who="Q">Sir, you are reporting as having said that you rate writers according
 						to what they have attempted rather than what they have achieved. It seems
@@ -360,11 +361,11 @@
 						of—of one life to inscribe the history of the human heart on the head of the
 						pin. That Hemingway found a method that he could do marvelously well and
 						stayed in it. Wolfe didn't.</u>
-					<u who="Q">By that, <unclear>then</unclear> do you mean his—his style of writing short works in a
+					<u who="Q">By that method, do you mean his—his style of writing short works in a
 						very pure limited language?</u>
-					<u who="WF">Yes, that's right. That was—was perfect but minor, but there're no
-						degrees of—of failure. <unclear>No,</unclear> the best is—is the best and the best is—is to—to put
-						inside the covers of a book are the—the complete turmoil and experience and 
+					<u who="WF">Yes, that's right. That was—was perfect but minor.  But there're no
+						degrees of—of failure. No, the best is—is the best and the best is—is to—to put
+						inside the covers of a book the—the complete turmoil and experience and 
 						insight of the human heart, which is what Cervantes did, what Dostoevsky
 						did, but—but Hemingway and us, the five that I mentioned, we, we attempted
 						that but none of us did it.  None of us failed worse—more than another, but
@@ -378,11 +379,11 @@
 					<u who="WF">Not in—by the—the formula I use. I think that the last book was—was
 						his best, and now if we're talking of—of Hemingway, yes, that was his best,
 						that—that he has steadily improved, and the last, in my opinion, was the
-						best, and—and the next one should be still better, but it doesn't <unclear>look</unclear> 
+						best, and the next one should be still better, but it doesn't <unclear>look</unclear> 
 						<inaudible/>, but what he has done is enough for a man to—to die in peace with,
 						but it's not enough for a man to say, "I have done what I wanted to do," because
-						nobody can do quite that. Probably Dostoevsky and Cervantes <unclear>felt
-							that way</unclear>. Marlowe felt that way, probably. That if you ever do
+						nobody can do quite that. Probably Dostoevsky and Cervantes felt
+							that way. Marlowe felt that way, probably. That if you ever do
 						write that perfect one, then you—you break the pencil and throw it away, and
 						there's nothing else to do except cut your throat. <event
 							desc="audience laughter"/></u>
@@ -399,7 +400,7 @@
 				<div2 type="dialog" id="wfaudio01_1.22" start="00:24:40.88" end="00:25:52.22">
 					<head>Yoknapatawpha as Saga</head>
 					<u who="Q">Mr. Faulkner, you speak of writing the—the one great book, but in your
-						own words, you keep returning to this fictitious county you've made. You
+						own works, you keep returning to this fictitious county you've made. You
 						don't consider that a pageant, the whole work. <unclear>It was</unclear>
 						from the Indians through the early settlers—?</u>
 					<u who="WF">No, it was not my intention to—to write a—a—a pageant of a—of a
@@ -413,10 +414,10 @@
 						a particular part of the earth—</u>
 					<u who="WF">Yes, it could be, sure. That's right.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio01_1.23" start="00:25:57.40" end="00:27:03.57">
+				<div2 type="dialog" id="wfaudio01_1.23" start="00:25:57.40" end="00:27:08.57">
 					<head>A Fable</head>
-					<u who="B">Mr. Faulkner, you went for a time you left that area to go to France
-						in <hi rend="italic">A Fable</hi>. It must've appeared perhaps that there
+					<u who="B">Mr. Faulkner, when for a time you left that area to go to France
+						in <hi rend="italic">A Fable</hi>, it must've appeared perhaps that there
 						was a different aspect to this fundamental truth.</u>
 					<u who="WF">Yes.</u>
 					<u who="B">That you were —</u>
@@ -441,7 +442,7 @@
 						to be composed of—of more or less complete stories, but—but it was
 						held together by—by one family, the—the Negro and—and the white phase of the
 						same family, the same people. "The Bear"—</u>
-					<u who="G">I mean <hi rend="italic">Go Down, Moses.</hi></u>
+					<u who="G"><unclear>I mean</unclear> <hi rend="italic">Go Down, Moses.</hi></u>
 					<u who="WF">Yeah, "The Bear" was just a—just a part of that—of a novel.</u>
 					<u who="G">So that it was all right for Ike to think ahead or <inaudible/> to run up
 						to his thirty-fifth year—</u>
@@ -464,12 +465,12 @@
 					<u who="Q">I was wondering if there was an incident or—or if you always wanted
 						to write?</u>
 					<u who="WF">I don't think so. I think that—that all the time this quality I
-						speak of as— as the truth had been worrying me, trying to get out, and—and
-						nobody likes to work. at least I don't like to work, and I—I reckon I put it
+						speak of as—as the truth had been worrying me, trying to get out, and—and
+						nobody likes to work, at least I don't like to work, and I—I reckon I put it
 						off as long as I could, but it wouldn't be quiet and let me alone. I had to
 						try to do something about it, which was to put it down.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio01_1.26" start="00:30:97.46" end="00:31:07.69">
+				<div2 type="dialog" id="wfaudio01_1.26" start="00:30:23.34" end="00:31:23.69">
 					<head>A Green Bough</head>
 					<u who="Q">In what period of development did you write that book of poems, <hi
 							rend="italic">A Green Bough</hi>?</u>
@@ -493,7 +494,7 @@
 						I failed to say, and I never have had time to read reviews, so I don't know
 						what impression people might get from the book. But—but, in my opinion, yes,
 						that's what I was talking about in all of the books, but 
-						I failed to say it. I agree with you, I did fail. But that was what I was
+						I failed to say it. I agree with you, I did fail. But that's what I was
 						trying to say, that man will prevail, will endure because he is capable of
 						compassion and honor and pride and endurance.</u>
 				</div2>
@@ -508,7 +509,7 @@
 						better tool to use than a hammer. He could be wrong, but he's using what
 						seemed to him the best tool to <unclear>properly</unclear> build what he wants to build.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio01_1.29" start="00:33:11.22" end="00:34:02.84">
+				<div2 type="dialog" id="wfaudio01_1.29" start="00:33:11.22" end="00:34:40.84">
 					<head>Good and Bad Characters</head>
 					<u who="Q">Sir, Hawthorne seemed to have found trouble in creating good
 						characters, whereas his more or less bad characters stand out as—as
@@ -517,7 +518,7 @@
 						one?</u>
 					<u who="WF">It's possible that that's inherent in human nature, not so much in
 						the—in the character of writers but in—in human nature itself, that it's
-						easier to conceive of—of evil than of good or to make—that evil is easier to
+						easier to conceive of—of evil than of good, or to make—that evil is easier to
 						make believable, credible than good.</u>
 				</div2>
 				<div2 type="dialog" id="wfaudio01_1.30" start="00:34:04.99" end="00:35:19.36">
@@ -529,8 +530,8 @@
 						have the cards stacked against him and his 
 						<unclear>prevailing</unclear>—it seems to be inherently impossible, and I
 						wondered—</u>
-					<u who="WF">True, and his mother wasn't much good and he had an idiot brother
-						,and yet in that whole family, there was Dilsey that held the whole thing
+					<u who="WF">True, and his mother wasn't much good and he had an idiot brother,
+						and yet in that whole family, there was Dilsey that held the whole thing
 						together and would continue to hold the whole thing together for no reward,
 						that the—the will of man to prevail will even take the—the—the nether channel
 						of—of the black man, black race, before it will relinquish, succumb, or be
@@ -538,7 +539,7 @@
 					<u who="G">As she says, "I've known God to use curioser tools than that."</u>
 					<u who="WF">Yes.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio01_1.31" start="00:35:31.20" end="00:36:47.24">
+				<div2 type="dialog" id="wfaudio01_1.31" start="00:35:20.03" end="00:36:47.24">
 					<head>Does Man Progress?</head>
 					<u who="Q">Well, sir, if you seem to have <unclear>us believe
 							in</unclear> in that <inaudible/> you say the ultimate goodness of man, that
@@ -554,15 +555,15 @@
 						A—a merchant can't sell you poisoned food. They are minor improvements, but
 						they are improvements. Nobody is hanged for stealing bread any more. People
 						are not put in jail for debt. It's some improvement. It's not a great deal,
-						I grant you, and as matched against atomic bombs and things like that. But
+						I grant you, as matched against atomic bombs and things like that. But
 						it's some improvement. Man improves.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio01_1.32" start="00:36:47.25" end="00:37:09.06">
+				<div2 type="dialog" id="wfaudio01_1.32" start="00:36:47.25" end="00:37:11.06">
 					<head>The Ferment of History</head>
 					<u who="Q">You don't feel that mass manipulation by fanatics along ideological
 						or political lines will negate all this?</u>
 					<u who="WF">No, I don't. That, to me, is part of the ferment of—of—man's
-						immortality, that these people, the—the nuts, are necessary too.  <event desc="audience laughter"/></u>
+						immortality, that these people, the—the nuts, are necessary too. </u>
 				</div2>
 				<div2 type="dialog" id="wfaudio01_1.33" start="00:37:13.67" end="00:37:43.17">
 					<head>Threats to Progress</head>
@@ -575,7 +576,7 @@
 						and just scratches him off like the old dog does fleas, which—<unclear>is not likely to happen</unclear>. <event
 							desc="audience laughter"/></u>
 				</div2>
-				<div2 type="dialog" id="wfaudio01_1.34" start="00:37:44:09" end="00:38:04.37">
+				<div2 type="dialog" id="wfaudio01_1.34" start="00:37:44:09" end="00:38:06.37">
 					<head>Head or Heart</head>
 					<u who="Q">Mr. Faulkner, what do you think is man's most important tool? Is it
 						the mind or the heart as far as <unclear>the human</unclear> goes? Do we
@@ -601,7 +602,7 @@
 					<u who="WF">And I used the—the tools which seemed to me the—the proper tools to
 						try to tell—try to draw the picture of Caddy.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio01_1.36" start="00:39:19.65" end="00:42:13.89">
+				<div2 type="dialog" id="wfaudio01_1.36" start="00:39:19.65" end="00:42:14.43">
 					<head>Poker Game in "Was"</head>
 					<u who="G">Mr. Faulkner, we've got a poker player over here, Mr. Jordan, who's
 						holding back on a question that I'm dying to hear the answer to.</u>
@@ -613,7 +614,7 @@
 						the—</u>
 					<u who="G">He looks up and see that Tomey's Turl is dealing the cards.</u>
 					<u who="WF">Oh, Tomey's Turl wants to be free, and so Tomey's Turl has dealt the
-						right card to the right one, and Mr. Hubert knows that. as soon as he sees
+						right card to the right one, and Mr. Hubert knows that.  As soon as he sees
 						that Tomey's Turl was the one that dealt the cards, he knows that he's
 						beat.</u>
 					<u who="Q">But Tomey's Turl—Tomey's Turl stood to win either way, didn't he? I mean, he was
@@ -632,12 +633,12 @@
 						with—with—with her.  So Tomey's Turl was playing for his sweetheart. Yes,
 						that's what the story was, I think.</u>
 					<u who="G">Well, since Mr. Jordan knows that no self-respecting southern poker
-						play is gonna miss a chance to call—</u>
+						play is gonna miss a chance to call—<event desc="audience laughter"/></u>
 					<u who="WF"><unclear>Well, I'm glad that came up.</unclear> I remember that—yes, I'm sure that it's, that
 						Tomey's Turl had a stake, too, and when Buck saw that Tomey's Turl had dealt
 						that last card, he knew that he was finished.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio01_1.37" start="00:42:14.50" end="00:42:46.77">
+				<div2 type="dialog" id="wfaudio01_1.37" start="00:42:14.50" end="00:42:47.77">
 					<head>The Bear, Part Five</head>
 					<u who="Q">I have another question about "The Bear." In the final scene of "The
 						Bear," Boon is sitting under the tree with the squirrels, doing something
@@ -668,7 +669,7 @@
 						going to infinite trouble, even as far as going to jail, to get rid of
 						her.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio01_1.39" start="00:44:20:18" end="00:45:22.25">
+				<div2 type="dialog" id="wfaudio01_1.39" start="00:44:20:18" end="00:45:23.07">
 					<head>Red Leaves</head>
 					<u who="G">May I ask a couple of questions about the early Indian stories, about
 						"Red Leaves"? Did Doom, in your mind, did he wreck the steamboat and maybe
@@ -684,7 +685,7 @@
 					<u who="G">Did you ever hear of anyone's really ever doing that <inaudible/> ?</u>
 					<u who="WF">No.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio01_1.40" start="00:45:23:18" end="00:46:09.88">
+				<div2 type="dialog" id="wfaudio01_1.40" start="00:45:23:18" end="00:46:10.01">
 					<head>Historical Chickasaws</head>
 					<u who="G">Were these Chickasaws ever known to be cannibals? There's some
 						mention of how human flesh may have tasted between the two of them once.</u>
@@ -695,7 +696,7 @@
 						may have found a dead man and cooked some of him to see what he tasted like.
 						But they were not cannibals as far as I know.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio01_1.41" start="00:46:09.88" end="00:46:40.30">
+				<div2 type="dialog" id="wfaudio01_1.41" start="00:46:10.02" end="00:46:40.32">
 					<head>Vestiges of Chickasaws</head>
 					<u who="B"><unclear>Do they exist just in memory now—</unclear>?</u>
 					<u who="WF">There are a few. There's a reservation, a remnant of—of Choctaws.
@@ -704,7 +705,7 @@
 						features in the Negroes and a few of the old names in—in among white
 						families, old white families.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio01_1.42" start="00:46:40.31" end="00:47:02.12">
+				<div2 type="dialog" id="wfaudio01_1.42" start="00:46:40.32" end="00:47:02.12">
 					<head>Frontier Yoknapatawpha</head>
 					<u who="Q">Is it <unclear>a question, Mr. Faulkner, of if</unclear> there were
 						Indians at one time in this area?</u>
@@ -732,7 +733,7 @@
 						person.</u>
 					<u who="WF">That's right.  That's right.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio01_1.44" start="00:48:27.55" end="00:49:05.65">
+				<div2 type="dialog" id="wfaudio01_1.44" start="00:48:27.55" end="00:49:06.65">
 					<head>Picturing the South</head>
 					<u who="Q">Sir, to what extent are you—were you trying to picture the South or
 						southern civilization as a whole, rather than just Mississippi, or were
@@ -740,7 +741,7 @@
 					<u who="WF">Not at all. I was trying to talk about people, using the only tool I
 						knew, which was the country that I knew. No, I wasn't trying to—to—wasn't
 						writing sociology at all. <event desc="audience laughter"/> I was just
-						trying to write about people, which to me are the important <inaudible/> Just the
+						trying to write about people, which to me are the important <inaudible/>. Just the
 						human heart. It's not—not ideas. I don't know anything about ideas, don't
 						have much confidence in them.</u>
 				</div2>
