@@ -4,7 +4,7 @@
 	<xsl:template name="header">
 		<div id="header">
 			<div class="banner">
-				<img src="header.gif" alt="Faulkner at Virginia: An Audio Archive"/>
+				<img src="header.jpg" alt="Faulkner at Virginia: An Audio Archive"/>
 			</div>
 			<!-- 
 			
