@@ -89,7 +89,7 @@
 				</a>
 			</td>
 			<td>
-				<xsl:copy-of select="reading/*" />
+				<xsl:apply-templates select="reading" />
 			</td>
 		</tr>
 	</xsl:template>
