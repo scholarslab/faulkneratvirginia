@@ -72,6 +72,7 @@
 			</item>
 			<item>
 				<id>wfaudio10</id>
+				<reading>&ldquo;The Waifs&rdquo;</reading>
 			</item>
 			<item>
 				<id>wfaudio11_1</id>
@@ -81,9 +82,11 @@
 			</item>
 			<item>
 				<id>wfaudio12_1</id>
+				<reading>&ldquo;Was&rdquo;</reading>
 			</item>
 			<item>
 				<id>wfaudio12_2</id>
+				<reading>End of &ldquo;Was&rdquo;</reading>
 			</item>
 			<item>
 				<id>wfaudio12_3</id>
@@ -102,6 +105,7 @@
 			</item>
 			<item>
 				<id>wfaudio16_1</id>
+				<reading>From &ldquo;Old Man&rdquo;</reading>
 			</item>
 			<item>
 				<id>wfaudio16_2</id>
@@ -111,6 +115,7 @@
 			</item>
 			<item>
 				<id>wfaudio18_1</id>
+				<reading>From <em>The Town</em></reading>
 			</item>
 			<item>
 				<id>wfaudio18_2</id>
@@ -120,12 +125,14 @@
 			</item>
 			<item>
 				<id>wfaudio19_1</id>
+				<reading>From <em>The Town</em></reading>
 			</item>
 			<item>
 				<id>wfaudio19_2</id>
 			</item>
 			<item>
 				<id>wfaudio20_1</id>
+				<reading>&ldquo;A Word to Virginians&rdquo;</reading>
 			</item>
 			<item>
 				<id>wfaudio20_2</id>
@@ -135,12 +142,14 @@
 			</item>
 			<item>
 				<id>wfaudio22_1</id>
+				<reading>&ldquo;Race at Morning&rdquo;</reading>
 			</item>
 			<item>
 				<id>wfaudio22_2</id>
 			</item>
 			<item>
 				<id>wfaudio23_1</id>
+				<reading>&ldquo;A Word to Young Writers&rdquo;</reading>
 			</item>
 			<item>
 				<id>wfaudio23_2</id>
@@ -183,9 +192,11 @@
 			</item>
 			<item>
 				<id>wfaudio31</id>
+				<reading>From <em>The Town</em></reading>
 			</item>
 			<item>
 				<id>wfaudio32</id>
+				<reading>From <em>The Sound and the Fury</em></reading>
 			</item>
 			<item>
 				<id>wfaudioUVA</id>
@@ -6426,6 +6437,7 @@
 
 				</ul>
 			</div>
+
 			
 			
 
