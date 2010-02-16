@@ -19,186 +19,186 @@
 	</index>
 	<browse>
 		<list>
-			<item>
+			<item title="Gwynn&rsquo;s Literature Class">
 				<id>wfaudio01_1</id>
 			</item>
-			<item>
+			<item title="Coleman&rsquo;s Writing Class">
 				<id>wfaudio01_2</id>
 			</item>
-			<item>
+			<item title="The English Club, tape 1">
 				<id>wfaudio02_1</id>
 				<reading>&ldquo;Spotted Horses&rdquo;</reading>
 			</item>
-			<item>
+			<item title="The English Club, tape 2">
 				<id>wfaudio02_2</id>
 			</item>
-			<item>
+			<item title="Undergraduate Literature Class">
 				<id>wfaudio03</id>
 			</item>
-			<item>
+			<item title="Undergraduate Literature Class">
 				<id>wfaudio04</id>
 			</item>
-			<item>
+			<item title="McAleer&rsquo;s Literature Class, tape 1">
 				<id>wfaudio05_1</id>
 			</item>
-			<item>
+			<item title="McAleer&rsquo;s Literature Class, tape 2">
 				<id>wfaudio05_2</id>
 			</item>
-			<item>
+			<item title="Blotner&rsquo;s  &amp;  Gwynn&rsquo;s Classes, tape 1">
 				<id>wfaudio06_1</id>
 			</item>
-			<item>
+			<item title="Blotner&rsquo;s  &amp;  Gwynn&rsquo;s Classes, tape 2">
 				<id>wfaudio06_2</id>
 			</item>
-			<item>
+			<item title="Virginia Colleges Conference, tape 1">
 				<id>wfaudio07_1</id>
 				<reading>&ldquo;Shingles for the Lord&rdquo;</reading>
 			</item>
-			<item>
+			<item title="Virginia Colleges Conference, tape 2">
 				<id>wfaudio07_2</id>
 			</item>
-			<item>
+			<item title="At Mary Washington College, tape 1">
 				<id>wfaudio08_1</id>
 				<reading>&ldquo;Shingles for the Lord&rdquo;</reading>
 			</item>
-			<item>
+			<item title="At Mary Washington College, tape 2">
 				<id>wfaudio08_2</id>
 			</item>
-			<item>
+			<item title="Blotner&rsquo;s  &amp;  Gwynn&rsquo;s Classes, tape 1">
 				<id>wfaudio09_1</id>
 			</item>
-			<item>
+			<item title="Blotner&rsquo;s  &amp;  Gwynn&rsquo;s Classes, tape 2">
 				<id>wfaudio09_2</id>
 			</item>
-			<item>
+			<item title="The Jefferson Society">
 				<id>wfaudio10</id>
 				<reading>&ldquo;The Waifs&rdquo;</reading>
 			</item>
-			<item>
+			<item title="University Radio Show, tape 1">
 				<id>wfaudio11_1</id>
 			</item>
-			<item>
+			<item title="University Radio Show, tape 2">
 				<id>wfaudio11_2</id>
 			</item>
-			<item>
+			<item title="Engineering School Students, tape 1">
 				<id>wfaudio12_1</id>
 				<reading>&ldquo;Was&rdquo;</reading>
 			</item>
-			<item>
+			<item title="Engineering School Students, tape 2">
 				<id>wfaudio12_2</id>
 				<reading>End of &ldquo;Was&rdquo;</reading>
 			</item>
-			<item>
+			<item title="Engineering School Students, tape 3">
 				<id>wfaudio12_3</id>
 			</item>
-			<item>
+			<item title="English Department Faculty  &amp;  Wives">
 				<id>wfaudio13</id>
 			</item>
-			<item>
+			<item title="General Public, tape 1">
 				<id>wfaudio14_1</id>
 			</item>
-			<item>
+			<item title="General Public, tape 2">
 				<id>wfaudio14_2</id>
 			</item>
-			<item>
+			<item title="Law School Wives">
 				<id>wfaudio15</id>
 			</item>
-			<item>
+			<item title="Introductory Literature Class, tape 1">
 				<id>wfaudio16_1</id>
 				<reading>From &ldquo;Old Man&rdquo;</reading>
 			</item>
-			<item>
+			<item title="Introductory Literature Class, tape 2">
 				<id>wfaudio16_2</id>
 			</item>
-			<item>
+			<item title="Press Conference">
 				<id>wfaudio17</id>
 			</item>
-			<item>
+			<item title="Local  &amp;  UVA Communities, tape 1">
 				<id>wfaudio18_1</id>
 				<reading>From <em>The Town</em></reading>
 			</item>
-			<item>
+			<item title="Local  &amp;  UVA Communities, tape 2">
 				<id>wfaudio18_2</id>
 			</item>
-			<item>
+			<item title="Local  &amp;  UVA Communities, tape 3">
 				<id>wfaudio18_3</id>
 			</item>
-			<item>
+			<item title="Local  &amp;  UVA Communities, tape 1">
 				<id>wfaudio19_1</id>
 				<reading>From <em>The Town</em></reading>
 			</item>
-			<item>
+			<item title="Local  &amp;  UVA Communities, tape 2">
 				<id>wfaudio19_2</id>
 			</item>
-			<item>
+			<item title="The Raven, Jefferson  &amp;  ODK Societies, tape 1">
 				<id>wfaudio20_1</id>
 				<reading>&ldquo;A Word to Virginians&rdquo;</reading>
 			</item>
-			<item>
+			<item title="The Raven, Jefferson  &amp;  ODK Societies, tape 2">
 				<id>wfaudio20_2</id>
 			</item>
-			<item>
+			<item title="Graduate Class in American Fiction">
 				<id>wfaudio21</id>
 			</item>
-			<item>
+			<item title="Undergraduate Writing Class, tape 1">
 				<id>wfaudio22_1</id>
 				<reading>&ldquo;Race at Morning&rdquo;</reading>
 			</item>
-			<item>
+			<item title="Undergraduate Writing Class, tape 2">
 				<id>wfaudio22_2</id>
 			</item>
-			<item>
+			<item title="Undergraduate Writing Class, tape 1">
 				<id>wfaudio23_1</id>
 				<reading>&ldquo;A Word to Young Writers&rdquo;</reading>
 			</item>
-			<item>
+			<item title="Undergraduate Writing Class, tape 2">
 				<id>wfaudio23_2</id>
 			</item>
-			<item>
+			<item title="First-Year English Class, tape 1">
 				<id>wfaudio24_1</id>
 			</item>
-			<item>
+			<item title="First-Year English Class, tape 2">
 				<id>wfaudio24_2</id>
 			</item>
-			<item>
+			<item title="Undergraduate Literature Class">
 				<id>wfaudio25</id>
 			</item>
-			<item>
+			<item title="Combined Writing  &amp;  Literature Classes, tape 1">
 				<id>wfaudio26_1</id>
 			</item>
-			<item>
+			<item title="Combined Writing  &amp;  Literature Classes, tape 2">
 				<id>wfaudio26_2</id>
 			</item>
-			<item>
+			<item title="&ldquo;What&rsquo;s the Good Word&rdquo; Radio Program">
 				<id>wfaudio27</id>
 			</item>
-			<item>
+			<item title="Department of Psychiatry, tape 1">
 				<id>wfaudio28_1</id>
 			</item>
-			<item>
+			<item title="Department of Psychiatry, tape 2">
 				<id>wfaudio28_2</id>
 			</item>
-			<item>
+			<item title="Combined Literature Classes, tape 1">
 				<id>wfaudio29_1</id>
 			</item>
-			<item>
+			<item title="Combined Literature Classes, tape 2">
 				<id>wfaudio29_2</id>
 			</item>
-			<item>
+			<item title="Representatives from Other Colleges, tape 1">
 				<id>wfaudio30_1</id>
 			</item>
-			<item>
+			<item title="Representatives from Other Colleges, tape 2">
 				<id>wfaudio30_2</id>
 			</item>
-			<item>
+			<item title="At Washington &amp; Lee University">
 				<id>wfaudio31</id>
 				<reading>From <em>The Town</em></reading>
 			</item>
-			<item>
+			<item title="General Public">
 				<id>wfaudio32</id>
 				<reading>From <em>The Sound and the Fury</em></reading>
 			</item>
-			<item>
+			<item title="1962 English Department Press Conference">
 				<id>wfaudioUVA</id>
 			</item>
 		</list>
