@@ -47,6 +47,7 @@
 				<xs:element name="id" maxOccurs="1" type="xs:ID"/>
 				<xs:element name="reading" minOccurs="0" maxOccurs="1"/>
 			</xs:sequence>
+			<xs:attribute name="title"/>
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="text">
