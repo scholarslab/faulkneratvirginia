@@ -54,7 +54,7 @@
     <text>
         <body>
             <div1 type="event1"><head>FILENAME: wfaudio03</head><head>DATE: 9 March 1957</head><head>OCCASION: Undergraduate Class in Contemporary Literature</head>
-                <head>TAPE: T108-T109</head><head>LENGTH: 50:21</head>
+                <head>TAPE: T108-T109</head><head>LENGTH: 22:21 (reading of "Was" omitted)</head>
                 <div2 type="dialog" id="wfaudio03.1" start="00:28:09.72" end="00:28:15.05">
                     <head>Introduction</head>
                     <u who="M">Mr. Faulkner will answer questions. We will have a number of them
@@ -317,7 +317,7 @@
                 <div2 type="dialog" id="wfaudio03.17" start="00:48:20.03" end="00:50:20.93">
                 <u who="M"> Mr. Faulkner, <inaudible/>  I want to thank you on behalf of me and the class members.  <unclear>We meet in this room on Monday
                     and Wednesday.</unclear></u>
-                    <u who="WF">Thank you.</u> <event desc="applause"/>  <event desc="end of recording"/></div2>
+                    <u who="WF">Thank you.<event desc="applause"/>  </u> <event desc="end of recording"/></div2>
                 
             
           </div1>
