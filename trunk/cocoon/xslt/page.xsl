@@ -17,8 +17,9 @@
 				<title><xsl:value-of select="document('../data/site_info.xml')//title"/>:
 						<xsl:value-of select="descendant::page[@id=$id]/@title"/></title>
 						
-				<script type="text/javascript" language="javascript" src="javascript/jquery-1.3.2.min.js"/>
-				<script type="text/javascript" language="javascript" src="javascript/jquery.colorbox-min.js"/>
+				<script type="text/javascript" language="javascript" src="javascript/jquery-1.3.2.min.js">//</script>
+				<script type="text/javascript" language="javascript" src="javascript/jquery.colorbox-min.js">//</script>
+				<script type="text/javascript" src="{$path}javascript/AC_Quicktime.js">//</script>
 		
 				<link type="text/css" href="style.css" rel="stylesheet"/>
 				<link type="text/css" href="colorbox.css" rel="stylesheet" media="screen"/>
