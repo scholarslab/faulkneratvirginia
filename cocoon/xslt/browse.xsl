@@ -24,7 +24,6 @@
 						<table class="browse_table">
 							<thead>
 								<tr>
-									<!--<th style="width:15%;">Tape</th> -->
 									<th style="width:20%" class="underline">Date</th>
 									<th class="underline">Participants</th>
 									<th class="underline">Reading</th>
@@ -41,55 +40,19 @@
 
 	<xsl:template match="item">
 		<xsl:variable name="uri" select="concat('../data/tei/', normalize-space(id), '.xml')"/>
-		<xsl:variable name="class">
-			<xsl:choose>
-				<xsl:when test="position() mod 2 = 0">
-					<xsl:text>even-row</xsl:text>
-				</xsl:when>
-				<xsl:otherwise>
-					<xsl:text>odd-row</xsl:text>
-				</xsl:otherwise>
-			</xsl:choose>
-		</xsl:variable>
 		<tr>
-		<!--<tr class="{$class}">
-			 <td>
-				<a href="display/{document($uri)//idno[@type='digital audio filename']}">
-					<xsl:value-of select="document($uri)//idno[@type='analog tape']"/>
-				</a>
-				</td> -->
 			<td>
 				<xsl:if test="not(contains(id, '_')) or number(substring-after(id, '_')) &lt; 2">
 					<xsl:value-of select="document($uri)//settingDesc/setting/date"/>
 				</xsl:if>
 			</td>
-			<td>
-				<!-- <xsl:choose>
-					<xsl:when test="number(substring-after(id, '_')) &gt; 1">
-						<span style="padding-left:2em;">
-							<a href="display/{document($uri)//idno[@type='digital audio filename']}">
-								<xsl:value-of select="document($uri)//settingDesc/setting/locale"/>
-							</a>
-						</span>
-					</xsl:when>
-					<xsl:otherwise>
-						<a href="display/{document($uri)//idno[@type='digital audio filename']}">
-							<xsl:value-of select="document($uri)//settingDesc/setting/locale"/>
-						</a>
-					</xsl:otherwise>
-					</xsl:choose> -->
+			<td>	
 				<a href="display/{document($uri)//idno[@type='digital audio filename']}">
-					<xsl:value-of select="document($uri)//settingDesc/setting/locale"/>
-				
-					<xsl:if test="contains(id, '_')">
-						<xsl:text>, tape </xsl:text>
-						<xsl:value-of select="substring-after(id, '_')"/>
-					</xsl:if>
-					
+					<xsl:value-of select="@title" />
 				</a>
 			</td>
 			<td>
-				<xsl:apply-templates select="reading" />
+				<xsl:copy-of select="reading" />
 			</td>
 		</tr>
 	</xsl:template>
