@@ -12,7 +12,7 @@
 	<xsl:param name="section"/>
 
 	<xsl:template match="/">
-		<html>
+		<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 			<head>
 				<title><xsl:value-of select="document('../data/site_info.xml')//title"/>:
 						<xsl:value-of select="descendant::page[@id=$id]/@title"/></title>
@@ -52,8 +52,6 @@
 					});
 				});
 				</script>
-				
-				
 			</head>
 			<body>
 				<div id="wrap">
