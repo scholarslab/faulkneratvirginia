@@ -1,0 +1,27 @@
+#summary The list of stuff left on this project
+
+= TODO Items =
+  # <strike>Play very short clips from essay</strike> (completed 2/17/10)
+  # <strike>Get SEARCH ARTICLES to work correctly</strike> (completed 2/17/10)
+  # <strike>Update header and footer images</strike> (completed 2/15/10)
+  # <strike>Update TEI DTD</strike> (completed 2/16/10)
+    * <strike>Allow timestamps in start and end attributes</strike>
+    * <strike>Add inaudible element</strike>
+    * <strike>Allow event element in writing element</strike>
+  # Play Whole Q&A 
+    * Display on Browse page
+  # <strike>Update Browse page</strike> (completed 2/15/10)
+  # <strike>Add CSS class for center alignment</strike> (complete 2/15/10)
+  # Add print ability from lightbox
+  # Eliminate need to reference content pages twice in the site_info file
+    * Update XSLT to pull content in to page at render 
+    * Update index transform to make this "pages"
+    * Update JavaScript for graceful degradation
+  # Sort out missing audio
+    * Rename wfaudio25 to wfaudio26_2
+    * Rename wfaduio26_1 to wfaudio25
+    * Locate wfaduio26_1
+  
+= Bracketed Items =
+  # Play Whole Tape 
+  # Note Annotations 
