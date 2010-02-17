@@ -20,12 +20,19 @@
 				<script type="text/javascript" language="javascript" src="javascript/jquery-1.3.2.min.js">//</script>
 				<script type="text/javascript" language="javascript" src="javascript/jquery.colorbox-min.js">//</script>
 				<script type="text/javascript" src="{$path}javascript/AC_Quicktime.js">//</script>
+				<script type="text/javascript" src="{$path}javascript/jquery.jqprint-0.3.js">//</script>
 		
 				<link type="text/css" href="style.css" rel="stylesheet"/>
 				<link type="text/css" href="colorbox.css" rel="stylesheet" media="screen"/>
 				
 				<script type="text/javascript" language="javascript">
 				$(document).ready(function() { 
+					// enable the plumbing for printing
+					$('.print_hidden').click(function(){
+						$(this).parent().jqprint({operaSupport: true});
+					});
+					
+					//hide inline content
 					$("a.inline").each(function(i){
 						loc = $(this).attr('href');
 						img_title = $(this).children('img').attr('title');
@@ -43,7 +50,9 @@
 								$(loc).toggleClass('hidden');
 							}
 						});
-					});				
+					});		
+					
+					// gallery code		
 					$(".gallery a").each(function(i){
 						img_title = $(this).children('img').attr('title');
 						$(this).colorbox({
