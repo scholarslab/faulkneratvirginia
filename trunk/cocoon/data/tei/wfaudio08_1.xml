@@ -38,7 +38,7 @@
 					<p id="M">Moderator</p>
 				</person>
 				<person>
-					<p id="G">Frederick Gwynne</p>
+					<p id="G">Frederick Gwynn</p>
 				</person>
 				<person>
 					<p id="Q">Unidentified participant</p>
@@ -67,25 +67,24 @@
 						it possible for Faulkner to be here. We're indebted to Dr. Simpson who
 						made his <inaudible/> to the university. And of course most of all we're
 						indebted to Mr. Faulkner himself, for being willing to come along. I'm going
-						to ask Professor Gwynne of the University's Department of English to introduce
+						to ask Professor Gwynn of the University's Department of English to introduce
 						Mr. Faulkner.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio08_1.2" start="00:00:44.47" end="00:01:43.69">
+				<div2 type="dialog" id="wfaudio08_1.2" start="00:00:44.47" end="00:01:34.39">
 					<head>Introduction, 2</head>
 					<u who="G">Thank you,
 						Dr. <inaudible/>. It might have been said at one time that Mr. Faulkner's
 						works were known wherever the language was known. Today it has gone—gone far
 						beyond, and wherever people read, his work is highly esteemed. It might be
 						said fairly that he is the most distinguished writer in the world. At the
-						University of Virginia we've been proud of—of his presence and pleased with the
+						University of Virginia we've been proud of his presence and pleased with the
 						response. It is a great privilege to come over and bring Mr. Faulkner this
 						afternoon. He will read from his short story "Shingles for the Lord," and
 						then answer any questions that may be on one's mind.</u>
 				</div2>
 				<div2 type="dialog" id="wfaudio08_1.3" start="00:01:38.41" end="00:01:58.32">
 					<head>Faulkner's Introduction</head>
-					<u who="WF">Thank you.
-						I've already found out that the only way to hold an audience is to be a
+					<u who="WF">I've already found out that the only way to hold an audience is to be a
 						little higher than it is, and for a short man like me it's impossible to do
 						it unless you are higher, so if it's all right, I'm going to stand up.</u>
 				</div2>
@@ -179,8 +178,8 @@
 							little over," Solon said. "More or less."<lb/>
 							Pap was still about half
 							stooped over, holding the ax. "It's nigher one," he said. "But call it
-							two for the sake of the argument. What about it?" "What argument?" Homer
-							said. "All right," pap said. "Two hours then. What about it?"<lb/>
+							two for the sake of the argument. What about it?"<lb/>"What argument?" Homer
+							said.<lb/> "All right," pap said. "Two hours then. What about it?"<lb/>
 							"Which is
 							three man-hour units a hour, multiplied by two hours," Solon said. "Or a
 							total of six work units." When the WPA first come to Yoknapatawpha
@@ -191,12 +190,12 @@
 							have to sign his farm off into somebody else's name, he couldn't even
 							own and run the school bus that he had built himself. So he come back
 							that night and never went back no more, and since then hadn't nobody
-							better mention WPA to him unless they aimed to fight, too,  <event desc="audience laughter"/> though every
+							better mention WPandA to him unless they aimed to fight, too,  <event desc="audience laughter"/> though every
 							now and then he would turn up with something all figured down into work
 							units like he done now. "Six units short." </writing>
 					</u>
 				</div2>
-				<div2 type="reading" id="wfaudio08_1.8" start="00:06:49.10" end="00:08:06.86">
+				<div2 type="reading" id="wfaudio08_1.8" start="00:06:49.10" end="00:08:06.94">
 					<head>Story, Excerpt 5</head>
 					<u who="WF">
 						<writing type="fiction">"Four of which you and Homer could have already
@@ -227,7 +226,7 @@
 							finished it." </writing>
 					</u>
 				</div2>
-				<div2 type="reading" id="wfaudio08_1.9" start="00:08:06.87" end="00:08:41.09">
+				<div2 type="reading" id="wfaudio08_1.9" start="00:08:06.94" end="00:08:41.09">
 					<head>Story, Excerpt 6</head>
 					<u who="WF">
 						<writing type="fiction">"I see," pap said. "I see. It's me that's got to
@@ -242,7 +241,7 @@
 							you can work three times as fast and finish them in two." </writing>
 					</u>
 				</div2>
-				<div2 type="reading" id="wfaudio08_1.10" start="00:08:48.53" end="00:10:04.99">
+				<div2 type="reading" id="wfaudio08_1.10" start="00:08:48.53" end="00:10:05.49">
 					<head>Story, Excerpt 7</head>
 					<u who="WF">
 						<writing type="fiction">"Maybe there's something else besides cash you might
@@ -261,7 +260,7 @@
 							hadn't kept in sight of it. It belonged to pap and Vernon Tull together.
 							Will Varner give it to Tull as a puppy, and pap raised it for a half
 							interest; me and him trained it and it slept in my bed with me until it
-							got so big maw finally run it out of the house,  <event desc="audience laughter"/> <event desc="audience laughter"/> and for the last six
+							got so big maw finally run it out of the house,  <event desc="audience laughter"/> and for the last six
 							months Solon had been trying to buy it. Him and Tull had agreed on two
 							dollars for Tull's half of it, but Solon and pap was still six dollars
 							apart on ourn, because pap said it was worth ten dollars of anybody's
@@ -302,7 +301,8 @@
 							done already agreed," Solon said.<lb/>
 							"All right," pap said. "Then you can
 							pay Tull his two dollars and bring his receipt with you without no
-							trouble." "Tull will be at the church tomorrow morning, pulling off them
+							trouble."<lb/>
+							"Tull will be at the church tomorrow morning, pulling off them
 							old shingles," Solon said. "All right," pap said. "Then it won't be no
 							trouble at all for you to get a receipt from him. You can stop at the
 							church when you pass. Tull ain't named Grier. He won't need to be off
@@ -316,7 +316,7 @@
 							then; I jest stacked shingles. </writing>
 					</u>
 				</div2>
-				<div2 type="reading" id="wfaudio08_1.13" start="00:11:51.04" end="00:12:23.03">
+				<div2 type="reading" id="wfaudio08_1.13" start="00:11:51.04" end="00:12:23.00">
 					<head>Story, Excerpt 10</head>
 					<u who="WF">
 						<writing type="fiction">Then Solon laid his froe and maul down. "Well, men,"
@@ -334,7 +334,7 @@
 							with the dog," pap said. </writing>
 					</u>
 				</div2>
-				<div2 type="reading" id="wfaudio08_1.14" start="00:12:23.04" end="00:13:11.03">
+				<div2 type="reading" id="wfaudio08_1.14" start="00:12:23.04" end="00:13:15.09">
 					<head>Story, Excerpt 11</head>
 					<u who="WF">
 						<writing type="fiction"> "Sholy," Solon said. It sounded like he had forgot
@@ -349,13 +349,13 @@
 							reasons why they named it lightning. So getting lightning-struck is a
 							mistake that might happen to any man. The mistake I seem to have made is, I
 							never realized in time that what I was looking at was a cloud. I'll see
-							you in the morning." "With the dog," pap said.<lb/>
+							you in the morning."<lb/>"With the dog," pap said.<lb/>
 							"Certainly," Solon said,
 							again like it had slipped his mind completely. "With the dog."
 						</writing>
 					</u>
 				</div2>
-				<div2 type="reading" id="wfaudio08_1.15" start="00:13:11.04" end="00:14:04.80">
+				<div2 type="reading" id="wfaudio08_1.15" start="00:13:15.10" end="00:14:05.00">
 					<head>Story, Excerpt 12</head>
 					<u who="WF">
 						<writing type="fiction">Then him and Homer drove off. Then pap got up.<lb/>
@@ -375,7 +375,7 @@
 						</writing>
 					</u>
 				</div2>
-				<div2 type="reading" id="wfaudio08_1.16" start="00:14:04.81" end="00:14:42.75">
+				<div2 type="reading" id="wfaudio08_1.16" start="00:14:05.01" end="00:14:42.75">
 					<head>Story, Excerpt 13</head>
 					<u who="WF">
 						<writing type="fiction">So we went back home and I fed and milked while pap
@@ -424,15 +424,15 @@
 							started down into the church. It hit the floor and bounced once. Then it
 							hit the floor again, and this time the whole church jest blowed up into
 							a pit of yellow jumping fire, with me and pap hanging over the edge of
-							it on two ropes.  <event desc="audience laughter"/> </writing>
+							it on two ropes.  </writing>
 					</u>
 				</div2>
-				<div2 type="reading" id="wfaudio08_1.18" start="00:16:29.54" end="00:17:20.88">
+				<div2 type="reading" id="wfaudio08_1.18" start="00:16:29.54" end="00:17:20.94">
 					<head>Story, Excerpt 15</head>
 					<u who="WF">
 						<writing type="fiction">I don't know what become of the rope nor how we got
 							out of it. I don't remember climbing down. Jest pap yelling behind me
-							and pushing me about halfway down the ladder and then throwing me the
+							and pushing me halfway down the ladder and then throwing me the
 							rest of the way by a handful of my overhalls, and then we was both on
 							the ground, running for the water barrel. It set under the gutter spout
 							at the side, and Armstid was there then; he had happened to go out to
@@ -447,13 +447,13 @@
 							knocking him cold out as a wedge.  <event desc="audience laughter"/> </writing>
 					</u>
 				</div2>
-				<div2 type="reading" id="wfaudio08_1.19" start="00:17:20.89" end="00:18:34.55">
+				<div2 type="reading" id="wfaudio08_1.19" start="00:17:20.94" end="00:18:34.55">
 					<head>Story, Excerpt 16</head>
 					<u who="WF">
 						<writing type="fiction">So we had to drag him back first, and maw was there
 							then, and Mrs. Armstid about the same time, and me and Armstid run with
 							the two fire buckets to the spring, and when we got back there was a
-							plenty <unclear>of them</unclear>, Whitfield, too, with more buckets, and we done what we
+							plenty of them, Whitfield, too, with more buckets, and we done what we
 							could, but the spring was two hundred yards away and ten buckets emptied
 							it and it taken five minutes to fill again, and so finally we all jest
 							stood around where pap—where had come to again with a big cut on his head and
@@ -471,12 +471,12 @@
 							old strong archangel his self must have had. </writing>
 					</u>
 				</div2>
-				<div2 type="reading" id="wfaudio08_1.20" start="00:18:34.56" end="00:19:36.32">
+				<div2 type="reading" id="wfaudio08_1.20" start="00:18:34.56" end="00:19:36.34">
 					<head>Story, Excerpt 17</head>
 					<u who="WF">
 						<writing type="fiction">For a long time it never burned, even after
 							everything else inside had. We could watch it, hanging there among the
-							fire, not like it had knowed time—in its time too much water to burn easy,
+							fire, not like it had knowed its time—in its time too much water to burn easy,
 							but like it had strove and fit with the devil and all the hosts of hell
 							too long to burn in jest a fire that Res Grier started, trying to beat
 							Solon Quick out of half a dog. But at last it went, too, not in a hurry
@@ -493,7 +493,7 @@
 							and Bookwrights and Quicks and Snopes. </writing>
 					</u>
 				</div2>
-				<div2 type="reading" id="wfaudio08_1.21" start="00:19:36.33" end="00:20:13.15">
+				<div2 type="reading" id="wfaudio08_1.21" start="00:19:36.34" end="00:20:11.16">
 					<head>Story, Excerpt 18</head>
 					<u who="WF">
 						<writing type="fiction">"I was wrong," Whitfield said. "I told you we would
@@ -503,7 +503,7 @@
 							to have one. And we're going to have it soon. But there's some of us
 							done already give a day or so this week, at the cost of our own work.
 							Which is right and just, and we're going to give more, and glad to. But
-							I don't believe that the Lord — "<lb/>
+							I don't believe that the Lord— "<lb/>
 							Whitfield let him finish. He never
 							moved. He jest stood there until pap finally run down of his own accord
 							and hushed and set there on the ground mostly not looking at maw, before
@@ -512,7 +512,7 @@
 							"Arsonist?" pap said. <event desc="audience laughter"/></writing>
 					</u>
 				</div2>
-				<div2 type="reading" id="wfaudio08_1.22" start="00:20:13.16" end="00:20:46.45">
+				<div2 type="reading" id="wfaudio08_1.22" start="00:20:11.16" end="00:20:46.45">
 					<head>Story, Excerpt 19</head>
 					<u who="WF">
 						<writing type="fiction">"Yes," Whitfield said. "If there is any pursuit in
@@ -552,13 +552,13 @@
 							soaking—soaking him to the waist. </writing>
 					</u>
 				</div2>
-				<div2 type="reading" id="wfaudio08_1.24" start="00:21:53.07" end="00:22:31.57">
+				<div2 type="reading" id="wfaudio08_1.24" start="00:21:53.07" end="00:22:31.67">
 					<head>Story, Excerpt 21</head>
 					<u who="WF">
 						<writing type="fiction">"Get them wet clothes off," maw said.<lb/>
 							"I don't know
 							as I will or not," pap said. "I been publicly notified that I ain't
-							fitten to associate with white folks, so I publicly notify them same
+							fitten to associate with white folks, <event desc="audience laughter"/> so I publicly notify them same
 							white folks and Methodists, too, not to try to associate with me, or the
 							devil can have the hindmost." <event desc="audience laughter"/><lb/>
 							But maw
@@ -574,7 +574,7 @@
 							said. </writing>
 					</u>
 				</div2>
-				<div2 type="reading" id="wfaudio08_1.25" start="00:22:31.58" end="00:23:23.47">
+				<div2 type="reading" id="wfaudio08_1.25" start="00:22:31.67" end="00:23:23.47">
 					<head>Story, Excerpt 22</head>
 					<u who="WF">
 						<writing type="fiction">But before I could do that maw come back. She had a
@@ -623,8 +623,8 @@
 					<u who="WF">Yes, the—the most important
 						problem is the pressure to relinquish individuality and belong to something,
 						to—to become a member of a mass. That's what the young writer has got to
-						struggle against because any art is—is composed, <unclear>created</unclear>
-						in complete solitude, and the—the man or the woman has got to be primary
+						struggle against because any art is—is composed, created 
+						in complete solitude, and the—the man or the woman has got to be primarily
 						himself. He's got to believe in—in men and women as individual men and
 						women, not just as a mass of people, and so the first problem of the young
 						writer is the time he lives in, the pressure to—to belong to something, to
@@ -638,14 +638,14 @@
 					<u who="WF">Yes, a great deal. It's
 						difficult for anyone to say because I think a writer is influenced by
 						everything he ever reads from the telephone directory up and down, <event desc="audience laughter"/> and when I was young, I read
-						voraciously with no judgment, no discretion, no
+						voraciously with no judgment, no discretion, and no
 						taste. I read everything and anything, and I'm quite sure it has all
 						influenced me, but the writer, I think, is probably too busy to say, Now,
 						let's see, I'll write a little Joyce today or <event desc="audience laughter"/>
 						<unclear>a little Proust in the morning</unclear>. 
 						He's influenced by it, but he— he doesn't know how much because he's
 						too busy. That's part of the—of the lumber in his storehouse that the
-						carpenter uses when he's building his house or <unclear>fence</unclear>.
+						carpenter uses when he's building his house or fence.
 					</u>
 				</div2>
 				<div2 type="dialog" id="wfaudio08_1.30" start="00:26:33.42" end="00:27:53.41">
@@ -653,7 +653,7 @@
 					<u who="WF">Yes, sir.</u>
 					<u who="Q">Mr. Faulkner, every once in a while an author reports that what he
 						intended as a short story got out of hand and turned into a novel. Have you
-						ever had this experience and if so, what novels was the result of it?</u>
+						ever had this experience and if so, what novel was the result of it?</u>
 					<u who="WF"><hi rend="italic">The Sound
 							and the Fury</hi> began as a short story. I think my own <unclear>rating
 							is</unclear>, first is the poet. Next is the short story writer. Third
@@ -672,9 +672,8 @@
 				<div2 type="dialog" id="wfaudio08_1.31" start="00:27:56.95" end="00:28:40.67">
 					<head>Dramatizing Requiem</head>
 					<u who="WF">Yes, ma'am.</u>
-					<u who="Q">Yes, <inaudible/>
-						<hi rend="italic">Requiem for a Nun</hi> was translated <unclear>into French
-							onto the stage pretty successfully</unclear>. I was wondering, do you
+					<u who="Q">Yes, your play 
+						<hi rend="italic">Requiem for a Nun</hi> was translated into French and put on the stage pretty successfully. I was wondering, do you
 						think that could be done here in <unclear>the States in an</unclear> English
 						version?</u>
 					<u who="WF">Yes, it could be done. The
@@ -689,12 +688,12 @@
 					<head>Double Words</head>
 					<u who="WF">Yes, ma'am.</u>
 					<u who="Q">Mr. Faulkner, I notice in a lot of your books you use double words,
-						words that are usually used singularly that are joined together. What effect
+						words that are usually used singularly and that are joined together. What effect
 						are you trying to create with that, and why is it in some novels you use
 						them in the beginning of the book and then in the middle or the end, you
 						stop using them that way?</u>
 					<u who="WF">That, I think, goes back to
-						the—the constant fear that probably every writer has. He—he knows he's
+						the—the constant fear that probably every writer has. He—he knows he's a 
 						mortal. He has only a—a—a limited number of years in which to work. He has
 						found the world so amazing and—and so marvelous and so moving that, I
 						believe I—by the world, I mean, man, human race, the human problems, that he
@@ -703,7 +702,7 @@
 						he is using any method that will—will do it, he thinks, the most effective,
 						most moving way, and sometimes making one word out of two seems to me the
 						best, and then, again, it—it don't seem to be the right way to do it. It's
-						the—that drive to—to get it all said while you can <unclear>and</unclear>
+						the—that drive to—to get it all said while you can  
 						still have time to say it, I think, was the reason for the—the
 						experimenting, the—the style, the method. That was the reason for Joyce.
 					</u>
