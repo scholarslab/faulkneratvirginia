@@ -676,9 +676,9 @@
 				<div id="blotnerwf" class="hidden essay">
 					<a name="blotnerwf"/>
 
-					<h3>Mr. Faulkner: Writer-In-Residence</h3>
+					<h3 class="center">Mr. Faulkner: Writer-In-Residence</h3>
 
-					<h3>By Joseph Blotner</h3>
+					<h3 class="center">By Joseph Blotner</h3>
 
 					<blockquote>[<em>This essay was first published in </em>The Virginia Quarterly
 							Review<em> (Spring 2001), then as a chapter in Mr. Blotner&rsquo;s
@@ -1271,9 +1271,9 @@
 
 				<div id="ringlewf" class="hidden essay">
 					<a name="ringlewf"/>
-					<h3>The Grounds and the Fury: William Faulkner at the University, 1958</h3>
+					<h3 class="center">The Grounds and the Fury: William Faulkner at the University, 1958</h3>
 
-					<h3>By Ken Ringle (College &rsquo;61)</h3>
+					<h3 class="center">By Ken Ringle (College &rsquo;61)</h3>
 					<p>God obviously created William Faulkner to explain the American South. He may
 						have regretted it, because then He needed an army of scholars, critics and
 						teachers to explain William Faulkner.</p>
@@ -1529,15 +1529,15 @@
 
 				<div id="churchwf" class="hidden essay">
 					<a name="churchwf"/>
-					<h3>Faulkner and an Undergraduate</h3>
+					<h3 class="center">Faulkner and an Undergraduate</h3>
 
-					<h3>By John A. Church (College &rsquo;59)</h3>
+					<h3 class="center">By John A. Church (College &rsquo;59)</h3>
 					
 					<blockquote><em>In this Ralph Thompson photo of Faulkner at a UVA track meet, John Church can be seen in sweat togs standing next to the hurdles
 						on the far side of the track (c1957).</em></blockquote>
 					
 					<p>
-						<img src="churchphoto.jpg" title="FAULKNER PAPERS PHOTO" alt="FAULKNER PAPERS PHOTO"/>
+						<img src="churchphoto.jpg"   class="center" title="FAULKNER PAPERS PHOTO" alt="FAULKNER PAPERS PHOTO"/>
 					</p>
 
 					<p>I was nearing the end of the fall semester of my third year in the College of
@@ -1711,7 +1711,7 @@
 						Seek not to question other than<br/> The books I leave behind.</p>
 					<br/>
 
-					<p>
+					<p class="center">
 						<strong>Notes and Sources</strong>
 					</p>
 
@@ -1747,7 +1747,7 @@
 						Curator of the McGregor Library at Alderman and was a noted expert on rare
 						books.</blockquote>
 
-					<p>
+					<p class="center">
 						<strong>Acknowledgment</strong>
 					</p>
 
@@ -1762,9 +1762,9 @@
 
 				<div id="cooperwf" class="hidden essay">
 					<a name="cooperwf"/>
-					<h3>Faulkner and an Undergraduate</h3>
+					<h3 class="center">Faulkner and an Undergraduate</h3>
 
-					<h3>By Gerald L. Cooper (College &rsquo;58, M.Ed. Guidance
+					<h3 class="center">By Gerald L. Cooper (College &rsquo;58, M.Ed. Guidance
 						&rsquo;69)</h3>
 
 					<p>Upon graduation from Christchurch School in June 1953, I entered and quickly
@@ -1913,9 +1913,9 @@
 
 				<div id="haskinswf" class="hidden essay">
 					<a name="haskinswf"/>
-					<h3>Memories of William Faulkner</h3>
+					<h3 class="center">Memories of William Faulkner</h3>
 
-					<h3>By James W. Haskins (College &rsquo;63, Law &rsquo;66)</h3>
+					<h3 class="center">By James W. Haskins (College &rsquo;63, Law &rsquo;66)</h3>
 
 					<blockquote>[<em>When Mr. Haskins took Professor Blotner&rsquo;s course,
 							Faulkner had already completed his last term as
@@ -1996,9 +1996,9 @@
 
 				<div id="smithwf" class="hidden essay">
 					<a name="smithwf"/>
-					<h3>Memory of William Faulkner</h3>
+					<h3 class="center">Memory of William Faulkner</h3>
 
-					<h3>By Lloyd T. Smith, Jr. (College &rsquo;55, Law &rsquo;60)</h3>
+					<h3 class="center">By Lloyd T. Smith, Jr. (College &rsquo;55, Law &rsquo;60)</h3>
 
 					<p>I was a 1955 graduate of the College of Arts &amp; Sciences at the
 						University of Virginia and returned to the Law School in September of 1957.
@@ -6438,7 +6438,25 @@
 				</ul>
 			</div>
 
-			
+			<div id="audioclip01">
+				<p>
+					Playing Q&amp;A about "symbolism:<br/>
+					
+					<script language="JavaScript" type="text/javascript">
+						try {
+						QT_WriteOBJECT
+						('http://qss.itc.virginia.edu/medialab/faulkner_audio/wfaudio30_1.mp4 ',
+						'300', '  16', '',
+						'autoplay', 'false',
+						'scale', 'tofit',
+						'starttime','00:21:04.62:00',
+						'endtime','00:21:41.99:00');
+						}
+						catch (e) {
+						//document.write(e);
+						}</script>
+				</p>
+			</div>
 			
 
 			<div id="ringleuva" class="hidden essay">

@@ -41,6 +41,9 @@
 					<persName id="WF">William Faulkner</persName>
 				</person>
 				<person>
+					<persName id="FS">Floyd Stovall</persName>
+				</person>
+				<person>
 					<persName id="H">Hale</persName>
 				</person>
 				<person>
@@ -130,7 +133,7 @@
 						don't remember a single southerner that had any part in it. I would say that
 						the reasons for the renaissance in southern writing was in the—the cards, in
 						the making, long before that. I think this may have had a little to do with
-						it: since the Civil War, there has been a—a great deal of misunderstanding
+						it: since the Civil War, there has been a—a great deal of—misunderstanding
 						is not quite the right word, the northerner, the outlander, had a—a queer
 						and erroneous idea of—of what southern people were. It may be that that was
 						an instinctive desire in southerners to—to tell the—the outlander just what
@@ -145,15 +148,13 @@
 						Carcassone.</u>
 				</div2>
 				<div2 type="dialog" id="wfaudio13.5" start="00:06:21.65" end="00:06:23.64">
-					<head>Inaudible</head>
+					<head>Northern Readership</head>
 					<u who="Q">In that connection—</u>
 					<u who="WF">
 						<inaudible/>
 					</u>
-				</div2>
-				<div2 type="dialog" id="wfaudio13.6" start="00:06:23.65" end="00:07:45.16">
-					<head>Northern Readership</head>
-					<u who="Q">Would you mind commenting on this
+				
+					<u who="Q">—would you mind commenting on this
 						question? You—you said a minute ago, facetiously, that southerners don't
 						read books, they write them. It has long been known, of course, to literary
 						historians that southern writers both before and after the Civil War counted
@@ -169,11 +170,11 @@
 						writing to them, and that—and that they simply do not read books. They are
 						good people, but they just do not read books.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.7" start="00:07:51.70" end="00:09:04.14">
+				<div2 type="dialog" id="wfaudio13.6" start="00:07:51.70" end="00:09:04.14">
 					<head>Idealizing the South</head>
-					<u who="Q">The clash that occurred between
+					<u who="Q">The clash, <unclear>sir</unclear>, between
 						the explanations of the South, does that help square the fact that the
-						explanations offered are not always <unclear>immediately warm to the <inaudible/> South
+						explanations offered are not always <unclear>greeted with warmth in the  South
 							itself</unclear>.</u>
 					<u who="WF">Can I have your specific question again? I—I got two or three
 						different ideas there.</u>
@@ -188,9 +189,9 @@
 						too proud of himself, but—but to him it's bad manners to—to show that in
 						public.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.8" start="00:09:06.32" end="00:10:52.17">
+				<div2 type="dialog" id="wfaudio13.7" start="00:09:06.32" end="00:10:52.17">
 					<head>Regional Responses</head>
-					<u who="Q">Does any locality like to read
+					<u who="M">Does any locality like to read
 						the books that are written about that locality, do you think? Is it
 						characteristic that a locality is—is generally offended when it finds itself
 						in a novel or a story?</u>
@@ -198,11 +199,11 @@
 						country have a—a sort of a—a fierce pride in people like Thoreau and
 						Emerson? Or was that just the—the educated intellectual New Englander that
 						felt that?</u>
-					<u who="Q">I don't know—</u>
+					<u who="M">I don't know—</u>
 					<u who="WF">Well, I always thought that—that everybody, they might not have
 						approved so much of all that—that Emerson or Thoreau said, but they had
 						a—a—a fierce, almost provincial pride in—</u>
-					<u who="Q">They did, but neither Emerson nor Thoreau were writing about the
+					<u who="M">They did, but neither Emerson nor Thoreau were writing about the
 						people of New England, in the way we're talking about, in the way you write
 						about the people of the South, or Eudora Welty, or whoever. They were
 						writing about ideas and nature, but as far as I know they didn't write
@@ -210,31 +211,31 @@
 							say </unclear>, this is what things are like in New England. I—I think I'm
 						right, aren't I?</u>
 					<u who="B">You'd have to go to Hawthorne, wouldn't you, to find—</u>
-					<u who="Q">You'd have to go to Hawthorne to find if the—the—</u>
+					<u who="M">You'd have to go to Hawthorne to find if the—the—</u>
 					<u who="WF">Would that have held true of Hawthorne?</u>
-					<u who="Q">I don't know, sir. I don't know whether that—if whether Hawthorne
+					<u who="M">I don't know, sir. I don't know whether that—if whether Hawthorne
 						would have been perceived <inaudible/>.</u>
 					<u who="Q"><inaudible/> Anyway, <inaudible/> as far as
 						I know, he was just as popular at home as he was <unclear>anywhere else.
 						</unclear></u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.9" start="00:10:52.18" end="00:11:41.74">
+				<div2 type="dialog" id="wfaudio13.8" start="00:10:52.18" end="00:11:41.74">
 					<head>Region and Writing</head>
 					<u who="WF">Well, that gets back to
 						something else. Can a man write about ideas except in—in the provincial
 						terms of his background?</u>
-					<u who="Q">Well, they certainly must affect him.</u>
+					<u who="M">Well, they certainly must affect him.</u>
 					<u who="WF">Could Emerson have—have written Emerson—would it have been the same
 						Emerson if he'd been a Mississippian, say, or a Texan or a Californian?</u>
-					<u who="Q">Well, I think not, but still when you are writing about self-reliance
+					<u who="M">Well, I think not, but still when you are writing about self-reliance
 						in general, it could apply all over the world.</u>
 					<u who="WF">But would a Californian in a
 						climate that don't change, where you don't need <event desc="audience laughter"/> even a warm house to live in—what would he
 						care about self-reliance? <event desc="audience laughter"/></u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.10" start="00:11.44.64" end="00:12:57.27">
+				<div2 type="dialog" id="wfaudio13.9" start="00:11:44.64" end="00:12:57.27">
 					<head>Environment and Art</head>
-					<u who="Q">That reminds—that—that brings up
+					<u who="FS">That reminds—that—that brings up
 						this question, Mr. Faulkner, in my mind, that I often—Carlyle says Walt
 						Whitman—he says, "Walt Whitman thinks that because he lives in a big
 						country, he's a big man." What do you suppose—I—I gather that he thought that
@@ -245,22 +246,22 @@
 						out in the South?</u>
 					<u who="WF">Well, I would say that—that
 						Carlyle's and Whitman's definition of a big man were completely different.
-						Carlyle's an—an islander, a—a small country. His idea of a big man is a—is a
+						Carlyle's an islander, a—a small country. His idea of a big man is a—is a
 						big individual man. I should think that Whitman's idea of a big man is one
 						that is lucky enough to belong to a race of giants, that he's one too. I
 						wonder if Whitman believed that he was a bigger man than anybody else in
 						America.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.11" start="00:13:01.81" end="00:14:06.94">
+				<div2 type="dialog" id="wfaudio13.10" start="00:13:01.81" end="00:14:06.94">
 					<head>Topography as Influence</head>
-					<u who="Q">What I was getting at was
+					<u who="FS">What I was getting at was
 						whether the peculiarities of Southern climate and topography might possibly
-						have any influence on the nature of the writer?</u>
+						have any influence on the nature of the writing?</u>
 					<u who="WF">It would have to, just like the language the man knows to write in
 						would have some influence on him. But I don't think that the—that the
 						topography—one topography will produce a writer where another topography
 						won't. But of course—</u>
-					<u who="Q">You don't think there's any relationship then between the lack of
+					<u who="FS">You don't think there's any relationship then between the lack of
 						roads in Yoknapatawpha County and the difficulties of your sentence
 						structure?</u>
 					<u who="WF">No, sir, <event desc="audience laughter"/> because—because the lack of—the lack of roads
@@ -269,9 +270,9 @@
 						Yoknapatawpha County ain't near as complex as the Empire State Building.
 							<event desc="audience laughter"/></u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.12" start="00:14:08.99" end="00:16:34.96">
+				<div2 type="dialog" id="wfaudio13.11" start="00:14:08.99" end="00:16:34.96">
 					<head>Time in Long Sentences</head>
-					<u who="Q">Mr. Faulkner, I spoke to you
+					<u who="M">Mr. Faulkner, I spoke to you
 						about your long sentences and asked you if one reason for them were not that
 						you were trying to give the past and the present and the future, more or
 						less all at the same time, to throw light on the present action by referring
@@ -285,7 +286,7 @@
 						happening?</u>
 					<u who="WF">Well, a man's future is
 						inherent in that man. I—in the sense that—that life, A.D. 1957, is—is not
-						the end of life, that there'll be a—a—a 2057. That we assume that. There may
+						the end of life, that there'll be a—a 2057. That we assume that. There may
 						not be, but we assume that. And in man, in man's behavior today is 1950—2057. 
 						If we just had a machine that could project ahead and could capture
 						that, that machine could—could isolate and—and freeze a—a picture, an image,
@@ -293,17 +294,17 @@
 						fix the light rays showing what he was doing in—in B.C. 28. That is, that's
 						the mystical belief that—that there is no such thing as "was." That—that
 						time "is," and if there's no such thing as "was," then there is no such
-						thing as "will be." Time is a—is a—not a fixed condition, that time
+						thing as "will be." That time is a—is a—not a fixed condition, that time
 						is, in a way—in a way, the sum of the combined intelligences of all men who
 						breathe at that moment.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.13" start="00:16:38.41" end="00:18:07.38">
+				<div2 type="dialog" id="wfaudio13.12" start="00:16:38.41" end="00:18:07.38">
 					<head>A Writer's Omniscience</head>
-					<u who="Q">So you—so you arrogate to
+					<u who="M">So you—so you arrogate to
 						yourself the power of knowing the future of your characters and use that in
 						your depicting of them and what happens to them.</u>
 					<u who="WF">No—</u>
-					<u who="Q">You—you are, in a sense, in 2057, and you're writing about somebody
+					<u who="M">You—you are, in a sense, in 2057, and you're writing about somebody
 						in 1957, and you also know what happened in 1857.</u>
 					<u who="WF">Well, I—I—I can assume the
 						fact that—that in the people which I create is the—the genesis, the—the seed
@@ -317,11 +318,11 @@
 						whether he fails or not. That his problems really won't be any different.
 						The important problems won't be any different in 2057 than they are now.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.14" start="00:18:07.39" end="00:19:29.08">
+				<div2 type="dialog" id="wfaudio13.13" start="00:18:07.39" end="00:19:29.08">
 					<head>Telescoping Time</head>
-					<u who="Q">I—I was thinking of something a
+					<u who="M">I—I was thinking of something a
 						little more specific than—than that. You—you are talking of a man brushing
-						his hair, and you refer to the fact that twenty years ago heabout  was a child
+						his hair, and you refer to the fact that twenty years ago he was a child
 						playing in the dust, and at the same time you know he's going to commit a
 						murder up here. And you bring in the murder, and you bring in the playing in
 						the dust, and you bring in the combing of his hair, all together, we will
@@ -332,40 +333,39 @@
 						individual, that character, or he never could get his book done. That is, he
 						has got to know where the thing's going, in a way, before he starts because
 						then he won't know when to stop it.</u>
-					<u who="Q">And you think this future murder throws light on the way this
+					<u who="M">And you think this future murder throws light on the way this
 						fellow—</u>
 					<u who="WF">Yes, yes.</u>
-					<u who="Q">—combs his hair, and the playing in the dust—</u>
+					<u who="M">—combs his hair, and the playing in the dust—</u>
 					<u who="WF">Yes, yes.</u>
-					<u who="Q">—also throws light on the way he combs his hair, and you can describe
+					<u who="M">—also throws light on the way he combs his hair, and you can describe
 						the combing of the hair the better because—</u>
 					<u who="WF">I think so.</u>
-					<u who="Q">—you have this in mind and that in mind.</u>
+					<u who="M">—you have this in mind and that in mind.</u>
 					<u who="WF">I think if—if we could know
 						the future of ourselves and one another we would never be as baffled and
 						confused by—by people, by our contact with people, as we are. It wouldn't be
 						as much fun, of course, but—</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.15" start="00:19:32.53" end="00:19:51.78">
+				<div2 type="dialog" id="wfaudio13.14" start="00:19:32.53" end="00:19:51.78">
 					<head>Prompting Audience</head>
-					<u who="Q">Didn't you have a question you
+					<u who="M">Didn't you have a question you
 						wanted to ask in connection with Dostoevsky, the Russians in general?</u>
 					<u who="Q"><inaudible/> let me figure a way
 						to—to phrase it and get it clear in my mind <inaudible/>
 						<unclear>in so long. I don't know</unclear><inaudible/></u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.16" start="00:19:54.14" end="00:21:27.28">
+				<div2 type="dialog" id="wfaudio13.15" start="00:19:54.14" end="00:21:27.28">
 					<head>Civil War vs WW I</head>
 					<u who="Q">Well, what—what do you think is
-						the—was the difference in quality of the impact on the the—to the southern
+						the—was the difference in quality of the impact on the—to the southern
 						people after the Civil War and the—as a mental experience and though—and say
 						World War I—the people that were involved in World War I?</u>
 					<u who="WF">I would say possibly it
 						was—was sharper, a hard<unclear>er</unclear> experience, because for—for
 						years the southerner had lived a—a safe and isolated life in which nothing
 						actually had happened to him, except the—the simple things of—of crop
-						failures and—and trouble with—with his own particular plantation or
-							<unclear>economy</unclear>. The Civil War was—was a great deal of a
+						failures and—and trouble with—with his own particular plantation economy. The Civil War was—was a great deal of a
 						shock to him because suddenly it thrust him into the world. He had to become
 						a member, not of a class or of a—a provincial segment, but a member of the
 						whole human race. When he got into the second World War he had gotten used to
@@ -374,7 +374,7 @@
 						he was on the side that was succesful. In the Civil War, the southerner was
 						on the side that lost.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.17" start="00:21:32.73" end="00:25:00.98">
+				<div2 type="dialog" id="wfaudio13.16" start="00:21:32.73" end="00:25:01.58">
 					<head>Children, Idiots, Truth</head>
 					<u who="Q">I suppose my question in
 						reference to Dostoevsky boils down to this. Why do you consider Benjy a good
@@ -387,7 +387,7 @@
 						open-minded and free. And are they better judges of the truth? Can they see
 						the truth better than the more sophisticated and more intelligent
 							<unclear>human beings</unclear>?</u>
-					<u who="WF">Only in this sense, say there
+					<u who="WF">Only in this sense: say there
 						was a mirror which would obliterate everything from the image it reflected
 						except—except the verities. To me, that is the child. As you say, it has less
 						trash that it—it has had to—to assimilate and live with in order to—to cope
@@ -412,7 +412,7 @@
 						human beings were capable of believing that—that lies were true, than the
 						child of three or four or five or six.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.18" start="00:25:03.71" end="00:26:35.94">
+				<div2 type="dialog" id="wfaudio13.17" start="00:25:03.71" end="00:26:37.14">
 					<head>Nature of Children</head>
 					<u who="ES">Mr. Faulkner, I think it's a
 						very interesting point you raise, and—and—but how do you reconcile that view
@@ -421,7 +421,7 @@
 						savage to each other, hurt each other, have—have less sensitivity toward
 						each other than—than adults do. Whereas they sometimes seem to perceive the
 						truth, seem to cut through so much of the—the sham that adults build up, still
-						we have to educate children to be, on the whole, to be considerate.</u>
+						we have to educate children to be—on the whole, to be considerate.</u>
 					<u who="WF">Well, that savagery, that
 							ruthless<unclear>ness</unclear>, that's one of the verities. It's not a
 						virtue, but it—it's a verity. To me, there's—there's a distinction between
@@ -434,18 +434,19 @@
 						practiced, but it's one of the verities. Just like—like honor and
 						honesty.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.19" start="00:26:43.75" end="00:29:30.97">
+				<div2 type="dialog" id="wfaudio13.18" start="00:26:43.75" end="00:29:31.27">
 					<head>Charles in The Town</head>
-					<u who="Q">You have various children. You
+					<u who="FS">You have various children. You
 						spoke of Benjy. There is—and also of <hi rend="italic">The Sound and the
 							Fury</hi> and Vardaman. I was thinking—been thinking recently about this
 						boy who participated in the telling of the story in <hi rend="italic">The
 							Town</hi>. I don't know—I'm not sure that I know how you would explain
 						the function of Charles Mallison in—in this last novel, whether he
 						has—whether he is—his part of the story is supposed to have any particular
-						value because he is a child or—and—and whether—and then Ratliff. There are three
+						value because he is a child or—and—and whether—and then Ratliff—there are three
 						people, you see. There is yourself, and I—I'm—I haven't been able to see at
-						the moment, and I've only read it one time, quite as well as I do in <hi rend="italic">The Sound and the Fury </hi>the distinct values which come
+						the moment, and I've only read it one time, quite as well as I do in <hi rend="italic">The Sound and the Fury </hi>the 
+						distinct values which come
 						from the three points of view. I don't know whether I am making myself clear
 						or not. You can comment on that problem.</u>
 					<u who="WF">That's—was simply a—a—well, I
@@ -466,20 +467,20 @@
 						complete picture of—of the specific incidents as they occurred if they could
 						be <unclear>viewed</unclear> three times.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.20" start="00:29:30.98" end="00:29:48.04">
+				<div2 type="dialog" id="wfaudio13.19" start="00:29:31.33" end="00:29:48.04">
 					<head>Charles Growing Up</head>
-					<u who="Q">And yet you didn't mean that
+					<u who="FS">And yet you didn't mean that
 						Charles Mallison was quite as much of a child or an innocent as some of
 						these other children?</u>
 					<u who="WF">Well, he changed. He grew up
 						in that book. And, of course, his point of view changed.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.21" start="00:29:48.05" end="00:32:00.58">
+				<div2 type="dialog" id="wfaudio13.20" start="00:29:48.05" end="00:32:00.58">
 					<head>Gavin in The Town</head>
-					<u who="Q">One other question about that
+					<u who="FS">One other question about that
 						book. Someone has said recently—and I don't present this as my view, it is
-						something that I would like you to comment on if you will. That Gavin
-						Stevens in the—<hi rend="italic">The Town</hi> is a less mature, a less
+						something that I would like you to comment on if you will—that Gavin
+						Stevens in <hi rend="italic">The Town</hi> is a less mature, a less
 						responsible, somehow or other a less likable person than he appears in some
 						other places, as in the stories of a <hi rend="italic">Knight's
 						Gambit</hi>.</u>
@@ -501,7 +502,7 @@
 						He might get too involved with the human race if he married one of them.
 							<event desc="audience laughter"/></u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.22" start="00:32:00.59" end="00:32:55.05">
+				<div2 type="dialog" id="wfaudio13.21" start="00:32:00.59" end="00:32:55.05">
 					<head>Gavin in Intruder</head>
 					<u who="Q">Did you mean Gavin Stevens to be
 						like that in <hi rend="italic">Intruder in the Dust</hi>?</u>
@@ -517,9 +518,9 @@
 						Probably Stevens learned something from <hi rend="italic">The Town</hi> to
 						carry into <hi rend="italic">Intruder in the Dust</hi>.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.23" start="00:32:56.50" end="00:33:42.98">
+				<div2 type="dialog" id="wfaudio13.22" start="00:32:56.50" end="00:33:42.98">
 					<head>Gavin and Quentin</head>
-					<u who="Br">Mr. Faulkner, the fight that
+					<u who="Q">Mr. Faulkner, the fight that
 						Gavin has with de Spain in <hi rend="italic">The Town</hi> reminded me in
 						some ways of the fight that Quentin had when he was in Cambridge. They both
 						seemed a little bit like Don Quixote—</u>
@@ -532,7 +533,7 @@
 						quality in—in human nature. I hope it will always endure. It is comical and a
 						little sad, and Quentin and Stevens were that much alike.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.24" start="00:33:44.98" end="00:35:04.32">
+				<div2 type="dialog" id="wfaudio13.23" start="00:33:44.98" end="00:35:04.32">
 					<head>Intruder's Origin</head>
 					<u who="Q">Mr. Faulkner, what did you start
 						with in <hi rend="italic">Intruder in the Dust</hi>? Was it the idea of a
@@ -552,7 +553,7 @@
 						charge of the story, and the story was a good deal different from the idea
 						that—of the detective story that I had started with.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.25" start="00:35:04.33" end="00:36:16.04">
+				<div2 type="dialog" id="wfaudio13.24" start="00:35:04.33" end="00:36:16.04">
 					<head>Joyce and Influence</head>
 					<u who="Q">Sir, speaking of technique and
 						the way characters are handled, somebody's accused you of going to school to
@@ -571,7 +572,7 @@
 						willing for anyone after him to take anything from his work, at least I am.
 						I'm quite sure that everything I ever read has influenced me.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.26" start="00:36:17.85" end="00:36:53.62">
+				<div2 type="dialog" id="wfaudio13.25" start="00:36:17.85" end="00:36:53.62">
 					<head>Conrad's Influence</head>
 					<u who="Q">Sir, do you look at your own
 						work and look at the—and look at the novels of Joseph Conrad, which I've heard
@@ -584,7 +585,7 @@
 						from. I'm sure he could find plenty of sources, but he—he don't do it because
 						he's busy with another one then.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.27" start="00:36:53.63" end="00:38:25.13">
+				<div2 type="dialog" id="wfaudio13.26" start="00:36:53.63" end="00:38:25.13">
 					<head>Conrad's Technique</head>
 					<u who="Q">We—we discussed Joseph Conrad in
 						the course that I teach. We frequently come up against you, and vice versa,
@@ -606,7 +607,7 @@
 						English. That we both are a little more obvious than the others for that
 						reason.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.28" start="00:38:42.02" end="00:40:04.08">
+				<div2 type="dialog" id="wfaudio13.27" start="00:38:42.02" end="00:40:04.08">
 					<head>Frontiers in Writing</head>
 					<u who="Q">Sir, some months ago you
 						expressed a fear in the loss of frontiers in American writing. Do you see
@@ -623,7 +624,7 @@
 						for the artist who should have all his time free to—to fight simpler dragons
 						than that.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.29" start="00:40:05.90" end="00:41:46.67">
+				<div2 type="dialog" id="wfaudio13.28" start="00:40:05.90" end="00:41:46.67">
 					<head>Past and Present</head>
 					<u who="Q">Do you find that your own work
 						comes nearer to a future that you yourself <unclear>altered in any respect in
@@ -645,7 +646,7 @@
 						time?</u>
 					<u who="WF">Oh yes, yes.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.30" start="00:41:47.39" end="00:42:44.95">
+				<div2 type="dialog" id="wfaudio13.29" start="00:41:47.39" end="00:42:44.95">
 					<head>Thomas Wolfe</head>
 					<u who="Be">I know you admire Wolfe
 						tremendously, but don't you feel that as Wolfe caught up to the present that
@@ -661,7 +662,7 @@
 						rate us this way," which I did, and that's what that came from, and for
 						about twenty years now I've been trying to explain that. <event desc="audience laughter"/></u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.31" start="00:42:44.96" end="00:43:22.17">
+				<div2 type="dialog" id="wfaudio13.30" start="00:42:44.96" end="00:43:22.17">
 					<head>Wolfe and the Past</head>
 					<u who="Be"><unclear>Well, I didn't hear it.</unclear> But actually, don't you think
 						that—that Wolfe was <unclear>obvious,</unclear> and I wondered if you felt
@@ -676,7 +677,7 @@
 						opened them and read a little here and a little there, but I never have
 						finished one, so I—I just don't know.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.32" start="00:43:23.98" end="">
+				<div2 type="dialog" id="wfaudio13.31" start="00:43:23.98" end="">
 					<head>Facts v Truth</head>
 					<u who="Q">Do you think that
 							<unclear>questions</unclear> go a little—I'm—I'm interested in—in this
@@ -703,7 +704,7 @@
 						matter.</u>
 					<event desc="audience laughter"/>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.33" start="00:45:04:22" end="00:47:23.10">
+				<div2 type="dialog" id="wfaudio13.32" start="00:45:04:22" end="00:47:23.10">
 					<head>Ranking Writers</head>
 					<u who="B">Mr. Faulkner, in view of the
 						fact that those people asked you for ratings when the—when the horse race
@@ -732,7 +733,7 @@
 						the—the—the splendid, magnificent bust that Wolfe made in trying to put the
 						whole history of the human heart on the head of a pin, you might say.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.34" start="00:47:27.10" end="00:48:07.77">
+				<div2 type="dialog" id="wfaudio13.33" start="00:47:27.10" end="00:48:07.77">
 					<head>A Historical Novel</head>
 					<u who="Q">You've almost answered this, but
 						I'll ask you anyway. Do you think you'll ever write an historical novel
@@ -745,7 +746,7 @@
 						<event desc="audience laughter"/>. Any writer tries to improve on what he
 						sees. In his opinion, the Lord ain't near as good as he is at creating people.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.35" start="00:48:07.78" end="00:48:59.35">
+				<div2 type="dialog" id="wfaudio13.34" start="00:48:07.78" end="00:48:59.35">
 					<head>Hemingway's Recent Work</head>
 					<u who="Q">Mr. Faulkner, you said that
 						Hemingway developed a method he could control. What do you think—what is
@@ -758,7 +759,7 @@
 						that, won't you?</u>
 					<u who="H">Oh, yes.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.36" start="00:49:06.96" end="00:49:53.26">
+				<div2 type="dialog" id="wfaudio13.35" start="00:49:06.96" end="00:49:53.26">
 					<head>Contemporary Books</head>
 					<u who="Q">Do you still read any of the
 						books that come out today <inaudible/> <unclear>and writers like him</unclear>?</u>
@@ -772,7 +773,7 @@
 						modern books anymore. When I was young I read everything, but not
 						anymore.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.37" start="00:49:54.35" end="00:50:53.90">
+				<div2 type="dialog" id="wfaudio13.36" start="00:49:54.35" end="00:50:53.90">
 					<head>Favorite Writers</head>
 					<u who="Q">What were the books that you
 						read at twenty-one that you—you set store by? Can you mention a few of
@@ -789,7 +790,7 @@
 						character. One of my favorite people is <inaudible/>. I get her out every winter
 						and read about her again.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.38" start="00:50:53.91" end="00:51:29.85">
+				<div2 type="dialog" id="wfaudio13.37" start="00:50:53.91" end="00:51:29.85">
 					<head>Reading Conrad</head>
 					<u who="Q">Which one of Conrad do—do you
 						read?</u>
@@ -801,14 +802,14 @@
 					<u who="Q"><hi rend="italic">Victory</hi>?</u>
 					<u who="WF">Not in years. "Falk," "The End of the Tether." What's the one about
 						the young man that was given command of the—</u>
-					<u who="Br"><hi rend="italic">Lord Jim</hi>.</u>
+					<u who="Q"><hi rend="italic">Lord Jim</hi>.</u>
 					<u who="WF">—bark in—?</u>
 					<u who="Q">Deserted?</u>
 					<u who="WF">—Bangkok—"Youth."</u>
 					<u who="Q">"Youth," yes.</u>
 					<u who="WF">"Youth."</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.39" start="00:51:35.11" end="00:53:03.17">
+				<div2 type="dialog" id="wfaudio13.38" start="00:51:35.11" end="00:53:03.17">
 					<head>Stories v Novels</head>
 					<u who="Q">Mr. Faulkner, there's a question
 						that you may have—it may have been asked of you. I haven't been to all of the
@@ -829,7 +830,7 @@
 						can do it in a thousand words. The novelist can't do either, and it takes
 						him a hundred thousand words to do.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.40" start="00:53:12.80" end="00:54:45.39">
+				<div2 type="dialog" id="wfaudio13.39" start="00:53:12.80" end="00:54:45.39">
 					<head>Distilling the Truth</head>
 					<u who="Q">Sir, you—you seemed from that to
 						place a premium on conciseness, yet your most brilliant successes seem to
@@ -848,7 +849,7 @@
 						way. He has touched it with—with a—a magic as though that anguish, or that
 						triumph, had never occurred before.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.41" start="00:54:56.29" end="00:55:35.69">
+				<div2 type="dialog" id="wfaudio13.40" start="00:54:56.29" end="00:55:35.69">
 					<head>Requests from Young Writers</head>
 					<u who="ES">You were saying that you
 						sometimes read something that you wouldn't ordinarily because somebody asked
@@ -861,7 +862,7 @@
 						care whether you read it or not or whether you like it or not. They're the
 						good ones.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.42" start="00:55:46.04" end="00:56:22.35">
+				<div2 type="dialog" id="wfaudio13.41" start="00:55:46.04" end="00:56:22.35">
 					<head>Prompting Audience</head>
 					<u who="M">I'm not quite sure how
 						long this meeting is supposed to last. We've had an hour. Would you bear a
@@ -874,7 +875,7 @@
 					<u who="WF">They don't need anything from
 						me. <event desc="audience laughter"/></u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.43" start="00:56:22.36" end="00:56:48.49">
+				<div2 type="dialog" id="wfaudio13.42" start="00:56:22.36" end="00:56:48.49">
 					<head>Long v Short Books</head>
 					<u who="Q">I—I will say this, sir. You speak
 						of <hi rend="italic">Don Quixote</hi> as well as your—as one of your—one of
@@ -884,7 +885,7 @@
 							Narcissus</hi> is very short. I probably hadn't noticed that much
 						either.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.44" start="00:56:51.94" end="00:57:59.12">
+				<div2 type="dialog" id="wfaudio13.43" start="00:56:51.94" end="00:57:59.12">
 					<head>Favorite Poetry</head>
 					<u who="Q">Well, you have mentioned some of
 						the—the novels that you like most. Is there any particular poetry that you
@@ -894,7 +895,7 @@
 						it, Laforgue, Goethe—almost all of it. That's why people still read it, why
 						the names are still known.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.45" start="00:57:59.13" end="01:00:06.76">
+				<div2 type="dialog" id="wfaudio13.44" start="00:57:59.13" end="01:00:06.76">
 					<head>Poet v Novelist</head>
 					<u who="Q">Which do you suppose is—is the
 						most difficult, the most unattainable, for an ambitious youngster who wants
@@ -917,7 +918,7 @@
 						least fortunate, he's got to go back to the clumsy method of—of Mark Twain
 						and Dreiser.</u>
 				</div2>
-				<div2 type="dialog" id="wfaudio13.46" start="01:00:11.48" end="01:00:19.65">
+				<div2 type="dialog" id="wfaudio13.45" start="01:00:11.48" end="01:00:19.65">
 					<head>Close</head>
 					<u who="M">Well, if there are no
 						further questions, we're very much obliged to you indeed, Mr. Faulkner.</u>
