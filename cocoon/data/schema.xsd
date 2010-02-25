@@ -70,7 +70,7 @@
 		<xs:complexType>
 			<xs:simpleContent>
 				<xs:extension base="xs:NCName">
-					<xs:attribute name="clas" use="required" type="xs:NCName"/>
+					<xs:attribute name="class" type="xs:NCName"/>
 				</xs:extension>
 			</xs:simpleContent>
 		</xs:complexType>
