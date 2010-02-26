@@ -90,8 +90,9 @@
 	</xsl:template>
 
 	<xsl:template match="div2">
-		<div class="player-line">
 		<a name="{@id}"/>
+		
+		<div class="player-line">
 		<!-- <xsl:if test="head">
 			<h3 class="div_head">
 				<xsl:value-of select="head"/>
