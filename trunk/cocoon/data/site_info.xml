@@ -4632,11 +4632,11 @@
    	
    	<div id="postwaifs" class="hidden">
    		<a name="postwaifs"/>
-   		<p><em>Below</em>: (1) Cover from <em>Saturday Evening Post (4 May 1957); (2) pages 26-27 of that issue.  Caption: "William Faulkner, now nearing
-   		sixty, still lives in his native Northern Mississippi."</em>
+   		<p><em>Below</em>: (1) Cover from <em>Saturday Evening Post</em> (4 May 1957); (2) pages 26-27 of that issue.  Caption: "William Faulkner, now nearing
+   		sixty, still lives in his native Northern Mississippi."
    		</p>
    		<p>
-   			<img class="center" src="postwaifscover.jpg"  title="COVER,4 MAY 1957 POST" alt="COVER,4 MAY 1957 POST" /><br />
+   			<img class="center" src="postwaifscover.jpg"  title="COVER,4 MAY 1957 POST" alt="COVER,4 MAY 1957 POST" /><br /><br />
    			<img class="center" src="postwaifs.jpg"  title="PAGES 26-27, 4 MAY 1957 POST" alt="PAGES 26-27, 4 MAY 1957 POST" />
    		</p>
    	</div>
@@ -4818,7 +4818,8 @@
 					support, militarily if necessary, any threatened country that requested its aid.
 					A year later, Marines were sent to Lebanon as a result.</p>
 
-				<p>The revolution in Hungary was short-lived, lasting for about three weeks in
+				<p><a href="#soviettanks" class="inline"><img src="us50s03.jpg" alt="MICHAEL ROUGIER NEWS PHOTO" title="MICHAEL ROUGIER NEWS PHOTO"/>
+				</a>The revolution in Hungary was short-lived, lasting for about three weeks in
 					October and November 1956. At the end of the 1940s, Russian-backed nationals
 					&ndash; supported by the presence of the Red Army that had liberated the
 					country from the Nazis during World War II &ndash; turned Hungary into a
@@ -5071,6 +5072,15 @@
 							Fifties</em> (Princeton Junction: PDQ Press, 2009): 23. Church's chapter
 						on Faulkner's presence at UVA is available in the Introduction to this
 						archive.</p>
+				</div>
+				
+				<div id="soviettanks" class="hidden">
+					<a name="soviettanks"/>
+					<p><em>Below</em>: photograph by Michael Rougier of Soviet Russian tanks in the streets of Budapest, 1958 (Keystone Press Agency).</p>
+					
+					<p>
+						<img class="center" src="us50s03l.jpg"  title="RUSSIAN TANKS IN HUNGARY" alt="RUSSIAN TANKS IN HUNGARY" />
+					</p>
 				</div>
 
 				<div id="cdimage01" class="hidden">
