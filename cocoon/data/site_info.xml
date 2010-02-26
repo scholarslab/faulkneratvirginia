@@ -6440,7 +6440,7 @@
 
 			<div id="audioclip01">
 				<p>
-					Playing Q&amp;A about "symbolism:<br/>
+					Playing Q&amp;A about "symbolism":<br/>
 					
 					<script language="JavaScript" type="text/javascript">
 						try {
@@ -6710,9 +6710,9 @@
 
 			<div id="ringlewf" class="hidden essay">
 				<a name="ringlewf"/>
-				<h3>The Grounds and the Fury: William Faulkner at the University, 1958</h3>
+				<h3 class="center">The Grounds and the Fury: William Faulkner at the University, 1958</h3>
 
-				<h3>By Ken Ringle (College &rsquo;61)</h3>
+				<h3 class="center">By Ken Ringle (College &rsquo;61)</h3>
 				<p>God obviously created William Faulkner to explain the American South. He may have
 					regretted it, because then He needed an army of scholars, critics and teachers
 					to explain William Faulkner.</p>
