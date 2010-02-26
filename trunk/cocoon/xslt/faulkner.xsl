@@ -23,6 +23,20 @@
 				<link rel="stylesheet" type="text/css" href="{$path}style.css"/>				
 				<script type="text/javascript" src="{$path}javascript/jquery-1.3.2.min.js">//</script>
 				<script type="text/javascript" src="{$path}javascript/AC_Quicktime.js">//</script>
+				<script type="text/javascript">
+					$(document).ready(function(){
+						// hide entire
+						$('.entire').hide();
+
+						$("a#entire_recording").click(function(){
+							$(this).toggle(function(){
+								$('.player-line').hide();
+								$('.entire').show();
+							});
+						});
+					});
+					</script>
+				</script>
 			</head>
 			<body>		
 				
@@ -53,19 +67,21 @@
 			</xsl:for-each>
 			
 			<p>
-				Play entire recording: 
+				<a id="entire_recording">Play entire recording</a>
+				<div class="entire"> 
 				<xsl:variable name="filename" select="//idno[@type='digital audio filename']"/>
 				
 				<script language="JavaScript" type="text/javascript">
 					try {
 						QT_WriteOBJECT(
-						'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="$filename"/>.mp4 ', '300', ' 16', '',
+						'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="$filename"/>.mp4', '300', ' 16', '',
 						'autoplay', 'false',
 						'scale', 'tofit');
 					}
 					catch (e) {
 						//document.write(e);
 					}</script>
+				</div>
 			</p>
 			
 			<hr/>
