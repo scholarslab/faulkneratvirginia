@@ -4413,12 +4413,13 @@
 					Fiction, and in the next five years he also received two National Book Awards
 					(1951, 1955) and a Pulitzer Prize (1955).</p>
 
-				<p>After decades of worry about money, during which he repeatedly needed to go to
+				<p><a href="#postwaifs" class="inline"><img src="wf50s02.jpg" alt="DETAIL:  4 MAY 1957 POST COVER" title="DETAIL: 4 MAY 1957 POST COVER"/>
+				</a>After decades of worry about money, during which he repeatedly needed to go to
 					Hollywood to work on salary as a screenwriter, by the mid-Fifties his own
 					fiction had finally made him financially secure; for example, now Hollywood came
 					to him, buying the rights to novels like <em>The Sound and the Fury</em> for
-					much more than they&rsquo;d ever made as books. (Both <em>The Tarnished
-						Angels</em>, adapted from <em>Pylon</em>, and <em>The Long, Hot Summer</em>,
+					much more than they&rsquo;d ever made as books. (Both <a href="#tarnishedangels" class="inline">The Tarnished
+						Angels</a>, adapted from <em>Pylon</em>, and <a href="#longhotsummer" class="inline">The Long, Hot Summer</a>,
 					based on <em>The Hamlet</em>, would be released in 1958 during his second UVA
 					term; he was asked to comment on the second, but not the first.) Right before he
 					arrived in Charlottesville to begin his first term in residence, Faulkner
@@ -4628,6 +4629,35 @@
 
 
    <div id="media_content"> 
+   	
+   	<div id="postwaifs" class="hidden">
+   		<a name="postwaifs"/>
+   		<p><em>Below</em>: (1) Cover from <em>Saturday Evening Post (4 May 1957); (2) pages 26-27 of that issue.  Caption: "William Faulkner, now nearing
+   		sixty, still lives in his native Northern Mississippi."</em>
+   		</p>
+   		<p>
+   			<img class="center" src="postwaifscover.jpg"  title="COVER,4 MAY 1957 POST" alt="COVER,4 MAY 1957 POST" /><br />
+   			<img class="center" src="postwaifs.jpg"  title="PAGES 26-27, 4 MAY 1957 POST" alt="PAGES 26-27, 4 MAY 1957 POST" />
+   		</p>
+   	</div>
+   	
+   	<div id="longhotsummer" class="hidden">
+   		<a name="longhotsummer"/>
+   		<p><em>Below</em>: two advertising posters for the 1958 20th-Century Fox film <em>The Long Hot Summer</em>:</p>
+
+   		<p>
+   			<img class="center" src="longhotsummer2.jpg"  title="1958 POSTERS FOR THE LONG HOT SUMMER" alt="1958 POSTERS FOR THE LONG HOT SUMMER" />
+   		</p>
+   	</div>
+   	
+   	<div id="tarnishedangels" class="hidden">
+   		<a name="tarnishedangels"/>
+   		<p><em>Below</em>: advertising poster for the 1958 Universal International Film <em>The Tarnished Angels</em>:</p>
+   		
+   		<p>
+   			<img class="center" src="tarnishedangels.jpg"  title="1958 POSTER FOR " alt="1958 POSTER FOR" />
+   		</p>
+   	</div>
    	
    	<div id="wfprint01" class="hidden">
    		<a name="wfprint01"/>
@@ -5948,8 +5978,8 @@
 					Ellington, Lionel Hampton, Louis Armstrong, among others) or to the servants who
 					worked for the fraternities (identified in the group photos simply by their
 					first names). A May 1957 editorial in the student newspaper, <em>The Cavalier
-						Daily</em>, titled &ldquo;<a href="#cavdaily23" class="inline"
-						>Desegregation At The University</a>,&rdquo; refers to &ldquo;the
+						Daily</em>, titled &ldquo;<a href="#cavdaily23" class="inline">Desegregation 
+					At The University</a>,&rdquo; refers to &ldquo;the
 					Negro students [now] enrolled,&rdquo; but adds that there has not been any
 					&ldquo;social mixing between white and Negro&rdquo; at UVA,
 					&ldquo;even when the two have attended dances together in Memorial
@@ -6438,7 +6468,7 @@
 				</ul>
 			</div>
 
-			<div id="audioclip01">
+			<div id="audioclip01" class="hidden">
 				<p>
 					Playing Q&amp;A about "symbolism":<br/>
 					
