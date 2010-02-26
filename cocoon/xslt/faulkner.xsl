@@ -35,7 +35,6 @@
 							});
 						});
 					});
-					</script>
 				</script>
 			</head>
 			<body>		
