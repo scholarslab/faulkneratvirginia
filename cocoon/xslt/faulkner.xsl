@@ -28,7 +28,7 @@
 						// hide entire
 						$('.entire').hide();
 
-						$("a#entire_recording").click(function(){
+						$("img#entire_recording").click(function(){
 							$(this).toggle(function(){
 								$('.player-line').hide();
 								$('.entire').show();
@@ -66,7 +66,7 @@
 			</xsl:for-each>
 			
 			<p>
-				<a id="entire_recording">Play entire recording</a>
+				<img src="entire_recording.png" id="entire_recording" alt="Play entire recording" />
 				<div class="entire"> 
 				<xsl:variable name="filename" select="//idno[@type='digital audio filename']"/>
 				
