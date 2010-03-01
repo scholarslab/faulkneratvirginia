@@ -29,7 +29,10 @@
     * Rename wfaduio26_1 to wfaudio25
     * Locate wfaduio26_1
   # Create play graphic for page
+  # Play Whole Tape 
+    * Create graphic of "PLAY ENTIRE RECORDING" with gradient like "top" and "share"
+    * <strike>Transition hiding of CSS playbars</strike> (completed 2/25/10)  
   
 = Bracketed Items =
-  # Play Whole Tape 
+
   # Note Annotations 
