@@ -30,7 +30,7 @@
 							<input type="text" name="q" value="{$q}"/>
 							<select name="type">
 								<option value="transcription">Audio Transcriptions</option>
-								<option value="prose">Articles</option>
+								<option value="prose">Media Content</option>
 							</select>
 							<input type="submit" value="Search"/>
 						</form>

@@ -7,6 +7,7 @@
 				<xs:element ref="index"/>
 				<xs:element ref="browse"/>
 				<xs:element maxOccurs="unbounded" ref="page"/>
+				<xs:element maxOccurs="1" ref="media-content"/>
 			</xs:sequence>
 		</xs:complexType>
 	</xs:element>
@@ -66,6 +67,13 @@
 			<xs:attribute name="id" use="required" type="xs:NCName"/>
 			<xs:attribute name="slug" use="required" type="xs:NCName"/>
 			<xs:attribute name="title" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="media-content">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" ref="div"/>
+			</xs:sequence>
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="section">

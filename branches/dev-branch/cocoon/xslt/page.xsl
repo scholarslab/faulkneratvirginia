@@ -84,10 +84,22 @@
 							<xsl:when test="string($section)">
 								<xsl:copy-of
 									select="descendant::page[@id=$id]/section[@id=$section]"/>
+								<xsl:for-each select="descendant::page[@id=$id]/section[@id=$section]//a">
+									<xsl:if test="contains(@href, '#')">
+										<xsl:variable name="id" select="substring-after(@href, '#')"/>
+										<xsl:copy-of select="//media-content/div[@id=$id]"/>
+									</xsl:if>
+								</xsl:for-each>
 							</xsl:when>
 							<xsl:otherwise>
 								<xsl:copy-of
 									select="descendant::page[@id=$id]/*[not(name() = 'section')]"/>
+								<xsl:for-each select="descendant::page[@id=$id]/section[@id=$section]//a">
+									<xsl:if test="contains(@href, '#')">
+										<xsl:variable name="id" select="substring-after(@href, '#')"/>
+										<xsl:copy-of select="//media-content/div[@id=$id]"/>
+									</xsl:if>
+								</xsl:for-each>
 							</xsl:otherwise>
 						</xsl:choose>
 					</div>

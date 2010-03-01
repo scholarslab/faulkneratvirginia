@@ -150,10 +150,29 @@
 				<map:serialize type="html"/>
 			</map:match>
 
-			<map:match pattern="page">
+			<map:match pattern="page/*">
 				<map:generate src="data/site_info.xml" label="record"/>
 				<map:transform type="xslt-saxon" src="xslt/page.xsl" label="basiccontent">
 					<map:parameter name="use-request-parameters" value="true"/>
+					<map:parameter name="id" value="{1}"/>
+				</map:transform>
+				<map:serialize type="html"/>
+			</map:match>
+			
+			<map:match pattern="page">
+				<map:generate src="data/site_info.xml" label="record"/>
+				<map:transform type="xslt-saxon" src="xslt/page.xsl" label="basiccontent">
+					<map:parameter name="use-request-parameters" value="true"/>					
+				</map:transform>
+				<map:serialize type="html"/>
+			</map:match>
+			
+			<!-- media content view -->
+			<map:match pattern="media">
+				<map:generate src="data/site_info.xml" label="record"/>
+				<map:transform type="xslt-saxon" src="xslt/media-content.xsl" label="basiccontent">
+					<map:parameter name="use-request-parameters" value="true"/>
+					
 				</map:transform>
 				<map:serialize type="html"/>
 			</map:match>
