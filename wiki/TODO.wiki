@@ -28,6 +28,7 @@
     * Rename wfaudio25 to wfaudio26_2
     * Rename wfaduio26_1 to wfaudio25
     * Locate wfaduio26_1
+  # Create play graphic for page
   
 = Bracketed Items =
   # Play Whole Tape 
