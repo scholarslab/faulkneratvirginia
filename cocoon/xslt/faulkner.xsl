@@ -66,7 +66,7 @@
 			</xsl:for-each>
 			
 			<p>
-				<img src="entire_recording.png" id="entire_recording" alt="Play entire recording" />
+				<img src="/entire_recording.png" id="entire_recording" alt="Play entire recording" />
 				<div class="entire"> 
 				<xsl:variable name="filename" select="//idno[@type='digital audio filename']"/>
 				
