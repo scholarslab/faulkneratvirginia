@@ -6495,7 +6495,7 @@
 					
 					<script language="JavaScript" type="text/javascript">
 						try {
-						QT_WriteOBJECT
+						QT_GenerateOBJECTText
 						('http://qss.itc.virginia.edu/medialab/faulkner_audio/wfaudio30_1.mp4 ',
 						'300', '  16', '',
 						'autoplay', 'false',
