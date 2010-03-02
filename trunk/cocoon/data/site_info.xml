@@ -6490,26 +6490,16 @@
 			</div>
 
 			<div id="audioclip01" class="hidden">
-				<p>
-					Blotner asks Faulkner about symbolism in <em>Pylon</em> (0:40):<br/>
-					
-					<script language="JavaScript" type="text/javascript">
-						try {
-						QT_GenerateOBJECTText
-						('http://qss.itc.virginia.edu/medialab/faulkner_audio/wfaudio30_1.mp4 ',
-						'300', '  16', '',
-						'autoplay', 'false',
-						'scale', 'tofit',
-						'starttime','00:21:04.62:00',
-						'endtime','00:21:41.99:00');
-						}
-						catch (e) {
-						//document.write(e);
-						}</script>
-				</p>
+				
+				<p>Blotner asks Faulkner about symbolism in <em>Pylon</em> (0:40):</p>
+				
+				<script language="JavaScript" type="text/javascript">
+					$(document).ready(function(){
+					$('#audioclip01').qtp('wfaudio30_1.mp4', '00:21:04.62:00', '00:21:41.99:00');
+					});
+				</script>
 			</div>
 			
-
 			<div id="ringleuva" class="hidden essay">
 				<a name="ringleuva"/>
 				<h3 class="center">The University in the Late Fifties</h3>
