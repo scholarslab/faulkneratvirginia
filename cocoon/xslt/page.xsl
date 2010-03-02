@@ -18,8 +18,10 @@
 						<xsl:value-of select="descendant::page[@id=$id]/@title"/></title>
 						
 				<script type="text/javascript" language="javascript" src="javascript/jquery-1.3.2.min.js">//</script>
+				
 				<script type="text/javascript" language="javascript" src="javascript/jquery.colorbox-min.js">//</script>
 				<script type="text/javascript" src="{$path}javascript/AC_Quicktime.js">//</script>
+				<script type="text/javascript" src="{$path}javascript/jquery.qtp.js">//</script>
 				<script type="text/javascript" src="{$path}javascript/jquery.jqprint-0.3.js">//</script>
 		
 				<link type="text/css" href="style.css" rel="stylesheet"/>
