@@ -29,3 +29,6 @@ a:link, a:visited {background:transparent;font-weight:700;text-decoration:underl
 a:link:after, a:visited:after {content:" (" attr(href) ")";font-size:90%;}
 
 .printer_icon {display:none;}
+.player-line, .entire, #entire_recording {display: none;}
+#main_nav {display:none;}
+#footer img {display: none;}
