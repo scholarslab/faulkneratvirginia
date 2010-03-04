@@ -125,7 +125,7 @@
 				alt="Bookmark and Share" style="border:0"/>
 		</a>
 		
-		<a href="#top" class="float_right"><img src="{$path}/top.png" alt=" link to top of the page" title="top" /></a>
+		<a href="#top" class="top_button"><img src="{$path}/top.png" alt=" link to top of the page" title="top" /></a>
 		
 		</div>
 		

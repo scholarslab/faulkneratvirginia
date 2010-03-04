@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
 	xmlns:cinclude="http://apache.org/cocoon/include/1.0" exclude-result-prefixes="cinclude">
 	<xsl:output method="xml" indent="yes" encoding="UTF-8" media-type="text/html"
-		doctype-public="-//W3C//DTD HTML 4.01 Transitional//EN"/>
+		doctype-public="-//W3C//DTD XHTML 1.0 Transitional//EN"/>
 	<xsl:include href="header.xsl"/>
 	<xsl:include href="footer.xsl"/>
 
