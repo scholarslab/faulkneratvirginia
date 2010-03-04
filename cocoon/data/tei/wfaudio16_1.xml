@@ -60,7 +60,7 @@
 	<text>
 		<body>
 			<div1 type="event1"><head>FILENAME: wfaudio16_1</head>
-				<head>DATE: 20 May 1957</head><head>OCCASION: English II Class</head>
+				<head>DATE: 20 May 1957</head><head>OCCASION: Freshman English Class</head>
 				<head>TAPE: T-132</head><head>LENGTH: 32:08</head>
 				<head>READING: From "Old Man"</head>
 				<div2 type="dialog" id="wfaudio16_1.1" start="00:00:02.32" end="00:01:08.08">
@@ -95,7 +95,7 @@
 						and scuttering in the dust; that did it. "How much did you win?" the second
 						convict said.<lb/> "Enough," the tall one said. </writing>
 				</u></div2>
-				<div2 type="reading" id="wfaudio16_1.3" start="00:02:24.29" end="00:03:11.09">
+				<div2 type="reading" id="wfaudio16_1.3" start="00:02:24.29" end="00:03:11.11">
 					<head>Story, Excerpt 2</head>
 					<u who="WF">
 						<writing type="fiction">"How much?"<lb/>
@@ -113,7 +113,7 @@
 						moment came and he said to the launch owner: "I reckon this will do."
 					</writing>
 				</u></div2>
-				<div2 type="reading" id="wfaudio16_1.4" start="00:03:11.10" end="00:04:15.11">
+				<div2 type="reading" id="wfaudio16_1.4" start="00:03:11.11" end="00:04:15.11">
 					<head>Story, Excerpt 3</head>
 					<u who="WF">
 					<writing type="fiction"> "Here?" the launch owner said. "This dont look like
@@ -137,7 +137,7 @@
 						put them on and returned to the skiff and took up the paddle. The woman was
 						already in it. </writing>
 				</u></div2>
-				<div2 type="reading" id="wfaudio16_1.5" start="00:04:15.12" end="00:06:56.99">
+				<div2 type="reading" id="wfaudio16_1.5" start="00:04:15.12" end="00:06:57.05">
 					<head>Story, Excerpt 4</head>
 					<u who="WF">
 					<writing type="fiction">The plump convict stood blinking at him. "So you come
@@ -161,8 +161,8 @@
 						can almost full of ear-rings and brooches and rings bought (or presented at
 						suggestion) from ten-cent stores. Presently he had divulged his plan to her,
 						and there were times later when, musing, the thought occurred to him that
-						perhaps if it had not been for her he would not actually have attempted it—
-						this a mere feeling, unworded, since he could not have phrased this either:
+						perhaps if it had not been for her he would not actually have attempted 
+						it—this a mere feeling, unworded, since he could not have phrased this either:
 						that who to know what Capone's uncandled bridehood she might not have
 						dreamed to be her destined fate, what fast car filled with authentic
 						colored glass and machine guns, running traffic lights. But that was all
@@ -206,7 +206,7 @@
 					stories by alternate chapters. I'd write the chapter of one and then I would
 					write the chapter of the other just as the musician puts in—puts counterpoint
 					behind the theme that he is working with. </u></div2>
-				<div2 type="dialog" id="wfaudio16_1.8" start="00:08:27.52" end="00:08:53.62">
+				<div2 type="dialog" id="wfaudio16_1.8" start="00:08:27.52" end="00:08:53.69">
 					<head>Nameless Characters</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Well, why don't, in this story, none of the characters have names?</u>
@@ -235,7 +235,7 @@
 					rather colorful names, I think.</u>
 				<u who="WF">No, I don't think so. They were—were names, you might say, indigenous to
 					that almost unhuman class of people which live between the Mississippi River and
-					the levee. They belong to no state. They belong to no nation. They—they're not
+					the levee. They belong to no state. They belong to no nation. They—they are not
 					citizens of anything, and sometimes they behave like they don't even belong to
 					the human race.</u>
 				<u who="Q">So, you have had experiences with these people?</u>
@@ -244,9 +244,9 @@
 					with his kinfolks, whatever kin they were I never did know—a shanty boat in the
 					river, and I remember the next morning for breakfast we had a—a bought chocolate
 					cake and a cold possum and corn whiskey. <event desc="audience laughter"/> They
-					had given me the best they had. I was company. They had— had given me the best
+					had given me the best they had. I was company. They had—had given me the best
 					food they had. <event desc="audience laughter"/></u></div2>
-				<div2 type="dialog" id="wfaudio16_1.11" start="00:10:48.13" end="00:12:04.52">
+				<div2 type="dialog" id="wfaudio16_1.11" start="00:10:48.13" end="00:12:04.58">
 					<head>Value of Travel</head>
 					<u who="Q">If I may ask a question pursuing
 					this idea. I believe that earlier in your life that you did quite a bit of
@@ -257,11 +257,11 @@
 				<u who="WF">Well, it don't do you any harm,
 					but it's—you don't have to do it. Homer probably didn't do a great deal of
 					traveling, and he did pretty well as a writer. <event desc="audience laughter"/>
-					That is, the—the material you write from has got to be a good deal more than
+					I—that is, the—the material you write from has got to be a good deal more than
 					just what you can see and remember. It's—it's got to be observation, experience
 					which—and part of experience is what you read—plus imagination. So the
 					observation—don't hurt you. You may need it, but you can get along without it if
-					you have to if the imagination and experience—I think the best source to learn
+					you have to with the imagination and experience.  I think the best source to learn
 					to be a writer is from reading, what the—the best, the giants of—of the past
 					have done. </u></div2>
 				<div2 type="dialog" id="wfaudio16_1.12" start="00:12:05.29" end="00:13:09.51">
@@ -271,7 +271,7 @@
 				<u who="WF">He probably hadn't got around to
 					that yet. His background would be the—the bucolic, provincial Southern Baptist,
 					and it may be a—a debatable question whether that sort of Baptist believes in
-					God or not, but <event desc="audience laughter"/> probably when he got older and
+					God or not, but— <event desc="audience laughter"/>  Probably when he got older and
 					got out of the penitentiary, if he ever did, and he didn't need to <unclear>expend</unclear> too
 					much energy trying to have fun any more, he might have taken up religion, might
 					have been a—a professor of, God whether he believed it or not or even know what
@@ -292,26 +292,26 @@
 					he wanted was to get rid of that woman and get back there where he was safe. But
 					he didn't depend—he was doing the best he could. He depended on his own
 					efforts.</u></div2>
-				<div2 type="dialog" id="wfaudio16_1.14" start="00:13:53.03" end="00:16:30.46">
+				<div2 type="dialog" id="wfaudio16_1.14" start="00:13:52.73" end="00:14:59.25">
 					<head>Convict and Women</head>
 					<u who="Q">Well, when he got back, sir, did
 					he share this view with the others that it was ten years without women—I mean,
 					do you think he minded this?</u>
 				<u who="WF">No, no. He had had enough of
 					women. After that—that girl had jilted him—she was the one that—that put him
-					there. It was to get a lot of money to buy her a lot more of—of the Woolworth
+					there. It was to get a lot of money to buy her a lot more of the Woolworth
 					bracelets and rings. If it hadn't been for her, he wouldn't have been there. He
 					would have been back at his Mississippi hill home working hard all day long and
-					drinking a little corn whiskey on Saturday nights and gambling. </u>
-					<u who="WF">Yes, sir.</u>
-				<u who="Q">Sir, I'm interested in your saying that. <unclear>I'd taken it that he is
-						more betraying more for the events than to be able to pay for the baby from
+					drinking a little corn whiskey on Saturday nights and gambling. <lb/>
+					Yes, sir.</u>
+				<u who="Q">Sir, I'm interested in your saying that. <unclear>I'd taken it that he <unclear>had robbed 
+					the train more for the adventure and to be able to say that he had evaded</unclear>
 						the authorities, rather than for the money.</unclear></u>
 				<u who="WF">No. He wanted to please that
 					girl. He didn't need a lot of money. He was doing all right with his mule, his
 					little piece of corn land, but suddenly he ran into a girl that wanted a lot of
 					Woolworth rings, and so he had to turn robber to get those rings. </u></div2>
-				<div2 type="dialog" id="wfaudio16_1.15" start="00:14:59.38" end="00:17:05.08">
+				<div2 type="dialog" id="wfaudio16_1.15" start="00:14:59.32" end="00:17:05.08">
 					<head>Gendered Meanings</head>
 					<u who="WF"> Yes, sir.</u>
 				<u who="Q">Well, is this <unclear>inability</unclear> or desire not to face women also <unclear>the kind
@@ -320,7 +320,7 @@
 					committed this crime? Did—do you mean this also to be his—his desire not to face
 					life in <inaudible/> to face reality or the return to the womb? You mentioned, too—you
 					spoke of Christmas as being chained by a—a "clanking umbilical" and we talked
-					about this in this— in my class, his jackknife position and the whole idea of
+					about this in this—in my class, his jackknife position and the whole idea of
 					escaping from life—do—does the woman here, especially the pregnant woman, represent
 					life in this sense?</u>
 				<u who="WF">Not to the convict. That is, not
@@ -330,8 +330,8 @@
 					That convict was probably still about fifteen or sixteen years old. And like a
 					boy of—of fifteen or sixteen, the—the first shock of—of disappointment in love, he
 					thinks is going to last forever. Of course, it don't, but that's what he
-					thinks, and the convict never had grown up yet. </u>
-					<u who="WF">Yes, sir.</u>
+					thinks, and the convict never had grown up yet. <lb/>
+					Yes, sir.</u>
 				<u who="Q">Don't you think the seven weeks of <inaudible/> <unclear>there</unclear>, the
 					seven years he lost <inaudible/>?</u>
 				<u who="WF">Well, now that's the sort of
@@ -340,7 +340,7 @@
 					got time to—to watch all those—all those corners and—and symbols and
 					implications, so it's very possible you're right, but—but I—I never thought of
 					that before. </u></div2>
-				<div2 type="dialog" id="wfaudio16_1.16" start="00:17:05.09" end="00:17:36.22">
+				<div2 type="dialog" id="wfaudio16_1.16" start="00:17:05.09" end="00:17:36.25">
 					<head>Convict's Sentence</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Do you think that if the convict had not been given the extra ten
@@ -351,13 +351,13 @@
 					and anything—any sum of time longer than one year is all the same to you when
 					you're fifteen or sixteen years old—that in another year, and you'll be an old
 					man anyway, and so what's ten years more or a hundred years to him? </u></div2>
-				<div2 type="dialog" id="wfaudio16_1.17" start="00:17:40.48" end="00:18:53.78">
+				<div2 type="dialog" id="wfaudio16_1.17" start="00:17:40.48" end="00:18:53.82">
 					<head>Prison Security</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Getting back to this security or insecurity, do you think that enough
 					background was given of the tall convict before he was in—in the penitentiary,
 					before he was sentenced—to—to leave him feel insecure—do you think that he first
-					became insecure when he was in the penitentiary for so long a time than being
+					became insecure when he was in the penitentiary for so long a time being
 					out of it, of—of being insecure?</u>
 				<u who="WF">No, I would that the insecurity
 					came to him with a shock when that woman betrayed him, and he was frightened, and
@@ -368,7 +368,7 @@
 					would have had very little for it, which was just what he got there, but at
 					least behind that barbed wire fence he was safe from another woman that would
 					get him into the—the highwayman business.</u></div2>
-				<div2 type="dialog" id="wfaudio16_1.18" start="00:18:53.79" end="00:19:27.24">
+				<div2 type="dialog" id="wfaudio16_1.18" start="00:18:53.81" end="00:19:27.24">
 					<head>Alternate Ending</head>
 					<u who="Q">Do you think he would have stayed
 						on the—the island with the Cajuns if—hadn't they had to leave?</u>
@@ -389,7 +389,7 @@
 					people, she was glad to leave with him, and when—when she was just about ready to
 					have a child, and she—she made, as I recall, no—no cry to the people in this
 					houseboat to let her come aboard. She was content almost, it seems like, to just
-					stick with him. What is this? I mean, why didn't she try to better herself?</u>
+					stick with him. Why is this? I mean, why didn't she try to better herself?</u>
 				<u who="WF">She didn't know how. She was as
 					ignorant as he was. She came from the same class of people that he came from.
 					She was ignorant. She was—she was afraid of strangers. Of course, the convict
@@ -404,14 +404,14 @@
 					<head>Morality v Fate</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Did you mean to show <unclear>any</unclear> miscarriage of justice by
-					having the additional ten years or rather just to show that although it seemed
+					having the additional ten years, or rather just to show that although it seemed
 					like injustice, that the jail warden was doing <unclear>exactly</unclear> what
 					should have been done anyway <unclear>just</unclear> because of his knowledge of
 					the people <unclear>under his care</unclear>?</u>
 				<u who="WF">That additional ten years
 					was—was simply another quantity in—in fate, just like the flood that he ran
 					into. Once he was in it, he had to accept the—the extra ten years, just as he
-					accepted the flood and worked through it and survive it. There was no—no more
+					accepted the flood and worked through it and survived it. There was no—no more
 					injustice than there was to the flood. It was just something that was in the—the
 					culture, the economy of—of the land he lived in, just like that flood was
 					inherent in the—in the geography and the climate, and he was a man that—that
@@ -430,18 +430,18 @@
 					just wrote it. I was as surprised as anybody else to find where it was going,
 					but the story that I was trying to tell was the story of—of Charlotte and
 					Harry.</u></div2>
-				<div2 type="dialog" id="wfaudio16_1.22" start="00:22:40.86" end="00:23:31.85">
+				<div2 type="dialog" id="wfaudio16_1.22" start="00:22:40.73" end="00:23:21.45">
 					<head>Meaning of Pregnancy</head>
 					<u who="Q">And when you reached the point
 					where he met the woman, what was your purpose of having a pregnant woman?</u>
 				<u who="WF">It—I thought that made it
 					funnier. To me all this is funny. <event desc="audience laughter"/> A
-					little—little more comical to show this man who meant well to—to get involved
+					little—little more comical to show this man who meant well, to get involved
 					in—in all sorts of things that would have made a—a weaker or less centered man
 					blench and falter, but not him. It was because he was just stupid and ignorant
 					enough to—to bull right on through this, to accept anything the gods threw at
 					him without even knowing that he was being tried. </u></div2>
-				<div2 type="dialog" id="wfaudio16_1.23" start="00:23:31.86" end="00:25:10.55">
+				<div2 type="dialog" id="wfaudio16_1.23" start="00:23:21.46" end="00:25:10.58">
 					<head>Humor v Message</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Well, if this is primarily funny, and I <unclear>do
@@ -467,7 +467,7 @@
 					and the—the bizarre, the—the comic, and the tragic conditions they get them
 					in—themselves into simply coping with themselves and one another and
 					environment. </u></div2>
-				<div2 type="dialog" id="wfaudio16_1.24" start="00:25:12.87" end="00:25:49.04">
+				<div2 type="dialog" id="wfaudio16_1.24" start="00:25:12.90" end="00:25:49.04">
 					<head>Story's Title</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Mr. Faulkner, I think you must have put a great deal of time behind
@@ -493,9 +493,9 @@
 					<u who="Q">In the book, you had elaborated to
 					some extent on the fact that the Old—the Old Man was fruitful and life-giving
 					and such, and what it was to farmers and just to the people who lived along the
-					Mississippi and to—to that area. It—it was fruitful and not a destructive
+					Mississippi, and to—to that area. It—it was fruitful and not a destructive
 					force.</u>
-				<u who="WF">Well, the destructive <unclear>quality</unclear>
+				<u who="WF">Well, the destructive <unclear>quantity</unclear>
 					had to be accepted, too. That country where this took place was—is alluvial.
 					It's lower than the river itself. In the winter, it stayed under water from—from
 					the fall rains sometimes as late as June. That was why they had to build the
@@ -503,7 +503,7 @@
 					land. There's a levee, and then you look up in the sky and there goes a
 					steamboat. If the levee ever gives way, the country will be flooded again. It's
 					rich because the—the river for—for hundreds of years had deposited the rich silt
-					on top of the ground, and so the—the river dominates not only the economy of
+					on top of the ground.  And so the—the river dominates not only the economy of
 					that country, but it—it dominates its—its spiritual life. That the river is—is
 					master <unclear>of it</unclear>, and any time the Old Man wants to he can—can
 					break the levee and can ruin the cotton crop. That, in a way, you're—the—the
@@ -513,15 +513,15 @@
 					a contented frame of mind, like the—the ancients with—with the dragon, the
 					Minotaur, the—the symbols of—of destructiveness which they had to placate,
 					sacrifice. </u></div2>
-				<div2 type="dialog" id="wfaudio16_1.27" start="00:28:37.89" end="00:29:43.75">
+				<div2 type="dialog" id="wfaudio16_1.27" start="00:28:37.89" end="00:29:43.96">
 					<head>"Old Man" v "Wild Palms"</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">In putting this woman in the boat with the convict, did you want to draw
 					a point to the lovers in the novel that went along with it or did you just put
-					her in the boat as sort of a hindrance to progress and—</u>
+					her in the boat as sort of a hindrance to progress and— ?</u>
 				<u who="WF">No, that was a definite
 					parallel. The—the isolation, the solitude of—of the boat in that raging torrent
-					was the—the solitude which Harry and Charlotte had— had tried so long to find,
+					was the—the solitude which Harry and Charlotte had—had tried so long to find,
 					where they could be lovers, to escape from—from the world. They went to infinite
 					labor and risk and sacrifice to escape from the world where this convict had
 					been hurled out of the world against his will, whether he wanted to or not. That
@@ -529,7 +529,7 @@
 					sacrificed everything to get. That's what I mean by counterpoint to the theme of
 					the other book, that these two people had what Charlotte and Harry had given up
 					everything—respectability, future, everything, for. </u></div2>
-				<div2 type="dialog" id="wfaudio16_1.28" start="00:29:43.76" end="00:30:15.27">
+				<div2 type="dialog" id="wfaudio16_1.28" start="00:29:43.96" end="00:30:15.27">
 					<head>Contrasting Convicts</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Sir, the short fat convict which you placed in the book, you call him—you
@@ -556,7 +556,7 @@
 				<u who="Q">But he did consider the work at the prison just as much as—</u>
 				<u who="WF">Yes, but he had—he had been gone
 					from there a long time, to him. That must have seemed like years to him that he
-					had been—had been in that boat with that woman, who was a nuisance. </u>
+					had—had been in that boat with that woman, who was a nuisance. </u>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">You sort of draw—you drew a line somewhere in there between the work at
 					the prison and the work with the—with the alligators because he seemed to work
