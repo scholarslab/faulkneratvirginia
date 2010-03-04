@@ -9,7 +9,7 @@
 			<!-- 
 			
 			<h1 class="alt"><xsl:value-of select="document('../data/site_info.xml')//title"/></h1> -->
-			<div style="border-bottom:1px solid silver;display:table;width:100%;">
+			<div id="main_nav">
 				<ul class="menu">
 					<li>
 						<a href="{$path}./">Home</a>

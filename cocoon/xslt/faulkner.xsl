@@ -20,7 +20,8 @@
 					<xsl:value-of select="document('../data/site_info.xml')//title"/>: <xsl:value-of
 						select="TEI.2/teiHeader/fileDesc/titleStmt/title"/>
 				</title>
-				<link rel="stylesheet" type="text/css" href="{$path}style.css"/>				
+				<link rel="stylesheet" type="text/css" href="{$path}style.css" media="screen,projection"/>
+				<link type="text/css" href="{$path}print.css" rel="stylesheet" media="print" />				
 				<script type="text/javascript" src="{$path}javascript/jquery-1.3.2.min.js">//</script>
 				<script type="text/javascript" src="{$path}javascript/AC_Quicktime.js">//</script>
 				<script type="text/javascript">

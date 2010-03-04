@@ -24,8 +24,9 @@
 				<script type="text/javascript" src="{$path}javascript/jquery.qtp.js">//</script>
 				<script type="text/javascript" src="{$path}javascript/jquery.jqprint-0.3.js">//</script>
 		
-				<link type="text/css" href="style.css" rel="stylesheet"/>
-				<link type="text/css" href="colorbox.css" rel="stylesheet" media="screen"/>
+				<link type="text/css" href="/style.css" rel="stylesheet" media="screen, projection"/>
+				<link type="text/css" href="/colorbox.css" rel="stylesheet" media="screen, projection"/>
+				<link type="text/css" href="/print.css" rel="stylesheet" media="print" />
 				
 				<script type="text/javascript" language="javascript">
 				$(document).ready(function() { 
