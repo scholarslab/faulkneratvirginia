@@ -144,6 +144,7 @@ ul.gallery li a {
     width: 513px;
     margin: 0;
     padding-left: 15px;
+	padding-bottom: 15px;
     height: 1%;
 /* Holly hack for Peekaboo Bug */
 }
@@ -336,6 +337,7 @@ img.center {
  */
 #footer {
     margin-top: 2em;
+	clear: both;
     padding: 0;
 }
 #footer p {
