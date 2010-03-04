@@ -12,9 +12,10 @@
 	<xsl:template match="/">
 		<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 			<head>
-				<link type="text/css" href="style.css" rel="stylesheet"/>
 				<title><xsl:value-of select="document('../data/site_info.xml')//title"/>: Browse
 					Transcriptions</title>
+				<link type="text/css" href="/style.css" rel="stylesheet" media="screen,projection"/>
+				<link type="text/css" href="/print.css" rel="stylesheet" media="print" />
 			</head>
 			<body>
 				<div id="wrap">
