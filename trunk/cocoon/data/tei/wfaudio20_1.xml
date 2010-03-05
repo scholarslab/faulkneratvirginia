@@ -104,7 +104,7 @@
 				<div2 type="reading" id="wfaudio20_1.4" start="00:03:43.60" end="00:04:59.90">
 					<head>Speech, Excerpt 1</head>
 					<u who="WF"><writing type="speech">Mr. Chairman, members of the Jefferson Society, the Raven
-						Society, ODK, ladies and gentlemen, a hundred years ago Abraham Lincoln
+						Society, ODK, and ladies and gentlemen, a hundred years ago Abraham Lincoln
 						said, "This nation cannot endure half slave and half free." If he were alive
 						today, he would amend it: "This nation cannot endure containing a minority
 						as large as ten percent held second class in citizenship by the accident of
@@ -215,11 +215,11 @@
 						monuments and milestones to our ridicule and shame.
 					</writing>
 				</u></div2>
-				<div2 type="reading" id="wfaudio20_1.11" start="00:09:34.07" end="00:10:25.73">
+				<div2 type="reading" id="wfaudio20_1.11" start="00:09:34.07" end="00:10:25.78">
 					<head>Speech, Excerpt 8</head>
 					<u who="WF">
 					<writing type="speech">And the place for this to begin is Virginia, the mother
-						of all the rest of us <unclear>from</unclear> the South. Compared to you, my
+						of all the rest of us <unclear>through</unclear> the South. Compared to you, my
 						country—Mississippi, Alabama, Arkansas—is still frontier, still wilderness.
 						Yet even in our wilderness we look back to that mother stock as though it
 						were not really so distant and so far removed. Even in our wilderness the
@@ -233,7 +233,7 @@
 						ever heard or cares about New York or, for that matter, America.
 					</writing>
 				</u></div2>
-				<div2 type="reading" id="wfaudio20_1.12" start="00:10:25.74" end="00:11:40.93">
+				<div2 type="reading" id="wfaudio20_1.12" start="00:10:25.77" end="00:11:40.93">
 					<head>Speech, Excerpt 9</head>
 					<u who="WF">
 					<writing type="speech">So let it begin in Virginia, toward whom the rest of us
@@ -252,7 +252,7 @@
 						believe we will follow you. <event desc="applause"/></writing>
 					
 				</u></div2>
-				<div2 type="dialog" id="wfaudio20_1.13" start="00:11:45.16" end="00:12:04.65">
+				<div2 type="dialog" id="wfaudio20_1.13" start="00:11:45.16" end="00:12:04.69">
 					<head>Audience Prompt</head>
 					<u who="DR">Mr. Faulkner is good enough to
 					answer any questions that you care to raise. You don't have to take issue with
@@ -275,11 +275,11 @@
 					the white man educates himself in order to educate the Negro. We've got to do
 					both at the same time. The Negro is not going to wait any longer.
 				</u></div2>
-				<div2 type="dialog" id="wfaudio20_1.15" start="00:13:25.56" end="00:14:55.47">
+				<div2 type="dialog" id="wfaudio20_1.15" start="00:13:25.56" end="00:14:55.52">
 					<head>Risk of Integration</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Sir, in your talk you had an analogy comparing the Negro with—with
-					unbridled horses. If you tried to break these unbridles horses, and you turned a
+					unbridled horses. If you tried to break these unbridled horses, and you turned a
 					lot of tame ones in, don't you think it's a possibility that you may wind up
 					with just a big group of half-wild horses? <event desc="audience laughter"/></u>
 				<u who="WF">Well, of course, I used the—the horse as a—as a quick analogy to—to
@@ -304,7 +304,7 @@
 					condition, for economic reasons. That's—that's what's so in Mississippi, anyway. But
 					there are people in Mississippi and in Alabama and in Georgia, in the middle
 					of—of—of where the Ku Klux Klan and Citizens Councils are active, that do
-					believe that whether they like it or not that there's a situation now which
+					believe that whether they like it or not, there's a situation now which
 					simply will not go on any longer, and our choice is either to do nothing and be
 					run over and—and trampled, or take ourselves, try to take charge of these
 					unbridled horses. And I think that if—if the people in Mississippi and Arkansas
@@ -318,7 +318,7 @@
 					first step in solving—solving this problem, and if it is taken in Virginia, the
 					people in Mississippi and Alabama will follow when they wouldn't follow Alabama
 					nor Mississippi.</u></div2>
-				<div2 type="dialog" id="wfaudio20_1.17" start="00:17:17.79" end="00:18:57.64">
+				<div2 type="dialog" id="wfaudio20_1.17" start="00:17:17.79" end="00:18:57.74">
 					<head>Moderate Views</head>
 					<u who="DR">There's someone over here.</u>
 				<u who="WF">Yes, sir.</u>
@@ -352,7 +352,7 @@
 					rights completely in order for the Negro to achieve the same rights. In other
 					words, they don't feel that they are balanced. Do you think that is a valid
 					cause for the southern white to be fighting so strenuously to preserve his
-					equivalent right of dissociation?</u>
+					equivalent right of disassociation?</u>
 				<u who="WF">I would say it's valid assuming that the southerner's fear is valid. I
 					think that his—his violent attitude toward integration is based in fear. It's—in
 					Mississippi, it's mainly an economic fear, that he has trained the Negro to—to
@@ -366,7 +366,7 @@
 					doubt if—if some of the white people in the South can ever be brought to take
 					that chance.
 				</u></div2>
-				<div2 type="dialog" id="wfaudio20_1.19" start="00:20:57.53" end="00:22:22.85">
+				<div2 type="dialog" id="wfaudio20_1.19" start="00:20:57.53" end="00:22:22.89">
 					<head>Color Prejudice</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Mr. Faulkner, I believe you inferred in the earlier part of your speech
@@ -393,8 +393,8 @@
 					closed. Do you think that when these schools are closed, the communities will
 					finally come about to deciding that it's better to integrate and educate, or
 					just do away with education?</u>
-				<u who="WF">I think they will come around to integrate for the reason that we have—
-					have made our schools in this country to a sort of a national system of
+				<u who="WF">I think they will come around to integrate for the reason that we 
+					have—have made our schools in this country to a sort of a national system of
 					babysitters, and by the time these children <event desc="audience laughter"/>
 					have been at home underfoot the parents are going to be willing for them to go
 					to school no matter who else is there. <event desc="audience laughter"/>
@@ -414,7 +414,7 @@
 					should be a privilege. People should be willing to—to walk four or five miles to
 					get to school.
 				</u></div2>
-				<div2 type="dialog" id="wfaudio20_1.22" start="00:24:37.08" end="00:25:32.42">
+				<div2 type="dialog" id="wfaudio20_1.22" start="00:24:37.08" end="00:25:28.32">
 					<head>Federal School Aid</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Do you agree with the administration's proposal for federal aid to the
@@ -422,24 +422,25 @@
 				<u who="WF">Yes, if—if the standards of the schools were improved. I think that—that
 					more money ain't going to improve the schools, that the schools themselves are
 					going to have to begin to improve themselves. They're going to have to get rid
-					of a lot of people that don't have any business in schools. They've got to give
+					of a lot of people that don't have any business in school. They've got to give
 					teachers better pay and give the teacher some pride in his job and some security
 					that nobody will—will fire him. But, yes, it—federal aid will—will have to go to
-					the schools because I think the—the communities can't or—or won't. I'm
-					sorry—</u></div2>
-				<div2 type="dialog" id="wfaudio20_1.23" start="00:25:32.43" end="00:26:17.29">
+					the schools because I think the—the communities can't or—or won't.
+					</u></div2>
+				<div2 type="dialog" id="wfaudio20_1.23" start="00:25:30.83" end="00:26:17.29">
 					<head>Qualifying Exams</head>
+					<u who="WF">I'm sorry—</u>
 					<u who="Q">And at what age do you advocate
 					this entrance examination for students—elementary school or high school?</u>
 				<u who="WF">That should—I should think the entrance examination would come only to
 					give the failure a second chance, that he can go to school as he does now. The
 					first time he fails, he goes to a trade school, but he will have the right to
 					swot up and take an entrance examination to get back into the grade that he—he
-					lost. I think that at—at college it should be a board, yes. That no matter what
+					lost. I think that at college it should be a board, yes. That no matter what
 					credits he brings from his school he should pass a board examination to get into
 						college, yes.
 				</u></div2>
-				<div2 type="dialog" id="wfaudio20_1.24" start="00:26:19.49" end="00:26:24.66">
+				<div2 type="dialog" id="wfaudio20_1.24" start="00:26:19.49" end="00:26:44.66">
 					<head>Federal Government</head>
 					<u who="WF">Yes.</u>
 				<u who="Q">Sir, do you think that the federal government will allow the Negro to
@@ -447,7 +448,7 @@
 				<u who="WF">The federal government, I imagine, will do whatever the—the most folks
 					hollering the loudest at it insist on. <event desc="audience laughter"/>
 				</u></div2>
-				<div2 type="dialog" id="wfaudio20_1.25" start="00:26:47.27" end="00:28:20.49">
+				<div2 type="dialog" id="wfaudio20_1.25" start="00:26:47.27" end="00:28:20.59">
 					<head>Northern Interference</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">It seems like the various groups up North which are pushing integration
