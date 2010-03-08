@@ -21,16 +21,20 @@
     * Update index transform to make this "pages"
     * Update JavaScript for graceful degradation
   # Sort out missing audio
-    * Rename wfaudio10 to wfaudio14
-    * Rename wfaudio22_1 to wfaudio22_2
-    * Locate wfaudio10
-    * Locate wfaudio22_1
-    * Rename wfaudio25 to wfaudio26_2
-    * Rename wfaduio26_1 to wfaudio25
-    * Locate wfaduio26_1
+    * <strike>Rename wfaudio10 to wfaudio14</strike> (complete 3/5/10)
+    * <strike>Rename wfaudio22_1 to wfaudio22_2</strike> (complete 3/5/10)
+    * Locate wfaudio10: TEI identifies this as T-118andT-119; mp3 I have does not match
+    * <strike>Locate wfaudio22_1</strike> (completed 3/8/10)
+    * <strike>Rename wfaudio25 to wfaudio26_2</strike> (complete 3/5/10)
+    * <strike>Rename wfaduio26_1 to wfaudio25</strike> (complete 3/5/10)
+    * <strike>Locate wfaduio26_1</strike> (completed 3/8/10): The TEI identifies this as Tape T-143a; this actually appears to be tape T-143c (at least the audio matches the transcript).
+  # Make new mp4 from mislabeled mp3s
+    * wfaudio22_1
+    * wfaudio26_1
+    * wfaudio10
   # Create play graphic for page
   # Play Whole Tape 
-    * Create graphic of "PLAY ENTIRE RECORDING" with gradient like "top" and "share"
+    * <strike>Create graphic of "PLAY ENTIRE RECORDING" with gradient like "top" and "share"</strike> (completed 3/1/10)
     * <strike>Transition hiding of CSS playbars</strike> (completed 2/25/10)  
   
 = Bracketed Items =
