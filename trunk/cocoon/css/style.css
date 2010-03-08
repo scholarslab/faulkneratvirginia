@@ -48,10 +48,9 @@ input.search_box {
 }
 
 .search_button {
-	font-size: 20px;
-	border: 1px solid #ccc;
+	/** background: #eee !important;
 	padding-left: 2px !important;
-	background: none repeat scroll 0 0 #eee;
+	font-size: 18px;*/
 }
 
 a img {
