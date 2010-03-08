@@ -18,6 +18,23 @@
 					
 				<link type="text/css" href="/style.css" rel="stylesheet" media="screen,projection"/>
 				<link type="text/css" href="/print.css" rel="stylesheet" media="print" />	
+				
+				<script type="text/javascript" language="javascript" src="javascript/jquery-1.3.2.min.js">//</script>
+				
+				<script type="text/javascript">
+					$(document).ready(function(){
+						var default_text = "Search the site...";
+						var searchbox = $(".search_box");
+						
+						searchbox.focus(function(){
+							if($(this).attr("value") == default_text) $(this).attr("value", "");
+						});
+						
+						searchbox.blur(function(){
+							if($(this).attr("value") == "") $(this).attr("value", default_text);
+						});
+					});
+				</script>
 			</head>
 			<body>
 				<div id="wrap">
