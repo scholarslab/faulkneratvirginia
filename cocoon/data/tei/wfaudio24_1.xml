@@ -41,6 +41,9 @@
                     <p id="Q">Unidentified participant</p>
                 </person>
                 <person>
+                    <persName id="IC">Irby Cauthen</persName>
+                </person>
+                <person>
                     <persName id="B">Joseph Blotner</persName>
                 </person>
                 <person>
@@ -62,14 +65,16 @@
             <div1 type="event1"><head>FILENAME: wfaudio24_1</head>
                 <head>DATE: 28 April 1958</head><head>OCCASION: First-Year English Class</head>
                 <head>TAPE: T-142c</head><head>LENGTH: 31:56</head>
-                <div2 type="dialog" id="wfaudio24_1.1" start="00:00:03.07" end="00:00:08.07">
+                <div2 type="dialog" id="wfaudio24_1.1" start="00:00:03.07" end="00:00:08.32">
                     <head>Fragment</head>
-                    <u who="WF"><inaudible/> That's the significance of it, <unclear>yes.</unclear></u></div2>
-                <div2 type="dialog" id="wfaudio24_1.2" start="00:00:13.45" end="00:00.21.13">
+                    <u who="WF"><inaudible/> That's the significance of it.</u>
+                    <u who="Q">Yes, sir.</u>
+                </div2>
+                <div2 type="dialog" id="wfaudio24_1.2" start="00:00:14.57" end="00:00.19.53">
                     <head>Audience Prompt</head>
-                    <u who="M">Perhaps some of the others of you have a question now
+                    <u who="IC">Perhaps some of the others of you have a question now
                     about <hi rend="italic">The Unvanquished</hi> or <hi rend="italic">Sartoris</hi>?</u></div2>
-                <div2 type="dialog" id="wfaudio24_1.3" start="00:00.21.14" end="00:02:19.51">
+                <div2 type="dialog" id="wfaudio24_1.3" start="00:00.21.94" end="00:02:19.56">
                     <head>Sprig of Verbena</head>
                     <u who="WF">Yes, sir.</u>
                 <u who="Q">Sir, I'd like to know what you consider the significance of the sprig of
@@ -87,7 +92,7 @@
                     the man who had killed his father, and so he won the moral victory, which took
                     courage, too, and though his stepmother couldn't condone the fact that he had
                     not drawn blood for blood, an eye for an eye, she did realize that took courage,
-                    too, maybe more than to have gone <unclear>on.</unclear> And that was her way of
+                    too, maybe more than to have gone <unclear>armed</unclear>.  And that was her way of
                     saying, "This is not my—my way of solving this, but what you did was
                     brave, too, and this is the way I'll say goodbye," so she left a sprig of
                     verbena where he could find it. That was—took the place of the note
@@ -130,7 +135,7 @@
                         She had paid good money to go there, but she wasn't going to sit and look at
                     Sherman. <event desc="audience laughter"/></u></div2>
                 <div2 type="dialog" id="wfaudio24_1.6" start="00:05:22.44" end="00:06:42.77">
-                    <head>"no bloody moon"</head>
+                    <head>"No bloody moon"</head>
                     <u who="G">Mr. Faulkner, at—toward the end of <hi rend="italic">The
                         Unvanquished</hi>, Aunt Jenny tells Bayard about a blockade runner she knew
                     who used to have the toast "No bloody moon." Was that so that he could get
@@ -144,7 +149,7 @@
                     humorous?</u>
                 <u who="WF">No, by that time, in his concept, that had begun—had become
                     a—a gesture of—of well-wishing. It's almost like "Here's
-                    hoping" or—or—or "May you have an ace in the hole," that
+                    hoping" or—or "May you have an ace in the hole," that
                     sort of thing. It had no connection any more with moonlight, just a way
                     of—of saying, "May you—may you win this gambit." "May there
                     be nothing—may the gods be good to you."
@@ -165,15 +170,15 @@
                 <div2 type="dialog" id="wfaudio24_1.8" start="00:07:51.18" end="00:08:58.44">
                     <head>Byron Snopes</head>
                     <u who="WF">Yes, sir.</u>
-                <u who="Q">What is the <unclear>intention</unclear> of the Snopes in this book and his relationship to the
-                    Benbow girl, <unclear>in <hi rend="italic">Sartoris</hi></unclear>?</u>
+                <u who="Q">What is the <unclear>significance</unclear> of the Snopes in this book and his relationship to the
+                    Benbow girl, <unclear>in <hi rend="italic">Sartoris</hi></unclear>?  <unclear>Do you remember?</unclear></u>
                 <u who="WF">Snopes was clerk in the bank at that time. He saw that girl on the
                     street, and he began to write her letters—letters, probably anonymous
                     letters, containing indecent proposals.</u>
                 <u who="Q">Was <unclear>there any special significance that that was</unclear>
                     supposed to illustrate <inaudible/>?</u>
                 <u who="WF">Well, only to illustrate that—that there was not any sort of
-                    shoddiness and sorryness and baseness that some Snopes wasn't capable 
+                    shoddiness and sorriness and baseness that some Snopes wasn't capable 
                     of. <event desc="audience laughter"/> Not all of them would be capable of all baseness,
                     but any baseness you could think of, there would always be a—one
                     Snopes's footprint there. <event desc="audience laughter"/>
@@ -181,12 +186,12 @@
                 <div2 type="dialog" id="wfaudio24_1.9" start="00:09:01.13" end="00:13:01.33">
                     <head>Symbol of the Train</head>
                     <u who="WF">Yes, sir.</u>
-                <u who="Q">I'd like to know exactly what the train signified since the white boy
-                    had—had seen the train and <unclear>the colored one hadn't</unclear>. The old train out there had been
+                <u who="Q">I'd like to know exactly what the train signified, since the white boy
+                    had—had seen the train and <unclear>the colored one hadn't</unclear>. It meant the old train out may have been
                     ruined by the Yankees. Was that supposed to be some significant thing ruined by
                     the white people themselves?</u>
-                <u who="WF">No, only that the white boy had told the Negro boy about trains, and
-                    the Negro boy had never seen one, and he wanted to see one, too. It was just
+                <u who="WF">No, only that the white boy had told the <unclear>Negro</unclear> boy about trains, and
+                    the <unclear>Negro</unclear> boy had never seen one, and he wanted to see one, too. It was just
                     unlucky that the time the Negro boy got to see the train it—it
                     couldn't have been running fast and fine and free. It was involved in war and
                     destruction at that time, that the Negro boy didn't get to see the splendid,
@@ -197,7 +202,7 @@
                     cope with—with his—his condition, his environment, that even
                     a train that might not have been as fine and beautiful as the one the white boy
                     saw, but he—he had seen a train, too, and the Negro boy could probably
-                    have imagined what that train would look like if it hadn't been in a war. The
+                    have imagined what that train would look like if it hadn't been in war. The
                     white boy might not have been able to.</u>
                 <u who="Q">Well, I was wondering if you had meant any significance concerning
                     freedom, any—any tangible thing?</u>
@@ -208,19 +213,19 @@
                     that to what you read, and so the symbolism probably must be inherent in the
                     work, though the writer does not necessarily need to have said, "Now, I'm going
                     to put a little symbolism right here," because you write from the same thing you
-                    read from, is the general fund of—of—of our record. I mean
+                    read from, is the general fund of—of our record. I mean
                     by "our" all—all Americans, all the English-speaking people,
                         <unclear>or let's say</unclear> all Christian people, read and write from
-                    the same warehouse of—of experience, in the terms of culture, so the
+                    the same warehouse of—of experience, in the terms of culture.  So a 
                     reader, an erudite reader, can find more symbolism than an illiterate reader can
                     simply because the erudite bloke has read more. He has more to cast back to and
                     say, "Oh, yes, that's what this is." The—the—the illiterate
                     one would say, "Yes, this is true," but he sees no connection
                     with—with anything that somebody wrote 500 years ago or that
                     someone—some psychiatrist or psychologist has—has formulated
-                    to explain behavior, which the erudite man knows. But the symbolism I'm sure of.
-                    The—the—the symbols of the symbolism are inherent in the
-                    work if it came from the same culture as the reader and the writer.
+                    to explain behavior, which the erudite man knows. But the symbolism I'm sure are 
+                    the—the—the symbols of the symbolism are inherent in the
+                    work, if they came from the same culture as the reader and the writer.
                 </u></div2>
                 <div2 type="dialog" id="wfaudio24_1.10" start="00:13:05.94" end="00:14:38.18">
                     <head>Young Bayard's Flight</head>
@@ -228,7 +233,7 @@
                     <u who="Q">Sir, in—in <hi rend="italic">Sartoris</hi>, it appears that when Bayard,
                     young Bayard, in the wreck after his grandfather is killed, that he commits a
                     kind of cowardly act by running away. Why didn't he go back and be more or less
-                    brave, as the—to have to show his courage like the Sartoris family
+                        brave, as the—to have—to show his courage like the Sartoris family
                     always has, instead of running away?</u>
                 <u who="WF">I expect that that one of the twins really wasn't brave and knew it. His
                     dead brother was the—the braver, I mean capable of—of the
@@ -242,7 +247,7 @@
                     It may—</u></div2>
                 <div2 type="dialog" id="wfaudio24_1.11" start="00:14:35.11" end="00:17:09.99">
                     <head>Dialogue</head>
-                    <u who="Q">Sir, I'm curious about <unclear>your telling</unclear> of the dialogue in
+                    <u who="Q">Sir, I'm curious about <unclear>your handling</unclear> of the dialogue in
                     your writing. Your—your style is somewhat distinctive, and yet when
                     you <unclear>weld them</unclear> together in the dialogue, there doesn't appear
                     to be any separation <inaudible/> one <unclear>seems</unclear> to flow out of the
@@ -293,7 +298,7 @@
                 <div2 type="dialog" id="wfaudio24_1.13" start="00:18:50.30" end="00:21:27.10">
                     <head>Ringo and Bayard</head>
                     <u who="WF"> I believe you had another question, sir.</u>
-                <u who="Q">Yes, sir. I was thinking <inaudible/>. In <hi rend="italic">The
+                <u who="Q">Yes, sir. I was thinking <unclear>of one</unclear>. In <hi rend="italic">The
                         Unvanquished</hi> up until the time—I think the two boys were
                     about twelve years old. You played up the fact that the white boy was one
                     little step ahead of the colored boy at that time by having seen something that
@@ -302,15 +307,15 @@
                     thought that the colored person was coming into the <unclear>front</unclear>, or
                     into more power or initiative, in that day and age?</u>
                 <u who="WF">Well, I can't say. I think that—that anyone, regardless
-                    of—of color—no, let me—let me start over again. I
+                    of—of color—No, let me—let me start over again. I
                     would say that the color had nothing to do with how much any individual, any
                     human being can take advantage of—of his advantages. In this case,
                     that—that—the Negro boy was faster on his feet than the
                     white boy. That is because maybe the Negro boy had brought something from
                     Africa, when he had to be pretty quick on his feet in the rain forest to stay
                     alive. The white boy had a tradition of an aristocracy in which God had
-                    protected him. He could afford to be a little slow, though if they were put in for
-                    <inaudible/>. I don't think anyone could say that the Negro boy would've been faster
+                    protected him. He could afford to be a little slow, though if they were put in <inaudible/> <unclear>for a 
+                        second</unclear>, I don't think anyone could say that the Negro boy would've been faster
                     then than the white boy. Once the white boy realized that the old, secure
                     condition was gone, then he had to be pretty quick on his feet, too. Though my
                     thought is that—that everybody can't handle freedom if he had it, but
@@ -331,8 +336,8 @@
                     which—which, in this country, people thought of and think of now as a
                     peaceful one. That it was an optimistic one. Nothing was happening. There would
                     be little brush-fire wars that nobody paid much attention to. The country was
-                    growing. The time of—of—of travail and struggle where the hero came into
-                    his own had passed. From '70 on to 1912, 14, nothing happened to Americans to
+                    growing. The time of—of travail and struggle where the hero came into
+                    his own had passed. From '70 on to 1912, '14, nothing happened to Americans to
                     speak of, and this John Sartoris, the father, lived in that time when there was
                     nothing that brought the issue to him to be—be brave and strong or
                     dramatic—well, call it dramatic, not brave, but dramatic. Nothing
@@ -342,7 +347,7 @@
                     father, something that he could have done, you would have a right
                     to—to give it to him, wouldn't you?</u>
                 <u who="WF">Sure, he's already on record, and he's—he's in—in my
-                    stable, too. I can run him any time I find him. <event desc="audience laughter"/></u>
+                    stable, too. I can run him any time I find— <event desc="audience laughter"/></u>
                 <u who="B">Sir?</u>
                 <u who="WF">Yes, sir.</u>
                 <u who="B">Sir, did any of the three manuscripts you burned relate to that
@@ -350,7 +355,7 @@
                 <u who="WF">No, no. None of them did.</u></div2>
                 <div2 type="dialog" id="wfaudio24_1.15" start="00:23:37.01" end="00:24:57.33">
                     <head>Unity of Unvanquished</head>
-                    <u who="Q">Mr. Faulkner, <hi rend="italic">The Unvanquished</hi> was published
+                    <u who="IC">Mr. Faulkner, <hi rend="italic">The Unvanquished</hi> was published
                     originally as a series of short stories, I believe, and then revised for a novel
                     form. When you were writing those short stories, did you have the idea in mind
                     that these would make a novel eventually, or did they just appear after they
@@ -391,19 +396,19 @@
                 <u who="WF">I can't say unless maybe smell is—is one of my sharper senses.
                     Maybe it's sharper than sight. There's no reason.  There's certainly no
                     deliberate intent. That's a part of the environment which the writer is trying
-                    to describe, that to me is—is as noticeable as the ear which hears
+                    to describe.  That to me is—is as noticeable as the ear which hears
                     the—the turns of speech, which could be simply because that's a
                     sharper sense with me than maybe sight or hearing.</u>
                 <u who="Q">Might it also be that it's just—just important in setting the
                     picture, and—and you didn't have to talk about the weather. You could just say the—that the 
-                    smell and the smell <inaudible/>—and would convey <unclear>about heat
+                    smell and the smell <unclear>would convey light and heat
                         and</unclear> things like that?</u>
                 <u who="WF">Yes, naturally, because the writer is trying to—to describe
                     the—the particular instance, the scene, so well that anyone will
                     understand it, will see it, and feel it, too, and the writer whose sense of
                     smell is pretty sharp will use smell. Someone who had constant catarrh and
                     couldn't smell at all would do it, but he wouldn't think of smell because he
-                    hadn't never heard of smell, you might say. That he uses—the writer
+                    hadn't—never heard of smell, you might say. That he uses—the writer
                     uses all his senses to create a scene in which the reader will say, "Yes, that's
                     so. I understand. I can see that. I have seen that, too," or if the sense of
                     smell is strong, "Yes, I've smelled that, too." That's not really a—a
@@ -458,7 +463,7 @@
                     nothing, and I would prefer this to nothing, that I'd prefer breathing to not
                     breathing." But success—it would depend on what anyone means by
                     success. Maybe Ratliff never used that term to himself at all, but probably he
-                    was, in own rights, quite successful. That is, he wanted— <event desc="end of recording"/></u></div2>
+                    was, in own lights, quite successful. That is, he wanted— <event desc="end of recording"/></u></div2>
                 </div1>
         </body>
     </text>
