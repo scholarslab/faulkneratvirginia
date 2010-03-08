@@ -30,9 +30,12 @@
 				
 				<script type="text/javascript" language="javascript">
 				$(document).ready(function() { 
+					// attach a printer
+					$('.hidden').prepend('<img class="print_hidden" src="/Printer.png />");				
+				
 					// enable the plumbing for printing
 					$('.print_hidden').click(function(){
-						$(this).parent().jqprint({operaSupport: true});
+						$(this).parent().jqprint({operaSupport: true, importCSS: true});
 					});
 					
 					//hide inline content
