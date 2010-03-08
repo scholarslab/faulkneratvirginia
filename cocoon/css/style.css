@@ -307,6 +307,9 @@ dd {
 	margin: 0;
 }
 
+.article, .essay {padding: 2em;}
+
+
 /**
   *
   * Style Hacks
