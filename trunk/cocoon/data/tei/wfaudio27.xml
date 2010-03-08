@@ -71,11 +71,11 @@
             <div1 type="event1"><head>FILENAME: wfaudio27</head>
                 <head>DATE: 6 May 1958</head><head>OCCASION: What's the Good Word Radio Program</head>
                 <head>TAPE: T-141c</head><head>LENGTH: 26:20</head>
-                <div2 type="dialog" id="wfaudio27.1" start="00:00:13.09" end="00:01:10.46">
+                <div2 type="dialog" id="wfaudio27.1" start="00:00:13.09" end="00:01:10.49">
                     <head>Program Introduction</head>
                     <u who="E">You can hear the opening <unclear>for the program</unclear>.</u>
                     <u who="A">"What's the good word?" <event desc="theme music"/> </u>
-                    <u who="E"><inaudible/></u>
+                    <u who="E">It's going on <inaudible/></u>
                     <u who="A">Welcome now
                     to <hi rend="italic">What's the Good Word</hi>, a weekly presentation of the
                     University of Virginia designed to inform and entertain the people of Virginia
@@ -83,29 +83,28 @@
                     language you speak? Our host for the program is Mr. Edward Stevenson of the
                     Department English Language and Literature of the University in Charlottesville.
                         <event desc="theme music"/> Now here's Mr. Stevenson.</u></div2>
-                <div2 type="dialog" id="wfaudio27.2" start="00:01:10.47" end="00:02:00.85">
+                <div2 type="dialog" id="wfaudio27.2" start="00:01:10.48" end="00:02:03.15">
                     <head>Show 1 Introduction</head>
                     <u who="ES">Today we are very fortunate to have as our special guest Mr. William
                     Faulkner of Oxford, Mississippi, the celebrated—justly celebrated
                     Southern writer of fiction and winner of the Nobel Prize for Literature in 1949.
                     Our panel is somewhat larger than usual today, as several of the students from
                     my English 32 class have joined us. In addition to Mr. Robert Kellogg of the
-                    Department of English, one of our regular panel members, and we have with us
+                    Department of English, one of our regular panel members, we have with us
                     also today Mr. Houk, Mrs. Massey, Miss Winslow, Miss Taylor, Miss Marston, Mr.
                     Bagley, Mr. Nesbit, Mr. Miller, Mr. Carlson and Miss <unclear>Frane</unclear> of
                     the class in the history of the English language who are here to ask Mr.
                     Faulkner some questions about his use of dialect and other questions concerning
                     language in his fiction writing. And I suppose without further ado we might as
-                    well start on the questions. 
+                    well start on the questions. <lb/>
+                        Mr. Houk, will you lead off with the first question, please?   
                     </u></div2>
-                <div2 type="dialog" id="wfaudio27.3" start="00:02:00.86" end="00:03:10.23">
+                <div2 type="dialog" id="wfaudio27.3" start="00:02:03.16" end="00:03:10.23">
                     <head>Doom's Name</head>
-                    <u who="ES"> Mr. Houk, will you
-                    lead off with the first question, please?</u>
                 <u who="H">Yes. Mr. Faulkner, your character Doom has the—a curious
                     history for his name. His Indian name Ikkemotubbe was translated  
                     <hi rend="italic">L'homme</hi> or <hi rend="italic">De l'homme</hi> in French,
-                    then was translated by him back to Doom in English. I understandinto that's
+                    then was translated by him back to Doom in English. I understand that's
                     correct.</u>
                 <u who="WF">That's correct. It was translated back to Doom not by him but by his
                     associates trying to pronounce his French name, given to him by the French
@@ -113,14 +112,14 @@
                     in New Orleans. That was simply an anglicization of the French <hi rend="italic">De l'homme</hi>.</u>
                 <u who="H">And that Anglicization would be your imagination—from your
                     imagination rather than from facts. In other words, you do not know a parallel
-                    such as this one in New Orleans.</u>
+                    such as this one in Indian lore.</u>
                 <u who="WF">No, I would certainly like to think I invented that.</u></div2>
                 <div2 type="dialog" id="wfaudio27.4" start="00:03:12.14" end="00:03:54.03">
                     <head>Use of Aint</head>
                     <u who="Q">Mr. Faulkner, I'd like to ask you about your use of "aint" in the
                     dialogue of your characters. In particular, in <hi rend="italic">As I Lay
                         Dying.</hi> When Anse Bundren is talking to Vernon Tull he says, "I aint
-                    asking it of you, he says, I can always do for me and mine. I aint asking you to
+                    asking it of you, he says, I can always do it for me and mine. I aint asking you to
                     risk your mule. It aint your dead; I am not blaming you." Now why do you have
                     the switch between—from "aint" to "am not"?</u>
                 <u who="WF">"Am not" is more positive.</u>
@@ -130,7 +129,7 @@
                 <div2 type="dialog" id="wfaudio27.5" start="00:03:55.97" end="00:04:51.40">
                     <head>Title Light in August</head>
                     <u who="Q">Mr. Faulkner, in <hi rend="italic">The Portable Faulkner</hi> the editor
-                    says "Incidentally the title of the novel has nothing to do with August
+                    says, "Incidentally the title of the novel has nothing to do with August
                     sunlight; it refers to Lena Grove and her baby. In the Mississippi backwoods, it
                     is sometimes said of a pregnant woman, but more often of a mare or cow, that she
                     will be light in August or September." Is this how you meant it to
@@ -139,12 +138,12 @@
                     in my country, in a spell of two or three cool days we call "blackberry winter."
                     It's the light. I had never heard that business of after the cow drops the calf
                     she's light in August.</u>
-                <u who="Q">And that—you don't know that expression at all.</u>
+                <u who="ES">And that—you don't know that expression at all.</u>
                 <u who="WF">No.</u>
-                <u who="Q">I haven't heard it in Georgia either.</u>
+                <u who="ES">I haven't heard it in Georgia either.</u>
                 <u who="Q">I suppose people have spoken to you of it since then?</u>
                 <u who="WF">Yes.</u></div2>
-                <div2 type="dialog" id="wfaudio27.6" start="00:04:53.02" end="00:05:41.83">
+                <div2 type="dialog" id="wfaudio27.6" start="00:04:53.02" end="00:05:52.38">
                     <head>Character Names</head>
                     <u who="Q">Mr. Faulkner, in connection with this class in particular, we've been
                     very interested in reading about names in America, about personal and
@@ -154,14 +153,12 @@
                 <u who="WF">I think any writer is very careful always not to use actual names if he
                     can help it because a great deal of his time would be taken up explaining to the
                     actual owner of that name that he didn't refer to him, was not impugning his
-                    character nor his past nor his parentage.</u></div2>
-                <div2 type="dialog" id="wfaudio27.7" start="00:05:41.84" end="00:05:52.34">
-                    <head>Suratt and Ratliff</head>
-                    <u who="Q">Originally in "The Spotted Horses" story, weren't you going to call the
+                    character nor his past nor his parentage.</u>
+                    <u who="ES">Originally in "The Spotted Horses" story, weren't you going to call the
                     sewing machine salesman Suratt, and then you met somebody by that name so you
-                    changed the name to Ratliff—</u>
+                    changed the name to Ratliff, <unclear>didn't you</unclear>?</u>
                 <u who="WF">Yes, that's right.</u></div2>
-                <div2 type="dialog" id="wfaudio27.8" start="00:05:52.35" end="00:06:32.26">
+                <div2 type="dialog" id="wfaudio27.7" start="00:05:52.38" end="00:06:32.30">
                     <head>Sartoris' Dialect</head>
                     <u who="Q">Mr. Faulkner, does the speech of Sartoris in the story "Ad Astra" have
                     any special dialect qualities? Is it a southern speech, or is it just the speech
@@ -170,19 +167,19 @@
                     education. It was a speech he had heard from his associates back on his
                     Mississippi plantation, colored just a little by what he had listened to serving
                     with English troops probably.</u></div2>
-                <div2 type="dialog" id="wfaudio27.9" start="00:06:32.90" end="00:07:15.74">
+                <div2 type="dialog" id="wfaudio27.8" start="00:06:32.90" end="00:07:15.79">
                     <head>Lief</head>
                     <u who="Q">Mr. Faulkner, Ek Snopes uses the archaic word "<unclear>lief</unclear>"
                     in "I'd just as lief let them stay out there." Is this word still common in
                     Mississippi?</u>
                 <u who="WF">Oh yes, there are any number of words derived from lowland Scottish in
                     Mississippi country people's talk. They say "to ret up a room."</u>
-                <u who="Q">That <unclear>leif</unclear>—it may be just my own
+                <u who="ES">That <unclear>leif</unclear>—it may be just my own
                     inexperience, but I haven't come across that in Georgia. I wonder—it
                     may be a difference between the speech of Georgia—popular speech, folk
                     speech in Georgia and in Mississippi. I remember being struck by that too,
                     because I wasn't familiar with it in Georgia speech.</u></div2>
-                <div2 type="dialog" id="wfaudio27.10" start="00:07:15.75" end="00:07:49.35">
+                <div2 type="dialog" id="wfaudio27.9" start="00:07:15.75" end="00:07:49.38">
                     <head>Dialect and Characterization</head>
                     <u who="Q">Mr. Faulkner, to what degree do you consider dialect in speech important
                     in characterization?</u>
@@ -190,7 +187,7 @@
                     mouth. It is important as a part of the picture of the man, an indigenous
                     picture of the individual. In that sense it's important, that is a man will
                     speak according to his nature, his degree and his geography.</u></div2>
-                <div2 type="dialog" id="wfaudio27.11" start="00:07:49.36" end="00:09:03.38">
+                <div2 type="dialog" id="wfaudio27.10" start="00:07:49.36" end="00:09:03.38">
                     <head>Ourn and Hisn</head>
                     <u who="ES">Here's an example, Mr. Faulkner, that might have a bearing on that. In
                     the story "Barn Burning," the little boy, Sarty Snopes, uses the forms, the
@@ -209,16 +206,16 @@
                     their speech from the white people, or whether the white people were influenced
                     by the Negroes. I guess we'd better not get into that—it's too
                     complicated a question.</u></div2>
-                <div2 type="dialog" id="wfaudio27.12" start="00:09:04.35" end="00:09:49.93">
+                <div2 type="dialog" id="wfaudio27.11" start="00:09:04.35" end="00:09:49.86">
                     <head>Old Man Falls' Dialect</head>
-                    <u who="Q">Mr. Faulkner, in <hi rend="italic">Sartoris</hi> Old Man Falls is a
+                    <u who="Q">Mr. Faulkner, again from <hi rend="italic">Sartoris</hi>: Old Man Falls is a
                     strong dialect characterization. How did you arrive at his speech, and what
                     level of society is he intended to represent?</u>
                 <u who="WF">He represents the—the older class of Southerner. He was not
                     quite illiterate in his time as the—as a Snopes would be in his. He
-                    had a close association with people that were literate. But he too belongs to
+                    had a close association with people that—that were literate. But he too belongs to
                     the—the class whose ancestors owned no slaves.</u></div2>
-                <div2 type="dialog" id="wfaudio27.13" start="00:09:51.54" end="00:10:34.05">
+                <div2 type="dialog" id="wfaudio27.12" start="00:09:51.54" end="00:10:34.05">
                     <head>Y'awl</head>
                     <u who="Q">Mr. Faulkner, I was wondering, from your short story "That Evening
                     Sun"—there's a section when Jason talks with Nancy, he says, I'm
@@ -231,9 +228,9 @@
                 <u who="WF">Never singular.</u>
                 <u who="Q">Have you ever heard it used in the singular?</u>
                 <u who="WF">No.</u>
-                <u who="Q">I never have either. I'll bear you out on that.</u>
+                <u who="ES">I never have either. I'll bear you out on that.</u>
                 <u who="WF">I've heard Northerners use it in the singular. <event desc="audience laughter"/></u></div2>
-                <div2 type="dialog" id="wfaudio27.14" start="00:10:35.34" end="00:11:52.60">
+                <div2 type="dialog" id="wfaudio27.13" start="00:10:35.34" end="00:11:52.60">
                     <head>Sophonisba v Sophonsiba</head>
                     <u who="Q">Mr. Faulkner, there's a traditional character in literature, Sophonisba,
                     who was the daughter of Hasdrubal, and the subject of many tragedies. She is not
@@ -242,14 +239,14 @@
                     believe is the way you pronounce her name, is that—is the change of
                     that "s" from Sophonisba to Sophonsiba, a change just of the "s" not of the
                     accent, is that your—is that intentional?</u>
-                <u who="WF">Intentional in this sense—to imply that the people of her
+                <u who="WF">Intentional in this sense: to imply that the people of her
                     class and her time were involved with books, with culture, but they were
                     careless with it too, and they would mispronounce the names, they would take
                     classical names and give to the Negro slaves and would probably mispronounce
-                    them, so that after the Negro has passed it on to his children it became
+                    them, so that after the Negro had passed it on to his children it became
                     something else, but at one time it came out of the classics, that someone who
                     had read the Latin or the Greek had seen it.</u></div2>
-                <div2 type="dialog" id="wfaudio27.15" start="00:11:52.61" end="00:12:51.27">
+                <div2 type="dialog" id="wfaudio27.14" start="00:11:52.61" end="00:12:51.27">
                     <head>Dialect and Caste</head>
                     <u who="Q">We've sort of talked around this. I was wondering, do you have any key by
                     which you go to make a distinction between the dialogue of your
@@ -260,10 +257,10 @@
                 <u who="WF">No, of course not deliberately. It's a—a—a concept
                     that the Compson would speak a little differently from a Snopes, or from an
                     intermediate between Compson and Snopes. That's a matter of the
-                    ear—that these people, when a writer gets the character properly on
-                    his feet, the character takes charge of things. The character says, This is what
-                    I'm going to say, you put it down.</u></div2>
-                <div2 type="dialog" id="wfaudio27.16" start="00:12:51.28" end="00:13:33.29">
+                    ear, that these people—when a writer gets the character properly on
+                    his feet, the character takes charge of things. The character says, "This is what
+                    I'm going to say, you put it down."</u></div2>
+                <div2 type="dialog" id="wfaudio27.15" start="00:12:51.28" end="00:13:33.29">
                     <head>Show 1 Close</head>
                     <u who="ES">Thank you very much, Mr. Faulkner. Our time will not permit further
                     questioning at this session, but be with us again next week, when again our
@@ -275,12 +272,12 @@
                     this time. This is Edward Stevenson with the Department of English, asking you
                     to be again with us at the same next week for another session on this same
                         subject.</u></div2>
-                <div2 type="dialog" id="wfaudio27.17" start="00:13:34.91" end="00:13:55.27">
+                <div2 type="dialog" id="wfaudio27.16" start="00:13:34.91" end="00:13:55.27">
                     <head>Program Introduction</head>
                     <u who="A">Our host for the pr— <event desc="gap in tape"/>
                     Stevenson of the Department English Language and Literature of the University in
                     Charlottesville. <event desc="theme music"/> Now here's Mr. Stevenson.</u></div2>
-                <div2 type="dialog" id="wfaudio27.18" start="00:13:55.28" end="00:14:41.17">
+                <div2 type="dialog" id="wfaudio27.17" start="00:13:55.28" end="00:14:41.19">
                     <head>Show 2 Introduction</head>
                     <u who="ES">We're very happy to bring you again today our Writer in Residence at the
                     University, Mr. William Faulkner of Oxford, Mississippi, who has consented to
@@ -290,12 +287,11 @@
                     usual. Besides myself and Mr. Kellogg of the Department of English, we have Mr.
                     Houk, Mrs. Massey, Miss Winslow, Miss Taylor, Miss Marston, Mr. Bagley, Mr.
                     Nesbit, Mr. Miller, Mr. Carlson and Miss <unclear>Frane</unclear> of the English
-                    32 class. 
+                    32 class. <lb/>
+                      And now without further ado, Miss Winslow, will you please lead off with the first question?
                     </u></div2>
-                <div2 type="dialog" id="wfaudio27.19" start="00:14:41.18" end="00:15:12.53">
+                <div2 type="dialog" id="wfaudio27.18" start="00:14:41.21" end="00:15:12.58">
                     <head>Short v Long Titles</head>
-                    <u who="ES">And now without
-                    further ado, Miss Winslow, will you please lead off with the first question?</u>
                 <u who="W">Mr. Faulkner, I've noticed a lot of your short stories have very short
                     titles. Do you think that's more effective than a long title?</u>
                 <u who="WF">I doubt if there can be any rule about that. I think that anything, the
@@ -303,28 +299,28 @@
                     themselves quite often. Yes, in that anything, the shorter it's said the better
                     it is.</u>
                 <u who="ES">"Long" is a <inaudible/> good long title, or "Wash."</u></div2>
-                <div2 type="dialog" id="wfaudio27.20" start="00:15:12.54" end="00:15:59.40">
+                <div2 type="dialog" id="wfaudio27.19" start="00:15:12.54" end="00:15:59.44">
                     <head>Jefferson's Name</head>
                     <u who="Q">Mr. Faulkner, this might sound like a typical question from a proud
                     Virginian, but how did you arrive at—at—arrive at the name
                     Jefferson for the town?</u>
                 <u who="WF">I told that in a book called <hi rend="italic">Requiem for a Nun</hi>.
-                    It was the mail carrier in 1811 or '12 it was who brought the mail into what was
+                    It was the mail carrier, in 1811 or '12 it was, who brought the mail into what was
                     then an Indian trading post had—had been a tenant on Mr. Jefferson's
                     place, one of Mr. Jefferson's places here in Albemarle County. It's an involved,
                     long story, but it explains how they named the town Jefferson.</u>
                 <u who="ES">Well that's interesting. I never knew that it really was connected with
                     Thomas Jefferson. Very good.</u></div2>
-                <div2 type="dialog" id="wfaudio27.21" start="00:15:59.41" end="00:16:39.16">
+                <div2 type="dialog" id="wfaudio27.20" start="00:15:59.41" end="00:16:39.16">
                     <head>Use of Dialect</head>
                     <u who="Q">Mr. Faulkner, in your writing of dialogues, do you present the words of
                     your characters as they would have spoken them? Or do you just use a touch of
                     dialect to color the character?</u>
                 <u who="WF">I think it's best to use as little dialect as possible because it
                     confuses people who are not familiar with it. That nobody should let the
-                    character speak completely in his own vernacular, it's best indicated by a few
+                    character speak completely in his own vernacular.  It's best indicated by a few
                     simple, sparse but recognizable touches.</u></div2>
-                <div2 type="dialog" id="wfaudio27.22" start="00:16:39.17" end="00:18:03.37">
+                <div2 type="dialog" id="wfaudio27.21" start="00:16:39.17" end="00:18:03.37">
                     <head>Child Narrators</head>
                     <u who="RK">Mr. Faulkner, I'd like to ask you a question if it's not too involved
                     along those lines. Last week we were talking about the use of dialect to
@@ -343,7 +339,7 @@
                 <u who="WF">Yes, that his point of view is still that of his age, even though his
                     diction may not be.</u>
                 <u who="RK">Yes, sir.</u></div2>
-                <div2 type="dialog" id="wfaudio27.23" start="00:18:03.38" end="00:19:03.33">
+                <div2 type="dialog" id="wfaudio27.22" start="00:18:03.38" end="00:19:03.33">
                     <head>Historicizing Dialect</head>
                     <u who="Q">Sir, would you make any distinction between what, say, a southern
                     mountain character would say in 1920 and what he would say in 1950, or is it
@@ -357,15 +353,15 @@
                     1880s and maybe the 1920s?</u>
                 <u who="WF">No more than we just stated, the vocabulary might change but
                     the—the diction wouldn't.</u></div2>
-                <div2 type="dialog" id="wfaudio27.24" start="00:19:03.34" end="00:20:09.11">
+                <div2 type="dialog" id="wfaudio27.23" start="00:19:03.34" end="00:20:09.11">
                     <head>Faulkner's Own Dialect</head>
-                    <u who="Q">Mr. Faulkner, in listening to several of your talks I find that I am sort
-                    of curious about <inaudible/> often you use what is generally considered to be bad
+                    <u who="Q">Mr. Faulkner, in listening to several of your talks I find <unclear>it sort 
+                        of curious and rather remarkable</unclear> that often you use what is generally considered to be bad
                     grammar, for instance "he dont," "aint." Do you have a conscious intent in
-                    talking <inaudible/>?</u>
+                    talking <unclear>in this manner</unclear>?</u>
                 <u who="WF">No.</u>
-                <u who="Q">Is it a—certainly I have no question that you know what the
-                    current grammar is <inaudible/>. Is it just a recollection in your mind of the speech
+                <u who="Q">Is it a—certainly I have no question that you know what <unclear>good</unclear> 
+                    grammar is <inaudible/>. Is it just a recollection in your mind of the speech
                     in Mississippi at the <inaudible/>?</u>
                 <u who="WF">Probably old muscular habits in speech, if you will agree
                     that—that speech can have old muscular habits, just like the arm or
@@ -375,16 +371,16 @@
                 <u who="WF">Probably, yes.</u>
                 <u who="ES">You find—you find for instance things like "he don't" in the
                     letters of Lord Byron, I've noticed.</u></div2>
-                <div2 type="dialog" id="wfaudio27.25" start="00:20:11.21" end="00:20:36.10">
+                <div2 type="dialog" id="wfaudio27.24" start="00:20:11.21" end="00:20:36.14">
                     <head>Negro Dialect</head>
                     <u who="Q">Sir, do you think that the dialect or speech of southern Negroes is a
-                    deterrent to his progress <inaudible/></u>
+                    deterrent to his progress <inaudible/>?</u>
                 <u who="WF">No, I shouldn't think that—that anyone's speech should be a
                     deterrent to his progress if he just don't use too much of it. I think a lot
                     of— <event desc="audience laughter"/></u>
                 <u who="Q">Well put.</u>
                 <u who="WF">I think a lot of people talk too much.</u></div2>
-                <div2 type="dialog" id="wfaudio27.26" start="00:20:36.11" end="00:22:00.47">
+                <div2 type="dialog" id="wfaudio27.25" start="00:20:36.11" end="00:22:00.47">
                     <head>Molly Beauchamp v Falls</head>
                     <u who="Q">Mr. Faulkner, the wife in "The Fire and the Hearth," <inaudible/> an educated
                     Negro woman, seems in direct contrast to Old Man Falls in <hi rend="italic">Sartoris</hi>. This is a transcription of her speech: "Where are you going
@@ -394,16 +390,16 @@
                     sock feet propped on the po'ch railin', smokin' this hyer very pipe." Since the
                     copyright date on <hi rend="italic">Sartoris</hi> is 1929 and the copyright date
                     on <hi rend="italic">Go Down, Moses</hi>, from which "The Fire and the Hearth"
-                    is taken is much later, does this difference in true—in the
+                    is taken, is much later, does this difference in true—in the
                     representation of dialect indicate a definite trend on your part, or is this
                     merely a social difference?</u>
                 <u who="WF">I would say it's a social difference, that the Negro woman maybe had a
                     little more to say to tell the story, which gets back to what we just spoke of.
-                    Also she had been associated with a better class of whi—a more
+                    Also she had been associated with a better class of white—a more
                     literate, cultured class of white people for more of her life than Old Man Falls
                     had. It may be the Negro woman had a little more chance to talk than Old Man
                     Falls had.</u></div2>
-                <div2 type="dialog" id="wfaudio27.27" start="00:22:02.73" end="00:23:56.35">
+                <div2 type="dialog" id="wfaudio27.26" start="00:22:02.73" end="00:23:56.35">
                     <head>Southern Dialects</head>
                     <u who="Q">Mr. Faulkner, there has appeared in <hi rend="italic">American
                         Speech</hi> magazine some articles on the Southern dialect, and it points
@@ -416,6 +412,7 @@
                     draw a rough line down Alabama, and have a different dialect on your side?</u>
                 <u who="ES">Sort of two subdialects, maybe an eastern and a western division of the
                     Southern dialect?</u>
+                    <u who="Q">That's right.</u>
                 <u who="WF">I'm not too certain of that. I do know the dialect in some parts of
                     Mississippi and Louisiana has been colored a little by French and Spanish
                     influence. I think that the dialect would be consistent more by contour lines.
@@ -425,21 +422,21 @@
                     Georgia, the flatlands of Alabama and Mississippi would speak a dialect, which
                     would be almost identical. The people along the coast would speak a dialect
                     colored just a little by the influence of Spanish and French and Creole.</u></div2>
-                <div2 type="dialog" id="wfaudio27.28" start="00:23:56.36" end="00:24:51.63">
+                <div2 type="dialog" id="wfaudio27.27" start="00:23:56.36" end="00:24:51.63">
                     <head>Wash Jones' Dialect</head>
                     <u who="Q">In connection with this, sir, Wash Jones uses speech characterized by the
                     following: "air" for "are," "yit" for "yet," and "hit" for "it," and various
                     others of course. Although we know from our studies in our class that this is
                     generally common Southern speech, many of your characters on somewhat the same
                     social plane as Wash Jones do not use this type of speech. In the genealogy at
-                    the rear of the—<hi rend="italic">Absalom</hi>
-                    <inaudible/>
-                    <hi rend="italic">Absalom, Absalom!</hi> Wash Jones is said to—it's
-                    said that the date and location of birth is unknown. Could we assume possibly
+                    the rear of the—<hi rend="italic">Absalom</hi>, 
+                    Modern Library 
+                    <hi rend="italic">Absalom, Absalom!</hi>, Wash Jones is said to—it's
+                    said that the date and location of his birth is unknown. Could we assume possibly
                     that he comes from—from somewhere in Tennessee, if he uses this
                     speech?</u>
                 <u who="WF">From a hill country, yes.</u></div2>
-                <div2 type="dialog" id="wfaudio27.29" start="00:24:51.64" end="00:26:10.34">
+                <div2 type="dialog" id="wfaudio27.28" start="00:24:51.64" end="00:26:10.34">
                     <head>Use of Alliteration</head>
                     <u who="ES">Here's a question I'd like to get in before our time runs out, about a
                     linguistic device that writers often use, more commonly seen in poets perhaps
@@ -462,7 +459,7 @@
                 <u who="WF">A reviser would but nobody is going to revise if he can help it. That
                     is, nobody revises for fun. If it's all right he lets it go. The publisher can
                     correct the grammar if he thinks it's needed.</u></div2>
-                <div2 type="dialog" id="wfaudio27.30" start="00:26:10.35" end="00:26:15.84">
+                <div2 type="dialog" id="wfaudio27.29" start="00:26:10.35" end="00:26:15.84">
                     <head>Show 2 Close</head>
                     <u who="ES">Well, I see our time has run out. I want to thank Mr.
                         Faulkner— <event desc="end of recording"/></u></div2>
