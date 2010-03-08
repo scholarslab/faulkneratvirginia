@@ -33,6 +33,8 @@
 						searchbox.blur(function(){
 							if($(this).attr("value") == "") $(this).attr("value", default_text);
 						});
+						
+						searchbox.blur();
 					});
 				</script>
 			</head>
