@@ -185,12 +185,11 @@ ul.gallery li a {
     color: #CFAB88;
     padding: 8px 0 0 10px;
 }
-.unclear {
-}
-.gap {
-}
-.event {
-}
+
+.unclear { }
+.gap { }
+.event { }
+
 li {
     font-family: Helvetica, "Trebuchet MS", Trebuchet, Verdana, arial, sans-serif;
     font-size: 85%;
@@ -302,7 +301,13 @@ dd {
     float: left;
     margin: 0 15px 5px 0;
 }
-/*
+
+.play_inline {
+	padding: 6px;
+	margin: 0;
+}
+
+/**
   *
   * Style Hacks
  */
