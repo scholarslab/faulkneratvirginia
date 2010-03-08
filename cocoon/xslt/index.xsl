@@ -17,7 +17,8 @@
 					<xsl:value-of select="document('../data/site_info.xml')//title"/>
 				</title>
 				
-				<link type="text/css" href="style.css" rel="stylesheet"/>
+				<link type="text/css" href="/style.css" rel="stylesheet" media="screen,projection"/>
+				<link type="text/css" href="/print.css" rel="stylesheet" media="print" />
 				
 			</head>
 			<body>
