@@ -307,7 +307,7 @@ dd {
 	margin: 0;
 }
 
-.article, .essay {padding: 2em;}
+#cboxLoadedContent > div { padding: 2em; }
 
 
 /**
