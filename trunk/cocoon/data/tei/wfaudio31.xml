@@ -94,7 +94,7 @@
 						dark, standing darkly and immobile out of it. 
 					</writing>
 					</u></div2>
-				<div2 type="reading" id="wfaudio31.4" start="00:02:37.40" end="00:03:54.91">
+				<div2 type="reading" id="wfaudio31.4" start="00:02:37.40" end="00:03:54.98">
 					<head>Story, Excerpt 2</head>
 					<u who="WF">
 					<writing type="fiction">Then, as though at signal, the
@@ -117,7 +117,7 @@
 						withal yet dedicated to his dreams. 
 					</writing>
 					</u></div2>
-				<div2 type="reading" id="wfaudio31.5" start="00:03:54.92" end="00:03:59.51">
+				<div2 type="reading" id="wfaudio31.5" start="00:03:54.92" end="00:05:38.95">
 					<head>Story, Excerpt 3</head>
 					<u who="WF">
 					<writing type="fiction"> They are all here, supine beneath you, stratified and
@@ -146,7 +146,7 @@
 						crawl of Snopes. 
 					</writing>
 					</u></div2>
-				<div2 type="reading" id="wfaudio31.6" start="00:05:59.52" end="00:06:33.64">
+				<div2 type="reading" id="wfaudio31.6" start="00:05:38.99" end="00:06:33.68">
 					<head>Story, Excerpt 4</head>
 					<u who="WF">
 					<writing type="fiction">And you stand there—you, the old man, already
@@ -164,7 +164,7 @@
 						loaned light to light as the phantoms of candles would.
 					</writing>
 					</u></div2>
-				<div2 type="reading" id="wfaudio31.7" start="00:06:33.65" end="00:07:26.78">
+				<div2 type="reading" id="wfaudio31.7" start="00:06:33.65" end="00:07:26.93">
 					<head>Story, Excerpt 5</head>
 					<u who="WF">
 					<writing type="fiction"> And you, the old man, standing there while there rises
@@ -181,11 +181,11 @@
 						before itself, in advance of itself, to have been at all.</writing>
 					
 					</u></div2>
-				<div2 type="dialog" id="wfaudio31.8" start="00:07:46.83" end="00:07:50.50">
+				<div2 type="dialog" id="wfaudio31.8" start="00:07:46.83" end="00:07:50.59">
 					<head>Audience Prompt</head>
 					<u who="WF"> Any questions, please don't hesitate.
 					</u></div2>
-				<div2 type="dialog" id="wfaudio31.9" start="00:08:05.54" end="00:08:36.62">
+				<div2 type="dialog" id="wfaudio31.9" start="00:08:05.54" end="00:08:36.69">
 					<head>Work in Progress</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Mr. Faulkner, are you working on a new novel at this time?</u>
@@ -196,12 +196,11 @@
 					always working. He never finishes work. He won't live that long.</u></div2>
 				<div2 type="dialog" id="wfaudio31.10" start="00:08:49.82" end="00:09:09.03">
 					<head>Snopes Trilogy</head>
-					<u who="Q">Is <hi rend="italic">The Town
-					</hi>the second part of a trilogy?</u>
+					<u who="Q">Is <hi rend="italic">The Town</hi> the second part of a trilogy?</u>
 				<u who="WF">Yes, sir. The third one will be called the <hi rend="italic">The
 						Mansion</hi>. That will be the story of the family of Snopeses. That's the
 					one I'm working at now.</u></div2>
-				<div2 type="dialog" id="wfaudio31.11" start="00:09:11.87" end="00:10:25.89">
+				<div2 type="dialog" id="wfaudio31.11" start="00:09:11.87" end="00:10:26.16">
 					<head>Best Novel</head>
 					<u who="Q">What do you consider your best
 					novel?</u>
@@ -222,18 +221,19 @@
 				<div2 type="dialog" id="wfaudio31.12" start="00:10:30.40" end="00:11:49.10">
 					<head>Artist's Aim</head>
 					<u who="WF">Yes, sir.</u>
-				<u who="Q"><inaudible/> the literary work <inaudible/>?</u>
+				<u who="Q"> When you say it doesn't satisfy, <inaudible/> <unclear>what would be the ideal literary work</unclear>?  In other words, 
+					 what would be the aim of a literary <inaudible/>?</u>
 				<u who="WF">The aim, of course, is—is unattainable, which is why it will
 					always be an aim. I think it's to take—to take man, an instance of man
-					in his struggle, within his predicament, to isolate it in the most moving
+					in his struggle, within his predicament—to isolate it in the most moving
 					instant which one can, so that in that single work there will
-						be—<unclear>as if</unclear> the whole history of the human heart,
+						be the whole history of the human heart,
 					all the struggle and anguish of—of man's heart, to be in one picture,
 					one piece of music, one book. That's impossible to do. That's why the artist
 					has—is the luckiest of all occupations. He has something that
 					he—that's worth devoting his—in his opinion, his life to,
 					that he knows he will never touch and will never be bored with.</u></div2>
-				<div2 type="dialog" id="wfaudio31.13" start="00:11:49.11" end="00:13:05.12">
+				<div2 type="dialog" id="wfaudio31.13" start="00:11:49.11" end="00:13:05.18">
 					<head>American Writers</head>
 					<u who="Q">Mr. Faulkner, what American writers
 					do you enjoy reading?</u>
@@ -266,25 +266,24 @@
 					it yet. The only work of a young man I'm at all familiar with is Salinger. But
 					I—I intend to, and I'm ashamed that I have not read it yet, but I will
 					do that. I think that—that the pleasure in reading is—is
-					inexhaustible, too, that one should read and one misses a great deal of pleasure
+					inexhaustible too, that one should read and one misses a great deal of pleasure
 					simply because he is not familiar with the book. He hasn't seen that book. Also,
 					living as I do, I'm a—I consider writing my hobby, not my trade. I'm a
 					farmer, actually, and the people I know are not literary people, and I don't
-					keep up with <unclear>the</unclear> books. <event desc="audience laughter"/></u></div2>
+					keep up with <unclear>these</unclear> books. <event desc="audience laughter"/></u></div2>
 				<div2 type="dialog" id="wfaudio31.15" start="00:14:44.37" end="00:15:15.61">
 					<head>Reading Criticism</head>
 					<u who="Q">Sir, have you read any of the
 					elaborate critical analyses of your own works <inaudible/>?</u>
 				<u who="WF">No, sir. I don't read that. I prefer to read fiction. <event desc="audience laughter"/></u></div2>
 				<div2 type="dialog" id="wfaudio31.16" start="00:15:15.62" end="00:16:52.52">
-					<head>Opinion of a Film</head>
-					<u who="Q">
-					<inaudible/>
+					<head>Long Hot Summer</head>
+					<u who="Q">Sir, I'd like to know 
+					<inaudible/> What is your opinion of it?
 				</u>
 				<u who="WF">That in moving pictures?</u>
-				<u who="Q">
-					<inaudible/>
-				</u>
+					<u who="Q"><hi rend="italic">Long Hot Summer</hi>.
+					</u>
 				<u who="WF">I haven't seen that. <event desc="audience laughter"/> I'm not trying to
 					be—be funny about it. It's simply because the writer has done the best
 					he can with his book. He works in complete isolation and solitude. To make a
@@ -303,18 +302,18 @@
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Would you care to comment on the writing <unclear>you've done</unclear>
 					in Hollywood?</u>
-				<u who="WF">It was a—a pleasant way to make some money. <event desc="audience laughter"/> I did it mainly because I know a director. He
+				<u who="WF">It was a—a pleasant way to make some money.  I did it mainly because I know a director. He
 					raises and breeds horses, and he has an airplane which he would let me fly when
-					I needed one. We hunt and fish together. And when he is making a picture, and he
+					I needed one. He—we hunt and fish together. And when he is making a picture, and he
 					gets in trouble with it and thinks I might be able to do something about it, he
 					sends for me. That's all the moving picture work I've done. It's not
-					my—my cup of tea, actually. It's for the reason I've stated, that it
+					my—my cup of tea, actually, for the reason I've stated.  That it
 					is a matter of a lot of people working together, when the—the writer
 					has to get off into solitude and isolation to do the work. And I never could,
 					well you might say, take it seriously. Even the money wasn't something to be
 					taken seriously. It was too much for anybody raised in Mississippi to see all at
 					once. <event desc="audience laughter"/></u></div2>
-				<div2 type="dialog" id="wfaudio31.18" start="00:18:11.73" end="00:20:12.35">
+				<div2 type="dialog" id="wfaudio31.18" start="00:18:11.73" end="00:20:12.39">
 					<head>J. D. Salinger</head>
 					<u who="Q">Do you consider Salinger to
 						be one of our better writers <inaudible/>?</u>
@@ -330,15 +329,15 @@
 					book. That, to me, is—is the threat which all the young writers
 					nowadays have got to be on guard against, the pressure to relinquish, submerge,
 					individuality, the "me," into a mass of "us."  And I think
-					that—that any first-rate writing has been in terms of the individual
-					who, even in the moil and teem of the world, was still "me," "myself." He got
+					that—that any first-rate writing has been in terms of the individual,
+					who even in the moil and teem of the world was still "me," "myself." He got
 					his—his elbows skinned and his head bumped now and then, but just with
 					other heads and other elbows, not with machinery. There was nothing in the teem
 					and moil of—of the world to destroy his—his soul by
-					compressing him into a—a relin—relinquishment of the "I
+					compressing him into a—a relinquishment of the "I
 						am."
 				</u></div2>
-				<div2 type="dialog" id="wfaudio31.19" start="00:20:13.52" end="00:21:53.61">
+				<div2 type="dialog" id="wfaudio31.19" start="00:20:13.52" end="00:21:53.70">
 					<head>The Novel</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Do you think the novel <inaudible/>?</u>
@@ -353,17 +352,17 @@
 					the—the poem. The poet has taken that—that tragic, beautiful
 					moment of man's struggle within his dilemma and put it into fourteen lines. The
 					second highest is the short story writer, who has been able to do it in ten
-					pages. The novelist is the failure. He's a failed poet. It took him 300 pages to
+					pages. The novelist is the failure. He's a failed poet. It took him three hundred pages to
 					isolate that tragic, beautiful, moving dilemma, victory or defeat, of fragile,
-					invincible man in his dilemma. So the novel may change, but its—it
+					invincible man in his dilemma. So the novel may change, but it—it
 					will never vanish as a quality in culture.
 				</u></div2>
-				<div2 type="dialog" id="wfaudio31.20" start="00:21:53.62" end="00:23:37.36">
+				<div2 type="dialog" id="wfaudio31.20" start="00:21:53.70" end="00:23:37.36">
 					<head>Writer in America</head>
 					<u who="WF"> Yes, sir.</u>
 				<u who="Q">Mr. Faulkner, John Steinbeck says that in America the writer is a little
 					below the acrobat and a little above the seal, and I wonder what you thought
-					about that <inaudible/>?</u>
+					about that? <inaudible/></u>
 				<u who="WF">No, I don't rate the writer quite between the acrobat and the seal, as
 					Steinbeck said. I think that the fact that the writer in this country
 					is—is treated with a slightly cavalier treatment might be good for him
@@ -379,7 +378,7 @@
 					It's impossible to rate him, unless you are going to look on his rating with the
 					finance company he is buying his refrigerator or his car from.
 				</u></div2>
-				<div2 type="dialog" id="wfaudio31.21" start="00:23:43.55" end="00:24:14.29">
+				<div2 type="dialog" id="wfaudio31.21" start="00:23:43.55" end="00:24:14.36">
 					<head>Hunting and Fishing</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q"><unclear>Mr. Faulkner, have you done any hunting and fishing</unclear>
@@ -388,7 +387,7 @@
 					friends there, and two days ago I went up into the Blue Ridge on Mormon's River
 					after trout. I have been up the headwaters of the Rapidan, but I have not been
 					in Virginia in the fall enough to do much hunting.</u></div2>
-				<div2 type="dialog" id="wfaudio31.22" start="00:24:19.30" end="00:26:47.34">
+				<div2 type="dialog" id="wfaudio31.22" start="00:24:19.30" end="00:26:47.39">
 					<head>Writer and Audience</head>
 					<u who="Q">Sir—</u>
 				<u who="WF">Yes, sir.</u>
@@ -408,8 +407,8 @@
 					to deliver a message. He is simply—has been moved so by thin, frail,
 					fragile man in his dilemma, faced with things so much bigger and tougher and
 					stronger than he, yet still trying to do something to solve his problem. That
-					it's worth isolating in some tragic and moving moment, to get down on paper,
-					then he worries about if somebody else might read it. At the moment, he simply
+					it's worth isolating in some tragic and moving moment, to get down on paper. 
+					Then he worries about if somebody else might read it. At the moment, he simply
 					has seen something so beautiful, so moving, so important to himself, that he
 					wants to put it down lest he forget it. After that comes the thought somebody
 					else might read this. In my own case, I think I wrote for ten or fifteen years
@@ -419,7 +418,7 @@
 					<head>Southern Writing</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q"><inaudible/>
-					<unclear>the South has been for the last fifty years one of the most.backward
+					<unclear>the South has been for the last fifty years one of the most backward
 						areas</unclear>
 					<inaudible/> financially and in many other ways. The schools, also, are not considered
 					by most people to be as good as in other areas. But yet your own state of
@@ -443,14 +442,14 @@
 				<u who="Q">Did you have a certain style that you would more or less
 						<unclear>use</unclear>
 					<inaudible/>? <event desc="audience laughter"/></u>
-				<u who="WF">I don't like my style either. I think that—<event desc="audience laughter"/> what I'm trying to say is that I think that no
+				<u who="WF">I don't like my style either. I think that—<event desc="audience laughter"/> What I'm trying to say is that I think that no
 					writer has got time to bother too much about writing style or writing rhetoric.
 					If he does, he has probably got very little to say, that the story he's
 					telling—he is trying to isolate this moment of man's struggle in the
 					most moving way he can. And he will try style. He'll try metaphor. He'll try
 					symbolism, to—to isolate that in the most moving way he can possibly
-					do it. So the—in my opinion, the work itself creates its own style,
-					that when it's done the writer can look back and say, "This is clumsy. I wish I
+					do it. So the—in my opinion, the work itself creates its own style. 
+					That when it's done the writer can look back and say, "This is clumsy. I wish I
 					could think of a better way to do that." But he can't. He has done the best he
 					could with it. To get all he can into it. It's—well, he has
 					a—as we all do, an awareness of death, that he will not be here
@@ -470,7 +469,7 @@
 					would be a better book. Of course, it wouldn't be, but he believes that. He
 					can't do it, so he writes another book tomorrow. But he wants to be as lucid, as
 					pure as light or clear water itself. And when it gets moiled and turgid, he is
-					sorry. He grieves over that. Though—of course, he doesn't have to read
+					sorry. He grieves over that. Though—of course, he don't have to read
 					it anymore. <event desc="audience laughter"/> That's one
 						advantage—
 				</u></div2>
@@ -480,15 +479,15 @@
 				<u who="Q">Is writing a compulsion for you or could you stop <inaudible/>?</u>
 				<u who="WF">Well, I would like to say, "Sure, I can take it or leave it," but I
 					don't believe that. I think that—that any writer is—is
-					ridden by a demon, that he really can't help himself, that he will keep on
+					ridden by a demon.  That he really can't help himself.  That he will keep on
 					writing as long as he lives. But he—he is not so conscious of being
 					driven by a demon to no destination. He is convinced that he will—will
 					make the—the perfect work, so that as long as men live after him, they
-					will see that work as perfect and will remember him, that maybe what any artist
+					will see that work as perfect and will remember him.  That maybe what any artist
 					is doing is simply writing "Kilroy was here" on the wall of the last oblivion
 					before he passes through it and beyond it.
 				</u></div2>
-				<div2 type="dialog" id="wfaudio31.26" start="00:32:21.17" end="00:33:20.65">
+				<div2 type="dialog" id="wfaudio31.26" start="00:32:21.17" end="00:33:20.73">
 					<head>Brown v Board of Education</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Sir, as a southerner and a man who writes about the South, can you give
@@ -502,7 +501,7 @@
 					has set relations between the races back for some time, but it had to come. It's
 					our fault. <unclear>We could have prevented it.</unclear>
 				</u></div2>
-				<div2 type="dialog" id="wfaudio31.27" start="00:33:22.32" end="00:35:25.80">
+				<div2 type="dialog" id="wfaudio31.27" start="00:33:22.32" end="00:35:26.50">
 					<head>Writer's Prerequisites</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q"><inaudible/>
@@ -525,13 +524,13 @@
 					imagination. And nobody's to say just how much comes from what. But the
 					imagination can carry the load. There was one blind man who was a pretty good
 					writer. You don't have to really experience nor even read. You can listen, and
-					the imagination <inaudible/>.
+					the imagination.  <inaudible/>
 				</u></div2>
 				<div2 type="dialog" id="wfaudio31.28" start="00:35:25.81" end="00:37:38.13">
 					<head>Christian Viewpoint</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">You said that the writer is somewhat unappreciated, amoral and <inaudible/>
-					<unclear>the short story "The Bear."</unclear>
+					<unclear>the short story "The Bear"</unclear>
 					<inaudible/>
 					<unclear>the trappings of that story</unclear>
 					<inaudible/>
@@ -552,13 +551,13 @@
 					from his—his heredity and from his environment. But the writer himself
 					is too busy telling about amazing, incalculable, marvelous man struggling within
 					the dilemma of the human heart to bother too much about messages or
-						symbols<inaudible/>.
+						symbols <inaudible/>.
 				</u></div2>
-				<div2 type="dialog" id="wfaudio31.29" start="00:37:39.47" end="00:38:42.62">
+				<div2 type="dialog" id="wfaudio31.29" start="00:37:39.47" end="00:38:42.69">
 					<head>Planning the Book</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Mr. Faulkner, when you begin to write one of your books have you already <inaudible/>
-					<unclear>what is going to happen or do you make up some of the details as you go
+					<unclear>exactly what is going to happen or do you make up some of the details as you go
 						along</unclear>?</u>
 				<u who="WF">It begins with a seed. That seed could be anecdote. It could be a
 					situation. It could be a character. Then you've got to explain how that
@@ -573,7 +572,7 @@
 					off and tell a story of their own. You can keep your plot. They don't want
 						it.
 				</u></div2>
-				<div2 type="dialog" id="wfaudio31.30" start="00:38:42.63" end="00:39:19.05">
+				<div2 type="dialog" id="wfaudio31.30" start="00:38:42.63" end="00:39:19.11">
 					<head>Writing Absalom!</head>
 					<u who="WF">Yes, ma'am.</u>
 				<u who="Q"><inaudible/>
@@ -581,22 +580,22 @@
 						write</unclear>
 					<inaudible/>?</u>
 				<u who="WF">Yes'm, it—it was difficult. I—I worked on that next
-					hardest to <hi rend="italic">The Sound and Fury,</hi> as I remember. Yes, I
+					hardest to <hi rend="italic">The Sound and Fury</hi>, as I remember. Yes, I
 					worked on that for a year, and then put it away and wrote another book, and then
 					the story still wouldn't let me alone—I came back to it. Yes, that was
 					very difficult. There was a lot of rewriting in that.
 				</u></div2>
-				<div2 type="dialog" id="wfaudio31.31" start="00:39:22.39" end="00:41:28.04">
+				<div2 type="dialog" id="wfaudio31.31" start="00:39:22.39" end="00:41:28.09">
 					<head>Writing Sanctuary</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Mr. Faulkner, I've heard it reported that you've said in the past that
-						<hi rend="italic">Sanctuary</hi> was written a potboiler <inaudible/>
+						<hi rend="italic">Sanctuary</hi> was written as a potboiler <inaudible/>
 					<unclear>Do you care to comment on this</unclear>?</u>
-				<u who="WF">Yes, it was. I had—had been writing as amateur and having a
+				<u who="WF">Yes, it was. I had—had been writing as an amateur and having a
 					lot of fun at it. Then, all of a sudden, I found myself married, and I would
 					need a little money, and I thought I might write something to make a little
 					money with, so I thought of the most horrific story I could and wrote 
-					it. <event desc="audience laughter"/> Sent it in to the publisher, he said, "Good Lord,
+					it. <event desc="audience laughter"/> Sent it in to the publisher.  He said, "Good Lord,
 					man." This was nineteen—in the nineteen twenties, when you couldn't
 					say the sort of things in books you can now. He said, "If we print this, we'll
 					both be in jail." So he put it away, and I got a job and didn't need money too
@@ -609,7 +608,7 @@
 					rewriting, and if you will dig up $270, I will get the other $270, and we will
 					make new plates." So I paid my half of the new plates and rewrote the book to
 					make it at least honest. But I still don't like it because the whole conception
-					was—was base. It did sell, and was going to make a lot of money. The
+					was—was base. It did sell, and was going to make me a lot of money. The
 					publisher went bankrupt, so I got just exactly what I deserved, and I learned my
 					lesson from it. <event desc="audience laughter"/> Since then, I've remained
 						amateur.
@@ -623,11 +622,11 @@
 					conception of the—the first story was base because it was done not to
 					tell about man in his tragic struggle, but to make money. That's why it was
 					base. But when I rewrote it, I'd already invested $270. In those days, I didn't
-					have $270 every day. Then I did the best I could to make an—an honest
+					have $270 every day. Then I did the best I could to make a—an honest
 					book out of it. And the characters—there was nothing wrong with the
 					characters, just the—the concept of the book to begin with.
 				</u></div2>
-				<div2 type="dialog" id="wfaudio31.33" start="00:42:12.98" end="00:43:58.09">
+				<div2 type="dialog" id="wfaudio31.33" start="00:42:12.98" end="00:42:58.09">
 					<head>Sherwood Anderson</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Sir, in light of your friendship with Sherwood Anderson, are you, as a
@@ -638,12 +637,12 @@
 					Hemingway, Erskine Caldwell, Thomas Wolfe, Dos Passos. Of course, Mark Twain
 					is—is all of our grandfather. But Sherwood Anderson has, in my
 					opinion, has still to receive his rightful place in American letters.</u></div2>
-				<div2 type="dialog" id="wfaudio31.34" start="00:43:03.61" end="00:44:24.98">
+				<div2 type="dialog" id="wfaudio31.34" start="00:43:04.21" end="00:44:24.98">
 					<head>Albert Camus</head>
-					<u who="Q"><inaudible/> I know that this year's Nobel
+					<u who="Q">I know that this year's Nobel
 					Prize winner is a great admirer of yours, and I wonder if you
-					could—what is your impression or thoughts of Camus as a writer? Are
-					you acquainted with him? <inaudible/>?</u>
+					could—what is your impression or thoughts of Camus as a writer? If
+					you're acquainted with him, <inaudible/>?</u>
 				<u who="WF">Yes, I know Camus best, and I—I think highest of him. He
 					is—is one man that—that has—is doing what I have
 					tried always to do, which is—is to search, demand, ask always
@@ -654,7 +653,7 @@
 					the writer's first job. To search his own soul, to give a proper moving picture
 					of man in—in the human dilemma.
 				</u></div2>
-				<div2 type="dialog" id="wfaudio31.35" start="00:44:31.66" end="00:45:20.12">
+				<div2 type="dialog" id="wfaudio31.35" start="00:44:31.66" end="00:45:20.19">
 					<head>North as Setting</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Have you ever tried to write a novel <inaudible/> in a northern atmosphere?</u>
@@ -674,12 +673,12 @@
 				<u who="Q">How have you enjoyed your stay here in Virginia? And do you think
 					Virginia as an area is <inaudible/>
 					<unclear>conducive</unclear>
-					<inaudible/>?</u>
+					<inaudible/> as Yoknapatawpha county?</u>
 				<u who="WF">Well, I have been in Albemarle County off and on for two or three years
 					now, and I have seen a few Snopeses there. <event desc="audience laughter"/> But
 					I like Virginia and Virginians. The longer I stay in Albemarle County, the more
 					like Mississippians they behave, but they don't have some of the—the
-					Mississippi vices. And I have—I said last year that I like Virginia
+					Mississippi vices. And I have—I said last year that I like Virginians 
 					because they were snobs, and since they seem to think that I'm all right, then
 					maybe I am all right. <event desc="audience laughter"/>
 				</u></div2>
@@ -692,7 +691,7 @@
 					that question, sir, because <event desc="audience laughter"/> you might not buy
 					the next book if I do. They were—that's the artist's prerogative, I
 					think, is to emphasize, to underline, to—to—to blow up
-					facts, distort facts in order to state a truth. The—there's probably
+					facts, distort facts in order to state a—a truth. The—there's probably
 					no tribe of Snopeses in Mississippi or anywhere else outside of my own
 					apocrypha. They were simply an invention of mine to—to tell a story of
 					man in his struggle. That I was not trying to say, "This is the sort of folks we
@@ -701,7 +700,7 @@
 					for a—a valid, to him and to me, reason, which was to tell a story in
 					a moving, dramatic, tragic, or comical way.
 				</u></div2>
-				<div2 type="dialog" id="wfaudio31.38" start="00:48:11.89" end="00:48:55.82">
+				<div2 type="dialog" id="wfaudio31.38" start="00:48:11.89" end="00:48:55.96">
 					<head>Henry Miller</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">What is your opinion of Henry Miller?</u>
@@ -713,16 +712,15 @@
 				<div2 type="dialog" id="wfaudio31.39" start="00:49:04.17" end="00:50:28.55">
 					<head>New American Literature</head>
 					<u who="WF">Yes, sir.</u>
-				<u who="Q"><inaudible/>
-					<unclear>new American literature itself</unclear>
-					<inaudible/>
-					<unclear>what will it have to say</unclear>
-					<inaudible/>?</u>
+				<u who="Q"> Along those lines, do you think <inaudible/>
+					<unclear>the new American literature will develop</unclear>
+					<inaudible/>,
+					<unclear>what will it have to say</unclear> <inaudible/>?</u>
 				<u who="WF">It will have to say the same things that people have had to say and have
 					been saying ever since man first found some way to—to paint pictures
 					on the walls of the cave. It's to tell about the—the eternal problems
 					of man's heart, which have nothing to do with atom bombs nor—nor labor
-					unions, nor the price of motorcars, nor segregation, nor immigration. It's man
+					unions, nor the price of motor cars, nor segregation, nor integration. It's man
 					struggling with the eternal verities of—of the soul. The young writer
 					today, as I said, has got to—to resist that pressure to belong to
 					groups, to relinquish his—his capacity to think and judge into
@@ -731,23 +729,23 @@
 					about ever since whoever wrote the Old Testament. His problem—what to
 					write about is there. He doesn't need <inaudible/>.
 				</u></div2>
-				<div2 type="dialog" id="wfaudio31.40" start="00:50:30.72" end="00:51:05.14">
+				<div2 type="dialog" id="wfaudio31.40" start="00:50:30.72" end="00:51:05.18">
 					<head>Snopeses and Society</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Would you say that the Snopeses are capable or incapable of
 						<unclear>participating in</unclear>
 					<inaudible/>?</u>
 				<u who="WF">The ones which are incapable of it will—will be obliterated.
-					Snopes will evolve into what, you might say, an acceptable type of Snopes.
+					The Snopeses will evolve into—you might say, an acceptable type of Snopes.
 						<event desc="audience laughter"/> Either that or he'll have to vanish. That
 					he will have to cope with his environment or his environment will destroy
 						him.
 				</u></div2>
-				<div2 type="dialog" id="wfaudio31.41" start="00:51:05.15" end="00:52:06.46">
+				<div2 type="dialog" id="wfaudio31.41" start="00:51:05.15" end="00:52:06.52">
 					<head>Writer's Task</head>
 					<u who="WF">Yes, sir.</u>
-				<u who="Q">Mr. Faulkner, you keep referring to the tragic struggle, but I wonder if
-					you <inaudible/> ability to perceive this struggle or <unclear>his ability to put down
+				<u who="Q">You keep referring to the tragic struggle.  Sir, I wonder if
+					you the artist's chief talent is to—in his ability to perceive this struggle or in <unclear>his ability to put down
 						the struggle once he's perceived it</unclear>
 					<inaudible/>?</u>
 				<u who="WF">To perceive it, maybe to sympathize with it. Not to judge it, but simply
@@ -792,9 +790,9 @@
 					<head>Close</head>
 					<u who="M"><unclear>I think we
 						have</unclear>
-					<inaudible/> appreciate his good nature, his stamina, and I know we want to <inaudible/>
+					<inaudible/> We certainly appreciate his good nature, his stamina, and I know we want to <inaudible/>
 					thank him for a really memorable occasion.</u>
-				<u who="WF"><inaudible/>. <event desc="applause"/> <event desc="end of recording"/></u></div2>
+				<u who="WF"><inaudible/>  <event desc="applause"/> <event desc="end of recording"/></u></div2>
 				</div1>
 		</body>
 	</text>
