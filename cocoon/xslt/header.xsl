@@ -6,9 +6,6 @@
 			<div class="banner">
 				<img src="/header.jpg" alt="Faulkner at Virginia: An Audio Archive"/>
 			</div>
-			<!-- 
-			
-			<h1 class="alt"><xsl:value-of select="document('../data/site_info.xml')//title"/></h1> -->
 			<div id="main_nav">
 				<ul class="menu">
 					<li>
