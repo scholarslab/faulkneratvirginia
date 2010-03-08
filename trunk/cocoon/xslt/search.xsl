@@ -27,7 +27,7 @@
 						<p>The transcriptions of William Faulkner's audio tapes may be searched as
 							well as the prose sections that give context to the collection.</p>
 						<form action="{$path}results">
-							<input type="text" name="q" value="{$q}"/>
+							<input type="text" name="q" class="search_box" value="{$q}"/>
 							<select name="type">
 								<option value="transcription">Audio Transcriptions</option>
 								<option value="prose">Articles</option>
