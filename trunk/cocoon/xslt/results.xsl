@@ -26,15 +26,19 @@
 	<xsl:template match="/">
 		<html>
 			<head>
-				<link type="text/css" href="style.css" rel="stylesheet"/>
-				<script type="text/javascript" language="javascript" src="javascript/jquery-1.3.2.min.js"/>
-				<script type="text/javascript" language="javascript" src="javascript/sort_results.js"/>				
 				<title>
 					<xsl:value-of select="document('../data/site_info.xml')//title"/>
 				</title>
+					
+				<link type="text/css" href="/style.css" rel="stylesheet" media="screen,projection"/>
+				<link type="text/css" href="/colorbox.css" rel="stylesheet" media="screen"/>
+				
+				<script type="text/javascript" language="javascript" src="javascript/jquery-1.3.2.min.js"/>
+				<script type="text/javascript" language="javascript" src="javascript/sort_results.js"/>				
+				<script type="text/javascript" language="javascript" src="javascript/AC_Quicktime.js">//</script>
 			</head>
 			<body>
-				<script type="text/javascript" language="javascript" src="javascript/AC_Quicktime.js">//</script>
+				
 				<div id="wrap">
 					<xsl:call-template name="header"/>
 					<div class="content">
@@ -83,7 +87,7 @@
 							<script language="JavaScript" type="text/javascript">
 							try {
 							QT_WriteOBJECT(
-							'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="str[@name='doc_id']"/>.mp4 ', ' 300 ', ' 30 ', '',
+							'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="str[@name='doc_id']"/>.mp4', ' 300 ', ' 30 ', '',
 							'autoplay', 'false',
 							'scale', 'tofit',
 							'starttime','<xsl:value-of select="replace(str[@name='start'], '\.', ':')"/>',
@@ -379,7 +383,7 @@
 
 	<xsl:template name="sort">
 		<form action="results" class="sort_results">
-			<input type="hidden" value="{$q}" name="q"/>
+			<input type="text" value="{$q}" name="q"/>
 			<input type="hidden" name="type" value="{$type}"/>
 			<input type="hidden" name="sort"/>
 			<select id="sort">

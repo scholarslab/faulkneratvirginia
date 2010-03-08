@@ -14,10 +14,10 @@
 	<xsl:template match="/">
 		<html>
 			<head>
-				<link type="text/css" href="style.css" rel="stylesheet"/>
-				<!--<script type="text/javascript" language="javascript" src="javascript/jquery-1.3.2.min.js"/>-->
-				<title><xsl:value-of select="document('../data/site_info.xml')//title"/>:
-					Search</title>
+				<title><xsl:value-of select="document('../data/site_info.xml')//title"/>: Search</title>
+					
+				<link type="text/css" href="/style.css" rel="stylesheet" media="screen,projection"/>
+				<link type="text/css" href="/print.css" rel="stylesheet" media="print" />	
 			</head>
 			<body>
 				<div id="wrap">
