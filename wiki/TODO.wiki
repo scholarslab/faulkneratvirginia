@@ -15,7 +15,8 @@
   # Add print ability from lightbox
     * <strike>Add in jqprint</strike> (completed 2/17/10)
     * <strike>Create new class for jquery listener</strike> (completed 2/17/10)
-    * Write XSLT to add button||text to page
+    * <strike>Write XSLT to add button||text to page</strike> (completed 3/8/10)
+    * Feedback on image choice/size
   # Eliminate need to reference content pages twice in the site_info file
     * Update XSLT to pull content in to page at render 
     * Update index transform to make this "pages"
@@ -32,7 +33,7 @@
     * wfaudio22_1
     * wfaudio26_1
     * wfaudio10
-  # Create play graphic for page
+  # <strike>Create play graphic for page</strike> (complete 3/8/10)
   # Play Whole Tape 
     * <strike>Create graphic of "PLAY ENTIRE RECORDING" with gradient like "top" and "share"</strike> (completed 3/1/10)
     * <strike>Transition hiding of CSS playbars</strike> (completed 2/25/10)  
