@@ -25,6 +25,15 @@ em {
 p {
     line-height: 1.5em;
 }
+
+
+/**
+ * FORM
+ */
+fieldset {
+	border: 0 solid #648040;
+}
+
 input, select {
     font-size:11px;
     margin:0px 10px;
@@ -32,6 +41,17 @@ input, select {
 
 input.search_box {
 	width: 300px;
+	font-size: 20px;
+	border: 1px solid #ccc;
+	padding: 2px;
+	vertical-align: middle;
+}
+
+.search_button {
+	font-size: 20px;
+	border: 1px solid #ccc;
+	padding-left: 2px !important;
+	background: none repeat scroll 0 0 #eee;
 }
 
 a img {
