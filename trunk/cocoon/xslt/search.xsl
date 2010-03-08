@@ -43,14 +43,16 @@
 						<h2>Search</h2>
 						<p>The transcriptions of William Faulkner's audio tapes may be searched as
 							well as the prose sections that give context to the collection.</p>
-						<form action="{$path}results">
-							<input type="text" name="q" class="search_box" value="{$q}"/>
-							<select name="type">
-								<option value="transcription">Audio Transcriptions</option>
-								<option value="prose">Articles</option>
-							</select>
-							<input type="submit" value="Search"/>
-						</form>
+						<fieldset>
+							<form action="{$path}results">
+								<select name="type">
+									<option value="transcription">Audio Transcriptions</option>
+									<option value="prose">Articles</option>
+								</select>
+								<input type="text" name="q" class="search_box" value="{$q}"/>
+								<input type="submit" class="search_button" value="Search"/>
+							</form>
+						</fieldset>
 					</div>
 					<xsl:call-template name="footer"/>
 				</div>
