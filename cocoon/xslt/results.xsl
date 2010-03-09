@@ -112,30 +112,67 @@
 					</xsl:when>
 					<xsl:when test="$type='prose'">
 						<xsl:choose>
-							<xsl:when test="string(str[@name='section_title'])">
-								<a
-									href="page?id={str[@name='page_id']}&amp;section={str[@name='id']}">
-									<xsl:value-of select="str[@name='section_title']"/>
-								</a>
-								<xsl:text>, from </xsl:text>
-								<xsl:value-of select="str[@name='page_title']"/>
+							<xsl:when test="str[@name='page_id']">
+								<xsl:choose>
+									<xsl:when test="string(str[@name='section_title'])">
+										<a
+											href="page?id={str[@name='page_id']}&amp;section={str[@name='id']}">
+											<xsl:value-of select="str[@name='section_title']"/>
+										</a>
+										<xsl:text>, from </xsl:text>
+										<xsl:value-of select="str[@name='page_title']"/>
+									</xsl:when>
+									<xsl:otherwise>
+										<a href="page?id={str[@name='id']}">
+											<xsl:value-of select="str[@name='page_title']"/>
+										</a>
+									</xsl:otherwise>
+								</xsl:choose>
 							</xsl:when>
 							<xsl:otherwise>
-								<a href="page?id={str[@name='id']}">
-									<xsl:value-of select="str[@name='page_title']"/>
-								</a>
+								<xsl:choose>
+									<xsl:when test="str[@name='section_title'] = 'Image'">
+										<div style="float:left;width:120px;">
+											<img src="{str[@name='thumb_image']}" style="max-width:120px;"/>
+										</div>
+										<div style="margin-left:140px;">
+										<a href="media?id={str[@name='id']}">
+											<xsl:value-of select="str[@name='section_title']"/>
+										</a>
+										</div>
+									</xsl:when>
+									<xsl:otherwise>
+										<a href="media?id={str[@name='id']}">
+											<xsl:value-of select="str[@name='section_title']"/>
+										</a>
+									</xsl:otherwise>
+								</xsl:choose>
 							</xsl:otherwise>
 						</xsl:choose>
 					</xsl:when>
 				</xsl:choose>
-
-				<div>
-					<dt>Snippet:</dt>
-					<dd>
-						<xsl:value-of select="//lst[@name=$id]/arr/str"
-							disable-output-escaping="yes"/>
-					</dd>
-				</div>
+				
+				<xsl:choose>
+					<xsl:when test="str[@name='section_title'] = 'Image'">
+						<div style="margin-left:140px;">
+							<dt>Snippet:</dt>
+							<dd>
+								<xsl:value-of select="//lst[@name=$id]/arr/str"
+									disable-output-escaping="yes"/>
+							</dd>
+						</div>
+					</xsl:when>
+					<xsl:otherwise>
+						<div>
+							<dt>Snippet:</dt>
+							<dd>
+								<xsl:value-of select="//lst[@name=$id]/arr/str"
+									disable-output-escaping="yes"/>
+							</dd>
+						</div>
+					</xsl:otherwise>
+				</xsl:choose>
+				
 			</dl>
 		</div>
 	</xsl:template>

@@ -25,7 +25,7 @@
  http://wiki.apache.org/solr/SchemaXml
 -->
 
-<schema name="example" version="1.1">
+<schema name="faulkner" version="1.1">
 	<!-- attribute "name" is the name of this schema and is only used for display purposes.
        Applications should change this to reflect the nature of the search collection.
        version="1.1" is Solr's version number for the schema syntax and semantics.  It should
@@ -212,6 +212,8 @@
 		<field name="section_id" type="string" indexed="true" stored="true" omitNorms="true"/>
 		<field name="page_title" type="string" indexed="true" stored="true" omitNorms="true"/>
 		<field name="section_title" type="string" indexed="true" stored="true" omitNorms="true"/>
+		<field name="thumb_image" type="string" indexed="true" stored="true" omitNorms="true"/>
+		<field name="screen_image" type="string" indexed="true" stored="true" omitNorms="true"/>
 		<field name="fulltext" type="text" indexed="true"/>
 	</fields>
 
