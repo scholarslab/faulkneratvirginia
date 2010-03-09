@@ -49,7 +49,7 @@
 							<form action="{$path}results">
 								<select name="type">
 									<option value="transcription">Audio Transcriptions</option>
-									<option value="prose">Articles</option>
+									<option value="prose">Media Content</option>
 								</select>
 								<input type="text" name="q" class="search_box" value="{$q}"/>
 								<input type="submit" class="search_button" value="Search"/>
