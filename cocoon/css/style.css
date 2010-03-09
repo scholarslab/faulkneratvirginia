@@ -388,14 +388,16 @@ img.center {
     font-weight: bold;
     font-style: italic;
 }
-.f_wrap {
-    line-height: 5px;
+#footer .f_wrap {
+    line-height: 1.5em;
     float: left;
     padding-left: 1em;
 }
-.f_wrap p {
-    line-height: 5px;
+#footer .f_wrap p {
+    line-height: 1.5em;
+    padding: 0;
+    margin: 0;
 }
-.copyright {
+#footer .f_wrap p.copyright {
     padding-left: 1em;
 }
