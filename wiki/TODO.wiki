@@ -38,6 +38,7 @@
     * <strike>Create graphic of "PLAY ENTIRE RECORDING" with gradient like "top" and "share"</strike> (completed 3/1/10)
     * <strike>Transition hiding of CSS playbars</strike> (completed 2/25/10)  
   # Add logic to results to differentiate between images and text for media-content blocks
+    * Change the way the xslt for indexing works
   # Figure out a way to suppress printer icon for audio dclips
   
 = Bracketed Items =
