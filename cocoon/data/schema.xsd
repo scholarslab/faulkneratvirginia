@@ -7,8 +7,8 @@
 				<xs:element ref="index"/>
 				<xs:element ref="browse"/>
 				<xs:element maxOccurs="unbounded" ref="page"/>
+				<xs:element ref="media-content"/>
 			</xs:sequence>
-			
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="title" type="xs:string"/>
@@ -66,15 +66,7 @@
 			</xs:sequence>
 		</xs:complexType>
 	</xs:element>
-	<xs:element name="h2">
-		<xs:complexType>
-			<xs:simpleContent>
-				<xs:extension base="xs:NCName">
-					<xs:attribute name="class" type="xs:NCName"/>
-				</xs:extension>
-			</xs:simpleContent>
-		</xs:complexType>
-	</xs:element>
+	<xs:element name="h2" type="xs:NCName"/>
 	<xs:element name="page">
 		<xs:complexType>
 			<xs:sequence>
@@ -88,14 +80,21 @@
 	<xs:element name="section">
 		<xs:complexType>
 			<xs:choice>
-				<xs:element maxOccurs="unbounded" ref="div"/>
 				<xs:sequence>
 					<xs:element ref="h3"/>
 					<xs:element ref="p"/>
 				</xs:sequence>
+				<xs:element maxOccurs="unbounded" ref="div"/>
 			</xs:choice>
 			<xs:attribute name="id" use="required" type="xs:NCName"/>
 			<xs:attribute name="title" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="media-content">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" ref="div"/>
+			</xs:sequence>
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="img">
@@ -113,57 +112,51 @@
 				<xs:element ref="br"/>
 				<xs:element ref="em"/>
 				<xs:element ref="img"/>
-				<xs:element ref="script"/>
 				<xs:element ref="strong"/>
 				<xs:element ref="b"/>
-				<xs:element ref="font"/>
 			</xs:choice>
 			<xs:attribute name="align" type="xs:NCName"/>
 			<xs:attribute name="class" type="xs:NCName"/>
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="b" type="xs:string"/>
-	<xs:element name="font">
-		<xs:complexType>
-			<xs:simpleContent>
-				<xs:extension base="xs:NCName">
-					<xs:attribute name="size" use="required" type="xs:integer"/>
-				</xs:extension>
-			</xs:simpleContent>
-		</xs:complexType>
-	</xs:element>
 	<xs:element name="em">
 		<xs:complexType mixed="true">
+			<xs:attribute name="class" type="xs:NCName"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="h3">
+		<xs:complexType mixed="true">
+			<xs:choice minOccurs="0" maxOccurs="unbounded">
+				<xs:element ref="a"/>
+				<xs:element ref="em"/>
+			</xs:choice>
 			<xs:attribute name="class" type="xs:NCName"/>
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="div">
 		<xs:complexType>
 			<xs:sequence>
-				<xs:element minOccurs="0" ref="h1"/>
-				<xs:choice minOccurs="0" maxOccurs="unbounded">
+				<xs:choice minOccurs="0">
 					<xs:element ref="a"/>
+					<xs:element ref="h1"/>
+				</xs:choice>
+				<xs:choice maxOccurs="unbounded">
 					<xs:element ref="br"/>
-					<xs:element ref="div"/>
-					<xs:element ref="em"/>
 					<xs:element ref="h3"/>
 					<xs:element ref="img"/>
 					<xs:element ref="p"/>
-					<xs:element ref="script"/>
 					<xs:element ref="blockquote"/>
 					<xs:element ref="h4"/>
 					<xs:element ref="ul"/>
 				</xs:choice>
+				<xs:element minOccurs="0" ref="script"/>
 			</xs:sequence>
 			<xs:attribute name="class"/>
 			<xs:attribute name="id" use="required" type="xs:NCName"/>
 		</xs:complexType>
 	</xs:element>
-	<xs:element name="h1">
-		<xs:complexType mixed="true">
-			<xs:attribute name="class" type="xs:NCName"/>
-		</xs:complexType>
-	</xs:element>
+	<xs:element name="h1" type="xs:string"/>
 	<xs:element name="blockquote">
 		<xs:complexType mixed="true">
 			<xs:choice minOccurs="0" maxOccurs="unbounded">
@@ -179,7 +172,6 @@
 				<xs:element ref="em"/>
 				<xs:element ref="strong"/>
 			</xs:choice>
-			<xs:attribute name="class" type="xs:NCName"/>
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="ul">
@@ -197,13 +189,10 @@
 			</xs:sequence>
 		</xs:complexType>
 	</xs:element>
-	<xs:element name="h3">
+	<xs:element name="script">
 		<xs:complexType mixed="true">
-			<xs:choice minOccurs="0" maxOccurs="unbounded">
-				<xs:element ref="a"/>
-				<xs:element ref="em"/>
-			</xs:choice>
-			<xs:attribute name="class" type="xs:NCName"/>
+			<xs:attribute name="language" use="required" type="xs:NCName"/>
+			<xs:attribute name="type" use="required"/>
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="strong" type="xs:string"/>
@@ -216,12 +205,6 @@
 			<xs:attribute name="class" type="xs:NCName"/>
 			<xs:attribute name="href"/>
 			<xs:attribute name="name" type="xs:NCName"/>
-		</xs:complexType>
-	</xs:element>
-	<xs:element name="script">
-		<xs:complexType mixed="true">
-			<xs:attribute name="language" use="required" type="xs:NCName"/>
-			<xs:attribute name="type" use="required"/>
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="br">
