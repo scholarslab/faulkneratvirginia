@@ -9,11 +9,29 @@
 		<center>
 			<img src="maintitle.gif"/>
 		</center>
-		<p>This is the test version of our project. Please don't share its URL with anyone else &mdash; it's running on a server that
-			can&rsquo;t handle much traffic. But please do look and listen and search and explore, and let me have the benefit of all your
-			reactions &mdash; errata in the transcripts you spot, problems with functionality or design elements you see, ideas for revisions,
-			improvements, additions, &amp;c. Thanks! Steve Railton</p>
-
+		<p>Welcome.  Here you can listen in on William Faulkner’s sessions with audiences at the University of Virginia in 1957 and 1958, during his two terms 
+			as UVA’s Writer-in-Residence.  Under CONTEXTS you’ll find an introduction to this archive as well as essays, photographs and other materials 
+			to help you apprehend the various contexts &ndash; biographical, academic and national &ndash; that informed the sessions.  BROWSE 
+			allows you to read and play transcripts of those sessions, one tape recording or one question&amp;answer at a time.  Or if you’re looking 
+			for something in particular, such as Faulkner’s comments on one of his works or on writing or on the Civil Rights movement of the time, you 
+			can go directly to SEARCH.<br/><br/>
+			
+			In order to hear the audio, you’ll need a QuickTime player.  Over half the browsers in use already support QuickTime, but you can test whether yours 
+			does with the 25-second clip <em>below</em>.  If clicking on the icon doesn’t work, you can download a free QuickTime plug-in at 
+			<a href="http://www.apple.com/quicktime">www.apple.com/quicktime</a><br/>
+		</p>
+		<script type="text/javascript" language="JavaScript">
+			try {
+			QT_WriteOBJECT(
+			'http://qss.itc.virginia.edu/medialab/faulkner_audio/wfaudio06_1.22.mp4 ', '300', ' 16', '',
+			'autoplay', 'false',
+			'scale', 'tofit',
+			'starttime','00:18:40.19',
+			'endtime','00:19:03.57');
+			}
+			catch (e) {
+			//document.write(e);
+			}</script>
 	</index>
 	<browse>
 		<list>
@@ -4962,7 +4980,7 @@
 			<br/>
 			<p>&copy;1957 The Cavalier Daily</p>
 		</div>
-		<div id="audioclip01" class="hidden">
+		<div id="audioclip01" class="hidden hide_printer">
 
 			<p>Blotner asks Faulkner about symbolism in <em>Pylon</em> (0:40):</p>
 
