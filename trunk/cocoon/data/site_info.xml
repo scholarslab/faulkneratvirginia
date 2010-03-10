@@ -651,7 +651,7 @@
 						(25 May 1957)</li>
 					<li><a href="#wfdailyprogress10" class="inline">Faulkner Invited To Return To
 							UVa</a> (30 May 1957)</li>
-					<li><a href="#wfdailyprogress11" class="inline">Faulkner Reads >From Novel,
+					<li><a href="#wfdailyprogress11" class="inline">Faulkner Reads From Novel,
 							Describes Probable Sequel</a> (31 May 1957)</li>
 					<li><a href="#wfdailyprogress12" class="inline">Faulkner to Return to UVa</a>
 						(24 October 1957)</li>
@@ -680,14 +680,14 @@
 			<div id="essay_content">
 				<h1>Faulkner in the Late 1950s</h1>
 
-				<p>In February 1957, when he arrived in Charlottesville to occupy his position as
+				<p><a href="#nobel" class="inline"><img src="wf50s01.jpg" alt="FAULKNER IN STOCKHOLM" title="FAULKNER IN STOCKHOLM"/></a>In February 1957, when he arrived in Charlottesville to occupy his position as
 					the University of Virginia&rsquo;s first Writer-in-Residence, William
 					Faulkner was 59 years old. Over the previous 34 years he had published sixteen
 					novels, five volumes of short stories and about a dozen other books, but had
 					only recently begun to wear the label by which he would often be introduced
 					during his two years at UVA: the country&rsquo;s &ndash; sometimes the
 					world&rsquo;s &ndash; &ldquo;greatest living novelist.&rdquo; In
-					1950 he became just the fourth American author to win a Nobel Prize for
+					1949 he became just the fourth American author to win a Nobel Prize for
 					Literature; this was his most prestigious honor, but earlier in the same year
 					the American Academy of Arts and Sciences awarded him the Howells Medal for
 					Fiction, and in the next five years he also received two National Book Awards
@@ -772,7 +772,7 @@
 					it may also have made University President Colgate Darden wary about approving
 					that offer.</p>
 
-				<p>According to the record, Darden was unenthusiastic about bringing Faulkner to the
+				<p><a href="#grandfather" class="inline"><img src="wf50s06.jpg" alt="FAULKNER WITH GRANDSON PAUL" title="FAULKNER WITH GRANDSON PAUL"/></a>According to the record, Darden was unenthusiastic about bringing Faulkner to the
 					grounds. Another cause of his uneasiness may have been the writer&rsquo;s
 					well-founded reputation as a drinker. His only previous invited visit to UVA
 					occurred in 1931, when he was asked to participate in a conference for southern
@@ -1410,7 +1410,7 @@
 					the teaching of literature.&rdquo;<a href="#uva50snote1" class="inline">
 						<strong>*</strong>
 					</a> Faulkner sometimes sounds equally tired of similar questions about his
-						work   <a href="#audioclip01" class="inline"><strong>&#937;</strong></a> , though his answers, while often evasive, are always courteous.</p>
+						work   <a href="#audioclip01" class="inline"><img src="arrow-right-play.gif" alt="Play Clip" title="Play Clip"></img></a> , though his answers, while often evasive, are always courteous.</p>
 
 				<p>While UVA students may have studied literature in much the same way as students
 					elsewhere in the country, in most respects the environment on the Grounds (as
@@ -3564,7 +3564,7 @@
 
 			<div id="spectator23" class="hidden">
 				<a name="spectator23"/>
-				<p><em>Below</em>: Illustration for "A Thorn for Edward," in the
+				<p><em>Below</em>: Cartoon from the
 					"Writer-in-Residence Issue" of the <em>Virginia Spectator</em> monthly magazine
 					(April 1957; vol. 118, no. 7, p. 16).</p>
 
@@ -3574,17 +3574,6 @@
 				</p>
 			</div>
 
-			<div id="spectator24" class="hidden">
-				<a name="spectator24"/>
-				<p><em>Below</em>: "Thorn For Edward," from the "Writer-in-Residence Issue" of the
-						<em>Virginia Spectator</em> monthly magazine (April 1957; vol. 118, no. 7,
-					p. 8).</p>
-
-				<p>
-					<img src="spectator24.jpg" title="PAGE 8, SPECTATOR MAGAZINE"
-						alt="PAGE 8, SPECTATOR MAGAZINE"/>
-				</p>
-			</div>
 
 			<div id="spectator28" class="hidden essay">
 				<a name="spectator28"/>
@@ -5476,6 +5465,17 @@
 				<p>&copy;1959 The Daily Progress</p>
 			</div>
 		
+		<div id="nobel" class="hidden">
+			<a name="nobel"/>
+			<p><em>Below</em>:  Faulkner in Stockholm, 10 December 1950, with novelist Gustaf Hellstrom and the President of the Nobel Foundation.  
+				Though he received the Nobel Prize for Literature in 1950, the award was officially "for 1949."  Courtesy the Faulkner family.
+			</p>
+			<p>
+				<img class="center" src="wf50s01l.jpg"  title="" alt="" />
+			</p>
+		</div>
+		
+		
 		<div id="postwaifs" class="hidden">
 			<a name="postwaifs"/>
 			<p><em>Below</em>: (1) Cover from <em>Saturday Evening Post</em> (4 May 1957); (2) pages 26-27 of that issue.  Caption: "William Faulkner, now nearing
@@ -5484,6 +5484,15 @@
 			<p>
 				<img class="center" src="postwaifscover.jpg"  title="COVER,4 MAY 1957 POST" alt="COVER,4 MAY 1957 POST" /><br /><br />
 				<img class="center" src="postwaifs.jpg"  title="PAGES 26-27, 4 MAY 1957 POST" alt="PAGES 26-27, 4 MAY 1957 POST" />
+			</p>
+		</div>
+		
+		<div id="grandfather" class="hidden">
+			<a name="grandfather"/>
+			<p><em>Below</em>:  Faulkner with his grandson, Paul Summers III, in Charlottesville, April 1955.  Courtesy the Faulkner family.
+			</p>
+			<p>
+				<img class="center" src="wf50s06l.jpg"  title="" alt="" />
 			</p>
 		</div>
 		
