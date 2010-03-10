@@ -133,7 +133,9 @@
 								<xsl:choose>
 									<xsl:when test="str[@name='section_title'] = 'Image'">
 										<div style="float:left;width:120px;">
-											<img src="{str[@name='thumb_image']}" style="max-width:120px;"/>
+											<a href="media?id={str[@name='id']}">
+												<img src="{str[@name='thumb_image']}" style="max-width:120px;"/>
+											</a>
 										</div>
 										<div style="margin-left:140px;">
 										<a href="media?id={str[@name='id']}">
