@@ -83,11 +83,11 @@
 								<xsl:otherwise>[No Header]</xsl:otherwise>
 							</xsl:choose>
 						</a>
-						<div>
+						<div><p>
 							<script language="JavaScript" type="text/javascript">
 							try {
 							QT_WriteOBJECT(
-							'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="str[@name='doc_id']"/>.mp4', ' 300 ', ' 30 ', '',
+							'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="str[@name='doc_id']"/>.mp4', ' 300 ', ' 16 ', '',
 							'autoplay', 'false',
 							'scale', 'tofit',
 							'starttime','<xsl:value-of select="replace(str[@name='start'], '\.', ':')"/>',
@@ -95,7 +95,7 @@
 							}
 							catch (e) {
 							//document.write(e);
-							}</script>
+							}</script></p>
 						</div>
 						<div>
 							<dt>Date:</dt>
