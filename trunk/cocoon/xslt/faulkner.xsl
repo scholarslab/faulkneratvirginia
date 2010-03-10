@@ -35,6 +35,8 @@
 								$('.entire').show();
 							});
 						});
+						
+						$('.end').click(function(){window.location = 'http://bit.ly/cbfYp2'});
 					});
 				</script>
 			</head>
@@ -86,7 +88,7 @@
 			
 			<hr/>
 			<xsl:apply-templates select="div2"/>
-			<span class="event tooltip">[<i>end of recording</i>]</span>
+			<p class="end"><span class="event tooltip">[<i>end of recording</i>]</span></p>
 		</div>
 	</xsl:template>
 
