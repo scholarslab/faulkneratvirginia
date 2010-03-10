@@ -39,7 +39,7 @@
     * <strike>Transition hiding of CSS playbars</strike> (completed 2/25/10)  
   # Add logic to results to differentiate between images and text for media-content blocks
     * Change the way the xslt for indexing works
-  # Figure out a way to suppress printer icon for audio dclips
+  # <strike>Figure out a way to suppress printer icon for audio clips</strike> (completed 3/9/10)
   
 = Bracketed Items =
 
