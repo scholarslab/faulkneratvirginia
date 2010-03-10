@@ -12,18 +12,24 @@
 						<a href="{$path}./">Home</a>
 					</li>
 					<li>
+						<a href="{$path}page?id=essays">Context</a>
+					</li>
+					<li>
 						<a href="{$path}browse">Browse</a>
 					</li>
 					<li>
 						<a href="{$path}search">Search</a>
 					</li>
-					<xsl:for-each select="document('../data/site_info.xml')//page">
+					<li>
+						<a href="{$path}page?id=about">About</a>
+					</li>
+					<!-- <xsl:for-each select="document('../data/site_info.xml')//page">
 						<li>
 							<a href="{$path}page?id={@id}">
 								<xsl:value-of select="@slug"/>
 							</a>
 						</li>
-					</xsl:for-each>
+					</xsl:for-each> -->
 				</ul>				
 			</div>
 		</div>
