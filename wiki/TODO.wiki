@@ -16,7 +16,7 @@
     * <strike>Add in jqprint</strike> (completed 2/17/10)
     * <strike>Create new class for jquery listener</strike> (completed 2/17/10)
     * <strike>Write XSLT to add button||text to page</strike> (completed 3/8/10)
-    * Feedback on image choice/size
+    * <strike>Feedback on image choice/size</strike> (completed 3/8/10)
   # <strike>Eliminate need to reference content pages twice in the site_info file</strike> (completed 3/8/10)
     * <strike>Update XSLT to pull content in to page at render </strike> (completed 3/8/10)
     * <strike>Update index transform to make this "pages"</strike> (completed 3/8/10)
