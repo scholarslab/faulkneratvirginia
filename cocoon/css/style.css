@@ -333,6 +333,7 @@ dd {
 
 #cboxLoadedContent > div { padding: 2em; }
 
+.hide_printer > img.print_hidden { display:none; }
 
 /**
   *
