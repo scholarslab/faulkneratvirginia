@@ -12,7 +12,7 @@
 						<a href="{$path}./">Home</a>
 					</li>
 					<li>
-						<a href="{$path}page?id=essays">Context</a>
+						<a href="{$path}page?id=essays">Contexts</a>
 					</li>
 					<li>
 						<a href="{$path}browse">Browse</a>
