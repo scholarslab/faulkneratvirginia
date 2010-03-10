@@ -17,6 +17,7 @@
 			<xs:sequence>
 				<xs:element ref="center"/>
 				<xs:element ref="p"/>
+				<xs:element ref="script"/>
 			</xs:sequence>
 		</xs:complexType>
 	</xs:element>
@@ -80,11 +81,11 @@
 	<xs:element name="section">
 		<xs:complexType>
 			<xs:choice>
+				<xs:element maxOccurs="unbounded" ref="div"/>
 				<xs:sequence>
 					<xs:element ref="h3"/>
 					<xs:element ref="p"/>
 				</xs:sequence>
-				<xs:element maxOccurs="unbounded" ref="div"/>
 			</xs:choice>
 			<xs:attribute name="id" use="required" type="xs:NCName"/>
 			<xs:attribute name="title" use="required"/>
@@ -120,17 +121,14 @@
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="b" type="xs:string"/>
-	<xs:element name="em">
+	<xs:element name="script">
 		<xs:complexType mixed="true">
-			<xs:attribute name="class" type="xs:NCName"/>
+			<xs:attribute name="language" use="required" type="xs:NCName"/>
+			<xs:attribute name="type" use="required"/>
 		</xs:complexType>
 	</xs:element>
-	<xs:element name="h3">
+	<xs:element name="em">
 		<xs:complexType mixed="true">
-			<xs:choice minOccurs="0" maxOccurs="unbounded">
-				<xs:element ref="a"/>
-				<xs:element ref="em"/>
-			</xs:choice>
 			<xs:attribute name="class" type="xs:NCName"/>
 		</xs:complexType>
 	</xs:element>
@@ -189,10 +187,13 @@
 			</xs:sequence>
 		</xs:complexType>
 	</xs:element>
-	<xs:element name="script">
+	<xs:element name="h3">
 		<xs:complexType mixed="true">
-			<xs:attribute name="language" use="required" type="xs:NCName"/>
-			<xs:attribute name="type" use="required"/>
+			<xs:choice minOccurs="0" maxOccurs="unbounded">
+				<xs:element ref="a"/>
+				<xs:element ref="em"/>
+			</xs:choice>
+			<xs:attribute name="class" type="xs:NCName"/>
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="strong" type="xs:string"/>
@@ -203,7 +204,7 @@
 				<xs:element ref="strong"/>
 			</xs:choice>
 			<xs:attribute name="class" type="xs:NCName"/>
-			<xs:attribute name="href"/>
+			<xs:attribute name="href" type="xs:anyURI"/>
 			<xs:attribute name="name" type="xs:NCName"/>
 		</xs:complexType>
 	</xs:element>
