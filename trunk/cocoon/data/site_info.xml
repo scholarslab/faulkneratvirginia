@@ -703,6 +703,23 @@
 						</a>
 					</li>
 					
+					<li>
+						<a href="#barkley02" class="inline">
+							<img src="barkley02t.jpg" alt="FAULKNER WITH HUNTING HORN" title="FAULKNER WITH HUNTING HORN"/>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#barkley03" class="inline">
+							<img src="barkley03t.jpg" alt="FAULKNER AT FARMINGTON HUNT CLUB" title="FAULKNER AT FARMINGTON HUNT CLUB"/>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#barkley01" class="inline">
+							<img src="barkley01t.jpg" alt="FAULKNER AT FARMINGTON HUNT CLUB" title="FAULKNER AT FARMINGTON HUNT CLUB"/>
+						</a>
+					</li>
 					
 					<li>
 						<a href="#wfprint02" class="inline">
@@ -4105,7 +4122,31 @@
 			</p>
 		</div>
 		
+		<div id="barkley02" class="hidden">
+			<a name="barkley02"/>
+			<p><em>Below</em>: Photo by George Barkley of William Faulkner with hunting horn, at Farmington Hunt Club, 1960.  Courtesy Bill Barkley.
+			</p>
+			<p>
+				<img src="barkley02.jpg"  title="GEORGE BARKLEY PHOTO" alt="GEORGE BARKLEY PHOTO" />
+			</p>
+		</div>
 		
+		<div id="barkley03" class="hidden">
+			<a name="barkley03"/>
+			<p><em>Below</em>: Photo by George Barkley of Faulkner riding with Grover Van Devender (<em>red coat</em>) and unidentified man, at Farmington Hunt Club, 1960.  Courtesy Bill Barkley.</p>
+			<p>
+				<img src="barkley03.jpg"  title="GEORGE BARKLEY PHOTO" alt="GEORGE BARKLEY PHOTO" />
+			</p>
+		</div>
+		
+		<div id="barkley01" class="hidden">
+			<a name="barkley01"/>
+			<p><em>Below</em>: Photo by George Barkley from of Faulkner on horseback at Farmington Hunt Club, autumn 1960.   Courtesy Bill Barkley.
+			</p>
+			<p>
+				<img src="barkley01.jpg"  title="GEORGE BARKLEY PHOTO" alt="GEORGE BARKLEY PHOTO" />
+			</p>
+		</div>
 
 		<div id="wfprint02" class="hidden">
 			<a name="wfprint02"/>
