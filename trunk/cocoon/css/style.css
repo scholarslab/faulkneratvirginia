@@ -326,9 +326,10 @@ dd {
     margin: 0 15px 5px 0;
 }
 
-#essay_content img.play_inline {
-	padding: 6px;
+#essay_content img.inline {
+	padding: 0;
 	margin: 0;
+	float: none;
 }
 
 #cboxLoadedContent > div { padding: 2em; }
