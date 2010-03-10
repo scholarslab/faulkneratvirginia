@@ -466,7 +466,7 @@
 					</xsl:otherwise>
 				</xsl:choose>
 			</select>
-			<input type="submit" value="Go" id="submit_button"/>
+			<input type="submit" value="Search" id="submit_button"/>
 		</form>
 	</xsl:template>
 
