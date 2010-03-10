@@ -20,6 +20,8 @@
 				<link type="text/css" href="/style.css" rel="stylesheet" media="screen,projection"/>
 				<link type="text/css" href="/print.css" rel="stylesheet" media="print" />
 				
+				<script type="text/javascript" src="{$path}javascript/AC_Quicktime.js">//</script>
+				
 			</head>
 			<body>
 				<div id="wrap">
