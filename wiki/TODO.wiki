@@ -17,18 +17,18 @@
     * <strike>Create new class for jquery listener</strike> (completed 2/17/10)
     * <strike>Write XSLT to add button||text to page</strike> (completed 3/8/10)
     * Feedback on image choice/size
-  # Eliminate need to reference content pages twice in the site_info file
-    * Update XSLT to pull content in to page at render 
-    * Update index transform to make this "pages"
+  # <strike>Eliminate need to reference content pages twice in the site_info file</strike> (completed 3/8/10)
+    * <strike>Update XSLT to pull content in to page at render </strike> (completed 3/8/10)
+    * <strike>Update index transform to make this "pages"</strike> (completed 3/8/10)
     * Update JavaScript for graceful degradation
   # Sort out missing audio
     * <strike>Rename wfaudio10 to wfaudio14</strike> (complete 3/5/10)
     * <strike>Rename wfaudio22_1 to wfaudio22_2</strike> (complete 3/5/10)
-    * Locate wfaudio10: TEI identifies this as T-118andT-119; mp3 I have does not match
+    * <strike>Locate wfaudio10: TEI identifies this as T-118andT-119; mp3 I have does not match</strike> (completed 3/8/10)
     * <strike>Locate wfaudio22_1</strike> (completed 3/8/10)
     * <strike>Rename wfaudio25 to wfaudio26_2</strike> (complete 3/5/10)
     * <strike>Rename wfaduio26_1 to wfaudio25</strike> (complete 3/5/10)
-    * <strike>Locate wfaduio26_1</strike> (completed 3/8/10): The TEI identifies this as Tape T-143a; this actually appears to be tape T-143c (at least the audio matches the transcript).
+    * <strike>Locate wfaduio26_1: The TEI identifies this as Tape T-143a; this actually appears to be tape T-143c (at least the audio matches the transcript).</strike> (completed 3/8/10)
   # Make new mp4 from mislabeled mp3s
     * wfaudio22_1
     * wfaudio26_1
