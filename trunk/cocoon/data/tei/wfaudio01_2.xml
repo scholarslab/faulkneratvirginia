@@ -46,7 +46,7 @@
             </particDesc>
             <settingDesc>
                 <setting>
-                    <date value="1957-02-25"><corr sic="35">25</corr> February 1957</date>
+                    <date value="1957-02-25">25 February 1957</date>
                     <locale>John Coleman's Writing Class</locale>
                     <name type="place">University of Virginia</name>
                     <name type="city">Charlottesville, Virginia</name>
@@ -56,7 +56,7 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="event1"><head>FILENAME: wfaudio01_2</head>
+            <div1 type="event1">
                 <head>DATE: 25 February 1957</head>
                 <head>OCCASION: John Coleman's Writing Class</head>
                 <head>TAPE: T-120_Coleman</head><head>LENGTH: 49:13</head>

@@ -53,7 +53,8 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div1 type="event1"><head>FILENAME: wfaudio18_1</head><head>DATE: 30 May 1957</head>
+			<div1 type="event1">
+				<head>DATE: 30 May 1957</head>
 				<head>OCCASION: Local Public and University Community</head>
 				<head>TAPE: T-135</head><head>LENGTH: 31:48</head>
 				<head>READING: From The Town</head>

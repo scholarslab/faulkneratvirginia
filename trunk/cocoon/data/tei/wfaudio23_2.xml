@@ -43,6 +43,9 @@
 				<person>
 					<persName id="B">Joseph Blotner</persName>
 				</person>
+				<person>
+					<p id="AKD">A. K. Davis</p>
+				</person>
 			</particDesc>
 			<settingDesc>
 				<setting>
@@ -56,7 +59,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div1 type="event1"><head>FILENAME: wfaudio23_2</head>
+			<div1 type="event1">
 				<head>DATE: 24 April 1958</head>
 				<head>OCCASION: Undergraduate Writing Class</head>
 				<head>TAPE: T-142b</head><head>LENGTH: 29:49</head>
@@ -223,18 +226,18 @@
 					think.</u></div2>
 				<div2 type="dialog" id="wfaudio23_2.11" start="00:11:26.45" end="00:14:02.17">
 					<head>Hoping to Prevail</head>
-					<u who="Q">Mr. Faulkner, your—your—your speech of
+					<u who="AKD">Mr. Faulkner, your—your—your speech of
 					acceptance of the Nobel Prize was one of the most encouraging things that I've
 					ever heard said in my <unclear>very long</unclear> lifetime. You haven't changed your mind, have you?</u>
 				<u who="WF">No, sir.</u>
-				<u who="Q">You don't think that this generation, like a former neighbor of yours
+				<u who="AKD">You don't think that this generation, like a former neighbor of yours
 					said, is poor in spirit and common as hell, do you?</u>
 				<u who="WF">No, sir, I don't think so. <event desc="audience laughter"/></u>
-					<u who="Q">Well, then—then what do you mean in relation to what you said at that time, 
+					<u who="AKD">Well, then—then what do you mean in relation to what you said at that time, 
 					when you accepted your Nobel Prize?</u>
 				<u who="WF">Well, I—I mean what I thought I said. <event desc="audience laughter"/>
 					I—I'm sorry. Maybe I don't understand your question.</u>
-				<u who="Q">Well, I—I'm sure it's my fault, but it seems to me now that you seem
+				<u who="AKD">Well, I—I'm sure it's my fault, but it seems to me now that you seem
 					rather hopeless about the—the prevalence of individuality and the—the human spirit,
 					and that in that speech you seemed to have stressed the importance of that by
 					strongly <unclear>agreeing</unclear>. Do you feel the world has changed now to

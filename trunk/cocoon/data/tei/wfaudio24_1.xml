@@ -34,9 +34,7 @@
                 <person>
                     <persName id="WF">William Faulkner</persName>
                 </person>
-                <person>
-                    <p id="M">Moderator</p>
-                </person>
+                
                 <person>
                     <p id="Q">Unidentified participant</p>
                 </person>
@@ -62,7 +60,7 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="event1"><head>FILENAME: wfaudio24_1</head>
+            <div1 type="event1">
                 <head>DATE: 28 April 1958</head><head>OCCASION: First-Year English Class</head>
                 <head>TAPE: T-142c</head><head>LENGTH: 31:56</head>
                 <div2 type="dialog" id="wfaudio24_1.1" start="00:00:03.07" end="00:00:08.32">

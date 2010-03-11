@@ -68,7 +68,7 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="event1"><head>FILENAME: wfaudio27</head>
+            <div1 type="event1">
                 <head>DATE: 6 May 1958</head><head>OCCASION: What's the Good Word Radio Program</head>
                 <head>TAPE: T-141c</head><head>LENGTH: 26:20</head>
                 <div2 type="dialog" id="wfaudio27.1" start="00:00:13.09" end="00:01:10.49">

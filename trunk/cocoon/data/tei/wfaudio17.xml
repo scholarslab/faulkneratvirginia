@@ -56,7 +56,8 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="event1"><head>FILENAME: wfaudio17</head><head>DATE: 20 May 1957</head>
+            <div1 type="event1">
+                <head>DATE: 20 May 1957</head>
                 <head>OCCASION: Press Conference</head>
                 <head>TAPE: T-134</head><head>LENGTH: 32:05</head>
                 

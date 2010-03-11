@@ -32,7 +32,7 @@
 		<profileDesc>
 			<particDesc>
 				<person>
-					<p id="XM">McAleer</p>
+					<p id="EM">Edward McAleer</p>
 				</person>
 				<person>
 					<persName id="WF">William Faulkner</persName>
@@ -56,13 +56,14 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div1 type="event1"><head>FILENAME: wfaudio05_1</head><head>DATE: 13 March 1957</head>
+			<div1 type="event1">
+				<head>DATE: 13 March 1957</head>
 				<head>OCCASION: Twentieth Century Literature Class</head>
 				<head>TAPE: T-112</head><head>LENGTH: 35:01</head>
 				
 				<div2 type="dialog" id="wfaudio05_1.1" start="00:00:14.65" end="00:00:21.14">
 				<head>Opening</head>	
-					<u who="XM">Well, we'll begin by <unclear>asking Mr. Faulkner
+					<u who="EM">Well, we'll begin by <unclear>asking Mr. Faulkner
 						questions</unclear>, raise your hand if you have one.</u></div2>
 				<div2 type="dialog" id="wfaudio05_1.2" start="00:00:25.08" end="00:01:49.06">
 					<head>The Southern Environment</head>	
