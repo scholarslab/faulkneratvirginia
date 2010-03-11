@@ -38,10 +38,10 @@
                     <p id="Q">Unidentified participant</p>
                 </person>
                 <person>
-                    <persName id="B">Blotner</persName>
+                    <persName id="B">Joseph Blotner</persName>
                 </person>
                 <person>
-                    <p id="XM">McAleer</p>
+                    <p id="EM">Edward McAleer</p>
                 </person>
             </particDesc>
             <settingDesc>
@@ -56,7 +56,7 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="event1"><head>FILENAME: wfaudio25</head>
+            <div1 type="event1">
                 <head>DATE: 1 May 1958</head>
                 <head>OCCASION: Undergraduate Class in Contemporary American Literature</head>
                 <head>TAPE: T-143d</head><head>LENGTH: 22:45</head>
@@ -171,7 +171,7 @@
                 <div2 type="dialog" id="wfaudio25.7" start="00:08:44.01" end="00:10:14.94">
                     <head>Creating Atmosphere</head>
                     <u who="WF">Yes, sir.</u>
-                <u who="XM">You have a great knack for creating atmosphere. Do you have to go about
+                <u who="EM">You have a great knack for creating atmosphere. Do you have to go about
                     it consciously, as Poe did it, or does it just sort of come
                     naturally?</u>
                 <u who="WF">Well there's—no writing comes naturally. It's a great deal of
@@ -322,7 +322,7 @@
                     that makes him imposing looking.</u></div2>
                 <div2 type="dialog" id="wfaudio25.16" start="00:20:03.06" end="00:20:14.28">
                     <head>Close</head>
-                    <u who="XM">Thank you, Mr. Faulkner. <unclear>I speak for all of
+                    <u who="EM">Thank you, Mr. Faulkner. <unclear>I speak for all of
                         us.</unclear>
                     <event desc="applause"/></u>
                 

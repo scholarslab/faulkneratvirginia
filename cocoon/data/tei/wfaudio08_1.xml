@@ -56,7 +56,8 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div1 type="event1"><head>FILENAME: wfaudio08_1</head><head>DATE: 25 April 1957</head>
+			<div1 type="event1">
+				<head>DATE: 25 April 1957</head>
 				<head>OCCASION: At Mary Washington College</head>
 				<head>TAPE: T-122c</head><head>LENGTH: 30:54</head>
 				<head>READING: "Shingles for the Lord"</head>

@@ -32,7 +32,7 @@
 		<profileDesc>
 			<particDesc>
 				<person>
-					<p id="M">Moderator</p>
+					<p id="AKD">A. K. Davis</p>
 				</person>
 				<person>
 					<persName id="Bs">Boggs</persName>
@@ -44,13 +44,16 @@
 					<persName id="FS">Floyd Stovall</persName>
 				</person>
 				<person>
-					<persName id="H">Hale</persName>
+					<persName id="RT">Robert Turner</persName>
+				</person>
+				<person>
+					<persName id="NH">Nancy Hale</persName>
 				</person>
 				<person>
 					<persName id="ES">Edgar Shannon</persName>
 				</person>
 				<person>
-					<persName id="Be">Beranger</persName>
+					<persName id="AB">Anna Barringer</persName>
 				</person>
 				<person>
 					<persName id="B">Joseph Blotner</persName>
@@ -74,12 +77,13 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div1 type="event1"><head>FILENAME: wfaudio13</head><head>DATE: 13 May 1957</head>
+			<div1 type="event1">
+				<head>DATE: 13 May 1957</head>
 				<head>OCCASION: English Department Faculty and Wives</head>
 				<head>TAPE: T-127</head><head>LENGTH: 60:20</head>
 				<div2 type="dialog" id="wfaudio13.1" start="00:00:01.63" end="00:00:14.88">
 					<head>Opening</head>
-					<u who="M">We all know why we're here, and we're very lucky to be here with Mr. Faulkner,
+					<u who="AKD">We all know why we're here, and we're very lucky to be here with Mr. Faulkner,
 						and that's all I'll say, and ask you to begin. Any questions you want to ask
 						Mr. Faulkner?</u>
 				</div2>
@@ -101,7 +105,7 @@
 				</div2>
 				<div2 type="dialog" id="wfaudio13.3" start="00:01:49.48" end="00:03:29.88">
 					<head>Scott and the South</head>
-					<u who="M">It's been both stated and denied
+					<u who="AKD">It's been both stated and denied
 						that Sir Walter Scott has greatly influenced southern people, especially
 						during the—not the recent unpleasantness but the less recent unpleasantness,
 						the mid-nineteenth century war, the War Between the States. I notice you
@@ -194,7 +198,7 @@
 				</div2>
 				<div2 type="dialog" id="wfaudio13.7" start="00:09:06.32" end="00:10:52.17">
 					<head>Regional Responses</head>
-					<u who="M">Does any locality like to read
+					<u who="AKD">Does any locality like to read
 						the books that are written about that locality, do you think? Is it
 						characteristic that a locality is—is generally offended when it finds itself
 						in a novel or a story?</u>
@@ -202,11 +206,11 @@
 						country have a—a sort of a—a fierce pride in people like Thoreau and
 						Emerson? Or was that just the—the educated intellectual New Englander that
 						felt that?</u>
-					<u who="M">I don't know—</u>
+					<u who="AKD">I don't know—</u>
 					<u who="WF">Well, I always thought that—that everybody, they might not have
 						approved so much of all that—that Emerson or Thoreau said, but they had
 						a—a—a fierce, almost provincial pride in—</u>
-					<u who="M">They did, but neither Emerson nor Thoreau were writing about the
+					<u who="AKD">They did, but neither Emerson nor Thoreau were writing about the
 						people of New England, in the way we're talking about, in the way you write
 						about the people of the South, or Eudora Welty, or whoever. They were
 						writing about ideas and nature, but as far as I know they didn't write
@@ -214,9 +218,9 @@
 							say </unclear>, this is what things are like in New England. I—I think I'm
 						right, aren't I?</u>
 					<u who="B">You'd have to go to Hawthorne, wouldn't you, to find—</u>
-					<u who="M">You'd have to go to Hawthorne to find if the—the—</u>
+					<u who="AKD">You'd have to go to Hawthorne to find if the—the—</u>
 					<u who="WF">Would that have held true of Hawthorne?</u>
-					<u who="M">I don't know, sir. I don't know whether that—if whether Hawthorne
+					<u who="AKD">I don't know, sir. I don't know whether that—if whether Hawthorne
 						would have been perceived <inaudible/>.</u>
 					<u who="Q"><inaudible/> Anyway, <inaudible/> as far as
 						I know, he was just as popular at home as he was <unclear>anywhere else.
@@ -227,10 +231,10 @@
 					<u who="WF">Well, that gets back to
 						something else. Can a man write about ideas except in—in the provincial
 						terms of his background?</u>
-					<u who="M">Well, they certainly must affect him.</u>
+					<u who="AKD">Well, they certainly must affect him.</u>
 					<u who="WF">Could Emerson have—have written Emerson—would it have been the same
 						Emerson if he'd been a Mississippian, say, or a Texan or a Californian?</u>
-					<u who="M">Well, I think not, but still when you are writing about self-reliance
+					<u who="AKD">Well, I think not, but still when you are writing about self-reliance
 						in general, it could apply all over the world.</u>
 					<u who="WF">But would a Californian in a
 						climate that don't change, where you don't need <event desc="audience laughter"/> even a warm house to live in—what would he
@@ -275,7 +279,7 @@
 				</div2>
 				<div2 type="dialog" id="wfaudio13.11" start="00:14:08.99" end="00:16:34.96">
 					<head>Time in Long Sentences</head>
-					<u who="M">Mr. Faulkner, I spoke to you
+					<u who="AKD">Mr. Faulkner, I spoke to you
 						about your long sentences and asked you if one reason for them were not that
 						you were trying to give the past and the present and the future, more or
 						less all at the same time, to throw light on the present action by referring
@@ -303,11 +307,11 @@
 				</div2>
 				<div2 type="dialog" id="wfaudio13.12" start="00:16:38.41" end="00:18:07.38">
 					<head>A Writer's Omniscience</head>
-					<u who="M">So you—so you arrogate to
+					<u who="AKD">So you—so you arrogate to
 						yourself the power of knowing the future of your characters and use that in
 						your depicting of them and what happens to them.</u>
 					<u who="WF">No—</u>
-					<u who="M">You—you are, in a sense, in 2057, and you're writing about somebody
+					<u who="AKD">You—you are, in a sense, in 2057, and you're writing about somebody
 						in 1957, and you also know what happened in 1857.</u>
 					<u who="WF">Well, I—I—I can assume the
 						fact that—that in the people which I create is the—the genesis, the—the seed
@@ -323,7 +327,7 @@
 				</div2>
 				<div2 type="dialog" id="wfaudio13.13" start="00:18:07.39" end="00:19:29.08">
 					<head>Telescoping Time</head>
-					<u who="M">I—I was thinking of something a
+					<u who="AKD">I—I was thinking of something a
 						little more specific than—than that. You—you are talking of a man brushing
 						his hair, and you refer to the fact that twenty years ago he was a child
 						playing in the dust, and at the same time you know he's going to commit a
@@ -336,15 +340,15 @@
 						individual, that character, or he never could get his book done. That is, he
 						has got to know where the thing's going, in a way, before he starts because
 						then he won't know when to stop it.</u>
-					<u who="M">And you think this future murder throws light on the way this
+					<u who="AKD">And you think this future murder throws light on the way this
 						fellow—</u>
 					<u who="WF">Yes, yes.</u>
-					<u who="M">—combs his hair, and the playing in the dust—</u>
+					<u who="AKD">—combs his hair, and the playing in the dust—</u>
 					<u who="WF">Yes, yes.</u>
-					<u who="M">—also throws light on the way he combs his hair, and you can describe
+					<u who="AKD">—also throws light on the way he combs his hair, and you can describe
 						the combing of the hair the better because—</u>
 					<u who="WF">I think so.</u>
-					<u who="M">—you have this in mind and that in mind.</u>
+					<u who="AKD">—you have this in mind and that in mind.</u>
 					<u who="WF">I think if—if we could know
 						the future of ourselves and one another we would never be as baffled and
 						confused by—by people, by our contact with people, as we are. It wouldn't be
@@ -352,7 +356,7 @@
 				</div2>
 				<div2 type="dialog" id="wfaudio13.14" start="00:19:32.53" end="00:19:51.78">
 					<head>Prompting Audience</head>
-					<u who="M">Didn't you have a question you
+					<u who="AKD">Didn't you have a question you
 						wanted to ask in connection with Dostoevsky, the Russians in general?</u>
 					<u who="Q"><inaudible/> let me figure a way
 						to—to phrase it and get it clear in my mind <inaudible/>
@@ -360,7 +364,7 @@
 				</div2>
 				<div2 type="dialog" id="wfaudio13.15" start="00:19:54.14" end="00:21:27.28">
 					<head>Civil War vs WW I</head>
-					<u who="Q">Well, what—what do you think is
+					<u who="RT">Well, what—what do you think is
 						the—was the difference in quality of the impact on the—to the southern
 						people after the Civil War and the—as a mental experience and though—and say
 						World War I—the people that were involved in World War I?</u>
@@ -577,11 +581,11 @@
 				</div2>
 				<div2 type="dialog" id="wfaudio13.25" start="00:36:17.85" end="00:36:54.10">
 					<head>Conrad's Influence</head>
-					<u who="M">Sir, do you look at your own
+					<u who="AKD">Sir, do you look at your own
 						work and look at the—and look at the novels of Joseph Conrad, which I've heard
 						you express a liking for—do you see any sort of similarities in method?</u>
 					<u who="WF">No, I don't. I've said this before. That's —</u>
-					<u who="M">I'm sorry I didn't know <inaudible/></u>
+					<u who="AKD">I'm sorry I didn't know <inaudible/></u>
 					<u who="WF">— one good thing about writing. When you
 						write a book you don't ever have to read it again, because you're busy on
 						another one. And I think the writer never goes back to see where he got what
@@ -590,13 +594,13 @@
 				</div2>
 				<div2 type="dialog" id="wfaudio13.26" start="00:36:54.10" end="00:38:25.13">
 					<head>Conrad's Technique</head>
-					<u who="M">We—we discussed Joseph Conrad in
+					<u who="AKD">We—we discussed Joseph Conrad in
 						the course that I teach. We frequently come up against you, and vice versa,
 						and—and I was—I was curious to know whether you—you saw any similarities?</u>
 					<u who="WF">I imagine if I went back over the work I could find similarities. I
 						can find similarities between Conrad and Hardy. And I'm sure I can find
 						Conrad in my stuff and find almost anybody else you could name.</u>
-					<u who="M">I was thinking of the particular thing of Conrad's effort to surround
+					<u who="AKD">I was thinking of the particular thing of Conrad's effort to surround
 						an event by throwing light on it from past—past and future, as well as
 						present. He—he—he seems to—seems to stop at a particular event and—and throw
 						light from this character and that character, and from—from the front and
@@ -651,7 +655,7 @@
 				</div2>
 				<div2 type="dialog" id="wfaudio13.29" start="00:41:47.39" end="00:43:22.56">
 					<head>Wolfe and the Past</head>
-					<u who="Be">I know you admire Wolfe
+					<u who="AB">I know you admire Wolfe
 						tremendously, but don't you feel that as Wolfe caught up to the present that
 						he lost something that he had when he had a little more time between him and
 						the—and the event to digest?</u>
@@ -665,7 +669,7 @@
 						rate us this way," which I did, and that's what that came from, and for
 						about twenty years now I've been trying to explain that. <event desc="audience laughter"/></u>
 
-					<u who="Be"><unclear>Well, I didn't hear it.</unclear> But actually, don't you think
+					<u who="AB"><unclear>Well, I didn't hear it.</unclear> But actually, don't you think
 						that—that Wolfe was <unclear>obvious,</unclear> and I wondered if you felt
 						at all the same way, that when he had a little time between him and his
 						childhood to digest what had happened <unclear>it felt like it sort of
@@ -698,7 +702,7 @@
 						And I would rather have as few facts as possible, and let observation and
 						experience and imagination <unclear>do the rest of it</unclear>.</u>
 					<u who="FS">And wouldn't that then be, in a way, an answer to Miss
-							<unclear>Beranger's</unclear> question, that if you are remote from a
+							Barringer's question, that if you are remote from a
 						time, it has less hold on you, that it constricts your imagination less than
 						that which is just a year or two ago.</u>
 					<u who="WF">I don't know, if you as immune to facts as I am, it don't
@@ -736,7 +740,7 @@
 				</div2>
 				<div2 type="dialog" id="wfaudio13.32" start="00:47:27.10" end="00:48:07.77">
 					<head>A Historical Novel</head>
-					<u who="M">You've almost answered this, but
+					<u who="AKD">You've almost answered this, but
 						I'll ask you anyway. Do you think you'll ever write an historical novel
 						set—dealing with the last century? Would it interest you to do so?</u>
 					<u who="WF">No, because I don't have much
@@ -759,7 +763,7 @@
 						and some of the early books—he can afford to
 						write a bad book, whenever he wants to, I think. Miss Hale will agree with
 						that, won't you?</u>
-					<u who="H">Oh, yes.</u>
+					<u who="NH">Oh, yes.</u>
 				</div2>
 				<div2 type="dialog" id="wfaudio13.34" start="00:49:06.96" end="00:49:53.32">
 					<head>Contemporary Books</head>
@@ -777,14 +781,14 @@
 				</div2>
 				<div2 type="dialog" id="wfaudio13.35" start="00:49:54.35" end="00:50:53.90">
 					<head>Favorite Writers</head>
-					<u who="M">What were the books that you
+					<u who="AKD">What were the books that you
 						read at twenty-one that you—you set store by? Can you mention a few of
 						them?</u>
 					<u who="WF">All of Balzac, <hi rend="italic">Don Quixote</hi>, <hi rend="italic">Madame Bovary</hi>,
 						<hi rend="italic">Salammbo</hi>, <hi rend="italic">The Temptation of Saint Anthony,</hi> Turgenev—I wonder what
 						became of him. He's not even writing any more. Is he dead? Does anybody
 						know?</u>
-					<u who="M">He must be dead—</u>
+					<u who="AKD">He must be dead—</u>
 					<u who="WF">Dostoevsky, Tolstoy, most of
 						Dickens, the Old Testament, Shakespeare—I don't read as much poetry as I did
 						once.  Some of Conrad. I—I reckon there's maybe fifty books that—that every
@@ -794,21 +798,21 @@
 				</div2>
 				<div2 type="dialog" id="wfaudio13.36" start="00:50:53.91" end="00:51:30.35">
 					<head>Reading Conrad</head>
-					<u who="M">Which one of Conrad do—do you
+					<u who="AKD">Which one of Conrad do—do you
 						read?</u>
 					<u who="WF">
 						<hi rend="italic">The Nigger of the Narcissus.</hi>
 					</u>
-					<u who="M">Do you read <hi rend="italic">Nostromo</hi>?</u>
+					<u who="AKD">Do you read <hi rend="italic">Nostromo</hi>?</u>
 					<u who="WF">Haven't read that in years.</u>
-					<u who="M"><hi rend="italic">Victory</hi>?</u>
+					<u who="AKD"><hi rend="italic">Victory</hi>?</u>
 					<u who="WF">Not in years. "Falk."  "The End of the Tether." What's the one about
 						the young man that was given command of the—</u>
 					<u who="B"><hi rend="italic">Lord Jim</hi>.</u>
 					<u who="WF">—barque in—?</u>
-					<u who="M">Deserted?</u>
+					<u who="AKD">Deserted?</u>
 					<u who="WF">—Bangkok?  "Youth."</u>
-					<u who="M">"Youth," yes.</u>
+					<u who="AKD">"Youth," yes.</u>
 					<u who="WF">"Youth."</u>
 				</div2>
 				<div2 type="dialog" id="wfaudio13.37" start="00:51:35.11" end="00:53:03.17">
@@ -834,7 +838,7 @@
 				</div2>
 				<div2 type="dialog" id="wfaudio13.38" start="00:53:12.80" end="00:54:45.54">
 					<head>Distilling the Truth</head>
-					<u who="Q">Sir, you—you seemed from that to
+					<u who="RT">Sir, you—you seemed from that to
 						place a premium on conciseness, yet your most brilliant successes seem to
 						have been in the other direction.</u>
 					<u who="WF">Conciseness is the wrong word.
@@ -866,11 +870,11 @@
 				</div2>
 				<div2 type="dialog" id="wfaudio13.40" start="00:55:46.04" end="00:56:22.35">
 					<head>Prompting Audience</head>
-					<u who="M">I'm not quite sure how
+					<u who="AKD">I'm not quite sure how
 						long this meeting is supposed to last. We've had an hour. Could you bear a
 						few more questions, if there are questions?</u>
 					<u who="WF">Yes, sir. Yes, sir.  Yes, indeed.</u>
-					<u who="M">Any of you? The rest of you? Questions you'd like to ask Mr. Faulkner?</u>
+					<u who="AKD">Any of you? The rest of you? Questions you'd like to ask Mr. Faulkner?</u>
 					<u who="Q">Some of the books—</u>
 					<u who="Q">You've done—you've done well <inaudible/> to hush up these people. They're
 						so full of information.</u>
@@ -879,7 +883,7 @@
 				</div2>
 				<div2 type="dialog" id="wfaudio13.41" start="00:56:22.36" end="00:56:48.69">
 					<head>Long v Short Books</head>
-					<u who="M">I—I will say this, sir. You speak
+					<u who="AKD">I—I will say this, sir. You speak
 						of <hi rend="italic">Don Quixote</hi> as well as your—as one of your—one of
 						the great books, one of the books that you most admire. It's a right long
 						book, isn't it?</u>
@@ -922,7 +926,7 @@
 				</div2>
 				<div2 type="dialog" id="wfaudio13.44" start="01:00:11.48" end="01:00:19.65">
 					<head>Close</head>
-					<u who="M">Well, if there are no
+					<u who="AKD">Well, if there are no
 						further questions, we're very much obliged to you indeed, Mr. Faulkner.</u>
 					<u who="Q">Yes we are.</u>
 					<u who="WF">Well, thank you. <event desc="end of recording"/></u>

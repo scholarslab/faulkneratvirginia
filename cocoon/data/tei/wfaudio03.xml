@@ -53,8 +53,11 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="event1"><head>FILENAME: wfaudio03</head><head>DATE: 9 March 1957</head><head>OCCASION: Undergraduate Class in Contemporary Literature</head>
-                <head>TAPE: T108-T109</head><head>LENGTH: 22:21 (reading of "Was" omitted)</head>
+            <div1 type="event1">
+                <head>DATE: 9 March 1957</head>
+                <head>OCCASION: Undergraduate Class in Contemporary Literature</head>
+                <head>TAPE: T108-T109</head>
+                <head>LENGTH: 22:21 (reading of "Was" not transcribed)</head>
                 <div2 type="dialog" id="wfaudio03.1" start="00:28:09.72" end="00:28:15.05">
                     <head>Introduction</head>
                     <u who="M">Mr. Faulkner will answer questions. We will have a number of them

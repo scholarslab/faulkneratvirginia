@@ -49,6 +49,9 @@
 				<person>
 					<persName id="B">Joseph Blotner</persName>
 				</person>
+				<person>
+					<p id="AKD">A. K. Davis</p>
+				</person>
 			</particDesc>
 			<settingDesc>
 				<setting>
@@ -62,7 +65,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div1 type="event1"><head>FILENAME: wfaudio23_1</head>
+			<div1 type="event1">
 				<head>DATE: 24 April 1958</head><head>OCCASION: Undergraduate Writing Class</head>
 				<head>TAPE: T-142a</head><head>LENGTH: 33:46</head>
 				<head>READING: "A Word to Young Writers"</head>
@@ -520,14 +523,14 @@
 					were—were over-intelligent but incapable of—of any strength
 					of—of mutual affection and tenderness, which, as I got it,
 					was—was Holden's home.</u>
-				<u who="Q">Mr. Faulkner, Holden wasn't grown up, and Quentin was grown up. He was
+				<u who="AKD">Mr. Faulkner, Holden wasn't grown up, and Quentin was grown up. He was
 						<unclear>holding onto something</unclear>.  He was a case of arrested
 					development, and Holden was a case of <inaudible/>. Isn't that true?</u>
 				<u who="WF">Yes, sir, there was that difference.</u>
-				<u who="Q">I don't know whether I read Quentin right or not, but he was holding onto
+				<u who="AKD">I don't know whether I read Quentin right or not, but he was holding onto
 					an ideal, wasn't he, sir?</u>
 				<u who="WF">Yes, sir.</u>
-					<u who="Q">That—that simply could not be lived up to in his terms.</u>
+					<u who="AKD">That—that simply could not be lived up to in his terms.</u>
 				<u who="WF">Yes, that's right. That couldn't have been lived up to in any time
 					maybe. But Holden Caulfield was simply looking for something which should be
 					everybody's right, not only a privilege, but everybody's right, to find mankind

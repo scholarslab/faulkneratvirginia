@@ -56,7 +56,8 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div1 type="event1"><head>FILENAME: wfaudio20_1</head><head>DATE: 20 February 1958</head>
+			<div1 type="event1">
+				<head>DATE: 20 February 1958</head>
 				<head>OCCASION: The Raven, Jefferson and Omicron Delta Kappa Societies</head>
 				<head>TAPE: T-140begins</head><head>LENGTH: 30:33</head>
 				<head>READING: "A Word to Virginians"</head>

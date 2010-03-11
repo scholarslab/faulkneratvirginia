@@ -35,7 +35,7 @@
           <persName id="WF">William Faulkner</persName>
         </person>
         <person>
-          <p id="XM">McAleer</p>
+          <p id="EM">Edward McAleer</p>
         </person>
         <person>
           <p id="Q">Unidentified participant</p>
@@ -57,7 +57,7 @@
   <text>
     <body>
       <div1 type="event1">
-        <head>FILENAME: wfaudio05_2</head>
+        
         <head>DATE: 13 March 1957</head>
         <head>OCCASION: McAleer's Twentieth Century Literature Class</head>
         <head>TAPE: T-113</head><head>LENGTH: 14:30</head>
@@ -265,7 +265,7 @@
           still around. <event desc="audience laughter"/></u></div2>
         <div2 type="dialog" id="wfaudio05_2.16" start="00:14:21.30" end="00:14:29.41">
           <head>Close</head>
-          <u who="XM">Thank you very much, Mr. Faulkner. <event desc="applause"/> <event desc="end of recording"/></u></div2>
+          <u who="EM">Thank you very much, Mr. Faulkner. <event desc="applause"/> <event desc="end of recording"/></u></div2>
         </div1>
     </body>
   </text>
