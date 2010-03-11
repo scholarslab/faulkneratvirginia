@@ -22,7 +22,7 @@
 		<script type="text/javascript" language="JavaScript">
 			try {
 			QT_WriteOBJECT(
-			'http://qss.itc.virginia.edu/medialab/faulkner_audio/wfaudio06_1.22.mp4 ', '300', ' 16', '',
+			'http://qss.itc.virginia.edu/medialab/faulkner_audio/wfaudio06_1.mp4 ', '300', ' 16', '',
 			'autoplay', 'false',
 			'scale', 'tofit',
 			'starttime','00:18:40.19',
@@ -2687,6 +2687,64 @@
 			<p><em>Below</em>: Photo by Ralph Thompson of Faulkner at UVA (20 February 1957). [Print# 0126; Digitization# 000005732_0001]. </p>
 			<p>
 				<img src="thompson46.jpg" title="FAULKNER PAPERS PHOTO" alt="FAULKNER PAPERS PHOTO"/>
+			</p>
+		</div>
+		
+		<div id="payne01" class="hidden">
+			<a name="payne01"/>
+			<p><em>Below</em>: Photo by Rip Payne of Faulkner at lecture before English Club, McGregor Room, Alderman Library, 25 May 1960.</p>
+			<p>
+				<img src="payne01.jpg" title="FAULKNER PAPERS PHOTO" alt="FAULKNER PAPERS PHOTO"/>
+			</p>
+		</div>
+		
+		<div id="payne03" class="hidden">
+			<a name="payne03"/>
+			<p><em>Below</em>: Photo by Rip Payne of Faulkner at lecture before English Club, McGregor Room, Alderman Library, 25 May 1960.</p>
+			<p>
+				<img src="payne03.jpg" title="FAULKNER PAPERS PHOTO" alt="FAULKNER PAPERS PHOTO"/>
+			</p>
+		</div>
+		
+		<div id="payne02" class="hidden">
+			<a name="payne02"/>
+			<p><em>Below</em>: Photo by Rip Payne of Faulkner at lecture before English Club, McGregor Room, Alderman Library, 25 May 1960.</p>
+			<p>
+				<img src="payne02.jpg" title="FAULKNER PAPERS PHOTO" alt="FAULKNER PAPERS PHOTO"/>
+			</p>
+		</div>
+		
+		
+		<div id="payne04" class="hidden">
+			<a name="payne04"/>
+			<p><em>Below</em>: Photo by Rip Payne of Faulkner in Alderman Library.  Caption on back: "U of Va.  Lecture before English Club, McGregor Room - Library.  May 25, 1960."  [Print# 0151; Digitization# 000005733_0001]. </p>
+			<p>
+				<img src="payne04.jpg" title="FAULKNER PAPERS PHOTO" alt="FAULKNER PAPERS PHOTO"/>
+			</p>
+		</div>
+		
+		
+		<div id="payne05" class="hidden">
+			<a name="payne05"/>
+			<p><em>Below</em>: Photo by Rip Payne of Faulkner in Alderman Library, with Joseph Blotner seated to his right.  Caption on back: "McGregor Room Lecture.  May 26, 1961."  [Print# 0155; Digitization# 000005733_0003]. </p>
+			<p>
+				<img src="payne05.jpg" title="FAULKNER PAPERS PHOTO" alt="FAULKNER PAPERS PHOTO"/>
+			</p>
+		</div>
+		
+		<div id="payne06" class="hidden">
+			<a name="payne06"/>
+			<p><em>Below</em>: Photo by Rip Payne of Faulkner in Alderman Library.  Caption on back: "McGregor Room reading.  May 26, 1961."  [Print# 0156; Digitization# 000005733_0005]. </p>
+			<p>
+				<img src="payne06.jpg" title="FAULKNER PAPERS PHOTO" alt="FAULKNER PAPERS PHOTO"/>
+			</p>
+		</div>
+		
+		<div id="payne05" class="hidden">
+			<a name="payne05"/>
+			<p><em>Below</em>: Photo by Rip Payne of Faulkner in Alderman Library, with Joseph Blotner seated to his right.  Caption on back: "McGregor Room Lecture.  May 26, 1961."  [Print# 0155; Digitization# 000005733_0003]. </p>
+			<p>
+				<img src="payne05.jpg" title="FAULKNER PAPERS PHOTO" alt="FAULKNER PAPERS PHOTO"/>
 			</p>
 		</div>
 
