@@ -26,7 +26,7 @@
 			'autoplay', 'false',
 			'scale', 'tofit',
 			'starttime','00:18:40.19:00',
-			'endtime','00:19:03.57:00');
+			'endtime','00:19:04.05:00');
 			}
 			catch (e) {
 			//document.write(e);
