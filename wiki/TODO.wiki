@@ -29,10 +29,10 @@
     * <strike>Rename wfaudio25 to wfaudio26_2</strike> (complete 3/5/10)
     * <strike>Rename wfaduio26_1 to wfaudio25</strike> (complete 3/5/10)
     * <strike>Locate wfaduio26_1: The TEI identifies this as Tape T-143a; this actually appears to be tape T-143c (at least the audio matches the transcript).</strike> (completed 3/8/10)
-  # Make new mp4 from mislabeled mp3s
-    * wfaudio22_1
-    * wfaudio26_1
-    * wfaudio10
+  # <strike>Make new mp4 from mislabeled mp3s
+    * <strike>wfaudio22_1</strike> (complete 3/12/10)
+    * <strike>wfaudio26_1</strike> (complete 3/12/10)
+    * <strike>wfaudio10</strike> (complete 3/12/10)
   # <strike>Create play graphic for page</strike> (complete 3/8/10)
   # Play Whole Tape 
     * <strike>Create graphic of "PLAY ENTIRE RECORDING" with gradient like "top" and "share"</strike> (completed 3/1/10)
