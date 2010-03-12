@@ -25,8 +25,8 @@
 			'http://qss.itc.virginia.edu/medialab/faulkner_audio/wfaudio06_1.mp4 ', '300', ' 16', '',
 			'autoplay', 'false',
 			'scale', 'tofit',
-			'starttime','00:18:40.19',
-			'endtime','00:19:03.57');
+			'starttime','00:18:40.19:00',
+			'endtime','00:19:03.57:00');
 			}
 			catch (e) {
 			//document.write(e);
@@ -4258,7 +4258,7 @@
 		
 		<div id="barkley02" class="hidden">
 			<a name="barkley02"/>
-			<p><em>Below</em>: Photo by George Barkley of William Faulkner with hunting horn, at Farmington Hunt Club, 1960.  Courtesy Bill Barkley.
+			<p><em>Below</em>: Photo by George Barkley of William Faulkner with hunting horn, at Farmington Hunt Club, 1960.  
 			</p>
 			<p>
 				<img src="barkley02.jpg"  title="GEORGE BARKLEY PHOTO" alt="GEORGE BARKLEY PHOTO" />
@@ -4267,7 +4267,7 @@
 		
 		<div id="barkley03" class="hidden">
 			<a name="barkley03"/>
-			<p><em>Below</em>: Photo by George Barkley of Faulkner riding with Grover Van Devender (<em>red coat</em>) and unidentified man, at Farmington Hunt Club, 1960.  Courtesy Bill Barkley.</p>
+			<p><em>Below</em>: Photo by George Barkley of Faulkner riding with Grover Van Devender (<em>red coat</em>) and unidentified man, at Farmington Hunt Club, 1960.</p>
 			<p>
 				<img src="barkley03.jpg"  title="GEORGE BARKLEY PHOTO" alt="GEORGE BARKLEY PHOTO" />
 			</p>
@@ -4275,7 +4275,7 @@
 		
 		<div id="barkley01" class="hidden">
 			<a name="barkley01"/>
-			<p><em>Below</em>: Photo by George Barkley from of Faulkner on horseback at Farmington Hunt Club, autumn 1960.   Courtesy Bill Barkley.
+			<p><em>Below</em>: Photo by George Barkley from of Faulkner on horseback at Farmington Hunt Club, autumn 1960.   
 			</p>
 			<p>
 				<img src="barkley01.jpg"  title="GEORGE BARKLEY PHOTO" alt="GEORGE BARKLEY PHOTO" />
