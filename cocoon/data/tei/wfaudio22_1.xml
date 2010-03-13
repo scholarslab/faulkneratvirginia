@@ -32,7 +32,7 @@
 		<profileDesc>
 			<particDesc>
 				<person>
-					<p id="M">Moderator</p>
+					<p id="JC">John Coleman</p>
 				</person>
 				<person>
 					<persName id="WF">William Faulkner</persName>
@@ -59,16 +59,16 @@
 				<head>READING: "Race at Morning"</head>
 				<div2 type="dialog" id="wfaudio22_1.1" start="00:00:16.63" end="00:01:35.31">
 					<head>Introduction</head>
-					<u who="M">It gives me a great deal of
+					<u who="JC">It gives me a great deal of
 					pleasure to have Mr. Faulkner in this class, in which we are trying to put down
 					feelings and thoughts on paper and shaping observation and experience into
 					narrative and essay. For I don't know of anyone who really understands so well
 					the longings and frustrations of human beings, and has demonstrated so
 					consistently his ability to record this understanding, in what constitutes a
 					sort of vision of humanity, in a series of stories and novels that are so
-					remarkably and skillfully written. I asked Mr. Faulkner if he would read
+					remarkably skillfully written. I asked Mr. Faulkner if he would read
 					something to us, and he chose a story entitled "Race at Morning." He will read
-					some portions of it, which will make <inaudible/> connect the whole. After he has
+					some portions of it, which will make <unclear>make time</unclear> connect the whole. After he has
 					finished his reading, I hope that you will ask questions on that story and any
 					other questions that seem appropriate <inaudible/> It gives me a great deal of
 					pleasure to introduce Mr. Faulkner <unclear>to this class</unclear>.</u></div2>
@@ -122,7 +122,7 @@
 				<div2 type="reading" id="wfaudio22_1.4" start="00:04:02.69" end="00:05:24.10">
 					<head>Story, Excerpt 3</head>
 					<u who="WF">
-					<writing type="fiction">Then it was morning. <unclear>Then we et, and</unclear> set the stand-holder across
+						<writing type="fiction">Then it was morning. <unclear>Then</unclear> we et, and set the stand-holder across
 						for Uncle Ike McCaslin to put them on the stands where he thought they ought
 						to be, because he was the oldest man in the camp. He had been hunting deer
 						in these woods for about a hundred years, I reckon, and if anybody would
@@ -205,7 +205,7 @@
 						Bayou camp might not miss him."
 					</writing>
 					</u></div2>
-				<div2 type="reading" id="wfaudio22_1.7" start="00:08:21.63" end="00:10:19.24">
+				<div2 type="reading" id="wfaudio22_1.7" start="00:08:21.63" end="00:10:19.64">
 					<head>Story, Excerpt 6</head>
 					<u who="WF">
 					<writing type="fiction">So I freshened my holt and Mister Ernest touched Dan
@@ -242,7 +242,7 @@
 							it.
 					</writing>
 					</u></div2>
-				<div2 type="reading" id="wfaudio22_1.8" start="00:10:19.25" end="00:11:40.22">
+				<div2 type="reading" id="wfaudio22_1.8" start="00:10:19.44" end="00:11:40.26">
 					<head>Story, Excerpt 7</head>
 					<u who="WF">
 					<writing type="fiction"> I didn't even have time to freshen my holt when we was
@@ -268,7 +268,7 @@
 						laying there with jest the white rim of his eyes showing.
 					</writing>
 					</u></div2>
-				<div2 type="reading" id="wfaudio22_1.9" start="00:11:40.23" end="00:13:08.93">
+				<div2 type="reading" id="wfaudio22_1.9" start="00:11:40.24" end="00:13:08.93">
 					<head>Story, Excerpt 8</head>
 					<u who="WF">
 					<writing type="fiction">"Mister Ernest!" I hollered, and then clumb down to the
@@ -298,7 +298,7 @@
 						more before the thicket taken him.
 					</writing>
 					</u></div2>
-				<div2 type="reading" id="wfaudio22_1.10" start="00:13:08.94" end="00:14:31.72">
+				<div2 type="reading" id="wfaudio22_1.10" start="00:13:08.94" end="00:14:31.79">
 					<head>Story, Excerpt 9</head>
 					<u who="WF">
 					<writing type="fiction"> It might 'a' been a signal, a good-by, a farewell.
@@ -329,7 +329,7 @@
 						dogs was.
 					</writing>
 					</u></div2>
-				<div2 type="reading" id="wfaudio22_1.11" start="00:14:38.76" end="00:16:28.76">
+				<div2 type="reading" id="wfaudio22_1.11" start="00:14:38.76" end="00:16:28.79">
 					<head>Story, Excerpt 10</head>
 					<u who="WF">
 					<writing type="fiction">And then we seen him again. It was the last time—a
@@ -365,7 +365,7 @@
 							hand.
 					</writing>
 					</u></div2>
-				<div2 type="reading" id="wfaudio22_1.12" start="00:16:31.50" end="00:18:06.42">
+				<div2 type="reading" id="wfaudio22_1.12" start="00:16:31.50" end="00:18:06.47">
 					<head>Story, Excerpt 11</head>
 					<u who="WF">
 					<writing type="fiction"> Then it was morning, tomorrow; it was all over now
@@ -398,7 +398,7 @@
 						We'll send the pickup back tomorrow for whatever you want."
 					</writing>
 					</u></div2>
-				<div2 type="reading" id="wfaudio22_1.13" start="00:18:06.43" end="00:19:53.47">
+				<div2 type="reading" id="wfaudio22_1.13" start="00:18:06.43" end="00:19:53.52">
 					<head>Story, Excerpt 12</head>
 					<u who="WF">
 					<writing type="fiction">So I come home with him and it was all right, it was
@@ -428,11 +428,11 @@
 						he didn't have to, but the running and the risking in front of the guns and dogs
 						was something he had to do for fourteen days to have the right not to be
 						bothered for the other three hundred and fifty-one. And so all the hunting
-						and the farming wasn't two different things at all— they was jest the other
+						and the farming wasn't two different things at all—they was jest the other
 						side of each other.
 					</writing>
 					</u></div2>
-				<div2 type="reading" id="wfaudio22_1.14" start="00:19:53.48" end="00:21:03.93">
+				<div2 type="reading" id="wfaudio22_1.14" start="00:19:53.48" end="00:21:04.04">
 					<head>Story, Excerpt 13</head>
 					<u who="WF">
 					<writing type="fiction">"Yes," I said. "All we got to do now is put in that next
@@ -463,7 +463,7 @@
 						them why. So you're going to school."
 					</writing>
 					</u></div2>
-				<div2 type="reading" id="wfaudio22_1.15" start="00:21:03.94" end="00:22:29.07">
+				<div2 type="reading" id="wfaudio22_1.15" start="00:21:04.04" end="00:22:29.07">
 					<head>Story, Excerpt 14</head>
 					<u who="WF">
 					<writing type="fiction"> "It's because you been listening to that durn Will
@@ -477,7 +477,7 @@
 						right, all right," Mister Ernest said. "Which would you rather have? His
 						bloody head and hide on the kitchen floor yonder and half his meat in a
 						pickup truck on the way to Yoknapatawpha County, or him with his head and
-						hide and meat still together over yonder in that brake, waiting for next
+						hide and meat still together over yonder in that <unclear>thicket</unclear>, waiting for next
 						November for us to run him again?"<lb/> "And git him, too," I said. "We won't
 						even fool with no Willy Legate and Walter Ewell next time."<lb/> "Maybe," Mister
 						Ernest said.<lb/>
@@ -501,18 +501,18 @@
 					</u></div2>
 				<div2 type="dialog" id="wfaudio22_1.16" start="00:22:29.08" end="00:22:31.81">
 					<head>Segue</head>
-					<u who="M">Thank you very much, Mr.
+					<u who="JC">Thank you very much, Mr.
 						Faulkner.</u></div2>
-				<div2 type="dialog" id="wfaudio22_1.17" start="00:22:31.82" end="00:24:00.86">
+				<div2 type="dialog" id="wfaudio22_1.17" start="00:22:31.82" end="00:24:00.95">
 					<head>Inventing the Story</head>
-					<u who="M">In writing such a story as that,
+					<u who="JC">In writing such a story as that,
 					which must be about concrete things that you've experienced—I don't know whether
 					you've had a collision with a grapevine or not when you were on a horse—but do
 					you see that kind of a story from beginning to end when you start writing? Do
 					you have that story sort of in mind, the—the ending as part of the
 					beginning?</u>
 				<u who="WF">No, I think a story like that invents itself as you go along. That one
-					began with the—with the pictures of—of that—that little boy—been abandoned by
+					began with the—with the picture of—of that—that little boy—been abandoned by
 					his mother and his father. They were no good. And—and by rights he should have
 					been no good, too. But this man, Mr. Ernest, with all his ignorance, could see
 					that—that here is a human being, and a human being is capable of anything if he
@@ -521,20 +521,20 @@
 					valuable to—to leave in the woods there. And the story was simply a matter of
 					showing incidences to—to show the relationship between these two people, that
 					this—this old man suddenly had seen a duty and was going to do it, that he
-					didn't know— he'd probably never been to school himself, but he saw that
+					didn't know—he'd probably never been to school himself, but he saw that
 					something could be made out of this waif simply because that little waif was a
 					human being.</u></div2>
-				<div2 type="dialog" id="wfaudio22_1.18" start="00:24:04.58" end="00:24:29.83">
+				<div2 type="dialog" id="wfaudio22_1.18" start="00:24:04.58" end="00:24:29.93">
 					<head>Mr. Ernest and the Boy</head>
 					<u who="Q">Sir, in <unclear>your
 						own</unclear> words, in the beginning we were showing the hunt, the way Mr.
 					Ernest took the boy—this was showing how he's—he sort of took him in and how he
-					took him on things that he—went <unclear>hunting</unclear> or things—and how he
+					took him on things that he—went <unclear>hunting or things like that</unclear>—and how he
 					took him into his life?</u>
 				<u who="WF">Yes, and the interdependence. The man was deaf. He couldn't hear which
 					way the dogs went. This little boy would ride behind him and say, "They went that
 					way."</u></div2>
-				<div2 type="dialog" id="wfaudio22_1.19" start="00:24:29.84" end="00:25:39.70">
+				<div2 type="dialog" id="wfaudio22_1.19" start="00:24:29.93" end="00:25:39.70">
 					<head>Story's Structure</head>
 					<u who="Q">Well, then couldn't you perhaps
 						put the—the part <unclear>toward</unclear> the end where he took the boy after
@@ -545,7 +545,7 @@
 					That's—that's a matter of opinion, but I think
 					that mine, to—for the payoff to come last, was a little more effective. If
 					anything, it makes the story seem a little more condensed, shorter maybe.</u>
-					<u who="Q">But you hadn't—first, in—in mind the ending <unclear>how it
+					<u who="Q">But you had first, in—in mind the ending <unclear>how it
 						was</unclear>?</u>
 				<u who="WF">Yes, yes.</u>
 				<u who="Q">When you wrote your—</u>
@@ -555,15 +555,15 @@
 					which—which any writer has of experience, of observation, of imagination, that
 					he reaches around in his workbox and picks up whatever plank or board he will
 					need.</u></div2>
-				<div2 type="dialog" id="wfaudio22_1.20" start="00:25:41.07" end="00:26:14.34">
+				<div2 type="dialog" id="wfaudio22_1.20" start="00:25:41.07" end="00:26:14.39">
 					<head>The Imagination</head>
-					<u who="M">You think it is always
-						a—<unclear>a little place that comes</unclear> from the imagination which
+					<u who="JC">You think it is always
+						a—<unclear>the little twist that comes</unclear> from the imagination which
 					really makes a kind of a story out of what <unclear>is</unclear> experienced,
 					that the additional thing which is really not experience <inaudible/> the story.</u>
 				<u who="WF">I would say so. That that has to be there. It's—it's something of—of—of
 					gold in—in the imagination which takes the—the trite, familiar, even dull
-					incident and— and gives—gives it a shine.</u></div2>
+					incident and—and gives—gives it a shine.</u></div2>
 				<div2 type="dialog" id="wfaudio22_1.21" start="00:26:16.30" end="00:26:29.02">
 					<head>Pronouncing Bayou</head>
 					<u who="Q">One small point, sir.
@@ -588,7 +588,7 @@
 					intractable, why something is right, why he must do something because it's
 					right. That was—in fact, the association with that child had—had done that much
 					to the man. If they hadn't met, the man would have gone on and would have been
-					content to— to be crabbed and ignorant and a—a—a hard farmer, to make a little
+					content to—to be crabbed and ignorant and a—a—a hard farmer, to make a little
 					money every year, but suddenly the responsibility of that child—that man, too,
 					had entered the human race. In a way they were—were to be the salvation of one
 					another, mutual salvation of one another.
@@ -607,12 +607,12 @@
 				<u who="WF">Well, the man would be changed by the responsibility of the orphan. The
 					little boy, at that age, was pretty well started in the way he would go. All he
 					needed was just an—an occasional prod and some directing, that already he
-					was—was truthful and— and brave, and he was willing to—to give devotion,
+					was—was truthful and—and brave, and he was willing to—to give devotion,
 					fidelity. All he needed was education, to learn to read, to—to—to know more of
 					the history of his race. The man was probably changed more than that little boy
 					was. The little boy was not changed so much as saved.
 				</u></div2>
-				<div2 type="dialog" id="wfaudio22_1.24" start="00:29:35.14" end="00:30:26.23">
+				<div2 type="dialog" id="wfaudio22_1.24" start="00:29:35.14" end="00:30:26.29">
 					<head>Hunting Themselves</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Then were they hunting not only the deer but, in a way, themselves,
@@ -626,17 +626,17 @@
 					dead meat in or—or to see the beautiful, splendid creature run
 					 its native element?
 				</u></div2>
-				<div2 type="dialog" id="wfaudio22_1.25" start="00:30:30.53" end="00:31:40.79">
+				<div2 type="dialog" id="wfaudio22_1.25" start="00:30:30.53" end="00:31:40.84">
 					<head>Growth and Loss</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">I—I thought I heard a little bit of a wistfulness for the time when a man
 					didn't have to do anything but farm and hunt, that maybe this—you said, "Time
-					was when all man had to do was farm and hunt."</u>
+					was when all man had to do was—was farm and hunt."</u>
 				<u who="WF">Surely, nobody really likes responsibility. It may be this man hated the
 					fact that he couldn't stay in his home at night and go on to sleep and let that
 					little boy, which he knew was—was lost and abandoned in a—in a hut in the woods,
 					<unclear>to</unclear> shift for himself, but he couldn't. He had to go and get him. And, yes, he
-					probably thought it, "I— I wish we could go on like it used to be, where people
+					probably thought it, "I—I wish we could go on like it used to be, where people
 					didn't have to be responsible, where a man could be an island unto himself." But
 					once he realized that he couldn't, he realized that neither could this little
 					boy, neither could any other human being, that the responsibility—the acceptance
@@ -647,8 +647,8 @@
 					<head>Old Southern Families Q</head>
 					<u who="WF">Yes, sir.</u>
 				<u who="Q">Sir, would you say that that's a major flaw in your old southern
-					families that you <inaudible/> <unclear>Sartorises and Compsons</unclear> of <unclear>as far as</unclear> <inaudible/> mankind, and they act
-					only for themselves and therefore <unclear>turn instead of
+					families that you <unclear>picture, like the Sartorises and the Compsons, that they keep back from</unclear> 
+					 mankind, and they act only for themselves and therefore <unclear>turn in instead of
 						out</unclear>? <event desc="end of recording"/></u></div2>
 				</div1>
 		</body>
