@@ -1503,27 +1503,7 @@
 			
 		</div>
 		
-		<div id="audioclipInt01" class="hidden hide_printer">
-			
-			<p>Faulkner's valedictory remarks, 5 June 1957 (0:22):</p>
-			
-			<script language="JavaScript" type="text/javascript">
-				$(document).ready(function(){
-				$('#audioclip01').qtp('wfaudio19_1.mp4', '00:02:22.11:00', '00:02:43.87:00');
-				});
-			</script>
-		</div>
-		
-		<div id="audioclipInt02" class="hidden hide_printer">
-			
-			<p>Faulkner's valedictory remarks, 23 May 1958 (0:56):</p>
-			
-			<script language="JavaScript" type="text/javascript">
-				$(document).ready(function(){
-				$('#audioclip01').qtp('wfaudio32.mp4', '00:02:07.55:00', '00:03:02.54:00');
-				});
-			</script>
-		</div>
+
 		
 		<div id="blotnerwf" class="hidden essay">
 			<a name="blotnerwf"/>
@@ -5078,6 +5058,30 @@
 			<br/>
 			<p>&copy;1957 The Cavalier Daily</p>
 		</div>
+		
+		<div id="audioclipInt01" class="hidden hide_printer">
+			
+			<p>Faulkner's valedictory remarks, 5 June 1957 (0:22):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#audioclip01').qtp('wfaudio19_1.mp4', '00:02:22.11:00', '00:02:43.87:00');
+				});
+			</script>
+		</div>
+		
+		<div id="audioclipInt02" class="hidden hide_printer">
+			
+			<p>Faulkner's valedictory remarks, 23 May 1958 (0:56):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#audioclip01').qtp('wfaudio32.mp4', '00:02:07.55:00', '00:03:02.54:00');
+				});
+			</script>
+		</div>
+		
+	
 		<div id="audioclip01" class="hidden hide_printer">
 
 			<p>Blotner asks Faulkner about symbolism in <em>Pylon</em> (0:40):</p>
