@@ -13,7 +13,7 @@
 			as UVA’s first Writer-in-Residence.  Under CONTEXTS you’ll find an introduction to this archive as well as essays, news articles, photographs and other materials 
 			to provide backgrounds to the writer, the times and the place.  BROWSE 
 			allows you to read and play transcripts of those sessions, one tape recording or one question&amp;answer at a time.  Use SEARCH if you want to hear 
-			something in particular, such as Faulkner’s comments on one of his works or on writing or the Civil Rights movement of that time.<br/><br/>
+			something in particular, such as Faulkner’s comments on one of his works or on writing or on the Civil Rights movement of that time.<br/><br/>
 			
 			In order to hear the audio, you’ll need a QuickTime player.  Over half the browsers in use already support QuickTime, but you can test whether yours 
 			does with the 25-second clip <em>below</em>.  If it doesn't play, you can download a free QuickTime plug-in at 
@@ -242,7 +242,17 @@
 				
 				<h3 class="center">The Writer in Residence</h3>
 				
-				<p>text</p>
+				<p>There&rsquo;s no need for me to say much about Faulkner's tenure as the first Balch Writer-in-Residence.  As you scroll down this page,
+					you&rsquo;ll find several ways to explore it for yourself.  Chronologically, these begin with 31 articles reprinted from the UVA and
+					Charlottesville newspapers between 1956, when his appointment was announced, through the end of the Spring term, 1958.  On 6 July 1962, the day
+					Faulkner died, the English department held a press conference at which, even as his loss was mourned, his earlier presence on the Grounds (as UVA
+				calls its campus) was remembered and discussed; you can listen to those comments.  In 2001 Joseph Blotner, who along with Frederick Gwynn had been
+				largely responsible for inviting the novelist here and his almost constant companion during his public appearances, wrote a rich account of that
+					experience that you can read.  Blotner's essay on &ldquo;Mr. Faulkner&rdquo; is followed by the recollections of five men who were UVA students
+					during the period of Faulkner's residency.  You can even listen to what Faulkner himself told audiences about the experience at the end of both his first 
+					term <a href="#audioclipInt01" class="inline">
+						<img src="arrow-right-play.gif"  class="inline" alt="Play Clip" title="Play Clip"/></a> and his 
+						second one <a href="#audioclipInt02" class="inline"><img src="arrow-right-play.gif"  class="inline" alt="Play Clip" title="Play Clip"/></a>.</p>
 				
 				<h3 class="center">The Recordings</h3>
 				
@@ -1491,6 +1501,28 @@
 				<img  class="center" src="letter0065.jpg" title="FAULKNER PAPERS LETTER" alt="FAULKNER PAPERS LETTER"/>
 			</p>
 			
+		</div>
+		
+		<div id="audioclipInt01" class="hidden hide_printer">
+			
+			<p>Faulkner's valedictory remarks, 5 June 1957 (0:22):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#audioclip01').qtp('wfaudio19_1.mp4', '00:02:22.11:00', '00:02:43.87:00');
+				});
+			</script>
+		</div>
+		
+		<div id="audioclipInt02" class="hidden hide_printer">
+			
+			<p>Faulkner's valedictory remarks, 23 May 1958 (0:56):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#audioclip01').qtp('wfaudio32.mp4', '00:02:07.55:00', '00:03:02.54:00');
+				});
+			</script>
 		</div>
 		
 		<div id="blotnerwf" class="hidden essay">
