@@ -5067,7 +5067,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#audioclip01').qtp('wfaudio19_1.mp4', '00:02:22.11:00', '00:02:43.87:00');
+				$('#audioclipInt01').qtp('wfaudio19_1.mp4', '00:02:22.11:00', '00:02:43.87:00');
 				});
 			</script>
 		</div>
@@ -5078,7 +5078,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#audioclip01').qtp('wfaudio32.mp4', '00:02:07.55:00', '00:03:02.54:00');
+				$('#audioclipInt02').qtp('wfaudio32.mp4', '00:02:07.55:00', '00:03:02.54:00');
 				});
 			</script>
 		</div>
