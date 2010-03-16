@@ -28,6 +28,7 @@
 									<th style="width:20%" class="underline">Date</th>
 									<th class="underline">Participants</th>
 									<th class="underline">Reading</th>
+									<ht class="underline">Splices&#8224;</ht>
 								</tr>
 							</thead>
 							<xsl:apply-templates select="descendant::browse/list/item"/>
