@@ -32,6 +32,20 @@
 							</thead>
 							<xsl:apply-templates select="descendant::browse/list/item"/>
 						</table>
+						
+						<p>&#8224; Although most of Faulkner's public sessions lasted about 50
+							minutes, a reel of tape was typically full after about half an hour.  Thus
+							during Faulkner's first term as Writer-in-Residence (Spring 1957), a few
+							minutes in the middle of every session went unrecorded while a fresh tape
+							was loaded on the recorder.  The next year a new taping system was used,
+							allowing a second 30-minute tape begin recording as the first 30-minute
+							tape was about to run out.  This allowed a whole session to be captured on
+							the two tapes, but invariably, a question and answer was divided between
+							the two.  For these double-taped sessions, we've taken the end of the first
+							tape and spliced it into the beginning of the second, and made separate
+							files of them.  These "splices" allow you to hear the exchanges without
+							interruption or repetition.</p>
+						
 					</div>
 					<xsl:call-template name="footer"/>
 				</div>
