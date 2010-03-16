@@ -68,7 +68,23 @@
 				</a>
 			</td>
 			<td>
-				<xsl:copy-of select="reading" />
+				<xsl:if test="reading">
+					<xsl:choose>
+						<xsl:when test="string(readingfile)">
+							<a href="display/{readingfile}"><xsl:value-of select="reading" /></a>
+						</xsl:when>
+						<xsl:otherwise>
+							<xsl:value-of select="reading" />
+						</xsl:otherwise>
+					</xsl:choose>
+				</xsl:if>
+			</td>
+			<td>
+				<xsl:if test="splice">
+				<a href="display/{splice}">
+					<img src="/arrow-right-play.gif" alt="play" />
+				</a>
+				</xsl:if>
 			</td>
 		</tr>
 	</xsl:template>
