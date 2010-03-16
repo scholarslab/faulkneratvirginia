@@ -48,10 +48,14 @@
 			<xs:sequence>
 				<xs:element ref="id"/>
 				<xs:element minOccurs="0" ref="reading"/>
+				<xs:element minOccurs="0" ref="splice" />
+				<xs:element minOccurs="0" ref="readingfile" />
 			</xs:sequence>
 			<xs:attribute name="title" use="required"/>
 		</xs:complexType>
 	</xs:element>
+	<xs:element name="splice" type="xs:NCName" />
+	<xs:element name="readingfile" type="xs:NCName" />
 	<xs:element name="id" type="xs:NCName"/>
 	<xs:element name="reading">
 		<xs:complexType mixed="true">
