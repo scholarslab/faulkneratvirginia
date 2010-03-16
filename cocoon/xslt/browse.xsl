@@ -32,7 +32,7 @@
 							</thead>
 							<xsl:apply-templates select="descendant::browse/list/item"/>
 						</table>
-						
+						<hr/>
 						<p>&#8224; Although most of Faulkner's public sessions lasted about 50
 							minutes, a reel of tape was typically full after about half an hour.  Thus
 							during Faulkner's first term as Writer-in-Residence (Spring 1957), a few
