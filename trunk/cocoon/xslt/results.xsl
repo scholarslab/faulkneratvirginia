@@ -220,10 +220,10 @@
 				</b>
 
 				<!-- if the search is a transcription search, show sort mechanism -->
-				<xsl:if test="$type = 'transcription'">
+				<!-- <xsl:if test="$type = 'transcription'"> -->
 					<xsl:text> sorted by </xsl:text>
 					<xsl:call-template name="sort"/>
-				</xsl:if>
+				<!-- </xsl:if> -->
 			</div>
 
 			<!-- paging functionality -->
