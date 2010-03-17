@@ -76,7 +76,7 @@
 				<script language="JavaScript" type="text/javascript">
 					try {
 						QT_WriteOBJECT(
-						'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="$filename"/>.mp4', '300', ' 16', '',
+						'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="replace($filename, 'read', '')"/>.mp4', '300', ' 16', '',
 						'autoplay', 'false',
 						'scale', 'tofit');
 					}
@@ -95,26 +95,18 @@
 	<xsl:template match="div2">
 		<a name="{@id}"/>
 		
-		<div class="player-line">
-		<!-- <xsl:if test="head">
-			<h3 class="div_head">
-				<xsl:value-of select="head"/>
-			</h3> 
-			</xsl:if>-->
-		
+		<div class="player-line">		
 		<!-- need to grab the audio file name -->
 		<xsl:variable name="filename" select="//idno[@type='digital audio filename']"/>
 		
 		<script language="JavaScript" type="text/javascript">
 			try {
 				QT_WriteOBJECT(
-				'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="$filename"/>.mp4 ', '300', ' 16', '',
-			'autoplay', 'false',
-			'scale', 'tofit',
-			<!--'starttime','<xsl:value-of select="replace(@start, '\.', ':')"/>',
-			'endtime','<xsl:value-of select="replace(@end, '\.', ':')"/>'); -->
-			'starttime','<xsl:value-of select="@start"/>:00',
-			'endtime','<xsl:value-of select="@end"/>:00');
+				'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="replace($filename, 'read', '')"/>.mp4', '300', ' 16', '',
+				'autoplay', 'false',
+				'scale', 'tofit',
+				'starttime','<xsl:value-of select="@start"/>:00',
+				'endtime','<xsl:value-of select="@end"/>:00');
 		}
 		catch (e) {
 			//document.write(e);
@@ -163,7 +155,6 @@
 		<!-- don't use this for realz -->
 		<xsl:variable name="speakers" select="/TEI.2/teiHeader/profileDesc/particDesc"/>
 		<xsl:variable name="who" select="@who"/>
-
 		<p>
 			<strong><xsl:value-of select="//*[@id = $who]"/>: </strong><xsl:apply-templates/>
 		</p>
