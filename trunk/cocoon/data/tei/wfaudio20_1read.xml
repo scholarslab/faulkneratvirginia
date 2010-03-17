@@ -3,7 +3,7 @@
 <!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
 <!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
 ]>
-<TEI.2 id="wfaudio20_1">
+<TEI.2 id="wfaudio20_1read">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -54,7 +54,7 @@
 				<head>TAPE: T-140begins</head><head>LENGTH: 30:33</head>
 				<head>FAULKNER READING "A Word to Virginians"</head>
 				
-				<div2 type="reading" id="wfaudio20_1read.1" start="00:03:43.60" end="00:11:40.93">
+				<div2 type="reading" id="wfaudio20_1" start="00:03:43.60" end="00:11:40.93">
 					<head>Speech</head>
 					<u who="WF"><writing type="speech">Mr. Chairman, members of the Jefferson Society, the Raven
 						Society, ODK, and ladies and gentlemen, a hundred years ago Abraham Lincoln
