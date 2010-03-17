@@ -861,7 +861,9 @@
 			<div id="essay_content">
 				<h1>The U.S. in the Late 1950s</h1>
 
-				<p>For most of the country, the two academic years containing Faulkner&rsquo;s terms as Writer-in-Residence (1956-1957 and
+				<p><a href="#television" class="inline">
+					<img src="us50s01.jpg" alt="DETAIL: GENERAL ELECTRIC AD" title="DETAIL: GENERAL ELECTRIC AD"/>
+				</a>For most of the country, the two academic years containing Faulkner&rsquo;s terms as Writer-in-Residence (1956-1957 and
 					1957-1958) were relatively quiet, especially after the crises of the previous decades: the Great Depression, the Second World War,
 					and the onset of the global &ldquo;war&rdquo; against Communism that was both &ldquo;hot&rdquo; (on the Korean
 					peninsula) and &ldquo;cold&rdquo; (in the various diplomatic, economic, strategic and propagandistic struggles against
@@ -916,8 +918,9 @@
 					Alabama&rsquo;s Jim Crow public transportation system was unconstitutional. By 1956 the Court&rsquo;s 1954 decision in
 						<em>Brown v Board of Education</em> was getting its first practical tests outside as well as inside American schools, as angry
 					whites gathered to prevent the court-ordered integration of previously segregated school systems. The beginning of the school year
-					was a particularly eventful period in both 1956 and 1957. In 1956 there was violence (including a bombing) by white protestors in
-					Clinton, Tennessee, and in September, 1957, Eisenhower sent U.S. troops into Little Rock, Arkansas, to protect black
+					was a particularly eventful period in both 1956 and 1957. In 1956 there was violence (including a bombing) by <a
+						href="#clinton" class="inline">white protestors in
+					Clinton</a>, Tennessee, and in September, 1957, Eisenhower sent U.S. troops into Little Rock, Arkansas, to protect black
 					schoolchildren from violent mobs &ndash; Faulkner mentions both sites when addressing Virginians on this issue in February,
 					1958. For white Americans in the North, those new television sets brought home with unprecedented vividness the discrimination and
 					injustice that black Americans in the South were subjected to. For many Americans this issue also had important implications for
@@ -933,7 +936,9 @@
 					both considerable defensiveness about the racial traditions &ndash; which is to say, the racist system &ndash; they had
 					grown up with, and uncertainty about what the current turmoil might lead to.</p>
 
-				<p>As far as I can tell, there were neither Russian Communists nor American blacks in any of those audiences, but both were often
+				<p><a href="#sputnik" class="inline">
+					<img src="us50s05.jpg" alt="SPUTNIK SATELLITE" title="SPUTNIK SATELLITE"/>
+				</a>As far as I can tell, there were neither Russian Communists nor American blacks in any of those audiences, but both were often
 					present in the minds of the people who were there. If anything, tension about these issues grew over the two years recorded on the
 					tapes. At the start of his second term, Faulkner himself chose to make the struggle against segregation the topic of one of the
 					two formal speeches he gave here. The other, &ldquo;A Word to Young Writer&rsquo;s,&rdquo; given in April 1958, begins
@@ -4429,6 +4434,15 @@
 				chapter on Faulkner's presence at UVA is available, in part, in the Introduction to this archive.</p>
 		</div>
 		
+		<div id="television" class="hidden">
+			<a name="television"/>
+			<p><em>Below</em>: Detail from full-page ad for General Electric's new model TV set, as published in <em>Life</em> magazine, 1 October 1956: 14.</p>
+			
+			<p>
+				<img class="center" src="us50s01l.jpg" title="ADVERTISEMENT FOR TELEVISION " alt="ADVERTISEMENT FOR TELEVISION"/>
+			</p>
+		</div>
+		
 		<div id="suezcrisis" class="hidden">
 			<a name="suezcrisis"/>
 			<p><em>Below</em>: British troops patrolling the streets of Port Said, Egypt, November 1956 (Getty Images).</p>
@@ -4444,6 +4458,35 @@
 
 			<p>
 				<img class="center" src="us50s03l.jpg" title="RUSSIAN TANKS IN HUNGARY" alt="RUSSIAN TANKS IN HUNGARY"/>
+			</p>
+		</div>
+		
+		<div id="clinton" class="hidden">
+			<a name="clinton"/>
+			<p><em>Below</em>: photograph by Robert W. Kelley taken outside Clinton (Tennessee) High School, as published in 
+				<em>Life</em> magazine, 17 September 1956: 36.  Caption: "<strong>HARASSING NEGROES</strong>, a mob, which included 
+			women, rocks an out-of-state car passing through Clinton.  For four hours the town police stood by helpless as 
+			cars were dented and windows smashed.  The Negroes were roughed up.  A policeman persuaded part of mob to 
+			attack only Tennessee cars."</p>
+			
+			<p>
+				<img class="center" src="clinton.jpg" title="MOB IN CLINTON" alt="MOB IN CLINTON"/>
+			</p>
+		</div>
+		
+		<div id="sputnik" class="hidden">
+			<a name="sputnik"/>
+			<p><em>Below</em>:, as published in <em>Life</em> magazine, 1 October 1956: 14.  Caption: "THE ORBIT WEAVES A WEB AS 
+				WHOLE WORLD WATCHES.  <strong>PATTERN OF ORBITS</strong>
+			traced by Sputnik in typical 24-hour period is demonstrated by red bulb going around globe built by Robert 
+			H. Farquhar.  Earth rotates from west to east (<em>left to right</em> and position of orbits (red lines) shifts 
+			west each time satellite goes around earth.  At noon, orbit passes just east of Florida, going northwest to 
+			southeast.  It appears 96 minutes later over western U.S.  After midnight when earth has turned around so U.S. 
+			is on reverse side of globe in picture, orbit goes from southwest to northeast, passing through Midwest and, 96 
+			minutes later, through California."</p>
+			
+			<p>
+				<img class="center" src="sputnikweb.jpg" title="ADVERTISEMENT FOR TELEVISION " alt="ADVERTISEMENT FOR TELEVISION"/>
 			</p>
 		</div>
 
