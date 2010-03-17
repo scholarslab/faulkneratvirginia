@@ -71,7 +71,7 @@
 				<xsl:if test="reading">
 					<xsl:choose>
 						<xsl:when test="string(readingfile)">
-							<a href="display/{readingfile}" class="center"><xsl:copy-of select="reading" /></a>
+							<a href="display/{readingfile}"><xsl:copy-of select="reading" /></a>
 						</xsl:when>
 						<xsl:otherwise>
 							<xsl:copy-of select="reading" />
@@ -82,7 +82,7 @@
 			<td>
 				<xsl:if test="splice">
 				<a href="display/{splice}">
-					<img src="/arrow-right-play.gif" alt="play" />
+					<img src="/arrow-right-play.gif" alt="play" class="center" />
 				</a>
 				</xsl:if>
 			</td>
