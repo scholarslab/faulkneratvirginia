@@ -161,6 +161,7 @@
 			<item title="Undergraduate Writing Class, tape 1">
 				<id>wfaudio22_1</id>
 				<reading>&ldquo;Race at Morning&rdquo;</reading>
+				<splice>wfaudio22_1_2clip</splice>
 			</item>
 			<item title="Undergraduate Writing Class, tape 2">
 				<id>wfaudio22_2</id>
@@ -168,12 +169,14 @@
 			<item title="Undergraduate Writing Class, tape 1">
 				<id>wfaudio23_1</id>
 				<reading>&ldquo;A Word to Young Writers&rdquo;</reading>
+				<splice>wfaudio23_1_2clip</splice>
 			</item>
 			<item title="Undergraduate Writing Class, tape 2">
 				<id>wfaudio23_2</id>
 			</item>
 			<item title="First-Year English Class, tape 1">
 				<id>wfaudio24_1</id>
+				<splice>wfaudio24_1_2clip</splice>
 			</item>
 			<item title="First-Year English Class, tape 2">
 				<id>wfaudio24_2</id>
@@ -183,6 +186,7 @@
 			</item>
 			<item title="Combined Writing  &amp;  Literature Classes, tape 1">
 				<id>wfaudio26_1</id>
+				<splice>wfaudio22_1_2clip</splice>
 			</item>
 			<item title="Combined Writing  &amp;  Literature Classes, tape 2">
 				<id>wfaudio26_2</id>
@@ -198,12 +202,14 @@
 			</item>
 			<item title="Combined Literature Classes, tape 1">
 				<id>wfaudio29_1</id>
+				<splice>wfaudio22_1_2clip</splice>
 			</item>
 			<item title="Combined Literature Classes, tape 2">
 				<id>wfaudio29_2</id>
 			</item>
 			<item title="Representatives from Other Colleges, tape 1">
 				<id>wfaudio30_1</id>
+				<splice>wfaudio22_1_2clip</splice>
 			</item>
 			<item title="Representatives from Other Colleges, tape 2">
 				<id>wfaudio30_2</id>
