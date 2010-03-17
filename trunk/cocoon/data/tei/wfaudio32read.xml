@@ -3,7 +3,7 @@
 <!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
 <!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
 ]>
-<TEI.2 id="wfaudio32">
+<TEI.2 id="wfaudio32read">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -49,12 +49,13 @@
 	<text>
 		<body>
 			<div1 type="event1">
-				<head>DATE: 23 May 1958</head><head>OCCASION: General Public</head>
+				<head>DATE: 23 May 1958</head>
+				<head>OCCASION: General Public</head>
 				<head>TAPE: T-145c</head><head>LENGTH: 9:43</head>
 				<head>FAULKNER READING FROM The Sound and the Fury</head>
 				
-				<div2 type="reading" id="wfaudio32read.1" start="00:03:07.65" end="00:12:50.18">
-					<head>Reading Selection</head>
+				<div2 type="reading" id="wfaudio32" start="00:03:07.65" end="00:12:50.18">
+					<head>Reading</head>
 						<u who="WF">
 					<writing type="fiction">The road rose again, to a scene like a painted backdrop.
 						Notched into a cut of red clay crowned with oaks the road appeared to stop

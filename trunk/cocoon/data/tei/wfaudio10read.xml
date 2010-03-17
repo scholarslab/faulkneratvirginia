@@ -3,7 +3,7 @@
 <!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
 <!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
 ]>
-<TEI.2 id="wfaudio10">
+<TEI.2 id="wfaudio10read">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -55,8 +55,8 @@
 				<head>TAPE: T-118andT-119</head><head>LENGTH: 21:39</head>
 				<head>FAULKNER READING FROM "The Waifs"</head>
 				
-				<div2 type="reading" id="wfaudio10read.1" start="00:01:56.07" end="00:23:35.34">
-					<head>Reading Selection</head>
+				<div2 type="reading" id="wfaudio10" start="00:01:56.07" end="00:23:35.34">
+					<head>Reading</head>
 					<u who="WF">
 						<writing type="fiction"> And one more thing. One morning—it was summer again
 							now, July—the northbound train from New Orleans stopped and the first

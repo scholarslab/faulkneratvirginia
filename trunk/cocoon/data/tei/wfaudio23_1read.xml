@@ -3,7 +3,7 @@
 <!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
 <!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
 ]>
-<TEI.2 id="wfaudio23_1">
+<TEI.2 id="wfaudio23_1read">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -49,11 +49,12 @@
 	<text>
 		<body>
 			<div1 type="event1">
-				<head>DATE: 24 April 1958</head><head>OCCASION: Undergraduate Writing Class</head>
+				<head>DATE: 24 April 1958</head>
+				<head>OCCASION: Undergraduate Writing Class</head>
 				<head>TAPE: T-142a</head><head>LENGTH: 11:56</head>
 				<head>FAULKNER READING "A Word to Young Writers"</head>
 				
-				<div2 type="reading" id="wfaudio23_1read.1" start="00:00:36.10" end="00:10:31.36">
+				<div2 type="reading" id="wfaudio23_1" start="00:00:36.10" end="00:10:31.36">
 					<head>Speech</head>
 					<u who="WF">
 					<writing type="speech">Two years ago President Eisenhower conceived a plan based

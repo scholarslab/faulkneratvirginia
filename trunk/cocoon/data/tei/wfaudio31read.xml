@@ -3,7 +3,7 @@
 <!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
 <!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
 ]>
-<TEI.2 id="wfaudio31">
+<TEI.2 id="wfaudio31read">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -54,8 +54,8 @@
 				<head>TAPE: T-146</head><head>LENGTH: 5:45</head>
 				<head>FAULKNER READING FROM The Town</head>
 				
-				<div2 type="reading" id="wfaudio31read.1" start="00:01:41.92" end="00:07:26.93">
-					<head>Reading Selection</head>
+				<div2 type="reading" id="wfaudio31" start="00:01:41.92" end="00:07:26.93">
+					<head>Reading</head>
 					<u who="WF">
 					<writing type="fiction">There is a ridge; you drive on beyond Seminary Hill and
 						in time you come upon it: a mild unhurried farm road presently mounting to

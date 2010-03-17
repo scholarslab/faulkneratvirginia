@@ -3,7 +3,7 @@
 <!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
 <!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
 ]>
-<TEI.2 id="wfaudio16_1">
+<TEI.2 id="wfaudio16_1read">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -50,12 +50,13 @@
 	<text>
 		<body>
 			<div1 type="event1">
-				<head>DATE: 20 May 1957</head><head>OCCASION: Freshman English Class</head>
+				<head>DATE: 20 May 1957</head>
+				<head>OCCASION: Freshman English Class</head>
 				<head>TAPE: T-132</head><head>LENGTH: 6:07</head>
 				<head>FAULKNER READING FROM  "Old Man"</head>
 				
-				<div2 type="reading" id="wfaudio16_1read.1" start="00:01:18.52" end="00:07:26.01">
-					<head>Reading Selection</head>
+				<div2 type="reading" id="wfaudio16_1" start="00:01:18.52" end="00:07:26.01">
+					<head>Reading</head>
 					<u who="WF">
 					<writing type="fiction">That was all, the convict told them. They left the
 						sawmill fast, he had no time to buy food until they reached the next—next
