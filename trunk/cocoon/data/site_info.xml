@@ -186,7 +186,7 @@
 			</item>
 			<item title="Combined Writing  &amp;  Literature Classes, tape 1">
 				<id>wfaudio26_1</id>
-				<splice>wfaudio22_1_2clip</splice>
+				<splice>wfaudio26_1_2clip</splice>
 			</item>
 			<item title="Combined Writing  &amp;  Literature Classes, tape 2">
 				<id>wfaudio26_2</id>
@@ -202,14 +202,14 @@
 			</item>
 			<item title="Combined Literature Classes, tape 1">
 				<id>wfaudio29_1</id>
-				<splice>wfaudio22_1_2clip</splice>
+				<splice>wfaudio28_1_2clip</splice>
 			</item>
 			<item title="Combined Literature Classes, tape 2">
 				<id>wfaudio29_2</id>
 			</item>
 			<item title="Representatives from Other Colleges, tape 1">
 				<id>wfaudio30_1</id>
-				<splice>wfaudio22_1_2clip</splice>
+				<splice>wfaudio30_1_2clip</splice>
 			</item>
 			<item title="Representatives from Other Colleges, tape 2">
 				<id>wfaudio30_2</id>
