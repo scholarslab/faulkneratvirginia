@@ -39,7 +39,7 @@
 							during Faulkner's first term as Writer-in-Residence (Spring 1957), a few
 							minutes in the middle of every session went unrecorded while a fresh tape
 							was loaded on the recorder.  The next year a new taping system was used,
-							allowing a second 30-minute tape to begin recording as the first 30-minute
+							allowing a second 30-minute tape begin recording as the first 30-minute
 							tape was about to run out.  This allowed a whole session to be captured on
 							the two tapes, but invariably, a question and answer was divided between
 							the two.  For these double-taped sessions, we've taken the end of the first
@@ -71,10 +71,10 @@
 				<xsl:if test="reading">
 					<xsl:choose>
 						<xsl:when test="string(readingfile)">
-							<a href="display/{readingfile}"><xsl:value-of select="reading" /></a>
+							<a href="display/{readingfile}" class="center"><xsl:copy-of select="reading" /></a>
 						</xsl:when>
 						<xsl:otherwise>
-							<xsl:value-of select="reading" />
+							<xsl:copy-of select="reading" />
 						</xsl:otherwise>
 					</xsl:choose>
 				</xsl:if>
