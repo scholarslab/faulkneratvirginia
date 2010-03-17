@@ -121,7 +121,7 @@
 			</item>
 			<item title="Introductory Literature Class, tape 1">
 				<id>wfaudio16_1</id>
-				<reading>From &ldquo;Old Man&rdquo;</reading>
+				<reading>&ldquo;Old Man&rdquo;</reading>
 			</item>
 			<item title="Introductory Literature Class, tape 2">
 				<id>wfaudio16_2</id>
@@ -131,7 +131,7 @@
 			</item>
 			<item title="Local  &amp;  UVA Communities, tape 1">
 				<id>wfaudio18_1</id>
-				<reading>From <em>The Town</em></reading>
+				<reading><em>The Town</em></reading>
 			</item>
 			<item title="Local  &amp;  UVA Communities, tape 2">
 				<id>wfaudio18_2</id>
@@ -141,18 +141,18 @@
 			</item>
 			<item title="Local  &amp;  UVA Communities, tape 1">
 				<id>wfaudio19_1</id>
-				<reading>From <em>The Town</em></reading>
+				<reading><em>The Town</em></reading>
 			</item>
 			<item title="Local  &amp;  UVA Communities, tape 2">
 				<id>wfaudio19_2</id>
 			</item>
-			<item title="The Raven, Jefferson  &amp;  ODK Societies, tape 1">
+			<item title="Raven, Jefferson  &amp;  ODK Societies, tape 1">
 				<id>wfaudio20_1</id>
 				<reading>&ldquo;A Word to Virginians&rdquo;</reading>
 				<splice>wfaudio20_1_2clip</splice>
 				<readingfile>wfaudio20_1read</readingfile>
 			</item>
-			<item title="The Raven, Jefferson  &amp;  ODK Societies, tape 2">
+			<item title="Raven, Jefferson  &amp;  ODK Societies, tape 2">
 				<id>wfaudio20_2</id>
 			</item>
 			<item title="Graduate Class in American Fiction">
@@ -210,11 +210,11 @@
 			</item>
 			<item title="At Washington &amp; Lee University">
 				<id>wfaudio31</id>
-				<reading>From <em>The Town</em></reading>
+				<reading><em>The Town</em></reading>
 			</item>
 			<item title="General Public">
 				<id>wfaudio32</id>
-				<reading>From <em>The Sound and the Fury</em></reading>
+				<reading><em>The Sound and the Fury</em></reading>
 			</item>
 			<item title="1962 English Department Press Conference">
 				<id>wfaudioUVA</id>
