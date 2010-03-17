@@ -146,13 +146,13 @@
 			<item title="Local  &amp;  UVA Communities, tape 2">
 				<id>wfaudio19_2</id>
 			</item>
-			<item title="Raven, Jefferson  &amp;  ODK Societies, tape 1">
+			<item title="Raven, Jefferson, ODK Societies, tape 1">
 				<id>wfaudio20_1</id>
 				<reading>&ldquo;A Word to Virginians&rdquo;</reading>
 				<splice>wfaudio20_1_2clip</splice>
 				<readingfile>wfaudio20_1read</readingfile>
 			</item>
-			<item title="Raven, Jefferson  &amp;  ODK Societies, tape 2">
+			<item title="Raven, Jefferson, ODK Societies, tape 2">
 				<id>wfaudio20_2</id>
 			</item>
 			<item title="Graduate Class in American Fiction">
