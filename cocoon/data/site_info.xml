@@ -69,6 +69,7 @@
 			<item title="Virginia Colleges Conference, tape 1">
 				<id>wfaudio07_1</id>
 				<reading>&ldquo;Shingles for the Lord&rdquo;</reading>
+				<readingfile>wfaudio07_1read</readingfile>
 			</item>
 			<item title="Virginia Colleges Conference, tape 2">
 				<id>wfaudio07_2</id>
@@ -76,6 +77,7 @@
 			<item title="At Mary Washington College, tape 1">
 				<id>wfaudio08_1</id>
 				<reading>&ldquo;Shingles for the Lord&rdquo;</reading>
+				<readingfile>wfaudio08_1read</readingfile>
 			</item>
 			<item title="At Mary Washington College, tape 2">
 				<id>wfaudio08_2</id>
@@ -89,6 +91,7 @@
 			<item title="The Jefferson Society">
 				<id>wfaudio10</id>
 				<reading>&ldquo;The Waifs&rdquo;</reading>
+				<readingfile>wfaudio10_1read</readingfile>
 			</item>
 			<item title="University Radio Show, tape 1">
 				<id>wfaudio11_1</id>
@@ -99,10 +102,12 @@
 			<item title="Engineering School Students, tape 1">
 				<id>wfaudio12_1</id>
 				<reading>&ldquo;Was&rdquo;</reading>
+				<readingfile>wfaudio12_1read</readingfile>
 			</item>
 			<item title="Engineering School Students, tape 2">
 				<id>wfaudio12_2</id>
 				<reading>End of &ldquo;Was&rdquo;</reading>
+				<readingfile>wfaudio12_2read</readingfile>
 			</item>
 			<item title="Engineering School Students, tape 3">
 				<id>wfaudio12_3</id>
@@ -122,6 +127,7 @@
 			<item title="Introductory Literature Class, tape 1">
 				<id>wfaudio16_1</id>
 				<reading>&ldquo;Old Man&rdquo;</reading>
+				<readingfile>wfaudio16_1read</readingfile>
 			</item>
 			<item title="Introductory Literature Class, tape 2">
 				<id>wfaudio16_2</id>
@@ -132,6 +138,7 @@
 			<item title="Local  &amp;  UVA Communities, tape 1">
 				<id>wfaudio18_1</id>
 				<reading><em>The Town</em></reading>
+				<readingfile>wfaudio18_1read</readingfile>
 			</item>
 			<item title="Local  &amp;  UVA Communities, tape 2">
 				<id>wfaudio18_2</id>
@@ -142,6 +149,7 @@
 			<item title="Local  &amp;  UVA Communities, tape 1">
 				<id>wfaudio19_1</id>
 				<reading><em>The Town</em></reading>
+				<readingfile>wfaudio19_1read</readingfile>
 			</item>
 			<item title="Local  &amp;  UVA Communities, tape 2">
 				<id>wfaudio19_2</id>
@@ -162,6 +170,7 @@
 				<id>wfaudio22_1</id>
 				<reading>&ldquo;Race at Morning&rdquo;</reading>
 				<splice>wfaudio22_1_2clip</splice>
+				<readingfile>wfaudio22_1read</readingfile>
 			</item>
 			<item title="Undergraduate Writing Class, tape 2">
 				<id>wfaudio22_2</id>
@@ -170,6 +179,7 @@
 				<id>wfaudio23_1</id>
 				<reading>&ldquo;A Word to Young Writers&rdquo;</reading>
 				<splice>wfaudio23_1_2clip</splice>
+				<readingfile>wfaudio23_1read</readingfile>
 			</item>
 			<item title="Undergraduate Writing Class, tape 2">
 				<id>wfaudio23_2</id>
@@ -184,11 +194,11 @@
 			<item title="Undergraduate Literature Class">
 				<id>wfaudio25</id>
 			</item>
-			<item title="Combined Writing  &amp;  Literature Classes, tape 1">
+			<item title="Writing &amp; Literature Classes, tape 1">
 				<id>wfaudio26_1</id>
 				<splice>wfaudio26_1_2clip</splice>
 			</item>
-			<item title="Combined Writing  &amp;  Literature Classes, tape 2">
+			<item title="Writing &amp; Literature Classes, tape 2">
 				<id>wfaudio26_2</id>
 			</item>
 			<item title="&ldquo;What&rsquo;s the Good Word&rdquo; Radio Program">
@@ -207,20 +217,22 @@
 			<item title="Combined Literature Classes, tape 2">
 				<id>wfaudio29_2</id>
 			</item>
-			<item title="Representatives from Other Colleges, tape 1">
+			<item title="Visitors from Other Colleges, tape 1">
 				<id>wfaudio30_1</id>
 				<splice>wfaudio30_1_2clip</splice>
 			</item>
-			<item title="Representatives from Other Colleges, tape 2">
+			<item title="Visitors from Other Colleges, tape 2">
 				<id>wfaudio30_2</id>
 			</item>
 			<item title="At Washington &amp; Lee University">
 				<id>wfaudio31</id>
 				<reading><em>The Town</em></reading>
+				<readingfile>wfaudio31read</readingfile>
 			</item>
 			<item title="General Public">
 				<id>wfaudio32</id>
 				<reading><em>The Sound and the Fury</em></reading>
+				<readingfile>wfaudio32read</readingfile>
 			</item>
 			<item title="1962 English Department Press Conference">
 				<id>wfaudioUVA</id>

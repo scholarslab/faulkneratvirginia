@@ -51,8 +51,9 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="event1"><head>FILENAME: wfaudio20_1_2clip</head>
-                <head>DATE: 20 February 1958</head><head>OCCASION: The Raven, Jefferson and Omicron Delta Kappa Societies</head>
+            <div1 type="event1">
+                <head>DATE: 20 February 1958</head>
+                <head>OCCASION: The Raven, Jefferson and Omicron Delta Kappa Societies</head>
                 <head>This clip was created by splicing the end of T-140begins and the beginning of T-140ends together.</head>
 
 <div2 type="dialog" id="wfaudio20_1_2.1" start="00:00:00.32" end="00:01:55.55">

@@ -51,8 +51,9 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="event1"><head>FILENAME: wfaudio30_1_2clip</head>
-                <head>DATE: 12 May 1958</head><head>OCCASION: Representatives from Other Colleges</head>
+            <div1 type="event1">
+                <head>DATE: 12 May 1958</head>
+                <head>OCCASION: Representatives from Other Colleges</head>
                 <head>This clip was created by splicing the end of T-145a and the beginning of T-145b together.</head>
                 
                 <div2 type="dialog" id="wfaudio30_1_2.1" start="00:00:00.00" end="00:02:09.55">

@@ -3,7 +3,7 @@
 <!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
 <!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
 ]>
-<TEI.2 id="wfaudio08_1">
+<TEI.2 id="wfaudio08_1read">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -54,8 +54,8 @@
 				<head>TAPE: T-122c</head><head>LENGTH: 21:14</head>
 				<head>FAULKNER READING FROM "Shingles for the Lord"</head>
 				
-				<div2 type="reading" id="wfaudio08_1read.1" start="00:02:09.11" end="00:23:23.47">
-					<head>Reading Selection</head>
+				<div2 type="reading" id="wfaudio08_1" start="00:02:09.11" end="00:23:23.47">
+					<head>Reading</head>
 					<u who="WF">
 						<writing type="fiction">Pap got up a good hour before daylight and caught
 							the mule and rid down to Killegrews' to borrow the froe and maul. He
