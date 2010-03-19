@@ -902,7 +902,7 @@
 					of Russian tanks invaded the country. Over 2500 Hungarians were killed in the fighting that followed, thousands were arrested, the
 					new government was deposed and the Hungarian Revolutionary Worker-Peasant Government set up in its place. Western Europe, the U.S.
 					and the United Nations all condemned the Soviet &ldquo;intervention.&rdquo; In January 1957 <em>Time Magazine</em> named
-					&ldquo;The Hungarian Freedom Fighter&rdquo; its &ldquo;Man of the Year.&rdquo; But the international response to
+					<a href="#timecover" class="inline">&ldquo;The Hungarian Freedom Fighter&rdquo;</a> its &ldquo;Man of the Year.&rdquo; But the international response to
 					this event was confined largely to sympathy for the Hungarians and indignation against the Soviets. At UVA students found various
 					ways to express both those emotions, including a campaign for aid to relieve suffering in Hungary, but in the West the larger
 					effect of the images of Russian tanks subduing a populace seemed to be an escalation in anxieties about the Communists&rsquo;
@@ -4463,6 +4463,15 @@
 			</p>
 		</div>
 		
+		<div id="timecover" class="hidden">
+			<a name="timecover"/>
+			<p><em>Below</em>: cover of <em>Time</em> magazine's "Man of the Year" issue, 7 January 1957.</p>
+			
+			<p>
+				<img class="center" src="timecover.jpg" title="1956 MAN OF THE YEAR" alt="1956 MAN OF THE YEAR"/>
+			</p>
+		</div>
+		
 		<div id="littlerock" class="hidden">
 			<a name="littlerock"/>
 			<p><em>Below</em>: photographs by Francis Miller of attempts to integrate Central High School, Little Rock, Arkansas, as published in 
@@ -4471,11 +4480,12 @@
 				(<em>right</em>) "<strong>JEERS FROM A GIRL</strong>, Hazel Bryant, follow Elizabeth Eckford as she walks from Central High.  
 			Guardsmen barred her from school."  The soldiers in these photos were Arkansan National Guard troops, mobilized by Gov. Faubus to prevent 
 			black students from entering the school.  A few days later Pres. Eisenhower sent Army troops into Little Rock, both to protect the black students
-				and to see that, as ordered by federal courts, they were allowed to attend the school.</p>
+				and to see that, as ordered by federal courts, they were allowed to attend the school (<em>bottom</em>, Bettman Corbis).</p>
 			
 			<p>
 				<img src="littlerocka.jpg" title="TURNED AWAY" alt="TURNED AWAY"/> &nbsp; &nbsp; 
-				<img src="littlerockb.jpg" title="JEERS FROM A GIRL" alt="JEERS FROM A GIRL"/>
+				<img src="littlerockb.jpg" title="JEERS FROM A GIRL" alt="JEERS FROM A GIRL"/><br />
+				<img src="littlerockc.jpg" title="FEDERAL TROOPS ESCORT STUDENTS" alt="FEDERAL TROOPS ESCORT STUDENTS"/>
 			</p>
 		</div>
 		
