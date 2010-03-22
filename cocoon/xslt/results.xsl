@@ -431,38 +431,38 @@
 						<option value="relevance">Relevance</option>
 						<option value="date_sint asc" selected="selected">Date, Ascending</option>
 						<option value="date_sint desc">Date, Descending</option>
-						<option value="location asc">Location, Ascending</option>
-						<option value="location desc">Location, Descending</option>
+						<!-- <option value="location asc">Location, Ascending</option>
+						<option value="location desc">Location, Descending</option> -->
 					</xsl:when>
 					<xsl:when test="$sort = 'date_sint desc'">
 						<option value="relevance">Relevance</option>
 						<option value="date_sint asc">Date, Ascending</option>
 						<option value="date_sint desc" selected="selected">Date, Descending</option>
-						<option value="location asc">Location, Ascending</option>
-						<option value="location desc">Location, Descending</option>
+						<!-- <option value="location asc">Location, Ascending</option>
+						<option value="location desc">Location, Descending</option> -->
 					</xsl:when>
 					<xsl:when test="$sort = 'location asc'">
 						<option value="relevance">Relevance</option>
 						<option value="date_sint asc">Date, Ascending</option>
 						<option value="date_sint desc">Date, Descending</option>
-						<option value="location asc" selected="selected">Location,
+						<!-- <option value="location asc" selected="selected">Location,
 							Ascending</option>
-						<option value="location desc">Location, Descending</option>
+						<option value="location desc">Location, Descending</option>-->
 					</xsl:when>
 					<xsl:when test="$sort = 'location desc'">
 						<option value="relevance">Relevance</option>
 						<option value="date_sint asc">Date, Ascending</option>
 						<option value="date_sint desc">Date, Descending</option>
-						<option value="location asc">Location, Ascending</option>
+						<!-- <option value="location asc">Location, Ascending</option>
 						<option value="location desc" selected="selected">Location,
-							Descending</option>
+							Descending</option> -->
 					</xsl:when>
 					<xsl:otherwise>
 						<option value="relevance">Relevance</option>
 						<option value="date_sint asc">Date, Ascending</option>
 						<option value="date_sint desc">Date, Descending</option>
-						<option value="location asc">Location, Ascending</option>
-						<option value="location desc">Location, Descending</option>
+						<!-- <option value="location asc">Location, Ascending</option>
+						<option value="location desc">Location, Descending</option> -->
 					</xsl:otherwise>
 				</xsl:choose>
 			</select>
