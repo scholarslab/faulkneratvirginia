@@ -40,7 +40,18 @@
   # Add logic to results to differentiate between images and text for media-content blocks
     * Change the way the xslt for indexing works
   # <strike>Figure out a way to suppress printer icon for audio clips</strike> (completed 3/9/10)
+  # <strike>Add links for readings into "browse" page</strike> (complete 3/16/10)
+  # <strike>Add column for spliced audio recordings to browse page</strike> (completed 3/16/10)
+  # <strike>Add arrow-right-play.gif to combined clips to browse page</strike> (completed 3/16/10)
+  # <strike>Add explanation of clip content to browse page</strike> (completed 3/16/10)
+  # Make the "Introduction" the default page in Context section
+  # Make "credits" default page in the about section
+  # Fix extra padding in IE images
+  # Fix extra space between images in IE so that there are 6 images across
+  # Change Image in search result to "File" in results
+  # <strike>Remove location from relevance selections</strike> (completed 3/22/10)
   
 = Bracketed Items =
 
   # Note Annotations 
+  # Highlighting search results in page
