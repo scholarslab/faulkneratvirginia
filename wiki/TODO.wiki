@@ -44,10 +44,10 @@
   # <strike>Add column for spliced audio recordings to browse page</strike> (completed 3/16/10)
   # <strike>Add arrow-right-play.gif to combined clips to browse page</strike> (completed 3/16/10)
   # <strike>Add explanation of clip content to browse page</strike> (completed 3/16/10)
-  # Make the "Introduction" the default page in Context section
-  # Make "credits" default page in the about section
+  # <strike>Make the "Introduction" the default page in Context section</strike> (completed 3/22/10)
+  # <strike>Remove "Table of Contents" text</strike> (completed 3/22/10)
   # Fix extra padding in IE images
-  # Fix extra space between images in IE so that there are 6 images across
+  # <strike>Fix extra space between images in IE so that there are 6 images across</strike> (completed 3/22/10)
   # <strike>Change Image in search result to "File" in results</strike> (completed 3/22/10)
   # <strike>Remove location from relevance selections</strike> (completed 3/22/10)
   
