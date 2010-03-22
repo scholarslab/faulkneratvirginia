@@ -139,7 +139,8 @@
 										</div>
 										<div style="margin-left:140px;">
 										<a href="media?id={str[@name='id']}">
-											<xsl:value-of select="str[@name='section_title']"/>
+											File
+											<!--<xsl:value-of select="str[@name='section_title']"/> -->
 										</a>
 										</div>
 									</xsl:when>
