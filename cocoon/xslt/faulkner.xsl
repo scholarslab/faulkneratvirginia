@@ -76,7 +76,7 @@
 				<script language="JavaScript" type="text/javascript">
 					try {
 						QT_WriteOBJECT(
-						'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="replace($filename, '[read|clip]', '')"/>.mp4', '300', ' 16', '',
+						'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="replace($filename, 'read', '')"/>.mp4', '300', ' 16', '',
 						'autoplay', 'false',
 						'scale', 'tofit');
 					}
