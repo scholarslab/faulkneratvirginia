@@ -147,7 +147,9 @@ ul.gallery img {
     margin: 0;
     padding: 0;
 }
-ul.gallery img {
+#essay_content ul.gallery img {
+	padding: 0;
+	margin: 0;
 /*
   background: #CFAB88 none repeat scroll 0 0;
   height: 110px;
@@ -224,6 +226,7 @@ li {
 .caps {
     text-transform: capitalize;
 }
+
 .player-line {
     height: 30px;
 }
@@ -313,7 +316,7 @@ dd {
 .addthis_button {
 /* float:right; */
 }
-.writing {
+.writing, .dark_red {
     color: #652720;
 }
 
