@@ -243,7 +243,7 @@
 		</text>
 	</browse>
 
-	<page id="essays" slug="Essays" title="Essays on Faulkner">
+	<page id="essays" slug="Essays" title="Introduction and Contexts">
 
 		<section id="intro" title="Faulkner At Virginia: Introduction">
 
@@ -1605,7 +1605,7 @@
 
 	</page>
 
-	<page id="about" slug="About" title="About William Faulkner">
+	<page id="about" slug="About" title="About This Site">
 		<section id="credits" title="Credits">
 			<h3/>
 			<p/>
@@ -5399,7 +5399,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#audioclipInt07').qtp('wfaudio09_1.mp4', '00:00:00.00:00', '00:00:31.72:00');
+				$('#audioclipInt07').qtp('wfaudio09_1.mp4', '00:00:00.00:00', '00:00:31.81:00');
 				});
 			</script>
 		</div>
