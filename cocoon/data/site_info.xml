@@ -401,7 +401,7 @@
 				
 				<h3 class="center">Contexts</h3>
 				
-				<p><em>Below</em> you&rsquo;ll find the essays and articles on Faulkne&rsquo;s residency I mentioned, as well as images and other items that we hope will help
+				<p><em>Below</em> you&rsquo;ll find the recording, essays and articles on Faulkne&rsquo;s residency I mentioned, as well as images and other items that we hope will help
 					you appreciate the environment in which the recordings were made.  You&rsquo;ll find additional similar materials in the other three pages
 					in this CONTEXTS section &ndash; on Faulkner, the U.S. and UVA in the late 1950&rsquo;s.  Links to those pages are at the top of this page.
 					
@@ -414,7 +414,6 @@
 				<h3>
 					<a href="/display/wfaudioUVA">Recording of 1962 UVA Press Conference on Faulkner's Tenure</a>
 				</h3>
-				<br/>
 
 				<h3>Essays on Faulkner and UVA</h3>
 
@@ -5389,7 +5388,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#audioclipInt06').qtp('wfaudio24_1.mp4', '00:27:24.73:00', '00:27:35.93:00');
+				$('#audioclipInt06').qtp('wfaudio14_1.mp4', '00:27:24.73:00', '00:27:35.93:00');
 				});
 			</script>
 		</div>
@@ -5400,14 +5399,14 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#audioclipInt07').qtp('wfaudio09_1.mp4', '00:00:00.00:00', '00:00:31.64:00');
+				$('#audioclipInt07').qtp('wfaudio09_1.mp4', '00:00:00.00:00', '00:00:31.69:00');
 				});
 			</script>
 		</div>
 		
 		<div id="audioclipInt08" class="hidden hide_printer">
 			
-			<p>Faulkner responding to a question about symbolism, 11March 1957 (0:45):</p>
+			<p>Faulkner responding to a question about symbolism, 11 March 1957 (0:45):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
