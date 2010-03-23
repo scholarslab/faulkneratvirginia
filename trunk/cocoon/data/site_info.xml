@@ -5399,7 +5399,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#audioclipInt07').qtp('wfaudio09_1.mp4', '00:00:00.00:00', '00:00:31.69:00');
+				$('#audioclipInt07').qtp('wfaudio09_1.mp4', '00:00:00.00:00', '00:00:31.72:00');
 				});
 			</script>
 		</div>
