@@ -1064,7 +1064,9 @@
 					pictures of hateful mobs and uniformed sheriffs intimidating and beating peaceful black protestors and their children gave the lie
 					to claims about &ldquo;freedom&rdquo; and &ldquo;democracy&rdquo;? For the white South, at least publically, such
 					abstract considerations were meaningless compared to the visceral sense of being under attack by &ldquo;outlanders&rdquo;
-					(as Faulkner liked to call northerners); to these people, those paratroopers in Little Rock (the first time that federal troops
+					(as Faulkner liked to call northerners <a href="#audioclipUS02" class="inline">
+						<img src="arrow-right-play.gif"  class="inline" alt="Play Clip" title="Play Clip"/>
+					</a> ); to these people, those paratroopers in Little Rock (the first time that federal troops
 					had been deployed in the South since the end of Reconstruction) probably looked like the Soviet tanks rolling into the streets of
 					Budapest. Determined to defend the racial status quo, during the second of Faulkner&rsquo;s terms here the Commonwealth of
 					Virginia formally embraced the policy of &ldquo;Massive Resistance,&rdquo; under which public schools were simply closed
@@ -5450,6 +5452,17 @@
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
 				$('#audioclipUS01').qtp('wfaudio15.mp4', '00:10:20.90:00', '00:11:37.99:00');
+				});
+			</script>
+		</div>
+		
+		<div id="audioclipUS02" class="hidden hide_printer">
+			
+			<p>Faulkner answering question about a "Southern literary renaissance,": 13 May 1957 (0:57):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#audioclipUS02').qtp('wfaudio13.mp4', '00:04:55.15:00', '00:05:51.65:00');
 				});
 			</script>
 		</div>
