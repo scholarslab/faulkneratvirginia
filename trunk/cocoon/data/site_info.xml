@@ -1035,14 +1035,16 @@
 					this event was confined largely to sympathy for the Hungarians and indignation against the Soviets. At UVA students found various
 					ways to express both those emotions, including a campaign for aid to relieve suffering in Hungary, but in the West the larger
 					effect of the images of Russian tanks subduing a populace seemed to be an escalation in anxieties about the Communists&rsquo;
-					designs on world domination. Senator Joe McCarthy&rsquo;s incendiary exploitation of that threat had effectively ended by 1955
-					(and he died before the 1956-1957 academic year was over), but while &ldquo;Hungary&rdquo; is not specifically mentioned
-					in any of the fourteen hundred questions Faulkner was asked, much of the discussion of current events in his UVA sessions is
+					designs on world domination. Senator Joe McCarthy&rsquo;s incendiary exploitation of that threat had effectively ended by 1955.  
+					He died during Faulkner&rsquo;s first term, prompting <a href="#cavdaily40" class="inline">a favorable editorial</a> in <em>The 
+						Cavalier Daily</em> and a question for Faulkner about
+					&ldquo;McCarthyism&rdquo;    . &ldquo;Hungary&rdquo; is not specifically mentioned
+					in any of the fourteen hundred questions on the tapes, but much of the discussion of current events in his UVA sessions is
 					clearly informed by Cold War anxieties.</p>
 
 				<p><a href="#littlerock" class="inline">
 					<img src="us50s04.jpg" alt="7 OCTOBER 1957 LIFE COVER" title="7 OCTOBER 1957 LIFE COVER"/>
-				</a>Although it expressed very little support for the African American who were using non-violent tactics to fight for freedom in this
+				</a>Although it expressed very little support for the African Americans who were using non-violent tactics to fight for freedom in this
 					country, <em>The Cavalier Daily</em> did report extensively on efforts to enroll black students in previously segregated southern
 					schools, and on the forms of resistance to this revolution that emerged. The Civil Rights Movement was in its early stages in
 					1956-1958. The Montgomery Bus Boycott that began late in 1955 ended a year later, when the Supreme Court affirmed that
@@ -1589,7 +1591,7 @@
 					<li><a href="#cavdaily19" class="inline">Sparse Voting Endorses Gray Plan</a> (16 May 1957)</li>
 					<li><a href="#cavdaily20" class="inline">Opinion Poll</a> (16 May 1957)</li>
 					<li><a href="#cavdaily28" class="inline">Letter to Editor [Opinion Poll]</a> (17 May 1957)</li>
-					<li><a href="#cavdaily21" class="inline">Law School Team Banned >From Field</a> (17 May 1957)</li>
+					<li><a href="#cavdaily21" class="inline">Law School Team Banned From Field</a> (17 May 1957)</li>
 					<li><a href="#cavdaily22" class="inline">Integration Report In Social Functions At U Given By Student Council</a> (22 May 1957)</li>
 					<li><a href="#cavdaily23" class="inline">Desegregation At The University</a> (22 May 1957)</li>
 					<li><a href="#cavdaily30" class="inline">Segregation: More Understanding Needed</a> (17 September 1957)</li>
@@ -5434,6 +5436,17 @@
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
 				$('#audioclipInt09').qtp('wfaudio20_2.mp4', '00:07:56.56:00', '00:08:33.77:00');
+				});
+			</script>
+		</div>
+		
+		<div id="audioclipUS01" class="hidden hide_printer">
+			
+			<p>Faulkner on "McCarthyism," 15 May 1957 (1:18):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#audioclipUS01').qtp('wfaudio15.mp4', '00:10:20.90:00', '00:11:37.99:00');
 				});
 			</script>
 		</div>
