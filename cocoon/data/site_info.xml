@@ -2577,7 +2577,7 @@
 		
 		<div id="intronote4" class="hidden hide_printer">
 			<a name="intronote4"/>
-			<p>Compare <em>Faulkner in the University</em>, page 30, with the recording of this passage, 7 March 1957, tape 2.</p>
+			<p>Compare <em>Faulkner in the University</em>, page 30, with the recording of this passage: 7 March 1957, tape 2.</p>
 		</div>
 		
 		<div id="ampexad" class="hidden">
@@ -5459,11 +5459,11 @@
 		
 		<div id="audioclipInt10" class="hidden hide_printer">
 			
-			<p>Faulkner reading last lines of "Old Man," 20 May 1957 (1:49):</p>
+			<p>Faulkner reading last lines of "Old Man," 20 May 1957 (0:16):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#audioclipInt10').qtp('wfaudio16_1.mp4', '00:07:09.73:00', '00:07:25.72:00');
+				$('#audioclipInt10').qtp('wfaudio16_1.mp4', '00:07:09.93:00', '00:07:25.82:00');
 				});
 			</script>
 		</div>
