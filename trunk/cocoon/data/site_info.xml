@@ -384,14 +384,21 @@
 					&ldquo;North&rdquo; and &ldquo;south&rdquo; as &ldquo;South&rdquo;  <a href="#audioclipInt09" class="inline"><img src="arrow-right-play.gif"  class="inline" alt="Play Clip" title="Play Clip"/></a>  That choice seems unproblematic, though I think it&rsquo;s important to 
 					note that when the people on these tapes talk about  &ldquo;the South,&rdquo; they seem invariably to mean just <em>white</em> southerners.  That
 					brings me to the other choice we had to make, about an issue that is (rightly) much more troubling for us than for most Americans fifty years ago.  
-					You will hear Faulkner say the word &ldquo;nigger&rdquo; when he reads some of his stories, and our transcription at those points follows the
-					text.  You will also hear Faulkner and his all-white audiences talk a lot about black people.  While they often refer to them as
-					&ldquo;colored,&rdquo; the term they use most often is &ldquo;Negro.&rdquo;  At least, that&rsquo;s the way I&rsquo;ve chosen to transcribe the word 
+					You will hear Faulkner say the word &ldquo;nigger&rdquo; on a few of these tapes.  When he reads &ldquo;Was,&rdquo; the word is spoken
+					by characters in the story, but on at least three occasions Faulkner uses the word speaking as himself.  To me, this word is more obscene than
+					whatever profanity the convict uses at the end of &ldquo;Old Man&rdquo; and that Faulkner chose neither to print nor, when he read that line to a
+					freshman class, to speak <a href="#audioclipInt10" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play
+						Clip" title="Play Clip"/></a>  .   When Gwynn and Blotner published Faulkner's remarks for the larger national and international audience they knew
+					their book would reach, they silently replaced the word with &ldquo;Negro.&rdquo;<a href="#intronote4" class="inline"><strong>*</strong></a>  But Faulkner's use of it is a part of the complex story these
+					tapes tell, about him and about this time and place.  He and his all-white audiences talk a lot about African Americans, though of course they
+					never use that term.  Sometimes they use 
+					&ldquo;colored,&rdquo; but the term they use most often is &ldquo;Negro.&rdquo;  At least, that&rsquo;s the way I&rsquo;ve chosen to transcribe the word 
 					they use.  In most cases <em>not</em> capitalizing the term would probably capture the way it&rsquo;s being said (and defined) more accurately. 
 					And in the southern accents on these tapes, especially Faulkner&rsquo;s, the word sometimes sounds so much like &ldquo;nigger&rdquo; 
-					that &ldquo;Negro&rdquo; seems euphemistic.  In several answers, Faulkner does use that uglier term, as in his reply 
-					to another student in Prof. Cauthen&rsquo;s class on <em>The Unvanquished</em> &ndash; though as you can hear, in that one answer he  
-					pronounces the word in several different ways, and goes on to remind his listeners that Ringo, the black boy being discussed, is smarter and 
+					that &ldquo;Negro&rdquo; seems euphemistic.  You can hear both &ldquo;nigger&rdquo; and &ldquo;Negro&rdquo; in Faulkner's reply  
+					to another student in Prof. Cauthen&rsquo;s class on <em>The Unvanquished</em>, and this one passage can help us appreciate both the phonetic 
+					and the ideological complexity of his racial vocabulary  &ndash; in that one answer he  
+					pronounces the words in several different ways, and goes on to remind his listeners that Ringo, the black boy being discussed, is smarter and 
 					more resourceful than Bayard, the white boy <a href="#audioclipInt05" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play
 						Clip" title="Play Clip"/></a>.  Unless there's no doubt in my mind about the term Faulkner uses, I&rsquo;ve chosen to compromise (or maybe 
 					to engage in evasion myself) and represent 
@@ -2566,6 +2573,11 @@
 		<div id="intronote3" class="hidden hide_printer">
 			<a name="intronote3"/>
 			<p>Transcripts of the missing tapes can be found in <em>Faulkner in the University</em> on these pages: 11-16, 17-18, 107-124; 153-67.</p>
+		</div>
+		
+		<div id="intronote4" class="hidden hide_printer">
+			<a name="intronote4"/>
+			<p>Compare <em>Faulkner in the University</em>, page 30, with the recording of this passage, 7 March 1957, tape 2.</p>
 		</div>
 		
 		<div id="ampexad" class="hidden">
@@ -5441,6 +5453,17 @@
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
 				$('#audioclipInt09').qtp('wfaudio20_2.mp4', '00:07:56.56:00', '00:08:33.77:00');
+				});
+			</script>
+		</div>
+		
+		<div id="audioclipInt10" class="hidden hide_printer">
+			
+			<p>Faulkner reading last lines of "Old Man," 20 May 1957 (1:49):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#audioclipInt10').qtp('wfaudio16_1.mp4', '00:07:09.73:00', '00:07:25.72:00');
 				});
 			</script>
 		</div>
