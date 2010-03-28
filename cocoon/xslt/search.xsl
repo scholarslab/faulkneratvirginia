@@ -25,8 +25,9 @@
 					<xsl:call-template name="header"/>
 					<div class="content">
 						<h2>Search</h2>
-						<p>The transcriptions of William Faulkner's audio tapes may be searched as
-							well as the prose sections that give context to the collection.</p>
+						<p>Use the pulldown menu <em>at left</em> to search either the recordings or the archive's ancillary material 
+							(essays, articles, images).  When you follow the hits to a file, you may have to use Ctrl-f to highlight the word 
+							or phrase you're searching for.</p>
 						<fieldset>
 							<form action="{$path}results">
 								<select name="type">
