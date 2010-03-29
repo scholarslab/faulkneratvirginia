@@ -1627,8 +1627,84 @@
 
 	<page id="about" slug="About" title="About This Site">
 		<section id="credits" title="Credits">
-			<h3/>
-			<p/>
+			<h3 class="center">Credits</h3>
+			<p>
+				<strong>Michael Plunkett</strong>, Co-conspirator<br/>
+				Director, Albert and Shirley Small Special Collections Library<br/>
+				Fellow, David and Mary Harrison Institute for American History,
+				Literature and Culture
+			</p>
+			
+			<h4 class="center">Main Production Team</h4>
+			<p>
+				<strong>Steven Knepper</strong>, Department of English<br/>
+				<strong>Wayne Graham</strong>, Scholars' Lab<br/>
+				<strong>Ethan Gruber</strong>, Scholars' Lab
+			</p>
+			
+			<h4 class="center">Advisory Board</h4>
+			<p>
+				<strong>Thadious Davis</strong>, University of Pennsylvania<br/>
+				<strong>Leigh Anne Duck</strong>, University of Memphis<br/>
+				<strong>Noel Polk</strong>, Mississippi State University<br/>
+				<strong>David Seaman</strong>, Dartmouth<br/>
+				<strong>John Wilkins</strong>, University of Michigan
+			</p>
+			
+			<h4 class="center">The Scholars' Lab, UVA Library</h4>
+			<p>
+				<strong>Bethany Nowviskie</strong>, Director, Digital Research &amp; Scholarship<br/>
+				<strong>Wayne Graham</strong>, Head of R&amp;D, Digital Research &amp; Scholarship<br/>
+				<strong>Ethan Gruber</strong>, Software Developer, Digital Research &amp; Scholarship<br/>
+				<strong>Adam Soroka</strong>, User Services Programmer, Digital Research &amp; Scholarship
+			</p>
+			
+			<h4 class="center">Sciences, Humanities &amp; Arts Network of Technological Initiatives</h4>
+			<p> 
+				<strong>David Germano</strong>, Director<br/>
+				<strong>John Alexander</strong>, Associate Director<br/>
+				<strong>Arya Burt</strong>, Research Assistant
+			</p>
+			
+			<h4 class="center">University of Virginia Library</h4>
+			<p>
+				<strong>Martha Sites</strong>, Associate University Librarian for Production &amp; Technology Services<br/>
+				<strong>Elizabeth Gushee</strong>, Digital Archivist, Digital Curation Services<br/>
+				<strong>Matthew Stephens</strong>, Sustaining Digital Scholarship Programmer<br/>
+				<strong>Judith Thomas</strong>, Director Arts &amp; Media Library Services<br/>
+				<strong>Leigh A. Rockey</strong>, Preservation and Reformatting Specialist<br/>
+				<strong>Sara Lee Barnes</strong>, Coordinator,Special Events &amp; Donor Relations
+				<strong>Jama S. Coartney</strong>, Head, Digital Media Lab
+			</p>
+			
+			<h4 class="center">Department of English</h4>
+			<p>
+				<strong>Steven Knepper</strong>, Graduate RA<br/>
+				<strong>Susan Fraiman</strong>, Director, Graduate Studies<br/>
+				<strong>Jennifer Wicke</strong>, Director, Graduate Studies<br/>
+				<strong>June Webb</strong>, Administrative Supervisor
+			</p>
+			
+			<h4 class="center">Special Thanks</h4>
+			<p>
+				<strong>Andrew Baker</strong>, Editor-in-Chief, Cavalier Daily<br/>
+				<strong>The George Barkley Family</strong><br/>
+				<strong>The Joseph Blotner Family</strong><br/>
+				<strong>John A. Church</strong>, UVA &rsquo;59<br/>
+				<strong>Gerald L. Cooper</strong>, UVA &rsquo;58, &rsquo;69<br/>
+				<strong>James W. Haskins</strong>, UVA &rsquo;63, &rsquo;66<br/>
+				<strong>Christian Dupont</strong>, Director, Small Special Collections
+				Library (2007-2008<br/>
+				<strong>The William Faulkner Family</strong><br/>
+				<strong>McGregor McCance</strong>, Managing Editor, Charlottesville Daily
+				Progress<br/>
+				<strong>Donna Packard</strong>, Academic &amp; Professional Services<br/>
+				<strong>Ken Ringle</strong>, UVA &rsquo;61<br/>
+				<strong>Lloyd T. Smith</strong>, UVA &rsquo;55, &rsquo;60<br/>
+				<strong>Beth Sutton</strong>, Farmington Hunt Club
+			</p>
+			
+			
 		</section>
 	</page>
 
