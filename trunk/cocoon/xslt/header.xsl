@@ -21,7 +21,7 @@
 						<a href="{$path}search">Search</a>
 					</li>
 					<li>
-						<a href="{$path}page?id=about">About</a>
+						<a href="{$path}page?id=about&section=credits">About</a>
 					</li>
 					<!-- <xsl:for-each select="document('../data/site_info.xml')//page">
 						<li>
