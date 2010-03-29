@@ -50,6 +50,9 @@
   # <strike>Fix extra space between images in IE so that there are 6 images across</strike> (completed 3/22/10)
   # <strike>Change Image in search result to "File" in results</strike> (completed 3/22/10)
   # <strike>Remove location from relevance selections</strike> (completed 3/22/10)
+  # <strike>Make the "Credits" section default page on About</strike> (completed 3/29/10)
+  # Take a look at caching pipelines in Cocoon to improve performance
+  # <strike>Make search input smaller</strike> (completed 3/29/10)
   
 = Bracketed Items =
 
