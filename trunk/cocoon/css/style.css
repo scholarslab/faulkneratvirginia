@@ -39,12 +39,13 @@ input, select {
     margin:0px 10px;
 }
 
+
 input.search_box {
 	width: 300px;
-	font-size: 20px;
+	/*font-size: 20px;
 	border: 1px solid #ccc;
 	padding: 2px;
-	vertical-align: middle;
+	vertical-align: middle;*/
 }
 
 .search_button {
@@ -137,7 +138,7 @@ ul.gallery {
 }
 ul.gallery li {
     display: inline;
-    /**float: left; */
+    float: left;
     list-style-image: none;
     list-style-position: outside;
     list-style-type: none;
@@ -146,7 +147,6 @@ ul.gallery li {
 ul.gallery img {
     margin: 0;
     padding: 0;
-	border: 3px solid #CFAB88;
 }
 #essay_content ul.gallery img {
 	padding: 0;
@@ -159,10 +159,10 @@ ul.gallery img {
     width: 110px;
 }
 ul.gallery a {
-    /** display: block; **/
+    display: block;
     min-height: 139px;
     overflow: hidden;
-   /**  border: 3px solid #CFAB88; **/
+    border: 3px solid #CFAB88;
     margin: 0;
 }
 ul.gallery li a {
