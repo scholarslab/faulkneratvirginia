@@ -110,7 +110,7 @@
 			</global-variables>
 		</map:component-configurations>
 
-		<map:pipeline>
+		<map:pipeline type="caching">
 
 			<map:match pattern="*.css">
 				<map:read src="css/{1}.css" mime-type="text/css"/>
