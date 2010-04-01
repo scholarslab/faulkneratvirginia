@@ -5764,7 +5764,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#audioclipWF01').qtp('wfaudio30_1.mp4', '00:00:02:49:00', '00:00:12.13:00');
+				$('#audioclipWF01').qtp('wfaudio30_1.mp4', '00:00:02:09:00', '00:00:12.13:00');
 				});
 			</script>
 		</div>
@@ -5782,7 +5782,7 @@
 		
 		<div id="audioclipWF03" class="hidden hide_printer">
 			
-			<p>Faulkner on his trip to Greece, 8 May 1957 (0:57):</p>
+			<p>Faulkner on his trip to Greece, 8 May 1957 (1:17):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
