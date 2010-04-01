@@ -1271,7 +1271,9 @@
 				<p><a href="#spectator01" class="inline">
 						<img src="uva50s03.jpg" alt="COVER: 1957 SPECTATOR JIM CROW ISSUE" title="COVER: 1957 SPECTATOR JIM CROW ISSUE"/>
 					</a> The &ldquo;Supreme Court decision&rdquo; comes up several times in Faulkner&rsquo;s sessions at UVA, and no one
-					has to explain which decision is being referred to. You can hear the discussions that follow for yourself. I sense a good deal of
+					has to explain which decision is being referred to <a href="#audioclipUVA04" class="inline">
+						<img src="arrow-right-play.gif"  class="inline" alt="Play Clip" title="Play Clip"/>
+					</a> .  You can hear the discussions that follow for yourself. I sense a good deal of
 					anxiety in the room whenever this subject is brought up, but very little openness to the possibility of social transformation. The
 					large number of news articles about school integration struggles throughout the South on the front pages of <em>The Cavalier
 					Daily</em> between Fall 1956 and Spring 1958 (<em>see below</em>) suggests that white students were very interested in how
@@ -1281,9 +1283,11 @@
 					Boyle). The <a href="#cavdaily13" class="inline">paper defended the &ldquo;Jim Crow Issue&rdquo;</a> published in May 1958
 					by <em>The Virginia Spectator</em>; in the issue this undergraduate monthly reprinted Faulkner&rsquo;s <em>Life</em> magazine
 					&ldquo;Letter to the North&rdquo; and listed him as the &ldquo;moderator&rdquo; of the debate staged between four
-					newly-written articles, two pro-segregation and two pro-integration, none written by students (<em>see below</em>). But most
-					articles in the paper suggest how deeply the student body was loyal to the racial status quo. When on <a href="#cavdaily14"
-						class="inline">10 May 1957</a> the <em>CD</em> decided to respond to a challenge from the Writer-in-Residence &ndash;
+					newly-written articles, two pro-segregation and two pro-integration, none written by students (<em>see below</em>). 
+					Two weeks after the magazine appeared, Faulkner cited it approvingly when he was asked to give examples of students resisting 
+					the pressure to conform  <a href="#audioclipUVA05" class="inline"><img src="arrow-right-play.gif"  class="inline" alt="Play Clip" title="Play Clip"/>
+					</a> .  But most articles in the newspaper suggest how deeply the student body was loyal to the racial status quo. When 
+					on <a href="#cavdaily14" class="inline">10 May 1957</a> the <em>CD</em> decided to respond to a challenge from the Writer-in-Residence &ndash;
 					&ldquo;William Faulkner said yesterday, &lsquo;I&rsquo;d like to see more undergraduates of this University express
 					their opinions on topics of wide interest&rsquo;&rdquo; &ndash; by conducting a &ldquo;Poll on
 					Integration,&rdquo; students were given only two plans to choose between, and <a href="#cavdaily18" class="inline">as the
@@ -1295,8 +1299,10 @@
 					poll reflected.</p>
 				<p><a href="#corks5703" class="inline">
 						<img src="uva50s04.jpg" alt="DETAIL: 1957 YEARBOOK PHOTO" title="DETAIL: 1957 YEARBOOK PHOTO"/>
-					</a> One of Faulkner's favorite topics in his sessions with UVA audiences is &ldquo;the pressure to conform&rdquo; that he
-					sees as among the most serious threats facing modern society. He brought that concern with him to Virginia, but what he found at
+				</a> The &ldquo;pressure to conform&rdquo; to the mass was one of Faulkner's favorite topics in his sessions with UVA audiences.  To him it is
+					perhaps the chief threat facing modern society <a href="#audioclipUVA03" class="inline">
+						<img src="arrow-right-play.gif"  class="inline" alt="Play Clip" title="Play Clip"/>
+					</a> . He brought that concern with him to Virginia, but what he found at
 					UVA probably only increased it. These were what Robert Lowell called &ldquo;the tranquilized Fifties,&rdquo; and despite
 					or because of Cold War fears about nuclear annihilation there was a widespread national longing for what journalists were calling
 					&ldquo;normalcy.&rdquo; Even so, the environment at UVA in the late 1950s exalted conformity &ndash; though the
@@ -5767,7 +5773,7 @@
 		
 		<div id="audioclipUVA01" class="hidden hide_printer">
 			
-			<p>An unidentified woman questions Faulkner on his portrayal of Caddy (1:03):</p>
+			<p>A woman questions Faulkner on his portrayal of Caddy, 15 February 1957 (1:03):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
@@ -5779,13 +5785,46 @@
 	
 		<div id="audioclipUVA02" class="hidden hide_printer">
 
-			<p>Blotner asks Faulkner about symbolism in <em>Pylon</em> (0:40):</p>
+			<p>Blotner asks Faulkner about symbolism in <em>Pylon</em>, 12 May 1958 (0:40):</p>
 
 			<script language="JavaScript" type="text/javascript">
 					$(document).ready(function(){
 					$('#audioclipUVA02').qtp('wfaudio30_1.mp4', '00:21:04.62:00', '00:21:41.99:00');
 					});
 				</script>
+		</div>
+		
+		<div id="audioclipUVA03" class="hidden hide_printer">
+			
+			<p>Faulkner discusses the threat of conformity, 13 May 1957 (0:51):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#audioclipUVA03').qtp('wfaudio13.mp4', '00:39:12.74:00', '00:40:03.44:00');
+				});
+			</script>
+		</div>
+		
+		<div id="audioclipUVA04" class="hidden hide_printer">
+			
+			<p>"The Supreme Court decision," 7 May 1958 (0:51):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#audioclipUVA04').qtp('wfaudio28_2.mp4', '00:10:15.79:00', '00:11:06.68:00');
+				});
+			</script>
+		</div>
+		
+		<div id="audioclipUVA05" class="hidden hide_printer">
+			
+			<p>Faulkner discusses <em>The Spectator</em>'s "Jim Crow" issue,  20 May 1957 (0:36):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#audioclipUVA05').qtp('wfaudio28_2.mp4', '00:03:48.53:00', '00:04:24.05:00');
+				});
+			</script>
 		</div>
 
 		<div id="ringleuva" class="hidden essay">
