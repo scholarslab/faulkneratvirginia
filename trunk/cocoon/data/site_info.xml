@@ -831,7 +831,10 @@
 					rights to novels like <em>The Sound and the Fury</em> for much more than they&rsquo;d ever made as books. (Both <a
 						href="#tarnishedangels" class="inline">The Tarnished Angels</a>, adapted from <em>Pylon</em>, and <a href="#longhotsummer"
 						class="inline">The Long, Hot Summer</a>, based on <em>The Hamlet</em>, would be released in 1958 during his second UVA term;
-					he was asked to comment on the second, but not the first.) Right before he arrived in Charlottesville to begin his first term in
+					he was asked to comment on the second <a href="#audioclipWF04" class="inline">
+						<img src="arrow-right-play.gif"  class="inline" alt="Play Clip" title="Play Clip"/>
+					</a> 
+					, but not the first.) Right before he arrived in Charlottesville to begin his first term in
 					residence, Faulkner learned that <em>The Saturday Evening Post</em> had bought the episode from <em>The Town</em> called
 					&ldquo;The Waifs&rdquo; for $3000, the largest price he had ever received from a magazine. (In April 1957 he read this
 					story to the Jefferson Society.)</p>
@@ -5791,6 +5794,17 @@
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
 				$('#audioclipWF03').qtp('wfaudio12_2.mp4', '00:10:11.79:00', '00:11:29.90:00');
+				});
+			</script>
+		</div>
+		
+		<div id="audioclipWF04" class="hidden hide_printer">
+			
+			<p>Faulkner on <em>The Long Hot Summer</em>, 15 May 1958 (1:24):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#audioclipWF04').qtp('wfaudio31.mp4', '00:15:28.55:00', '00:16:51.97:00');
 				});
 			</script>
 		</div>
