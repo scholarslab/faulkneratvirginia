@@ -817,7 +817,9 @@
 					Writer-in-Residence, William Faulkner was 59 years old. Over the previous 34 years he had published sixteen novels, five volumes
 					of short stories and about a dozen other books, but had only recently begun to wear the label by which he would often be
 					introduced during his two years at UVA: the country&rsquo;s &ndash; sometimes the world&rsquo;s &ndash;
-					&ldquo;greatest living novelist.&rdquo; In 1949 he became just the fourth American author to win a Nobel Prize for
+					&ldquo;greatest living novelist&rdquo; <a href="#audioclipWF01" class="inline">
+						<img src="arrow-right-play.gif"  class="inline" alt="Play Clip" title="Play Clip"/>
+					</a> .  In 1949 he became just the fourth American author to win a Nobel Prize for
 					Literature; this was his most prestigious honor, but earlier in the same year the American Academy of Arts and Sciences awarded
 					him the Howells Medal for Fiction, and in the next five years he also received two National Book Awards (1951, 1955) and a
 					Pulitzer Prize (1955).</p>
@@ -841,7 +843,9 @@
 					something of a frequent flyer: he went to England, France, Norway, Italy, Switzerland, to Egypt, Brazil, Japan and the
 					Philippines, to Iceland. (During the Spring semester, 1957, he became the writer-out-of-residence for two weeks when he traveled
 					to Greece on a State Department sponsored tour that coincided with the opening in Athens of a dramatization of <em>Requiem for a
-						Nun</em>. At the end of his 1958 term, however, he declined a State Department invitation to travel to the Soviet Union,
+						Nun</em>.   He was very moved by his experience of Greece <a href="#audioclipWF03" class="inline">
+							<img src="arrow-right-play.gif"  class="inline" alt="Play Clip" title="Play Clip"/>
+						</a> . At the end of his 1958 term, however, he declined a State Department invitation to travel to the Soviet Union,
 					because, he said, it was a totalitarian state.)</p>
 
 				<p>And if he had earlier seemed reclusive, during the Fifties he decided to play a more public role in the nation&rsquo;s and his
@@ -864,7 +868,9 @@
 					Virginia&rsquo;s plan to close its public schools rather than integrate them. In Faulkner&rsquo;s various pronouncements
 					on this issue there are occasionally extreme moments too, and 21st century readers will probably see him as a racial conservative,
 					even a racist, but he saw himself as a moderate who knew blacks could no longer be denied their rights as people and citizens but
-					who also knew the white South would resist orders coming from &ldquo;outlanders,&rdquo; by which he meant the North. His
+					who also knew the white South would resist orders coming from &ldquo;outlanders,&rdquo; by which he meant the North <a href="#audioclipWF02" class="inline">
+						<img src="arrow-right-play.gif"  class="inline" alt="Play Clip" title="Play Clip"/>
+					</a> . His
 					various remarks &ndash; in letters to the editor, in magazines like <em>Life</em>, <em>Harper&rsquo;s</em> and even
 						<em>Ebony</em> &ndash; were attacked by southern reactionaries as a betrayal of his homeland and by northern liberals as
 					temporizing apologetics for an indefensible system. Privately during the late-1950s Faulkner helped pay the tuition of two African
@@ -1093,7 +1099,10 @@
 					tapes. At the start of his second term, Faulkner himself chose to make the struggle against segregation the topic of one of the
 					two formal speeches he gave here. The other, &ldquo;A Word to Young Writer&rsquo;s,&rdquo; given in April 1958, begins
 					by talking about the People-to-People program that Faulkner had participated in at Eisenhower&rsquo;s request, thus locating
-					the American writer in relation to the battle lines of the Cold War. Not long after the 1957-1958 academic year began, the
+					the American writer in relation to the battle lines of the Cold War &ndash; though when he was asked about specific ways to &ldquo;combat
+					communism,&rdquo; he put his faith in individualism <a href="#audioclipUS03" class="inline">
+						<img src="arrow-right-play.gif"  class="inline" alt="Play Clip" title="Play Clip"/>
+					</a>  . Not long after the 1957-1958 academic year began, the
 					Russians launched Sputnik, the first man-made object to orbit the earth. As the 180-pound satellite passed through the skies over
 					America, millions of people watched and could not help thinking about those Soviet tanks in Hungary. <em>The Cavalier Daily</em>
 					closely covered the story of Sputnik, as well as the failures and successes of the fledgling American space program. Space
@@ -5749,6 +5758,39 @@
 			</script>
 		</div>
 		
+		<div id="audioclipWF01" class="hidden hide_printer">
+			
+			<p>Blotner introducing Faulkner, 12 May 1958 (0:10):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#audioclipWF01').qtp('wfaudio30_1.mp4', '00:00:02:49:00', '00:00:12.13:00');
+				});
+			</script>
+		</div>
+		
+		<div id="audioclipWF02" class="hidden hide_printer">
+			
+			<p>Faulkner on northern "outlanders," 13 May 1957 (0:57):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#audioclipWF02').qtp('wfaudio13.mp4', '00:05:02.19:00', '00:05:51.65:00');
+				});
+			</script>
+		</div>
+		
+		<div id="audioclipWF03" class="hidden hide_printer">
+			
+			<p>Faulkner on his trip to Greece, 8 May 1957 (0:57):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#audioclipWF03').qtp('wfaudio12_2.mp4', '00:10:11.79:00', '00:11:29.90:00');
+				});
+			</script>
+		</div>
+		
 		<div id="audioclipUS01" class="hidden hide_printer">
 			
 			<p>Faulkner on "McCarthyism," 15 May 1957 (1:18):</p>
@@ -5767,6 +5809,17 @@
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
 				$('#audioclipUS02').qtp('wfaudio13.mp4', '00:04:55.15:00', '00:05:51.65:00');
+				});
+			</script>
+		</div>
+		
+		<div id="audioclipUS03" class="hidden hide_printer">
+			
+			<p>Faulkner on how to "combat communism," 30 April 1957 (0:56):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#audioclipUS03').qtp('wfaudio10.mp4', '00:33:40.60:00', '00:34:35.00:00');
 				});
 			</script>
 		</div>
