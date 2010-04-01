@@ -147,6 +147,7 @@ ul.gallery li {
 ul.gallery img {
     margin: 0;
     padding: 0;
+    max-height: 160px;
 }
 #essay_content ul.gallery img {
 	padding: 0;
