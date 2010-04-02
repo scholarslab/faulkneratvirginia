@@ -41,6 +41,9 @@
                     <persName id="G">Frederick Gwynn</persName>
                 </person>
                 <person>
+                    <p id="JCh">John Church</p>
+                </person>
+                <person>
                     <p id="Q">Unidentified participant</p>
                 </person>
             </particDesc>
@@ -373,12 +376,12 @@
                 <div2 type="dialog" id="wfaudio26_2.19" start="00:23:22.05" end="00:24:22.32">
                     <head>Mississippi and Doom</head>
                     <u who="WF">Yes, sir.</u>
-                <u who="Q">Sir, you've mentioned that these people in <hi rend="italic">The Sound
+                <u who="JCh">Sir, you've mentioned that these people in <hi rend="italic">The Sound
                         and the Fury</hi> are doomed. Is it your theory also that people everywhere
                     are doomed or is it just these people in Mississippi?</u>
                 <u who="WF">No, no, <event desc="audience laughter"/> only the— <event desc="Faulkner laughing"/> no, only—only the Compson
                     family—</u>
-                    <u who="Q">Sir?</u>
+                    <u who="JCh">Sir?</u>
                         <u who="WF">
                             Only that Compson family.</u>
                     <u who="Q">Oh, the Compsons.</u>
