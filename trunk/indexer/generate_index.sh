@@ -28,5 +28,18 @@ echo
 
 #reload the core
 echo Reloading the Solr index
-curl http://localhost:8080/solr/admin/cores -F command=RELOAD -F core=faulkner
+
+PRODUCTION="quandu_production"
+
+if [ -z $RAILS_ENV ]; then
+	RAILS_ENV=''
+fi 
+
+if [ $RAILS_ENV = $PRODUCTION ]; then
+	curl http://sds3.itc.virginia.edu:8080/solr/admin/cores -F command=RELOAD -F core=faulkner
+	curl http://sds5.itc.virginia.edu:8080/solr/admin/cores -F command=RELOAD -F core=faulkner
+else
+	curl http://localhost:8080/solr/admin/cores -F command=RELOAD -F core=faulkner
+fi
+
 echo
