@@ -5917,7 +5917,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#audioclipUVA01').qtp('wfaudio01_1.mp4', '00:38:07.75:00', '00:39:10.44:00');
+				$('#audioclipUVA01').qtp('wfaudio01_1.mp4', '00:38:07.75:00', '00:39:10.60:00');
 				});
 			</script>
 		</div>
