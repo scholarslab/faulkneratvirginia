@@ -605,10 +605,12 @@
 							<img src="thompson33t.jpg" alt="FAULKNER WITH BLOTNER AND GWYNN" title="FAULKNER WITH BLOTNER AND GWYNN"/>
 						</a>
 					</li>
+					
+					
 
 					<li>
-						<a href="#thompson34" class="inline">
-							<img src="thompson34t.jpg" alt="FAULKNER MEETING WITH PUBLIC" title="FAULKNER MEETING WITH PUBLIC"/>
+						<a href="#thompson50" class="inline">
+							<img src="thompson50t.jpg" alt="FAULKNER MEETING WITH PUBLIC" title="FAULKNER MEETING WITH PUBLIC"/>
 						</a>
 					</li>
 
@@ -633,6 +635,42 @@
 					<li>
 						<a href="#thompson41" class="inline">
 							<img src="thompson41t.jpg" alt="FAULKNER IN ROUSS HALL" title="FAULKNER IN ROUSS HALL"/>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#thompson47" class="inline">
+							<img src="thompson47t.jpg" alt="FAULKNER READING IN ROUSS HALL" title="FAULKNER READING IN ROUSS HALL"/>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#thompson48" class="inline">
+							<img src="thompson48t.jpg" alt="FAULKNER IN ROUSS HALL" title="FAULKNER IN ROUSS HALL"/>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#thompson49" class="inline">
+							<img src="thompson49t.jpg" alt="FAULKNER IN ROUSS HALL" title="FAULKNER IN ROUSS HALL"/>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#thompson34" class="inline">
+							<img src="thompson34t.jpg" alt="FAULKNER MEETING WITH PUBLIC" title="FAULKNER MEETING WITH PUBLIC"/>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#thompson51" class="inline">
+							<img src="thompson51t.jpg" alt="FAULKNER READING IN ROUSS HALL" title="FAULKNER READING IN ROUSS HALL"/>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#thompson52" class="inline">
+							<img src="thompson52t.jpg" alt="FAULKNER IN ROUSS HALL" title="FAULKNER IN ROUSS HALL"/>
 						</a>
 					</li>
 
@@ -3264,6 +3302,55 @@
 			<p><em>Below</em>: Photo by Ralph Thompson of Faulkner at UVA (20 February 1957). [Print# 0126; Digitization# 000005732_0001]. </p>
 			<p>
 				<img src="thompson46.jpg" title="FAULKNER PAPERS PHOTO" alt="FAULKNER PAPERS PHOTO"/>
+			</p>
+		</div>
+		
+		<div id="thompson47" class="hidden">
+			<a name="thompson47"/>
+			<p><em>Below</em>: Photo by Ralph Thompson of Faulkner in Rouss Hall [Print# 0218].  Note woman in front row with fan.  Faulkner called this
+				windowless classroom, where most of his UVA sessions took place, "the black hole of Calcutta" because it was so hot.</p>
+			<p>
+				<img src="thompson47.jpg" title="FAULKNER PAPERS PHOTO" alt="FAULKNER PAPERS PHOTO"/>
+			</p>
+		</div>
+		
+		<div id="thompson48" class="hidden">
+			<a name="thompson48"/>
+			<p><em>Below</em>: Photo by Ralph Thompson of Faulkner at UVA [Print# 0201].  The book beside him is his <em>Collected Stories</em>.</p>
+			<p>
+				<img src="thompson48.jpg" title="FAULKNER PAPERS PHOTO" alt="FAULKNER PAPERS PHOTO"/>
+			</p>
+		</div>
+		
+		<div id="thompson49" class="hidden">
+			<a name="thompson49"/>
+			<p><em>Below</em>: Photo by Ralph Thompson of Faulkner at UVA [Print# 0216]. </p>
+			<p>
+				<img src="thompson49.jpg" title="FAULKNER PAPERS PHOTO" alt="FAULKNER PAPERS PHOTO"/>
+			</p>
+		</div>
+		
+		<div id="thompson50" class="hidden">
+			<a name="thompson50"/>
+			<p><em>Below</em>: Photo by Ralph Thompson of Faulkner in Rouss Hall [Print# 0222].  </p>
+			<p>
+				<img src="thompson50.jpg" title="FAULKNER PAPERS PHOTO" alt="FAULKNER PAPERS PHOTO"/>
+			</p>
+		</div>
+		
+		<div id="thompson51" class="hidden">
+			<a name="thompson51"/>
+			<p><em>Below</em>: Photo by Ralph Thompson of Faulkner reading in Rouss Hall [Print# 0205].  </p>
+			<p>
+				<img src="thompson51.jpg" title="FAULKNER PAPERS PHOTO" alt="FAULKNER PAPERS PHOTO"/>
+			</p>
+		</div>
+		
+		<div id="thompson52" class="hidden">
+			<a name="thompson52"/>
+			<p><em>Below</em>: Photo by Ralph Thompson of Faulkner in Rouss Hall [Print# 0215].  </p>
+			<p>
+				<img src="thompson52.jpg" title="FAULKNER PAPERS PHOTO" alt="FAULKNER PAPERS PHOTO"/>
 			</p>
 		</div>
 		
