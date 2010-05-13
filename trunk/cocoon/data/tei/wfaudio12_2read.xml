@@ -50,10 +50,11 @@
 	<text>
 		<body>
 			<div1 type="event1">
+				<head>Reading of "Was" (concluded)</head>
 				<head>DATE: 8 May 1957</head>
 				<head>OCCASION: Engineering School Students</head>
 				<head>TAPE: T-125</head><head>LENGTH: 8:25</head>
-				<head>FAULKNER READING FROM  "Was" (concluded)</head>
+				
 				<div2 type="reading" id="wfaudio12_2" start="00:00:00.00" end="00:08:24.38">
 					<head>Reading</head>
 					<u who="WF">

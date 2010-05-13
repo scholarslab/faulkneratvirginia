@@ -49,10 +49,11 @@
 	<text>
 		<body>
 			<div1 type="event1">
+				<head>Reading of The Sound and the Fury</head>
 				<head>DATE: 23 May 1958</head>
 				<head>OCCASION: General Public</head>
 				<head>TAPE: T-145c</head><head>LENGTH: 9:43</head>
-				<head>FAULKNER READING FROM The Sound and the Fury</head>
+				
 				
 				<div2 type="reading" id="wfaudio32" start="00:03:07.65" end="00:12:50.18">
 					<head>Reading</head>
