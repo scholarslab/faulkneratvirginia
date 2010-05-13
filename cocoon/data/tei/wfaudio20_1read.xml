@@ -49,10 +49,11 @@
 	<text>
 		<body>
 			<div1 type="event1">
+				<head>Reading of "A Word to Virginians"</head>
 				<head>DATE: 20 February 1958</head>
 				<head>OCCASION: The Raven, Jefferson and Omicron Delta Kappa Societies</head>
 				<head>TAPE: T-140begins</head><head>LENGTH: 30:33</head>
-				<head>FAULKNER READING "A Word to Virginians"</head>
+				
 				
 				<div2 type="reading" id="wfaudio20_1" start="00:03:43.60:00" end="00:11:40.93:00">
 					<head>Speech</head>

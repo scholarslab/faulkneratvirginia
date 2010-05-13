@@ -50,10 +50,11 @@
 	<text>
 		<body>
 			<div1 type="event1">
+				<head>Reading of "Race at Morning"</head>
 				<head>DATE: 26 February 1958</head>
 				<head>OCCASION: Undergraduate Writing Class</head>
 				<head>TAPE: T-141classbegins</head><head>LENGTH: 20:36</head>
-				<head>FAULKNER READING FROM "Race at Morning"</head>
+				
 				
 				<div2 type="reading" id="wfaudio22_1" start="00:01:53.71" end="00:22:29.07">
 					<head>Reading</head>

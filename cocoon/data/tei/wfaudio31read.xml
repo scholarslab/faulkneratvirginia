@@ -50,9 +50,10 @@
 	<text>
 		<body>
 			<div1 type="event1">
+				<head>Reading of The Town</head>
 				<head>DATE: 15 May 1958</head><head>OCCASION: At Washington &amp; Lee University</head>
 				<head>TAPE: T-146</head><head>LENGTH: 5:45</head>
-				<head>FAULKNER READING FROM The Town</head>
+				
 				
 				<div2 type="reading" id="wfaudio31" start="00:01:41.92" end="00:07:26.93">
 					<head>Reading</head>

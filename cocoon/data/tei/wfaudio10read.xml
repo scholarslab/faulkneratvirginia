@@ -50,10 +50,11 @@
 	<text>
 		<body>
 			<div1 type="event1">
+				<head>Reading of "The Waifs"</head>
 				<head>DATE: 30 April 1957</head>
 				<head>OCCASION: The Jefferson Society</head>
 				<head>TAPE: T-118andT-119</head><head>LENGTH: 21:39</head>
-				<head>FAULKNER READING FROM "The Waifs"</head>
+				
 				
 				<div2 type="reading" id="wfaudio10" start="00:01:56.07" end="00:23:35.34">
 					<head>Reading</head>
