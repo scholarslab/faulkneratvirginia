@@ -71,7 +71,7 @@
             <div1 type="event1">
                 <head>DATE: 6 May 1958</head><head>OCCASION: What's the Good Word Radio Program</head>
                 <head>TAPE: T-141c</head><head>LENGTH: 26:20</head>
-                <div2 type="dialog" id="wfaudio27.1" start="00:00:13.09" end="00:01:10.85">
+                <div2 type="dialog" id="wfaudio27.1" start="00:00:13.09" end="00:01:10.99">
                     <head>Program Introduction</head>
                     <u who="E">You can hear the opening for the program <unclear>being</unclear> <inaudible/>.</u>
                     <u who="A">"What's the good word?" <event desc="theme music"/> </u>
@@ -83,7 +83,7 @@
                     language you speak? Our host for the program is Mr. Edward Stevenson of the
                     Department English Language and Literature of the University in Charlottesville.
                         <event desc="theme music"/> Now here's Mr. Stevenson.</u></div2>
-                <div2 type="dialog" id="wfaudio27.2" start="00:01:10.78" end="00:02:03.40">
+                <div2 type="dialog" id="wfaudio27.2" start="00:01:10.98" end="00:02:03.55">
                     <head>Show 1 Introduction</head>
                     <u who="ES">Today we are very fortunate to have as our special guest Mr. William
                     Faulkner of Oxford, Mississippi, the celebrated—justly celebrated
@@ -99,7 +99,7 @@
                     well start on the questions. <lb/>
                         Mr. Houk, will you lead off with the first question, please?   
                     </u></div2>
-                <div2 type="dialog" id="wfaudio27.3" start="00:02:03.40" end="00:03:10.23">
+                <div2 type="dialog" id="wfaudio27.3" start="00:02:03.50" end="00:03:10.23">
                     <head>Doom's Name</head>
                 <u who="H">Yes. Mr. Faulkner, your character Doom has the—a curious
                     history for his name. His Indian name Ikkemotubbe was translated into  
