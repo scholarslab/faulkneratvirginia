@@ -71,9 +71,9 @@
             <div1 type="event1">
                 <head>DATE: 6 May 1958</head><head>OCCASION: What's the Good Word Radio Program</head>
                 <head>TAPE: T-141c</head><head>LENGTH: 26:20</head>
-                <div2 type="dialog" id="wfaudio27.1" start="00:00:13.09" end="00:01:10.72">
+                <div2 type="dialog" id="wfaudio27.1" start="00:00:13.09" end="00:01:10.85">
                     <head>Program Introduction</head>
-                    <u who="E">You can hear the opening <unclear>for the program</unclear>.</u>
+                    <u who="E">You can hear the opening for the program <unclear>being</unclear> <inaudible/>.</u>
                     <u who="A">"What's the good word?" <event desc="theme music"/> </u>
                     <u who="E">It's going on our master tape now.  <inaudible/></u>
                     <u who="A">Welcome now
@@ -83,11 +83,11 @@
                     language you speak? Our host for the program is Mr. Edward Stevenson of the
                     Department English Language and Literature of the University in Charlottesville.
                         <event desc="theme music"/> Now here's Mr. Stevenson.</u></div2>
-                <div2 type="dialog" id="wfaudio27.2" start="00:01:10.58" end="00:02:03.30">
+                <div2 type="dialog" id="wfaudio27.2" start="00:01:10.78" end="00:02:03.40">
                     <head>Show 1 Introduction</head>
                     <u who="ES">Today we are very fortunate to have as our special guest Mr. William
                     Faulkner of Oxford, Mississippi, the celebrated—justly celebrated
-                    Southern writer of fiction and winner of the Nobel Prize for Literature in 1949.
+                    southern writer of fiction and winner of the Nobel Prize for Literature in 1949.
                     Our panel is somewhat larger than usual today, as several of the students from
                     my English 32 class have joined us. In addition to Mr. Robert Kellogg of the
                     Department of English, one of our regular panel members, we have with us
@@ -99,10 +99,10 @@
                     well start on the questions. <lb/>
                         Mr. Houk, will you lead off with the first question, please?   
                     </u></div2>
-                <div2 type="dialog" id="wfaudio27.3" start="00:02:03.30" end="00:03:10.23">
+                <div2 type="dialog" id="wfaudio27.3" start="00:02:03.40" end="00:03:10.23">
                     <head>Doom's Name</head>
                 <u who="H">Yes. Mr. Faulkner, your character Doom has the—a curious
-                    history for his name. His Indian name Ikkemotubbe was translated  
+                    history for his name. His Indian name Ikkemotubbe was translated into  
                     <hi rend="italic">L'homme</hi> or <hi rend="italic">De l'homme</hi> in French,
                     then was translated by him back to Doom in English. I understand that's
                     correct.</u>
@@ -110,10 +110,10 @@
                     associates trying to pronounce his French name, given to him by the French
                     adventurer who called himself the Chevalier Soeur-Blonde de Vitry, that he met
                     in New Orleans. That was simply an anglicization of the French <hi rend="italic">De l'homme</hi>.</u>
-                <u who="H">And that Anglicization would be your imagination—from your
+                    <u who="H">And that—that Anglicization would be your imagination—from your
                     imagination rather than from facts. In other words, you do not know a parallel
                     such as this one in Indian lore.</u>
-                <u who="WF">No, I would certainly like to think I invented that.</u></div2>
+                <u who="WF">No, I would certainly like to think I'd invented that.</u></div2>
                 <div2 type="dialog" id="wfaudio27.4" start="00:03:12.14" end="00:03:54.03">
                     <head>Use of Aint</head>
                     <u who="Q">Mr. Faulkner, I'd like to ask you about your use of "aint" in the
@@ -174,7 +174,7 @@
                     Mississippi?</u>
                 <u who="WF">Oh yes, there are any number of words derived from lowland Scottish in
                     Mississippi country people's talk. They say "to ret up a room."</u>
-                <u who="ES">That <unclear>leif</unclear>—it may be just my own
+                <u who="ES">That "leif"—it may be just my own
                     inexperience, but I haven't come across that in Georgia. I wonder—it
                     may be a difference between the speech of Georgia—popular speech, folk
                     speech in Georgia and in Mississippi. I remember being struck by that too,
@@ -229,7 +229,7 @@
                 <u who="Q">Have you ever heard it used in the singular?</u>
                 <u who="WF">No.</u>
                 <u who="ES">I never have either. I'll bear you out on that.</u>
-                <u who="WF">I've heard Northerners use it in the singular. <event desc="audience laughter"/></u></div2>
+                <u who="WF">Not by a southerner.  I've heard northerners use it in the singular. <event desc="audience laughter"/></u></div2>
                 <div2 type="dialog" id="wfaudio27.13" start="00:10:35.34" end="00:11:52.66">
                     <head>Sophonisba v Sophonsiba</head>
                     <u who="Q">Mr. Faulkner, there's a traditional character in literature, Sophonisba,
@@ -239,11 +239,11 @@
                     believe is the way you pronounce her name, is that—is the change of
                     that "s" from Sophonisba to Sophonsiba, a change just of the "s" not of the
                     accent, is that your—is that intentional?</u>
-                <u who="WF">Intentional in this sense: to imply that the people of her
-                    class and her time were involved with—with books, with culture, but they were
+                    <u who="WF">Intentional in this sense: to imply that the people of—of her—her
+                        class and her time were—were involved with—with books, with culture, but they were
                     careless with it too, and they would mispronounce the names, they would take
                     classical names and give to the Negro slaves and would probably mispronounce
-                    them, so that after the Negro had passed it on to his children it became
+                        them, so that after the—the Negro had passed it on to his children it became
                     something else, but at one time it came out of the classics, that someone who
                     had read the Latin or the Greek had seen it.</u></div2>
                 <div2 type="dialog" id="wfaudio27.14" start="00:11:52.61" end="00:12:51.32">
@@ -270,7 +270,7 @@
                     today have been Mr. Robert Kellogg of the Department of English, and various and
                     sundry members of the English 32 class whose names I haven't time to mention at
                     this time. This is Edward Stevenson with the Department of English, asking you
-                    to be again with us at the same next week for another session on this same
+                    to be again with us at the same time next week for another session on this same
                         subject.</u></div2>
                 <div2 type="dialog" id="wfaudio27.16" start="00:13:34.91" end="00:13:55.33">
                     <head>Program Introduction</head>
@@ -316,7 +316,7 @@
                     <u who="Q">Mr. Faulkner, in your writing of dialogues, do you present the words of
                     your characters as they would have spoken them? Or do you just use a touch of
                     dialect to color the character?</u>
-                <u who="WF">I think it's best to use as little dialect as possible because it
+                <u who="WF">I think best to use as little dialect as possible because it
                     confuses people who are not familiar with it. That nobody should let the
                     character speak completely in his own vernacular.  It's best indicated by a few
                     simple, sparse but recognizable touches.</u></div2>
@@ -345,8 +345,8 @@
                     mountain character would say in 1920 and what he would say in 1950, or is it
                     just all what you heard when you were in <inaudible/>?</u>
                 <u who="WF">I think that his—his vernacular, his dialect wouldn't alter so
-                    much as his vocabulary might increase a little because of radio and books
-                    and—and newspapers which he can get or he can't escape from getting in
+                    much as his vocabulary might increase a little because of radio and—and books
+                    and newspapers which he can get or he can't escape from getting in
                     1950 which he couldn't get in 1910 or '20.</u>
                     <u who="ES">Let me put in a sort of a variation on that question. Do you try to make
                     any distinction between what you conceive today to be the speech, say, of the
@@ -355,12 +355,12 @@
                     the—the diction wouldn't.</u></div2>
                 <div2 type="dialog" id="wfaudio27.23" start="00:19:03.34" end="00:20:09.11">
                     <head>Faulkner's Own Dialect</head>
-                    <u who="Q">Mr. Faulkner, in listening to several of your talks I find <unclear>it sort 
-                        of curious and rather remarkable</unclear> that often you use what is generally considered to be bad
+                    <u who="Q">Mr. Faulkner, in listening to several of your talks I find it sort 
+                        of curious and rather remarkable that often you use what is generally considered to be bad
                     grammar, for instance "he dont," "aint." Do you have a conscious intent in
-                    talking <unclear>in this manner</unclear>?</u>
+                    talking in this manner?</u>
                 <u who="WF">No.</u>
-                <u who="Q">Is it a—certainly I have no question that you know what <unclear>good</unclear> 
+                <u who="Q">Is it a—certainly I have no question that you know what good  
                     grammar is <inaudible/>. Is it just a recollection in your mind of the speech
                     in Mississippi at the <inaudible/>?</u>
                 <u who="WF">Probably old muscular habits in speech, if you will agree
@@ -373,7 +373,7 @@
                     letters of Lord Byron, I've noticed.</u></div2>
                 <div2 type="dialog" id="wfaudio27.24" start="00:20:11.21" end="00:20:36.14">
                     <head>Negro Dialect</head>
-                    <u who="Q">Sir, do you think that the dialect or speech of southern Negroes is a
+                    <u who="Q">Sir, do you think that the dialect or speech of the southern Negro is a
                     deterrent to his progress <inaudible/>?</u>
                 <u who="WF">No, I shouldn't think that—that anyone's speech should be a
                     deterrent to his progress if he just don't use too much of it. I think a lot
@@ -402,13 +402,13 @@
                 <div2 type="dialog" id="wfaudio27.26" start="00:22:02.73" end="00:23:56.35">
                     <head>Southern Dialects</head>
                     <u who="Q">Mr. Faulkner, there has appeared in <hi rend="italic">American
-                        Speech</hi> magazine some articles on the Southern dialect, and it points
+                        Speech</hi> magazine some articles on the southern dialect, and it points
                     out certain peculiarities about the Southern dialect. Now these articles were
                     written by men who—in the Mississippi and Louisiana area. The
                     inconsistency seems to appear in the fact that some of these examples that they
                     show are not consistent with examples shown in the Georgia dialect, or perhaps
-                    in the Carolinas. My question is this: do you think that there could possibly be
-                    a split in the Southern dialect, between the Carolinas and Georgia, and perhaps
+                        in—in the Carolinas. My question is this: do you think that there could possibly be
+                    a split in the southern dialect, between the Carolinas and Georgia, and perhaps
                     draw a rough line down Alabama, and have a different dialect on your side?</u>
                 <u who="ES">Sort of two subdialects, maybe an eastern and a western division of the
                     Southern dialect?</u>
@@ -449,7 +449,7 @@
                     dozen and more movings which even the boy could remember." Was that a conscious
                     use of alliteration, or is it just happenstance?</u>
                 <u who="WF">Happenstance.</u>
-                <u who="ES"><unclear>Sure enough.</unclear> Do you ever use alliteration
+                <u who="ES">Sure enough.  Do you ever use alliteration
                     consciously?</u>
                 <u who="WF">No, I don't have time. <event desc="audience laughter"/> I mean by that
                     the writer is too busy getting the story down before he forgets it to bother too
