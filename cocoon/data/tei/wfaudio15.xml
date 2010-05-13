@@ -53,7 +53,10 @@
     </teiHeader>
     <text>
         <body>
-            <div1 type="event1"><head>FILENAME: wfaudio15</head><head>DATE: 16 May 1957</head>
+            <div1 type="event1">
+                <head>Law School Wives</head>
+                <head>FILENAME: wfaudio15</head>
+                <head>DATE: 16 May 1957</head>
                 <head>OCCASION: Law School Wives</head>
                 <head>TAPE: T-131ends</head><head>LENGTH: 17:14</head>
                 

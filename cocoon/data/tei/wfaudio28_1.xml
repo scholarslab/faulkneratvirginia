@@ -57,8 +57,11 @@
     <text>
         <body>
             <div1 type="event1">
-                <head>DATE: 7 May 1958</head><head>OCCASION: Department of Psychiatry</head>
-                <head>TAPE: T-144a</head><head>LENGTH: 32:09</head>
+                <head>Department of Psychiatry, tape 1</head>
+                <head>DATE: 7 May 1958</head>
+                <head>OCCASION: Department of Psychiatry</head>
+                <head>TAPE: T-144a</head>
+                <head>LENGTH: 32:09</head>
                 <div2 type="dialog" id="wfaudio28_1.1" start="00:00:03.87" end="00:00:37.53">
                     <head>Introduction</head>
                     <u who="M"><inaudible/> that there was a possibility of meeting with you, we
