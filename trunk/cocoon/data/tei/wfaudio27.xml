@@ -71,11 +71,11 @@
             <div1 type="event1">
                 <head>DATE: 6 May 1958</head><head>OCCASION: What's the Good Word Radio Program</head>
                 <head>TAPE: T-141c</head><head>LENGTH: 26:20</head>
-                <div2 type="dialog" id="wfaudio27.1" start="00:00:13.09" end="00:01:10.52">
+                <div2 type="dialog" id="wfaudio27.1" start="00:00:13.09" end="00:01:10.72">
                     <head>Program Introduction</head>
                     <u who="E">You can hear the opening <unclear>for the program</unclear>.</u>
                     <u who="A">"What's the good word?" <event desc="theme music"/> </u>
-                    <u who="E">It's going on <inaudible/></u>
+                    <u who="E">It's going on our master tape now.  <inaudible/></u>
                     <u who="A">Welcome now
                     to <hi rend="italic">What's the Good Word</hi>, a weekly presentation of the
                     University of Virginia designed to inform and entertain the people of Virginia
@@ -83,7 +83,7 @@
                     language you speak? Our host for the program is Mr. Edward Stevenson of the
                     Department English Language and Literature of the University in Charlottesville.
                         <event desc="theme music"/> Now here's Mr. Stevenson.</u></div2>
-                <div2 type="dialog" id="wfaudio27.2" start="00:01:10.48" end="00:02:03.25">
+                <div2 type="dialog" id="wfaudio27.2" start="00:01:10.58" end="00:02:03.30">
                     <head>Show 1 Introduction</head>
                     <u who="ES">Today we are very fortunate to have as our special guest Mr. William
                     Faulkner of Oxford, Mississippi, the celebrated—justly celebrated
@@ -99,7 +99,7 @@
                     well start on the questions. <lb/>
                         Mr. Houk, will you lead off with the first question, please?   
                     </u></div2>
-                <div2 type="dialog" id="wfaudio27.3" start="00:02:03.23" end="00:03:10.23">
+                <div2 type="dialog" id="wfaudio27.3" start="00:02:03.30" end="00:03:10.23">
                     <head>Doom's Name</head>
                 <u who="H">Yes. Mr. Faulkner, your character Doom has the—a curious
                     history for his name. His Indian name Ikkemotubbe was translated  
@@ -240,7 +240,7 @@
                     that "s" from Sophonisba to Sophonsiba, a change just of the "s" not of the
                     accent, is that your—is that intentional?</u>
                 <u who="WF">Intentional in this sense: to imply that the people of her
-                    class and her time were involved with books, with culture, but they were
+                    class and her time were involved with—with books, with culture, but they were
                     careless with it too, and they would mispronounce the names, they would take
                     classical names and give to the Negro slaves and would probably mispronounce
                     them, so that after the Negro had passed it on to his children it became
@@ -277,7 +277,7 @@
                     <u who="A">Our host for the pr— <event desc="gap in tape"/>
                     Stevenson of the Department English Language and Literature of the University in
                     Charlottesville. <event desc="theme music"/> Now here's Mr. Stevenson.</u></div2>
-                <div2 type="dialog" id="wfaudio27.17" start="00:13:55.28" end="00:14:41.25">
+                <div2 type="dialog" id="wfaudio27.17" start="00:13:55.28" end="00:14:41.30">
                     <head>Show 2 Introduction</head>
                     <u who="ES">We're very happy to bring you again today our Writer in Residence at the
                     University, Mr. William Faulkner of Oxford, Mississippi, who has consented to
@@ -459,10 +459,10 @@
                 <u who="WF">A reviser would but nobody is going to revise if he can help it. That
                     is, nobody revises for fun. If it's all right he lets it go. The publisher can
                     correct the grammar if he thinks it's needed.</u></div2>
-                <div2 type="dialog" id="wfaudio27.29" start="00:26:10.35" end="00:26:16.24">
+                <div2 type="dialog" id="wfaudio27.29" start="00:26:10.35" end="00:26:17.24">
                     <head>Show 2 Close</head>
                     <u who="ES">Well, I see our time has run out. I want to thank Mr.
-                        Faulkner— <event desc="end of recording"/></u></div2>
+                        Faulkner <unclear>very much</unclear>— <event desc="end of recording"/></u></div2>
                 </div1>
         </body>
     </text>
