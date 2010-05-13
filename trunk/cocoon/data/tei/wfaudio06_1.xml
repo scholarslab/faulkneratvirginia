@@ -50,7 +50,7 @@
             <settingDesc>
                 <setting>
                     <date value="1957-04-13">13 April 1957</date>
-                    <locale>Blotner's Novel and Gwynn's American Fiction Classes</locale>
+                    <locale>Joseph Blotner's Novel and Frederick Gwynn's American Fiction Classes</locale>
                     <name type="place">University of Virginia</name>
                     <name type="city">Charlottesville, Virginia</name>
                 </setting>
@@ -60,6 +60,7 @@
     <text>
         <body>
             <div1 type="event1">
+                <head>Blotner and Gwynn's Classes, tape 1</head>
                 <head>DATE: 13 April 1957</head>
                 <head>OCCASION: Blotner's Novel and Gwynn's American Fiction Classes</head>
                 <head>TAPE: T-114</head><head>LENGTH: 33:54</head>
