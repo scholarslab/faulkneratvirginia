@@ -297,9 +297,9 @@
 					himself <a href="#audioclipInt06" class="inline"><img src="arrow-right-play.gif"  class="inline" alt="Play Clip" title="Play Clip"/></a>, he 
 					decided to re-read <em>Absalom,
 					Absalom!</em> before beginning his second term as Writer-in-Residence, so that he could answer questions about that book more 
-					helpfully.<a href="#intronote2" class="inline"><strong>*</strong></a>  While he apologizes &ndash; rightly, most listeners will 
+					helpfully.<a href="#intronote2" class="inline"><strong>*</strong></a>  While he apologizes &ndash; rightly, listeners are likely to  
 					feel &ndash; for his shortcomings as a reader of his own work, when he visited
-					classrooms he was clearly willing to read whatever fitted the pedagogic needs of a particular instructor.  As for the readings he 
+					classrooms he was clearly willing to read whatever fitted the pedagogic needs of a particular instructor.  As for the texts he 
 					himself chose to read, he shows a decided preference for &ldquo;Faulkner lite,&rdquo; for humorous rather than serious selections.  But he was not
 					afraid to challenge his UVA audience, as became clear when he decided to commence his second Spring semester in &ldquo;Residence&rdquo; by
 					delivering &ldquo;A Word to Virginians,&rdquo; a nine-minute speech urging them to help solve rather than exacerbate the growing crisis over court-ordered
@@ -383,7 +383,8 @@
 				<p>There are two additional transcription conventions I should explain.  Following standard modern publishing practice, we decided not to capitalize
 					the words &ldquo;northern&rdquo; or &ldquo;northerner,&rdquo; &ldquo;southern&rdquo; or &ldquo;southerner.&rdquo;  But it seemed true to both the
 					spirit of that time and the way the words are actually deployed by the people who use them on these tapes to transcribe &ldquo;north&rdquo; as 
-					&ldquo;North&rdquo; and &ldquo;south&rdquo; as &ldquo;South&rdquo;  <a href="#audioclipInt09" class="inline"><img src="arrow-right-play.gif"  class="inline" alt="Play Clip" title="Play Clip"/></a>  That choice seems unproblematic, though I think it&rsquo;s important to 
+					&ldquo;North&rdquo; and &ldquo;south&rdquo; as &ldquo;South&rdquo;  <a href="#audioclipInt09" class="inline"><img src="arrow-right-play.gif" 
+						class="inline" alt="Play Clip" title="Play Clip"/></a> . That choice seems unproblematic, though I think it&rsquo;s important to 
 					note that when the people on these tapes talk about  &ldquo;the South,&rdquo; they seem invariably to mean just <em>white</em> southerners.  That
 					brings me to the other choice we had to make, about an issue that is (rightly) much more troubling for us than for most Americans fifty years ago.  
 					You will hear Faulkner say the word &ldquo;nigger&rdquo; on a few of these tapes.  When he reads &ldquo;Was,&rdquo; the word is spoken
@@ -402,7 +403,7 @@
 					and the ideological complexity of his racial vocabulary.  As he  elaborates the answer he 
 					pronounces the words in several different ways, and goes on to remind his listeners that Ringo, the black boy being discussed, is smarter and 
 					more resourceful than Bayard, the white boy <a href="#audioclipInt05" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play
-						Clip" title="Play Clip"/></a>.  Unless there's no doubt in my mind about the term Faulkner uses, I&rsquo;ve chosen to compromise (or maybe 
+						Clip" title="Play Clip"/></a> .  Unless there's no doubt in my mind about the term Faulkner uses, I&rsquo;ve chosen to compromise (or maybe 
 					to engage in evasion myself) and represent 
 					the sound of  the word as &ldquo;Negro.&rdquo;  Because this is an audio archive, you can listen for yourself, and make up your own mind about
 					how the African Americans in Faulkner's fiction and in &ldquo;southern&rdquo; fact are referred to and, more importantly, represented.
@@ -1068,7 +1069,7 @@
 					1957-1958) were relatively quiet, especially after the crises of the previous decades: the Great Depression, the Second World War,
 					and the onset of the global &ldquo;war&rdquo; against Communism that was both &ldquo;hot&rdquo; (on the Korean
 					peninsula) and &ldquo;cold&rdquo; (in the various diplomatic, economic, strategic and propagandistic struggles against
-					Soviet Russia). In the late nineteen-fifties the U.S. economy continued to grow at record rates, bringing more people into the
+					Soviet Russia). In the late nineteen-fifties the U.S. economy continued to grow at record rates, moving more people into the
 					middle class and out to the suburbs. The growing families created by the Baby Boom were learning new routines from the recently
 					purchased black-and-white TV sets in their living rooms. The re-election of President Eisenhower created little suspense and no
 					controversy. Just about the same time that UVA students returned to Charlottesville for the start of the Fall 1956 semester,
@@ -5904,7 +5905,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#audioclipInt06').qtp('wfaudio14_1.mp4', '00:27:24.73:00', '00:27:35.93:00');
+				$('#audioclipInt06').qtp('wfaudio14_1.mp4', '00:27:25.03:00', '00:27:35.93:00');
 				});
 			</script>
 		</div>
@@ -5992,7 +5993,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#audioclipWF03').qtp('wfaudio12_2.mp4', '00:10:11.79:00', '00:11:29.90:00');
+				$('#audioclipWF03').qtp('wfaudio12_2.mp4', '00:10:11.99:00', '00:11:29.90:00');
 				});
 			</script>
 		</div>
