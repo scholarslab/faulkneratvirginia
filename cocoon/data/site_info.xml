@@ -6024,7 +6024,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#audioclipWF05').qtp('wfaudio18_1.mp4', '00:28:02.93:00', '00:29:45.80:00');
+				$('#audioclipWF05').qtp('wfaudio18_1.mp4', '00:28:02.96:00', '00:29:45.80:00');
 				});
 			</script>
 		</div>
