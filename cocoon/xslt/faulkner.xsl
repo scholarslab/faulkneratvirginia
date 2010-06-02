@@ -36,7 +36,6 @@
 							});
 						});
 						
-						$('.end').click(function(){window.location = 'http://bit.ly/cbfYp2'});
 					});
 				</script>
 			</head>
