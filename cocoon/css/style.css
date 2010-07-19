@@ -118,7 +118,7 @@ ul.menu li a {
     text-decoration:none;
 }
 
-.content center img {
+.content center {
 	height: 215px;
 	overflow: hidden;
 }
