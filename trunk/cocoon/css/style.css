@@ -117,6 +117,11 @@ ul.menu li {
 ul.menu li a {
     text-decoration:none;
 }
+
+.content center img {
+	height: 215px;
+	overflow: hidden;
+}
 /*
   ****************************************
   Inline modal windows DISPLAY
@@ -386,6 +391,7 @@ img.center {
     margin-top: 2em;
 	clear: both;
     padding: 0;
+	font-size: 12px;
 }
 #footer p {
     margin-top: 10px;
