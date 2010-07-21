@@ -6,8 +6,6 @@
 			<img src="/footer.gif" width="84" height="54" class="float_left" />
 			<div class="f_wrap">
 				<p><a href="http://www.virginia.edu/copyright.html">©</a> Rector and Visitors of the <a href="http://www.virginia.edu">University of Virginia</a> (<a href="http://lib.virginia.edu/scholarslab/help">Queries?</a>)</p>
-				<p>Scholarly essays © <a href="http://etext.virginia.edu/railton/railtonhp.html">Stephen Railton</a></p>
-				
 				<p>See UVa Library Special Collections <a href="http://www2.lib.virginia.edu/small/using/use_of_materials_policy.html">use and reproduction policies</a>.</p>
 			</div>
 		</div>
