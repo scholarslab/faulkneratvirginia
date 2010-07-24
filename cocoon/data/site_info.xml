@@ -278,9 +278,15 @@
 					These accounts don&rsquo;t always agree &ndash; but readers of Faulkner are used to that.</p>
 				
 				<p><a href="#thompson13" class="inline">
-					<img src="wfintro03.jpg" alt="FAULKNER IN CABELL HALL" title="FAULKNER IN CABELL HALL"/></a> After listening several times to the recordings,
-					though, I think it&rsquo;s worth noting how generous Faulkner was in meeting the 
-					demands of his occasions as Writer-in-Residence.   He invites his audiences to ask him any kind of 
+					<img src="wfintro03.jpg" alt="FAULKNER IN CABELL HALL" title="FAULKNER IN CABELL HALL"/></a> At the same time, it's important to point out that
+					what Faulkner says on these tapes doesn't always agree with what he said in the past &ndash; or with what biographers and scholars have learned about
+					the facts of his life and career.  One way to think about what you'll hear is as Faulkner <em>performing</em> Faulkner, presenting the version of
+					himself and his work that he may already, at age sixty, have been thinking of as a legacy.  As he himself notes almost a dozen different ways on these tapes, writers are "congenital 
+					liars" <a href="#audioclipInt13" class="inline"><img src="arrow-right-play.gif"  class="inline" alt="Play Clip" title="Play Clip"/></a> .  After listening several
+					times to the recordings, however, I'd also say that there
+					is nothing insincere about his desire at this point in his career to reach the people in his audiences.   Throughout his time at UVA, 
+					he was extremely generous in meeting the 
+					demands of his occasions as Writer-in-Residence.   He invites audiences to ask him any kind of 
 					question  <a href="#audioclipInt07" class="inline"><img src="arrow-right-play.gif"  class="inline" alt="Play Clip" title="Play Clip"/></a> .  He
 					was often asked about the same thing more than once; you&rsquo;ll hear, for example, how formulaic are the responses he worked out to questions
 					about &ldquo;how he became a writer&rdquo; or &ldquo;how he came to write <em>Sanctuary</em>,&rdquo; but to me even at those moments Faulkner 
@@ -5988,6 +5994,17 @@
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
 				$('#audioclipInt12').qtp('wfaudio01_1.mp4', '00:05:49.16:00', '00:07:12.56:00');
+				});
+			</script>
+		</div>
+
+<div id="audioclipInt13" class="hidden hide_printer">
+			
+			<p>Faulkner on writers as "congenital liars," 30 May 1957 (0:25):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#audioclipInt13').qtp('wfaudio18_2.mp4', '00:23:07.99:00', '00:23:32.99:00');
 				});
 			</script>
 		</div>
