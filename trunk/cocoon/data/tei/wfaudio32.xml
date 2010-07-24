@@ -40,6 +40,9 @@
 				<person>
 					<p id="Q">Unidentified participant</p>
 				</person>
+				<person>
+					<p id="TH">Tanner Hunt</p>
+				</person>
 			</particDesc>
 			<settingDesc>
 				<setting>
@@ -572,7 +575,7 @@
 				<div2 type="dialog" id="wfaudio32.32" start="00:31:50.35" end="00:32:34.79">
 					<head>All the King's Men</head>
 					<u who="WF">Yes, sir.</u>
-				<u who="Q">Would you make a sort of general statement about the seed of tragedy as
+				<u who="TH">Would you make a sort of general statement about the seed of tragedy as
 					found in the hero of <hi rend="italic">All the King's Men</hi> by Mr. Warren?</u>
 				<u who="WF">I don't know that book. I—I read a—a story that
 					was—was inside the story of—of a man named Cass <unclear>something</unclear>.
