@@ -414,3 +414,23 @@ img.center {
 #footer .f_wrap p.copyright {
     padding-left: 1em;
 }
+
+/* (C) and use page */
+
+.big-notice {
+	font-size: 16px;
+}
+
+h4.use-head {
+	font-variant: small-caps;
+}
+
+.use-strong {
+	font-weight: bold;
+	font-style: normal;
+}
+
+.use-vstrong {
+	font-weight: bold;
+	font-style: italics;
+}
