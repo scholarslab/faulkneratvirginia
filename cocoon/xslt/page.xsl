@@ -77,6 +77,7 @@
 							<ul class="page_toc">
 								<xsl:for-each select="descendant::page[@id=$id]/section">
 									<xsl:choose>
+										<xsl:when test="$section = 'use'"></xsl:when>
 										<xsl:when test="@id = $section">
 											<li>
 												<xsl:value-of select="@title"/>
