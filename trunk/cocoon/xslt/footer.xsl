@@ -6,7 +6,7 @@
 			<img src="/footer.gif" width="84" height="54" class="float_left" />
 			<div class="f_wrap">
 				<p><em>Faulkner at Virgnia,</em> © Rector and Visitors of the University of Virginia; Author Stephen Railton.</p>
-				<p><a href="{$path}page?id=about&amp;section=credits">Conditions of Use and Copyright Information</a></p>
+				<p><a href="{$path}page?id=conditions&amp;section=use">Conditions of Use and Copyright Information</a></p>
 			</div>
 		</div>
 	</xsl:template>

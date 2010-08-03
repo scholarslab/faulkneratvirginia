@@ -391,7 +391,7 @@ img.center {
     margin-top: 2em;
 	clear: both;
     padding: 0;
-	font-size: 12px;
+	font-size: 14px;
 }
 #footer p {
     margin-top: 10px;
@@ -404,7 +404,7 @@ img.center {
 #footer .f_wrap {
     line-height: 1.5em;
     float: left;
-    padding-left: 1em;
+    padding-left: 0.8em;
 }
 #footer .f_wrap p {
     line-height: 1.5em;
@@ -432,5 +432,5 @@ h4.use-head {
 
 .use-vstrong {
 	font-weight: bold;
-	font-style: italics;
+	font-style: italic;
 }
