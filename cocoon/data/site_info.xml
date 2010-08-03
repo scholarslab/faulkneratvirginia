@@ -1815,6 +1815,28 @@
 			
 		</section>
 	</page>
+	
+	<page id="conditions" title="Conditions of Use and Copyright Information" slug="conditions">
+		<section id="use" title="Conditions of Use and Copyright Information">
+			<div id="use-cond">
+				<h4 class="use-head">General</h4>
+				<p>This site is the result of a collaborative scholarly endeavor directed by Professor Stephen Railton of the University Of Virginia Department of English in partnership with Michael Plunkett of the University of Virginia Library.  The site is housed at the University of Virginia.</p>
+				<p>The site contains rare original materials (audio recordings, images and documents), transcripts, scholarly essays, and more.  The site has been created to enable public access to these materials in support of teaching, research, and scholarship.  Educational institutions or affiliated individuals, school teachers, news organizations, and members of the public are all welcome to link to individual images or other content posted on the site and to download content for the above-authorized purposes.  Acknowledgement should be given to the site as follows:</p>
+				<p class="use-strong"><span class="use-vstrong">Faulkner at Virginia,</span> © 2010 Rector and Visitors of the University of Virginia; Author Stephen Railton.</p>
+				<p class="big-notice"><strong>COMMERCIAL REDISTRIBUTION OF THE SITE MATERIALS IS NOT AUTHORIZED.</strong></p>
+				<p>GENERAL INQUIRIES: Stephen Railton, <a href="mailto:sfr@virginia.edu">sfr@virginia.edu</a></p>		
+			</div>
+			<div id="copyright-cond">
+				<h4 class="use-head">Site Sources &amp; Copyright Information</h4>
+				<p>➢	<span class="use-strong">Texts:</span>  Unattributed essays, captions and notes in this archive are the work of Stephen Railton, and are © 2010 Rector and Visitors of the University of Virginia.  The authors and/or copyright holders of the other essays and articles are identified with their contributions.</p>
+				<p>➢	<span class="use-strong">Images:</span> Most of the images are from the collections of the University of Virginia.  Others were generously contributed by private individuals.  Where known, the original photographer or source of the images is identified.  <span class="use-vstrong">The University is not able to provide commercial rights or high-resolution copies of any of these works.</span></p>
+				<p>➢	<span class="use-strong">Audiotapes:</span> The original audio tapes were made by Frederick Gwynn and Joseph Blotner of UVA’s Department of English.  In December 1959 the department transferred 46 reel-to-reel tapes of the Faulkner lectures to the then “Manuscripts Department” of the University of Virginia Library.</p> 
+				<p>➢	<span class="use-strong">Transcripts:</span>  A significant portion of the original Faulkner audio tapes were transcribed and published by the University of Virginia Press in 1959, in the book Faulkner in the University.  This book is still in-print and remains available for purchase.  Beginning in 2007, the audio tapes were transferred to digital files.  The transcripts posted to this site were created directly from the digitized tapes.</p>
+				<p>➢	<span class="use-strong">16 documents</span> from the University Archives are shown on the site under <span class="use-vstrong">“Context”</span> and subheading <span class="use-vstrong">Faulkner at Virginia: An Introduction</span>.</p>
+				
+			</div>
+		</section>
+	</page>
 
 	<media-content>
 		
