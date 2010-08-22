@@ -40,6 +40,9 @@
                 <person>
                     <persName id="WF">William Faulkner</persName>
                 </person>
+                <person>
+                    <p id="DD">Douglas Day</p>
+                </person>
             </particDesc>
             <settingDesc>
                 <setting>
@@ -88,7 +91,7 @@
                 <div2 type="dialog" id="wfaudio21.3" start="00:02:16.05" end="00:03:58.18">
                     <head>Writing from Experience</head>
                     <u who="WF">Yes, sir.</u>
-                <u who="Q">Mr. Faulkner, Romain Gary wrote recently that he refuses to write only
+                <u who="DD">Mr. Faulkner, Romain Gary wrote recently that he refuses to write only
                     from his own experience because it limits one so. Do you believe that it's
                     possible for—for good fiction to be written by a novelist who attempts to write of
                     things beyond the limits of his own experience?</u>
