@@ -9578,33 +9578,33 @@
 		
 		<div id="emilyclip01" class="hidden hide_printer">
 			
-			<p> 20 May 1957 (0:36):</p>
+			<p>Introductory Literature Class, 20 May 1957 (0:28):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#emilyclip01').qtp('wfaudio17.mp4', '00:03:48.53:00', '00:04:24.05:00');
+				$('#emilyclip01').qtp('wfaudio16_2.mp4', '00:22:39.09:00', '00:24:38.07:00');
 				});
 			</script>
 		</div>
 		
 		<div id="emilyclip02" class="hidden hide_printer">
 			
-			<p> 25 February 1957 (0:36):</p>
+			<p>Writing Class, 25 February 1957 (0:21):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#emilyclip02').qtp('wfaudio17.mp4', '00:03:48.53:00', '00:04:24.05:00');
+				$('#emilyclip02').qtp('wfaudio01_2.mp4', '00:44:36.33:00', '00:44:59.97:00');
 				});
 			</script>
 		</div>
 		
 		<div id="emilyclip03" class="hidden hide_printer">
 			
-			<p> 15 April 1957 (0:36):</p>
+			<p>Virginia Colleges Conference, 15 April 1957 (0:22):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#emilyclip03').qtp('wfaudio17.mp4', '00:03:48.53:00', '00:04:24.05:00');
+				$('#emilyclip03').qtp('wfaudio07_2.mp4', '00:26:11.04:00', '00:26:32.89:00');
 				});
 			</script>
 		</div>
@@ -9622,11 +9622,11 @@
 		
 		<div id="emilyclip05" class="hidden hide_printer">
 			
-			<p> 11 March 1957 (0:36):</p>
+			<p>Undergraduate Literature Class, 11 March 1957 (1:42):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#emilyclip05').qtp('wfaudio17.mp4', '00:03:48.53:00', '00:04:24.05:00');
+				$('#emilyclip05').qtp('wfaudio04.mp4', '00:08:11.96:00', '00:09:53.09:00');
 				});
 			</script>
 		</div>
@@ -9634,11 +9634,11 @@
 		
 		<div id="emilyclip06" class="hidden hide_printer">
 			
-			<p>13 March 1957 (0:36):</p>
+			<p>20th Century Literature Class, 13 March 1957 (4:06):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#emilyclip06').qtp('wfaudio17.mp4', '00:03:48.53:00', '00:04:24.05:00');
+				$('#emilyclip06').qtp('wfaudio05_1.mp4', '00:05:38.20:00', '00:09:44.39:00');
 				});
 			</script>
 		</div>
