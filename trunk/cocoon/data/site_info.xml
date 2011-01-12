@@ -1872,7 +1872,7 @@
 		
 		<section id="selections" title="Selected Clips">
 			<h3 class="center">Selected Clips</h3>
-			<p>&ldquo;A Rose for Emily&rdquo;<br />
+			<p> &nbsp; &nbsp; <strong>&ldquo;A Rose for Emily&rdquo;</strong><br />
 				<a href="#emilyclip01" class="inline">
 					<img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> What inspired the story? (20 May 1957)<br />
 				<a href="#emilyclip02" class="inline">
@@ -9578,7 +9578,7 @@
 		
 		<div id="emilyclip01" class="hidden hide_printer">
 			
-			<p>Introductory Literature Class, 20 May 1957 (0:28):</p>
+			<p>Introductory Literature Class, 20 May 1957 (1:59):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
@@ -9611,7 +9611,7 @@
 		
 		<div id="emilyclip04" class="hidden hide_printer">
 			
-			<p>American Fiction Class, 27 April 1957 (0:36):</p>
+			<p>American Fiction Class, 27 April 1957 (1:16):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
