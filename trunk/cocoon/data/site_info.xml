@@ -1868,6 +1868,30 @@
 			</p>
 
 		</section>
+		
+		
+		<section id="selections" title="Selected Clips">
+			<h3 class="center">Selected Clips</h3>
+			<p>&ldquo;A Rose for Emily&rdquo;<br />
+				<a href="#emilyclip01" class="inline">
+					<img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> What inspired the story? (20 May 1957)<br />
+				<a href="#emilyclip02" class="inline">
+					<img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> What did the story come from? (25 February 1957)<br />
+				<a href="#emilyclip03" class="inline">
+					<img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> What does the title mean? (15 April 1957)<br />
+				<a href="#emilyclip04" class="inline">
+					<img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Southern ideals seen in the story? (27 April 1957)<br />
+				<a href="#emilyclip05" class="inline">
+					<img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Conflict between North and South in the story? (11 March
+				1957)<br />
+				<a href="#emilyclip06" class="inline">
+					<img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Story as criticism of the time? (13 March 1957)<br />
+				
+			</p>
+		
+			
+		</section>
+		
 
 	</page>
 
@@ -9550,6 +9574,73 @@
 			<p>
 				<img src="uva50s04.jpg" alt="DETAIL: 1958 YEARBOOK PHOTO" title="DETAIL: 1958 YEARBOOK PHOTO"/>
 			</p>
+		</div>
+		
+		<div id="emilyclip01" class="hidden hide_printer">
+			
+			<p> 20 May 1957 (0:36):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#emilyclip01').qtp('wfaudio17.mp4', '00:03:48.53:00', '00:04:24.05:00');
+				});
+			</script>
+		</div>
+		
+		<div id="emilyclip02" class="hidden hide_printer">
+			
+			<p> 25 February 1957 (0:36):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#emilyclip02').qtp('wfaudio17.mp4', '00:03:48.53:00', '00:04:24.05:00');
+				});
+			</script>
+		</div>
+		
+		<div id="emilyclip03" class="hidden hide_printer">
+			
+			<p> 15 April 1957 (0:36):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#emilyclip03').qtp('wfaudio17.mp4', '00:03:48.53:00', '00:04:24.05:00');
+				});
+			</script>
+		</div>
+		
+		<div id="emilyclip04" class="hidden hide_printer">
+			
+			<p>American Fiction Class, 27 April 1957 (0:36):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#emilyclip04').qtp('wfaudio09_2.mp4', '00:04:15.04:00', '00:05:30.36:00');
+				});
+			</script>
+		</div>
+		
+		<div id="emilyclip05" class="hidden hide_printer">
+			
+			<p> 11 March 1957 (0:36):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#emilyclip05').qtp('wfaudio17.mp4', '00:03:48.53:00', '00:04:24.05:00');
+				});
+			</script>
+		</div>
+		
+		
+		<div id="emilyclip06" class="hidden hide_printer">
+			
+			<p>13 March 1957 (0:36):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#emilyclip06').qtp('wfaudio17.mp4', '00:03:48.53:00', '00:04:24.05:00');
+				});
+			</script>
 		</div>
 
 	</media-content>
