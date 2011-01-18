@@ -91,10 +91,12 @@
 					<xs:choice maxOccurs="unbounded">
 						<xs:element ref="h4"/>
 						<xs:element ref="p"/>
+						<xs:element ref="div" />
 					</xs:choice>
 				</xs:sequence>
 			</xs:choice>
 			<xs:attribute name="id" use="required" type="xs:NCName"/>
+			<xs:attribute name="class" />
 			<xs:attribute name="title" use="required"/>
 		</xs:complexType>
 	</xs:element>
@@ -154,6 +156,7 @@
 				</xs:choice>
 				<xs:choice maxOccurs="unbounded">
 					<xs:element ref="br"/>
+					<xs:element ref="div" />
 					<xs:element ref="h3"/>
 					<xs:element ref="h4"/>
 					<xs:element ref="img"/>
@@ -164,7 +167,7 @@
 				<xs:element minOccurs="0" ref="script"/>
 			</xs:sequence>
 			<xs:attribute name="class"/>
-			<xs:attribute name="id" use="required" type="xs:NCName"/>
+			<xs:attribute name="id" type="xs:NCName"/>
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="h1" type="xs:string"/>

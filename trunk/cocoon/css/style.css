@@ -306,6 +306,38 @@ dd {
   PAGES/FEATURES/BROWSE
   ****************************************
  */
+ 
+ .clips {
+     clear: both;
+ }
+ 
+ .cover_image {
+     float: left;
+ }
+ 
+ .cover_image img {
+     width: 137px;
+     overflow: hidden;
+ }
+ 
+ .cover_image p {
+     text-align: center;
+     font-weight: bold;
+     font-size: smaller;
+     text-indent: 0;
+     width: 137px;
+ }
+ 
+ ul.clip_list {
+     float: left;
+ }
+ 
+ .clip_list li {
+     list-style: none;
+ }
+ 
+ 
+ 
 .page_toc {
     font-size:1.3em;
 }
