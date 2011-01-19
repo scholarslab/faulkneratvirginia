@@ -1766,25 +1766,6 @@
 
 	<page id="about" slug="About" title="About This Site">
 		
-		<section id="clips" title="Clips">
-			<h3>Clips Test</h3>
-			
-			<div class="clips">
-				<div class="cover_image">
-					<img src="blah.jpg" />
-					<p>First Edition Cover</p>
-				</div>
-				
-				<ul class="clip_list">
-					<li><a href="#">What does the title mean?</a></li>
-					<li><a href="#">Link 2</a></li>
-					<li><a href="#">Link 3</a></li>
-					<li><a href="#">Link 4</a></li>
-					<li><a href="#">Link 5</a></li>
-				</ul>
-			</div>
-			
-		</section>
 		
 		
 		<section id="credits" title="Credits">
@@ -1895,19 +1876,15 @@
 		<section id="selections" title="Selected Clips">
 			<h3>Selected Clips -- Example</h3>
 			<p>
-				Any introductory text for the page. 
+				<em>Below</em> are some of the questions Faulkner was asked about specific works.  By clicking on the play icons, you'll be able to hear them, and
+				his answers.  If you want to have a transcript to follow as you listen, you'll have to use the archive's BROWSE feature to go to the indicated
+				session.
 			</p>
 			
 			<div class="clips">
 				
-				<h4>&laquo;A Rose for Emily&raquo;</h4>
-				<p>Introductory text</p>
+				<h4>&ldquo;A Rose for Emily&rdquo;</h4>
 				
-				
-				<div class="cover_image">
-					<img src="flagscovert.jpg" />
-					<p>First Edition Cover</p>
-				</div>
 				
 				<ul class="clip_list">
 					<li>
@@ -1935,8 +1912,15 @@
 			
 			<div class="clips">
 				
-				<h4>Another Header</h4>
-				<p>Some explanatory text for this section</p>
+				<h4><em>Flags in the Dust</em></h4>
+				<p>This text was not published until 1973.  During Faulkner's residencies at Virginia, his first Yoknapatawpha novel was still being 
+					published as <em>Sartoris</em>, the shortened version of the manuscript that Faulkner's agent Ben Wasson prepared according to 
+				Harcourt, Brace &amp; Company's stipulations.</p>
+				
+				<div class="cover_image">
+					<img src="flagscovert.jpg" />
+					<p>First Edition Cover</p>
+				</div>
 				
 				<ul class="clip_list">
 					<li><a href="#clip"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Another thing</li>
