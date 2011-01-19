@@ -1923,7 +1923,24 @@
 				</div>
 				
 				<ul class="clip_list">
-					<li><a href="#clip"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Another thing</li>
+					<li><a href="#flagsclip01"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Best book to start with? (23 May 1958)</li>
+				
+					<li><a href="#flagsclip02"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Confederate reminiscences? (28 April 1958)</li>
+					<li><a href="#flagsclip03"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Missing generation of
+						Sartorises? (28 April 1958)</li>
+					<li><a href="#flagsclip04"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Old Man Falls' dialect? (6 May 1958)</li>
+					<li><a href="#flagsclip05"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Simon's character? (8 May 1958)</li>
+					<li><a href="#flagsclip06"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Col. Falkner &amp; Col.
+						Sartoris? (28 April 1958)</li>
+					<li><a href="#flagsclip07"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Byron Snopes &amp; Narcissa
+						Benbow? (28 April 1958)</li>
+					<li><a href="#flagsclip08"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Old Bayard's wen? (28 April 1958)</li>
+					<li><a href="#flagsclip09"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Old Bayard's longevity? (28 April 1958)</li>
+					<li><a href="#flagsclip10"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Young Bayard's cowardice?(28 April 1958)</li>
+					<li><a href="#flagsclip110"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> The Sartorises' future? (28 April 1958)</li>
+					
+					
+				
 				</ul>
 			</div>
 			
@@ -9697,6 +9714,127 @@
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
 				$('#emilyclip06').qtp('wfaudio05_1.mp4', '00:05:38.20:00', '00:09:44.39:00');
+				});
+			</script>
+		</div>
+		
+		<div id="flagsclip01" class="hidden hide_printer">
+			
+			<p>General Public, 23 May 1958 (0:34):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#flagsclip01').qtp('wfaudio32.mp4', '00:13:13.59:00', '00:13:47.22:00');
+				});
+			</script>
+		</div>
+		
+		<div id="flagsclip02" class="hidden hide_printer">
+			
+			<p>First Year English Class, 28 April 1958 (0:51):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#flagsclip02').qtp('wfaudio24_1.mp4', '00:04:31.46:00', '00:05:42.68:00');
+				});
+			</script>
+		</div>
+		
+		<div id="flagsclip03" class="hidden hide_printer">
+			
+			<p>First Year English Class, 28 April 1958 (1:39):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#flagsclip03').qtp('wfaudio24_1.mp4', '00:21:30.56:00', '00:23:37.00:00');
+				});
+			</script>
+		</div>
+		
+		<div id="flagsclip04" class="hidden hide_printer">
+			
+			<p><em>What's the Good Word</em>Radio Show, 6 May 1958 (0:46):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#flagsclip04').qtp('wfaudio27.mp4', '00:09:04.35:00', '00:09:50.16:00');
+				});
+			</script>
+		</div>
+		
+		<div id="flagsclip05" class="hidden hide_printer">
+			
+			<p>Combined Literature Classes, 8 May 1958 (0:37):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#flagsclip05').qtp('wfaudio32.mp4', '00:25:08.73:00', '00:25:48.33:00');
+				});
+			</script>
+		</div>
+		
+		<div id="flagsclip06" class="hidden hide_printer">
+			
+			<p>First Year English Class, 28 April 1958 (1:12):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#flagsclip06').qtp('wfaudio24_2.mp4', '00:04:31.46:00', '00:05:42.68:00');
+				});
+			</script>
+		</div>
+		
+		<div id="flagsclip07" class="hidden hide_printer">
+			
+			<p>First Year English Class, 28 April 1958 (1:07):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#flagsclip07').qtp('wfaudio24_1.mp4', '00:07:51.18:00', '00:08:58.44:00');
+				});
+			</script>
+		</div>
+		
+		<div id="flagsclip08" class="hidden hide_printer">
+			
+			<p>First Year English Class, 28 April 1958 (1:54):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#flagsclip08').qtp('wfaudio24_2.mp4', '00:00:39.42:00', '00:02:32.14:00');
+				});
+			</script>
+		</div>
+		
+		<div id="flagsclip09" class="hidden hide_printer">
+			
+			<p>First Year English Class, 28 April 1958 (0:22):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#flagsclip09').qtp('wfaudio24_2.mp4', '00:02:33.79:00', '00:02:57.32:00');
+				});
+			</script>
+		</div>
+		
+		<div id="flagsclip10" class="hidden hide_printer">
+			
+			<p>First Year English Class, 28 April 1958 (1:33):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#flagsclip10').qtp('wfaudio24_1.mp4', '00:13:05.94:00', '00:14:38.18:00');
+				});
+			</script>
+		</div>
+		
+		<div id="flagsclip11" class="hidden hide_printer">
+			
+			<p>First Year English Class, 28 April 1958 (2:53):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#flagsclip11').qtp('wfaudio24_2.mp4', '00:05:53.42:00', '00:07:46.13:00');
 				});
 			</script>
 		</div>
