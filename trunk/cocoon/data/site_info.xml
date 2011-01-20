@@ -1874,7 +1874,7 @@
 		
 		
 		<section id="selections" title="Selected Clips">
-			<h3>Selected Clips -- Example</h3>
+			<h3>Selected Clips</h3>
 			<p>
 				<em>Below</em> are some of the questions Faulkner was asked about specific works.  By clicking on the play icons, you'll be able to hear them, and
 				his answers.  If you want to have a transcript to follow as you listen, you'll have to use the archive's BROWSE feature to go to the indicated
@@ -1966,26 +1966,6 @@
 				
 			</div>
 			
-			
-			<!-- 
-			<h3 class="center">Selected Clips</h3>
-			<p> &nbsp; &nbsp; <strong>&ldquo;A Rose for Emily&rdquo;</strong><br />
-				<a href="#emilyclip01" class="inline">
-					<img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> What inspired the story? (20 May 1957)<br />
-				<a href="#emilyclip02" class="inline">
-					<img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> What did the story come from? (25 February 1957)<br />
-				<a href="#emilyclip03" class="inline">
-					<img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> What does the title mean? (15 April 1957)<br />
-				<a href="#emilyclip04" class="inline">
-					<img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Southern ideals seen in the story? (27 April 1957)<br />
-				<a href="#emilyclip05" class="inline">
-					<img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Conflict between North and South in the story? (11 March
-				1957)<br />
-				<a href="#emilyclip06" class="inline">
-					<img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Story as criticism of the time? (13 March 1957)<br />
-				
-			</p>
-			-->
 			
 		</section>
 		
@@ -9753,7 +9733,7 @@
 		
 		<div id="flagsclip02" class="hidden hide_printer">
 			
-			<p>First Year English Class, 28 April 1958 (0:51):</p>
+			<p>First Year English Class, 28 April 1958 (1:41):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
