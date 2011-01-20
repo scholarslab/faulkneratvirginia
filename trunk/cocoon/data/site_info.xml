@@ -1878,7 +1878,7 @@
 			<p>
 				<em>Below</em> are some of the questions Faulkner was asked about specific works.  By clicking on the play icons, you'll be able to hear them, and
 				his answers.  If you want to have a transcript to follow as you listen, you'll have to use the archive's BROWSE feature to go to the indicated
-				session.
+				session.<br />
 			</p>
 			
 			<div class="clips">
@@ -1906,15 +1906,15 @@
 					<li>
 						<a href="#emilyclip06" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Story as criticism of the time? (13 March 1957)
 					</li>
-				</ul>
+				</ul><br /><br />
 				
 			</div>
 			
 			<div class="clips">
 				
 				<h4><em>Flags in the Dust</em></h4>
-				<p>This text was not published until 1973.  During Faulkner's residencies at Virginia, his first Yoknapatawpha novel was still being 
-					published as <em>Sartoris</em>, the shortened version of the manuscript that Faulkner's agent Ben Wasson prepared according to 
+				<p>Faulkner was not asked any questions about a novel with this title, for the reason that this text was not published until 1973.  During Faulkner's residencies at Virginia, his first Yoknapatawpha novel was still being 
+					published as <em>Sartoris</em>, the title given to the shortened version of the <em>Flags</em> manuscript that Faulkner's agent Ben Wasson prepared according to 
 				Harcourt, Brace &amp; Company's stipulations.</p>
 				
 				<div class="cover_image">
@@ -9735,7 +9735,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#flagsclip02').qtp('wfaudio24_1.mp4', '00:04:31.46:00', '00:05:42.68:00');
+				$('#flagsclip02').qtp('wfaudio24_1.mp4', '00:03:34.45:00', '00:05:17.45:00');
 				});
 			</script>
 		</div>
@@ -9753,7 +9753,7 @@
 		
 		<div id="flagsclip04" class="hidden hide_printer">
 			
-			<p><em>What's the Good Word</em>Radio Show, 6 May 1958 (0:46):</p>
+			<p><em>What's the Good Word</em> Radio Show, 6 May 1958 (0:46):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
@@ -9764,11 +9764,11 @@
 		
 		<div id="flagsclip05" class="hidden hide_printer">
 			
-			<p>Combined Literature Classes, 8 May 1958 (0:37):</p>
+			<p>Combined Literature Classes, 8 May 1958 (0:40):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#flagsclip05').qtp('wfaudio32.mp4', '00:25:08.73:00', '00:25:48.33:00');
+				$('#flagsclip05').qtp('wfaudio29_1.mp4', '00:25:08.73:00', '00:25:48.33:00');
 				});
 			</script>
 		</div>
