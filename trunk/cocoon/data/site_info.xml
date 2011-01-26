@@ -1968,7 +1968,120 @@
 				
 			</div>
 			
+			<div class="clips">
+				
+				<h4><strong>The Sound and the Fury</strong></h4>
+				
+				<p>Published by Jonathan Cape and Harrison Smith in 1929, this is one of Faulkner's most difficult 
+					novels.  It was one of the books he was asked the most questions about.  He began his last UVA session, 23 May 1958, by  
+					reading a ten-minute excerpt from its last section  <a href="#specialclip01" class="inline">
+						<img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/>
+					</a> .</p>
+				
+				<div class="cover_image">
+					<img src="flagscovert.jpg" />
+					<p>First Edition Cover</p>
+				</div>
+				
+				<ul class="clip_list">
+					<li>
+						<a href="#furyclip01" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" 
+							title="Play Clip"/></a> Which book do you consider your best? (13 April 1957)
+					</li>
+					
+					<li>
+						<a href="#furyclip02" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" 
+							title="Play Clip"/></a> Why doesn't Caddy have her own section? (15 February 1957)
+					</li>
+					
+					<li>
+						<a href="#furyclip03" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" 
+							title="Play Clip"/></a> How should we feel about Caddy? (15 February 1957)
+					</li>
+					
+					<li>
+						<a href="#furyclip04" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" 
+							title="Play Clip"/></a> Why do you feel so strongly about Caddy? (2 May 1958)
+					</li>
+					
+					<li>
+						<a href="#furyclip05" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" 
+							title="Play Clip"/></a> Why does the novel include so many italics and so little grammar? (27 April 1957)
+					</li>
+					
+					<li>
+						<a href="#furyclip06" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" 
+							title="Play Clip"/></a> Did Quentin really talk to his father about committing incest? (2 May 1958)
+					</li>
+					
+					<li>
+						<a href="#furyclip07" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" 
+							title="Play Clip"/></a> How do Quentin and Dilsey approach time? (2 May 1958)
+					</li>
+					
+					<li>
+						<a href="#furyclip08" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" 
+							title="Play Clip"/></a> What do the shadows in Quentin's section signify? (15 February 1957)
+					</li>
+					
+					<li>
+						<a href="#furyclip09" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" 
+							title="Play Clip"/></a> What is the significance of the novel's dates? (13 March 1957)
+					</li>
+					
+					<li>
+						<a href="#furyclip10" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" 
+							title="Play Clip"/></a> What is the significance of the Easter service? (2 May 1958)
+					</li>
+					
+					<li>
+						<a href="#furyclip11" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" 
+							title="Play Clip"/></a> What does Dilsey mean by &ldquo;the first and the last&rdquo;? (2 May 1958)
+					</li>
+					
+					<li>
+						<a href="#furyclip12" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" 
+							title="Play Clip"/></a> Do T.P. and Versh's names stand for anything? (2 May 1958)
+					</li>
+					
+					<li>
+						<a href="#furyclip13" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" 
+							title="Play Clip"/></a> What role does Mr. Compson play in Quentin's life? (15 February 1957)
+					</li>
+					
+					<li>
+						<a href="#furyclip14" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" 
+							title="Play Clip"/></a> What is Jason's role in Miss Quentin's story? (2 May 1958)
+					</li>
+					
+					<li>
+						<a href="#furyclip15" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" 
+							title="Play Clip"/></a> Which people are doomed? (2 May 1958)
+					</li>
+					
+					<li>
+						<a href="#furyclip16" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" 
+							title="Play Clip"/></a> Does this novel really suggest &ldquo;man will prevail&rdquo;? (15 February 1957)
+					</li>
+					
+					<li>
+						<a href="#furyclip17" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" 
+							title="Play Clip"/></a> Who will prevail? (15 February 1957; the one time on the tapes Faulkner laughs)
+					</li>
+					
+					<li>
+						<a href="#furyclip18" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" 
+							title="Play Clip"/></a> How are your old southern families flawed? (26 February 1958)
+					</li>
+					
+					<li>
+						<a href="#furyclip19" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" 
+							title="Play Clip"/></a> Is Jason a bastard? (15 April 1957)
+					</li>
+					
+				</ul>
 			
+			</div>
 		</section>
 		
 
@@ -9839,6 +9952,206 @@
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
 				$('#flagsclip11').qtp('wfaudio24_2.mp4', '00:05:53.42:00', '00:07:46.13:00');
+				});
+			</script>
+		</div>
+		
+		<div id="specialclip01" class="hidden hide_printer">
+			<p>Faulkner Reading from <em>The Sound and the Fury</em>, 23 May 1958 (9:43):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#specialclip01').qtp('wfaudio32read.mp4', '00:03:07.65:00', '00:12:50.18:00');
+				});
+			</script>
+		</div>
+		
+		<div id="furyclip01" class="hidden hide_printer">
+			<p>Combined Literature Classes, 13 April 1957 (1:38):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#furyclip01').qtp('wfaudio06_1.mp4', '00:29:05.80:00', '00:30:43.34:00');
+				});
+			</script>
+		</div>
+		
+		<div id="furyclip02" class="hidden hide_printer">
+			<p>Graduate Fiction Class, 15 February 1957 (1:23):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#furyclip02').qtp('wfaudio01_1.mp4', '00:05:49.16:00', '00:07:12.76:00');
+				});
+			</script>
+		</div>
+		
+		<div id="furyclip03" class="hidden hide_printer">
+			<p>Graduate Fiction Class, 15 February 1957 (1:02):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#furyclip03').qtp('wfaudio01_1.mp4', '00:38:07.75:00', '00:39:10.90:00');
+				});
+			</script>
+		</div>
+		
+		<div id="furyclip04" class="hidden hide_printer">
+			<p>Combined Writing &amp; Literature Classes, 2 May 1958 (1:07):</p>
+				
+				<script language="JavaScript" type="text/javascript">
+					$(document).ready(function(){
+					$('#furyclip04').qtp('wfaudio26_2.mp4', '00:01:20.76:00', '00:02:27.02:00');
+					});
+				</script>
+		</div>
+		
+		<div id="furyclip05" class="hidden hide_printer">
+			<p>Combined Literature Classes, 27 April 1957 (2:08):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#furyclip05').qtp('wfaudio09_1.mp4', '00:18:31.88:00', '00:20:39.83:00');
+				});
+			</script>
+		</div>
+		
+		<div id="furyclip06" class="hidden hide_printer">
+			<p>Combined Writing &amp; Literature Classes, 2 May 1958 (1:21):</p>
+				
+				<script language="JavaScript" type="text/javascript">
+					$(document).ready(function(){
+					$('#furyclip06').qtp('wfaudio26_1_2.mp4', '00:00:00.82:00', '00:01:21.16:00');
+					});
+				</script>
+		</div>
+		
+		<div id="furyclip07" class="hidden hide_printer">
+			<p>Combined Writing &amp; Literature Classes, 2 May 1958 (2:50):</p>
+				
+				<script language="JavaScript" type="text/javascript">
+					$(document).ready(function(){
+					$('#furyclip07').qtp('wfaudio26_1.mp4', '00:27:21.81:00', '00:30:11.90:00');
+					});
+				</script>
+		</div>
+		
+		<div id="furyclip08" class="hidden hide_printer">
+			<p>Graduate Fiction Class, 15 February 1957 (1:02):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#furyclip08').qtp('wfaudio01_1.mp4', '00:10:51.09:00', '00:11:53.02:00');
+				});
+			</script>
+		</div>
+		
+		<div id="furyclip09" class="hidden hide_printer">
+			<p>Undergraduate Literature Class, 13 March 1957 (0:33):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#furyclip09').qtp('wfaudio05_2.mp4', '00:08:42.45:00', '00:09:15.40:00');
+				});
+			</script>
+		</div>
+		
+		<div id="furyclip10" class="hidden hide_printer">
+			<p>Combined Writing &amp; Literature Classes, 2 May 1958 (1:27):</p>
+				
+				<script language="JavaScript" type="text/javascript">
+					$(document).ready(function(){
+					$('#furyclip10').qtp('wfaudio26_1.mp4', '00:22:52.32:00', '00:24:19.30:00');
+					});
+				</script>
+		</div>
+		
+		<div id="furyclip11" class="hidden hide_printer">
+			<p>Combined Writing &amp; Literature Classes, 2 May 1958 (0:41):</p>
+				
+				<script language="JavaScript" type="text/javascript">
+					$(document).ready(function(){
+					$('#furyclip11').qtp('wfaudio26_1.mp4', '00:24:19.31:00', '00:25:01.63:00');
+					});
+				</script>
+		</div>
+		
+		<div id="furyclip12" class="hidden hide_printer">
+			<p>Combined Writing &amp; Literature Classes, 2 May 1958 (0:27):</p>
+				
+				<script language="JavaScript" type="text/javascript">
+					$(document).ready(function(){
+					$('#furyclip12').qtp('wfaudio26_1.mp4', '00:20:25.53:00', '00:20:52.71:00');
+					});
+				</script>
+		</div>
+		
+		<div id="furyclip13" class="hidden hide_printer">
+			<p>Graduate Fiction Class, 15 February 1957 (1:42):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#furyclip13').qtp('wfaudio01_1.mp4', '00:15:02.52:00', '00:16:45.12:00');
+				});
+			</script>
+		</div>
+		
+		<div id="furyclip14" class="hidden hide_printer">
+			<p>Combined Writing &amp; Literature Classes, 2 May 1958 (1:32):</p>
+				
+				<script language="JavaScript" type="text/javascript">
+					$(document).ready(function(){
+					$('#furyclip14').qtp('wfaudio26_1.mp4', '00:17:13.71:00', '00:18:45.73:00');
+					});
+				</script>
+		</div>
+		
+		<div id="furyclip15" class="hidden hide_printer">
+			<p>Combined Writing &amp; Literature Classes, 2 May 1958 (1:00):</p>
+				
+				<script language="JavaScript" type="text/javascript">
+					$(document).ready(function(){
+					$('#furyclip15').qtp('wfaudio26_2.mp4', '00:23:22.05:00', '00:24:22.32:00');
+					});
+				</script>
+		</div>
+		
+		<div id="furyclip16" class="hidden hide_printer">
+			<p>Graduate Fiction Class, 15 February 1957 (1:09):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#furyclip16').qtp('wfaudio01_1.mp4', '00:31:15.98:00', '00:32:24.09:00');
+				});
+			</script>
+		</div>
+		
+		<div id="furyclip17" class="hidden hide_printer">
+			<p>Graduate Fiction Class, 15 February 1957 (1:15):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#furyclip17').qtp('wfaudio01_1.mp4', '00:34:04.99:00', '00:35:19.36:00');
+				});
+			</script>
+		</div>
+		
+		<div id="furyclip18" class="hidden hide_printer">
+			<p>Undergraduate Writing Class, 26 February 1958 (1:15):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#furyclip18').qtp('wfaudio22_1_2.mp4', '00:00:00.10:00', '00:01:14.50:00');
+				});
+			</script>
+		</div>
+		
+		<div id="furyclip19" class="hidden hide_printer">
+			<p>Virginia Colleges Conference, 15 April 1957  (0:25):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#furyclip19').qtp('wfaudio07_2.mp4', '00:01:57.49:00', '00:02:22.62:00');
 				});
 			</script>
 		</div>
