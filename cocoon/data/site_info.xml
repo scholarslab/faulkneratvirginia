@@ -2084,6 +2084,62 @@
 				</ul>
 			
 			</div>
+			
+			<div class="clips">
+				
+				<h4><em>As I Lay Dying</em></h4>
+				<p>This novel was published by Jonathan Cape and Harrison Smith in the fall, 1930.  Many of the best questions Faulkner was asked about it by UVA audiences were on the tapes that have been lost; you can read what he said in answer to them in the book <em>Faulkner in the University</em>.  Here is a sampling of his comments on the novel that you can hear in this archive.</p>
+				
+				<div class="cover_image">
+					<img src="asicovert.jpg" />
+					<p>First Edition Cover</p>
+				</div>
+				
+				<ul class="clip_list">
+					
+					<li>
+						<a href="#dyingclip01" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> The novel as a
+						&ldquo;tour de force.&rdquo;  (30 May 1957)
+					</li>	
+					
+					<li>
+						<a href="#dyingclip02" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> How similar are the Compson and Bundren families? (5 June 1957)
+					</li>	
+					
+					<li>
+						<a href="#dyingclip03" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Are the novel&rsquo;s 13 characters separate parts of one man? (15 April 1957)
+					</li>	
+					
+					<li>
+						<a href="#dyingclip04" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Why is Anse so shiftless? (24 April 1958)
+					</li>	
+					
+					<li>
+						<a href="#dyingclip05" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Which of Addie&rsquo;s children loved her the most? (2 May 1958)
+					</li>	
+					
+					<li>
+						<a href="#dyingclip06" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> What is the significance of Vardaman&rsquo;s fish? (2 May 1957)
+					</li>	
+					
+					<li>
+						<a href="#dyingclip07" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> What is the significance of [Cash&rsquo;s] broken leg? (5 June 1957)
+					</li>
+					
+					<li>
+						<a href="#dyingclip08" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> What made Darl act as he did? (2 May 1957)
+					</li>	
+					
+					<li>
+						<a href="#dyingclip09" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Why do you select such unusual characters? (7 May 1958)
+					</li>	
+					
+					<li>
+						<a href="#dyingclip10" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Why do you use childlike characters like Benjy and children like Vardaman? (13 May 1957)
+					</li>	
+					
+				</ul>
+			</div>
 		</section>
 		
 
@@ -10179,6 +10235,108 @@
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
 				$('#furyclip19').qtp('wfaudio07_2.mp4', '00:01:57.49:00', '00:02:22.62:00');
+				});
+			</script>
+		</div>
+		
+		<div id="dyingclip01" class="hidden hide_printer">
+			<p>Local &amp; UVA Communities, 30 May 1957  (1:28):<br />
+				(Unfortunately the question here is inaudible, but Faulkner's answer, containing echoes of his famous Nobel Prize speech, is worth waiting for.)</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#dyingclip01').qtp('wfaudio18_2.mp4', '00:24:59.99:00', '00:26:27.47:00');
+				});
+			</script>
+		</div>
+		
+		<div id="dyingclip02" class="hidden hide_printer">
+			<p>Local &amp; UVA Communities, 5 June 1957  (1:22):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#dyingclip02').qtp('wfaudio19_2.mp4', '00:19:55.01:00', '00:21:17.30:00');
+				});
+			</script>
+		</div>
+		
+		<div id="dyingclip03" class="hidden hide_printer">
+			<p>Virginia Colleges Conference, 15 April 1957  (1:56):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#dyingclip03').qtp('wfaudio.mp4', '00:19:18.38:00', '00:20:14.87:00');
+				});
+			</script>
+		</div>
+		
+		<div id="dyingclip04" class="hidden hide_printer">
+			<p>Undergraduate Writing Class, 24 April 1958  (1:15):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#dyingclip04').qtp('wfaudio23_1.mp4', '00:10:55.95:00', '00:12:10.41:00');
+				});
+			</script>
+		</div>
+		
+		<div id="dyingclip05" class="hidden hide_printer">
+			<p>Combined Classes, 2 May 1958  (0:55):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#dyingclip05').qtp('wfaudio26_1.mp4', '00:20:54.66:00', '00:21:49.02:00');
+				});
+			</script>
+		</div>
+		
+		<div id="dyingclip06" class="hidden hide_printer">
+			<p>Combined Classes, 2 May 1958  (1:07):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#dyingclip06').qtp('wfaudio26_1.mp4', '00:25:01.64:00', '00:26:08.43:00');
+				});
+			</script>
+		</div>
+		
+		<div id="dyingclip07" class="hidden hide_printer">
+			<p>Local &amp; UVA Communities, 5 June 1957  (0:00):<br />
+				(The first part of this clip is about castration in <em>The Sound and the Fury</em>.  The rest of answer here is based on a misunderstanding of the question, which is about Quentin's broken leg in the earlier novel.  When Frederick Gwynn assumes the leg in question in Cash's, Faulkner gives us another insight into <em>As I Lay Dying</em>, and a great phrase &ndash; "this completely foolish hegira" &ndash; to sum up the Bundren's journey.)</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#dyingclip07').qtp('wfaudio19_2.mp4', ':00', ':00');
+				});
+			</script>
+		</div>
+		
+		<div id="dyingclip08" class="hidden hide_printer">
+			<p>Combined Classes, 2 May 1958  (0:00):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#dyingclip08').qtp('wfaudio26_2.mp4', '00:08:10.68:00', '00:09:27.75:00');
+				});
+			</script>
+		</div>
+		
+		<div id="dyingclip09" class="hidden hide_printer">
+			<p>Department of Psychiatry, 7 May 1958 (2:24):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#dyingclip09').qtp('wfaudio28_1.mp4', '00:00:46.82:00', '00:03:10.79:00');
+				});
+			</script>
+		</div>
+		
+		<div id="dyingclip10" class="hidden hide_printer">
+			<p>English Department Faculty &amp; Wives, 13 May 1957  (4:29):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#dyingclip10').qtp('wfaudio.mp4', '00:21:32.73:00', '00:25:01.58:00');
 				});
 			</script>
 		</div>
