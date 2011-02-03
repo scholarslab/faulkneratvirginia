@@ -10265,7 +10265,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#dyingclip03').qtp('wfaudio.mp4', '00:19:18.38:00', '00:20:14.87:00');
+				$('#dyingclip03').qtp('wfaudio07_2.mp4', '00:19:18.38:00', '00:20:14.87:00');
 				});
 			</script>
 		</div>
@@ -10301,18 +10301,18 @@
 		</div>
 		
 		<div id="dyingclip07" class="hidden hide_printer">
-			<p>Local &amp; UVA Communities, 5 June 1957  (0:00):<br />
+			<p>Local &amp; UVA Communities, 5 June 1957  (2:29):<br />
 				(The first part of this clip is about castration in <em>The Sound and the Fury</em>.  The rest of answer here is based on a misunderstanding of the question, which is about Quentin's broken leg in the earlier novel.  When Frederick Gwynn assumes the leg in question in Cash's, Faulkner gives us another insight into <em>As I Lay Dying</em>, and a great phrase &ndash; "this completely foolish hegira" &ndash; to sum up the Bundren's journey.)</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#dyingclip07').qtp('wfaudio19_2.mp4', ':00', ':00');
+				$('#dyingclip07').qtp('wfaudio19_2.mp4', '00:17:16.23:00', '00:19:55.19:00');
 				});
 			</script>
 		</div>
 		
 		<div id="dyingclip08" class="hidden hide_printer">
-			<p>Combined Classes, 2 May 1958  (0:00):</p>
+			<p>Combined Classes, 2 May 1958  (1:14):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
@@ -10336,7 +10336,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#dyingclip10').qtp('wfaudio.mp4', '00:21:32.73:00', '00:25:01.58:00');
+				$('#dyingclip10').qtp('wfaudio13.mp4', '00:21:32.73:00', '00:25:01.58:00');
 				});
 			</script>
 		</div>
