@@ -92,6 +92,7 @@
 						<xs:element ref="h4"/>
 						<xs:element ref="p"/>
 						<xs:element ref="div" />
+						<xs:element ref="hr" />
 					</xs:choice>
 				</xs:sequence>
 			</xs:choice>
@@ -128,6 +129,11 @@
 			</xs:choice>
 			<xs:attribute name="align" type="xs:NCName"/>
 			<xs:attribute name="class" type="xs:NCName"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="hr">
+		<xs:complexType>
+			<xs:attribute name="class" />
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="b" type="xs:string"/>
