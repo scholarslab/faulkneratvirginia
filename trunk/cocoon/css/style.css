@@ -311,6 +311,10 @@ dd {
      clear: both;
  }
  
+ hr {
+     clear: both;
+ }
+ 
  .cover_image {
      float: left;
  }
