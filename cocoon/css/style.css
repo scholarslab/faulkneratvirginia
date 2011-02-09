@@ -336,6 +336,7 @@ dd {
      float: left;
      padding: 0;
      margin: 0 0 0 20px;
+     padding: 0 0 20px 0;
  }
  
  .clip_list li {
