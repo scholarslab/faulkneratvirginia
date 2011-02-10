@@ -2143,6 +2143,27 @@
 				
 			</div>
 			
+			<hr />
+			<div class="clips">
+				
+				<h4>&ldquo;Shingles for the Lord&rdquo;</h4>
+				
+				<p>This story was first published in <em>The Saturday Evening Post</em>, 13 February 1943.  Faulkner read it twice during his first Spring term as
+			Writer-in-Residence: on 15 April 1957 to an audience of people from other Virginia colleges, and on 25 April to an audience at Mary Washington
+					College.  The second reading is a bit shorter and livelier; both can be accessed from the archive&rsquo;s BROWSE page.  After these readings he was asked only one
+					question about the story:</p>
+				
+				<ul class="clip_list">
+					<li>
+						<a href="#shinglesclip01" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> How true to
+						life is this story? (15 April1957)
+					</li>	
+		
+				</ul>
+				
+				
+			</div>
+			
 			<hr/>
 		</section>
 		
@@ -10341,6 +10362,16 @@
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
 				$('#dyingclip10').qtp('wfaudio13.mp4', '00:21:32.73:00', '00:25:01.58:00');
+				});
+			</script>
+		</div>
+		
+		<div id="shinglesclip01" class="hidden hide_printer">
+			<p>Virginia Colleges Conference, 15 April 1957  (0:43):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#shinglesclip01').qtp('wfaudio07_1.mp4', '00:27:14.44:00', '00:27:56.67:00');
 				});
 			</script>
 		</div>
