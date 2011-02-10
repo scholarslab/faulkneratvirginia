@@ -2146,6 +2146,35 @@
 			<hr />
 			<div class="clips">
 				
+				<h4>&ldquo;That Evening Sun&rdquo;</h4>
+				
+				<p>Originally titled &ldquo;That Evening Sun Go Down&rdquo; (which made the connection W.C. Handy&rsquo;s song, &ldquo;St. Louis Blues,&rdquo; 
+					still more overt), this story was first published in the <em>American Mercury</em> magazine, March 1931.</p>
+				
+				<ul class="clip_list">
+					
+					<li>
+						<a href="#eveningclip01" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> What is the
+						relationship between the story and The Sound and the Fury? (15 February1957)
+					</li>
+					
+					<li>
+						<a href="#eveningclip02" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Why did you name
+						the character &ldquo;Jesus&rdquo;? (25 February 1957)
+					</li>	
+					<li>
+						<a href="#eveningclip03" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Would you discuss your use
+						 of Quentin as a child narrator? (6 May 1958)
+					</li>	
+					
+				</ul>
+				
+				
+			</div>
+			
+			<hr />
+			<div class="clips">
+				
 				<h4>&ldquo;Shingles for the Lord&rdquo;</h4>
 				
 				<p>This story was first published in <em>The Saturday Evening Post</em>, 13 February 1943.  Faulkner read it twice during his first Spring term as
@@ -10362,6 +10391,37 @@
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
 				$('#dyingclip10').qtp('wfaudio13.mp4', '00:21:32.73:00', '00:25:01.58:00');
+				});
+			</script>
+		</div>
+		
+		<div id="eveningclip01" class="hidden hide_printer">
+			<p>Gwynn's literature class, 15 February 1957  (1:17):<br />
+			This is the first question Faulkner was asked at UVA; the asker is Frederick Gwynn.</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#eveningclip01').qtp('wfaudio01_1.mp4', '00:01:29.65:00', '00:02:45.91:00');
+				});
+			</script>
+		</div>
+		
+		<div id="eveningclip02" class="hidden hide_printer">
+			<p>Coleman's Writing Class, 25 February 1957  (0:48):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#eveningclip02').qtp('wfaudio01_2.mp4', '00:15:39.10:00', '00:16:27.24:00');
+				});
+			</script>
+		</div>
+		
+		<div id="eveningclip03" class="hidden hide_printer">
+			<p>What's the Good Word Radio Program, 6 May 1958  (1:24):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#eveningclip03').qtp('wfaudio27.mp4', '00:16:39.17:00', '00:18:03.37:00');
 				});
 			</script>
 		</div>
