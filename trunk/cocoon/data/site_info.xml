@@ -327,10 +327,9 @@
 					second Spring semester in &ldquo;Residence&rdquo; by delivering &ldquo;A Word to Virginians,&rdquo; a nine-minute
 					speech urging them to help solve rather than exacerbate the growing crisis over court-ordered integration in the Jim Crow South.
 					To 21st century listeners, his exhortations may sound more like temporizings, but at the time they were controversial, and to some
-					in his immediate audience, as you can hear for yourself, unacceptable. (Six months after Faulkner&rsquo;s speech,
-					Charlottesville reacted to a federal judge&rsquo;s integration order not by standing in the doorway barring black students
-					from entering the previously white schools but, with the blessing of the state government, by shutting down the public school
-					system for a year.)</p>
+					in his immediate audience, as you can hear for yourself, unacceptable.  (The Virginia Faulkner was addressing had already decided on a strategy 
+				of &ldquo;Massive Resistance&rdquo; to court-ordered integration, which resulted, later in 1958, in two Charlottesville public schools being closed for five
+					months to prevent twelve black students from entering them.)</p>
 
 				<h3 class="center">The Recordings</h3>
 
@@ -1848,6 +1847,7 @@
 				<strong>Ann Thomas Moore</strong>, UVA &rsquo;58<br/>
 				<strong>Donna Packard</strong>, Academic &amp; Professional Services<br/>
 				<strong>Ken Ringle</strong>, UVA &rsquo;61<br/>
+				<strong>Michael Salmonowicz</strong>, Curry School of Education<br/>
 				<strong>Robert Scholes</strong>, Brown University<br/>
 				<strong>Lloyd T. Smith</strong>, UVA &rsquo;55, &rsquo;60<br/>
 				<strong>Beth Sutton</strong>, Farmington Hunt Club </p>
@@ -10092,7 +10092,7 @@
 				
 				<script language="JavaScript" type="text/javascript">
 					$(document).ready(function(){
-					$('#furyclip06').qtp('wfaudio26_1_2.mp4', '00:00:00.82:00', '00:01:21.16:00');
+					$('#furyclip06').qtp('wfaudio26_1_2clip.mp4', '00:00:00.82:00', '00:01:21.16:00');
 					});
 				</script>
 		</div>
@@ -10227,7 +10227,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#furyclip18').qtp('wfaudio22_1_2.mp4', '00:00:00.10:00', '00:01:14.50:00');
+				$('#furyclip18').qtp('wfaudio22_1_2clip.mp4', '00:00:00.10:00', '00:01:14.50:00');
 				});
 			</script>
 		</div>
