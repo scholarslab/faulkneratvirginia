@@ -2161,8 +2161,52 @@
 				<ul class="clip_list">
 					
 					<li>
-						<a href="#lightclip01" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> The novel as a
-						&ldquo;tour de force.&rdquo;  (30 May 1957)
+						<a href="#lightclip01" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a>  What does the
+						title mean (1)?  (6 May 1958)
+					</li>
+					<li>
+						<a href="#lightclip02" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a>  What does the
+						title mean (2)?  (27 April 1957)
+					</li>
+					<li>
+						<a href="#lightclip03" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a>  Lena as a pagan
+						character.  (30 May 1957)
+					</li>
+					<li>
+						<a href="#lightclip04" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a>  What did this
+						story beging with?  (13 April 1957)
+					</li>
+					<li>
+						<a href="#lightclip05" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a>  Is Joe Christmas a
+						Christ figure? (27 April 1957)
+					</li>
+					<li>
+						<a href="#lightclip06" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a>  Is Christmas an
+						Oedipus figure?  (13 April 1957)
+					</li>
+					<li>
+						<a href="#lightclip07" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a>  Was Christmas part
+						&ldquo;Negro&rdquo;?  (13 April 1957)
+					</li>
+					<li>
+						<a href="#lightclip08" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a>  What about Gavin
+						Stevens&rsquo; racial explanation?  (13 April 1957)
+					</li>
+					<li>
+						<a href="#lightclip09" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a>  Does Hightower
+						achieve salvation at the end?  (13 April 1957)
+					</li>
+					<li>
+						<a href="#lightclip10" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a>  Why do you tell
+						this story in the present tense?  (13 April 1957)
+					</li>
+					<li>
+						<a href="#lightclip11" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a>  Does the novel
+						argue that life is inevitably tragic?  (27 April 1957)
+					</li>
+					<li>
+						<a href="#lightclip12" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a>  Are all the
+						characters looking for love?  (27 April 1957)
 					</li>
 				</ul>
 			</div>	
@@ -10389,10 +10433,6 @@
 			</script>
 		</div>
 		
-		
-		
-		
-		
 		<div id="dyingclip01" class="hidden hide_printer">
 			<p>Local &amp; UVA Communities, 30 May 1957  (1:28):<br />
 				(Unfortunately the question here is inaudible, but Faulkner's answer, containing echoes of his famous Nobel Prize speech, is worth waiting for.)</p>
@@ -10495,6 +10535,127 @@
 			</script>
 		</div>
 		
+		<div id="lightclip01" class="hidden hide_printer">
+			<p>What's the Good Word Radio Program, 6 May 1958 (0:56):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#lightclip01').qtp('wfaudio27.mp4', '00:03:55.97:00', '00:04:51.40:00');
+				});
+			</script>
+		</div>	
+		
+		<div id="lightclip02" class="hidden hide_printer">
+			<p>Combined Classes, 27 April 1957  (0:55):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#lightclip02').qtp('wfaudio09_2.mp4', '00:03:16.33:00', '00:04:11.09:00');
+				});
+			</script>
+		</div>	
+		
+		<div id="lightclip03" class="hidden hide_printer">
+			<p>Local &amp; UVA Communities, 30 May 1957  (1:16):<br/>
+			(The question and the beginning of Faulkner's answer weren't recorded.)</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#lightclip03').qtp('wfaudio18_3.mp4', '00:00:03.11:00', '00:01:19.54:00');
+				});
+			</script>
+		</div>	
+		
+		<div id="lightclip04" class="hidden hide_printer">
+			<p>Combined Classes, 13 April 1957  (1:05):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#lightclip04').qtp('wfaudio06_1.mp4', '00:15:07.28:00', '00:16:12.38:00');
+				});
+			</script>
+		</div>	
+		
+		<div id="lightclip05" class="hidden hide_printer">
+			<p>Combined Classes, 27 April 1957  (0:59):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#lightclip05').qtp('wfaudio09_1.mp4', '00:00:31.93:00', '00:01:30.42:00');
+				});
+			</script>
+		</div>	
+		
+		<div id="lightclip06" class="hidden hide_printer">
+			<p>Combined Classes, 13 April 1957  (0:51):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#lightclip06').qtp('wfaudio06_1.mp4', '00:08:39.97:00', '00:09:30.87:00');
+				});
+			</script>
+		</div>	
+		
+		<div id="lightclip07" class="hidden hide_printer">
+			<p>Combined Classes, 13 April 1957  (1:02):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#lightclip07').qtp('wfaudio06_1.mp4', '00:05:00.79:00', '00:06:02.22:00');
+				});
+			</script>
+		</div>	
+		
+		<div id="lightclip08" class="hidden hide_printer">
+			<p>Combined Classes, 13 April 1957  (0:46):<br/>
+			(This question immediately follows the previous answer.)</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#lightclip08').qtp('wfaudio06_1.mp4', '00:06:08.95:00', '00:06:54.05:00');
+				});
+			</script>
+		</div>	
+		
+		<div id="lightclip09" class="hidden hide_printer">
+			<p>Combined Classes, 13 April 1957  (1:08):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#lightclip09').qtp('wfaudio06_1.mp4', '00:22:49.70:00', '00:23:57.05:00');
+				});
+			</script>
+		</div>	
+		
+		<div id="lightclip10" class="hidden hide_printer">
+			<p>Combined Classes, 13 April 1957  (1:02):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#lightclip10').qtp('wfaudio06_1.mp4', '00:30:46.61:00', '00:31:48.13:00');
+				});
+			</script>
+		</div>	
+		
+		<div id="lightclip11" class="hidden hide_printer">
+			<p>Combined Classes, 27 April 1957  (0:47):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#lightclip11').qtp('wfaudio09_1.mp4', '00:30:12.22:00', '00:30:59.75:00');
+				});
+			</script>
+		</div>	
+		
+		<div id="lightclip12" class="hidden hide_printer">
+			<p>Combined Classes, 27 April 1957  (1:47):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#lightclip12').qtp('wfaudio09_1.mp4', '00:21:45.82:00', '00:23:32.41:00');
+				});
+			</script>
+		</div>	
 		<div id="eveningclip01" class="hidden hide_printer">
 			<p>Gwynn's literature class, 15 February 1957  (1:17):<br />
 			This is the first question Faulkner was asked at UVA; the asker is Frederick Gwynn.</p>
