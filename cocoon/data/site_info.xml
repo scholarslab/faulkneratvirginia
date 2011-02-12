@@ -2111,6 +2111,60 @@
 					
 				</ul>
 			</div>
+			
+			<hr />
+			<div class="clips">
+				
+				<h4><em>Sanctuary</em></h4>
+				<p>This novel was published by Jonathan Cape and Harrison Smith in February, 1931.  Faulkner told the story about its composition you can hear on
+					the first clip to half a dozen different audiences at Virginia.  While you can&rsquo;t believe everything he says, apparently he did write a
+					version of a book before writing <em>As I Lay Dying</em>, which he revised in late 1930.</p>
+				
+				<div class="cover_image">
+					<img src="santcover.jpg" />
+					<p>First Edition Cover</p>
+				</div>
+				
+				<ul class="clip_list">
+					
+					<li>
+						<a href="#sanctuaryclip01" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a>  How was the
+						novel written?  (27 April 1957)
+					</li>
+					<li>
+						<a href="#sanctuaryclip02" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a>  Is the novel
+						about &ldquo;the rape of the South&rdquo;?  (15 April 1957)
+					</li>
+					<li>
+						<a href="#sanctuaryclip03" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a>  Does the
+						character of Popeye symbolize modern evil?  (13 April 1957)
+					</li>
+					<li>
+						<a href="#sanctuaryclip04" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a>  Why does
+						Narcissa&rsquo;s character change between Sartoris and Sanctuary?  (15 February 1957)
+					</li>
+				</ul>
+			</div>	
+			
+			<hr />
+			<div class="clips">
+				
+				<h4><em>Light in August</em></h4>
+				<p>This novel was published by Harrison Smith and Robert Haas in October, 1932. </p>
+				<div class="cover_image">
+					<img src="lightcovert.jpg" />
+					<p>First Edition Cover</p>
+				</div>
+				
+				<ul class="clip_list">
+					
+					<li>
+						<a href="#lightclip01" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> The novel as a
+						&ldquo;tour de force.&rdquo;  (30 May 1957)
+					</li>
+				</ul>
+			</div>	
+			
 			<hr />
 			<div class="clips">
 				
@@ -10292,6 +10346,50 @@
 				});
 			</script>
 		</div>
+		
+		<div id="sanctuaryclip01" class="hidden hide_printer">
+			<p>Combined Classes, 27 April 1957  (2:10):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#sanctuaryclip01').qtp('wfaudio09_1.mp4', '00:26:15.19:00', '00:28:25.63:00');
+				});
+			</script>
+		</div>		
+		
+		<div id="sanctuaryclip02" class="hidden hide_printer">
+			<p>Virginia Colleges Conference, 15 April 1957  (0:32):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#sanctuaryclip02').qtp('wfaudio07_2.mp4', '00:09:16.83:00', '00:09:48.43:00');
+				});
+			</script>
+		</div>
+		
+		<div id="sanctuaryclip03" class="hidden hide_printer">
+			<p>Combined Classes, 13 April 1957 April 1957  (0:37):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#sanctuaryclip03').qtp('wfaudio06_1.mp4', '00:17:24.29:00', '00:18:01.35:00');
+				});
+			</script>
+		</div>
+		
+		<div id="sanctuaryclip04" class="hidden hide_printer">
+			<p>Graduate Fiction Class, 15 February 1957  (0:00):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#sanctuaryclip04').qtp('wfaudio01_1.mp4', '00:01:57.49:00', '00:02:22.62:00');
+				});
+			</script>
+		</div>
+		
+		
+		
+		
 		
 		<div id="dyingclip01" class="hidden hide_printer">
 			<p>Local &amp; UVA Communities, 30 May 1957  (1:28):<br />
