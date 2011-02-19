@@ -2321,12 +2321,13 @@
 					</li>
 				
 					<li>
-						<a href="#absalomclip17" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> What kind of
-						poetry does Miss Rosa write?  (12 May 1958)
+						<a href="#absalomclip17" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Why did Mr.
+						Coldfield retreat into his attic? (8 May 1958)
 					</li>
 				
 					<li>
-						<a href="#absalomclip18" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> ?  ( 1957)
+						<a href="#absalomclip18" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> What kind of
+						poetry does Miss Rosa write?  (12 May 1958)
 					</li>
 				</ul>
 				
@@ -10794,7 +10795,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#absalomclip12').qtp('wfaudio31.mp4', '00:38:42.63:00', '00:39:19.11:00');
+				$('#absalomclip02').qtp('wfaudio31.mp4', '00:38:42.63:00', '00:39:19.11:00');
 				});
 			</script>
 		</div>	
@@ -10804,7 +10805,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#absalomclip02').qtp('wfaudio09_1.mp4', '00:28:00.09:00', '00:28:30.29:00');
+				$('#absalomclip02').qtp('wfaudio06_1.mp4', '00:28:00.09:00', '00:28:30.29:00');
 				});
 			</script>
 		</div>	
@@ -10891,14 +10892,14 @@
 		
 		<div id="absalomclip11" class="hidden hide_printer">
 			<p>Combined Classes, 8 May 1958  (2:35):<br />
-				(Here is a transcript of the question: I'd like to go back to Charles Bon. . .  I have the impression that [up until] very
+				(Here is a transcript of the question &mdash; "I'd like to go back to Charles Bon. . .  I have the impression that [up until] very
 				near the end of the book that he did not realize that he was Sutpen's son. Because he's several times
 				mentioned wondering what the secret was that his mother
 				kept and worried about. And yet about twenty or
 				thirty pages from the end of the book he says to Henry that "It's the  
 				miscegenation and not the incest that [you fear] in my marriage to Judith."
 				So at what point
-				did—did he find this out and how did he find out?</p>
+				did—did he find this out and how did he find out?"</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
@@ -10918,7 +10919,7 @@
 		</div>	
 		
 		<div id="absalomclip13" class="hidden hide_printer">
-			<p>Combined Classes, 13 April 1957  (0:00):</p>
+			<p>Combined Classes, 13 April 1957  (1:08):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
