@@ -2235,146 +2235,96 @@
 						<a href="#absalomclip01" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Was the novel
 						hard to write?  (15 May 1958)
 					</li>
-				</ul>
 				
-				<ul class="clip_list">
 					
 					<li>
 						<a href="#absalomclip02" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> When did you
 						think of the title?  (13 April 1957)
 					</li>
-				</ul>
 				
-				<ul class="clip_list">
 					
 					<li>
 						<a href="#absalomclip03" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Do any of the
 						story tellers have the right view?  (8 May 1958)
 					</li>
-				</ul>
 				
-				<ul class="clip_list">
 					
 					<li>
 						<a href="#absalomclip04" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Who is the
 						novel&rsquo;s central character?  (13 April 1957)
 					</li>
-				</ul>
 				
-				<ul class="clip_list">
 					
 					<li>
 						<a href="#absalomclip05" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> What is Sutpen
 						questing for?  (7 March 1957)
 					</li>
-				</ul>
 				
-				<ul class="clip_list">
 					
 					<li>
 						<a href="#absalomclip06" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Is Quentin the
 						same as in The Sound and the Fury?  (8 May 1958)
 					</li>
-				</ul>
 				
-				<ul class="clip_list">
 					
 					<li>
 						<a href="#absalomclip07" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> How is this novel
 						Quentin&rsquo;s story?  (8 May 1958)
 					</li>
-				</ul>
 				
-				<ul class="clip_list">
 					
 					<li>
 						<a href="#absalomclip08" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> How much of
 						Quentin and Shreve&rsquo;s reconstruction true?  (13 April 1957)
 					</li>
-				</ul>
 				
-				<ul class="clip_list">
 					
 					<li>
 						<a href="#absalomclip09" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> When did Bon know
 						Sutpen was his father?  (27 April 1957)
 					</li>
-				</ul>
 				
-				<ul class="clip_list">
-					
 					<li>
 						<a href="#absalomclip10" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Why can&rsquo;t
 						Sutpen acknowledge Bon as his son?  (8 May 1958)
 					</li>
-				</ul>
 				
-				
-				<ul class="clip_list">
-					
 					<li>
 						<a href="#absalomclip11" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> When did Bon know
 						his was part Negro?  (8 May 1958)
 					</li>
-				</ul>
 				
-				
-				<ul class="clip_list">
-					
 					<li>
 						<a href="#absalomclip12" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Did Bon love
 						Judith?  (8 May 1958)
 					</li>
-				</ul>
 				
-				
-				<ul class="clip_list">
-					
 					<li>
 						<a href="#absalomclip13" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Is Sutpen a
 						villain?  (13 April 1957)
 					</li>
-				</ul>
-				
-				
-				<ul class="clip_list">
+			
 					
 					<li>
 						<a href="#absalomclip14" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> What is the
 						significance of Sutpen wrestling his &ldquo;Negro servants&rdquo;?  (13 April 1957)
 					</li>
-				</ul>
-				
-				
-				<ul class="clip_list">
 					
 					<li>
 						<a href="#absalomclip15" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Does the
 						novel&rsquo;s &ldquo;racial situation&rdquo; parallel that of the South?  (27 April 1957)
 					</li>
-				</ul>
 				
-				
-				<ul class="clip_list">
-					
 					<li>
 						<a href="#absalomclip16" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Why is Wash Jones
 						the one who kills Sutpen?  (13 April 1957)
 					</li>
-				</ul>
 				
-				
-				<ul class="clip_list">
-					
 					<li>
 						<a href="#absalomclip17" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> What kind of
 						poetry does Miss Rosa write?  (12 May 1958)
 					</li>
-				</ul>
 				
-				
-				<ul class="clip_list">
-					
 					<li>
 						<a href="#absalomclip18" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> ?  ( 1957)
 					</li>
@@ -10365,7 +10315,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#specialclip02').qtp('wfaudio04.mp4', '00:13:23.89:00', '00:13:35.24:00');
+				$('#specialclip03').qtp('wfaudio04.mp4', '00:13:23.89:00', '00:13:35.24:00');
 				});
 			</script>
 		</div>
@@ -10844,7 +10794,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#lightclip12').qtp('wfaudio31.mp4', '00:38:42.63:00', '00:39:19.11:00');
+				$('#absalomclip12').qtp('wfaudio31.mp4', '00:38:42.63:00', '00:39:19.11:00');
 				});
 			</script>
 		</div>	
@@ -10854,7 +10804,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#lightclip12').qtp('wfaudio09_1.mp4', '00:28:00.09:00', '00:28:30.29:00');
+				$('#absalomclip02').qtp('wfaudio09_1.mp4', '00:28:00.09:00', '00:28:30.29:00');
 				});
 			</script>
 		</div>	
@@ -10864,7 +10814,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#lightclip12').qtp('wfaudio29_1.mp4', '00:17:39.60:00', '00:19:29.22:00');
+				$('#absalomclip03').qtp('wfaudio29_1.mp4', '00:17:39.60:00', '00:19:29.22:00');
 				});
 			</script>
 		</div>	
@@ -10874,7 +10824,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#lightclip12').qtp('wfaudio06_1.mp4', '00:02:42.64:00', '00:03:32.43:00');
+				$('#absalomclip04').qtp('wfaudio06_1.mp4', '00:02:42.64:00', '00:03:32.43:00');
 				});
 			</script>
 		</div>	
@@ -10884,7 +10834,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#lightclip12').qtp('wfaudio09_1.mp4', '00:20:07.84:00', '00:22:32.83:00');
+				$('#absalomclip05').qtp('wfaudio09_1.mp4', '00:20:07.84:00', '00:22:32.83:00');
 				});
 			</script>
 		</div>	
@@ -10894,7 +10844,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#lightclip12').qtp('wfaudio29_1.mp4', '00:28:39.46:00', '00:29:37.33:00');
+				$('#absalomclip06').qtp('wfaudio29_1.mp4', '00:28:39.46:00', '00:29:37.33:00');
 				});
 			</script>
 		</div>	
@@ -10904,7 +10854,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#lightclip12').qtp('wfaudio29_1.mp4', '00:29:38.12:00', '00:30:17.43:00');
+				$('#absalomclip07').qtp('wfaudio29_1.mp4', '00:29:38.12:00', '00:30:17.43:00');
 				});
 			</script>
 		</div>	
@@ -10914,7 +10864,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#lightclip12').qtp('wfaudio06_1.mp4', '00:23:59.29:00', '00:25:03.37:00');
+				$('#absalomclip08').qtp('wfaudio06_1.mp4', '00:23:59.29:00', '00:25:03.37:00');
 				});
 			</script>
 		</div>	
@@ -10924,7 +10874,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#lightclip12').qtp('wfaudio09_1.mp4', '00:06:32.11:00', '00:07:24.44:00');
+				$('#absalomclip09').qtp('wfaudio09_1.mp4', '00:06:32.11:00', '00:07:24.44:00');
 				});
 			</script>
 		</div>	
@@ -10934,7 +10884,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#lightclip12').qtp('wfaudio29_1.mp4', '00:07:26.95:00', '00:09:15.87:00');
+				$('#absalomclip10').qtp('wfaudio29_1.mp4', '00:07:26.95:00', '00:09:15.87:00');
 				});
 			</script>
 		</div>	
@@ -10952,7 +10902,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#lightclip12').qtp('wfaudio29_1.mp4', '00:12:57.58:00', '00:15:42.58:00');
+				$('#absalomclip11').qtp('wfaudio29_1.mp4', '00:12:57.58:00', '00:15:42.58:00');
 				});
 			</script>
 		</div>	
@@ -10962,7 +10912,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#lightclip12').qtp('wfaudio29_1.mp4', '00:15:44.85:00', '00:16:05.10:00');
+				$('#absalomclip12').qtp('wfaudio29_1.mp4', '00:15:44.85:00', '00:16:05.10:00');
 				});
 			</script>
 		</div>	
@@ -10972,7 +10922,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#lightclip12').qtp('wfaudio06_2.mp4', '00:14:45.89:00', '00:15:53.02:00');
+				$('#absalomclip13').qtp('wfaudio06_2.mp4', '00:14:45.89:00', '00:15:53.02:00');
 				});
 			</script>
 		</div>	
@@ -10982,7 +10932,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#lightclip12').qtp('wfaudio06_1.mp4', '00:16:16.67:00', '00:17:22.37:00');
+				$('#absalomclip14').qtp('wfaudio06_1.mp4', '00:16:16.67:00', '00:17:22.37:00');
 				});
 			</script>
 		</div>	
@@ -10992,7 +10942,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#lightclip12').qtp('wfaudio09_1.mp4', '00:11:07.82:00', '00:11:58.10:00');
+				$('#absalomclip15').qtp('wfaudio09_1.mp4', '00:11:07.82:00', '00:11:58.10:00');
 				});
 			</script>
 		</div>	
@@ -11002,7 +10952,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#lightclip12').qtp('wfaudio06_1.mp4', '00:19:16.04:00', '00:20:08.69:00');
+				$('#absalomclip16').qtp('wfaudio06_1.mp4', '00:19:16.04:00', '00:20:08.69:00');
 				});
 			</script>
 		</div>	
@@ -11012,7 +10962,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#lightclip12').qtp('wfaudio29_1.mp4', '00:19:31.19:00', '00:20:52.17:00');
+				$('#absalomclip17').qtp('wfaudio29_1.mp4', '00:19:31.19:00', '00:20:52.17:00');
 				});
 			</script>
 		</div>	
@@ -11022,7 +10972,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#lightclip12').qtp('wfaudio30_2.mp4', '00:12:29.32:00', '00:13:00.83:00');
+				$('#absalomclip18').qtp('wfaudio30_2.mp4', '00:12:29.32:00', '00:13:00.83:00');
 				});
 			</script>
 		</div>	
