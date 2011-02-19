@@ -2216,9 +2216,11 @@
 				
 				<h4><em>Absalom, Absalom!</em></h4>
 				<p>Random House published the novel in October, 1936 (about five months after Macmillan published Margaret Mitchell&rsquo;s <em>Gone with the
-					Wind</em>).   Not surprisingly, UVA audiences had lots of questions about this novel, but in the 1957 sessions Faulkner often &ndash; and
-					surprisingly &ndash; answered that he
-					didn&rsquo;t remember this novel very well, which apparently led him to re-read it before beginning his second term as Writer-in-Residence in 1958
+					Wind</em>).   Not surprisingly, UVA audiences had lots of questions about <em>Absalom</em>, but in the 1957 sessions Faulkner sometimes answered that he
+					didn&rsquo;t remember this novel very well <a
+						href="#specialclip04" class="inline">
+						<img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/>
+					</a>  .  Apparently before beginning his second term as Writer-in-Residence in 1958 he decided to re-read it 
 					&mdash; despite having said a number of times that the books he was glad he never had to read again were the ones he himself had written   <a
 						href="#specialclip03" class="inline">
 						<img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/>
@@ -10320,6 +10322,17 @@
 				});
 			</script>
 		</div>
+		
+		<div id="specialclip04" class="hidden hide_printer">
+			<p>Combined Classes, 13 April 1957 (0:54):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#specialclip04').qtp('wfaudio06_1.mp4', '00:31:53.14:00', '00:32:46.40:00');
+				});
+			</script>
+		</div>
+	
 		
 		<div id="furyclip01" class="hidden hide_printer">
 			<p>Combined Literature Classes, 13 April 1957 (1:38):</p>
