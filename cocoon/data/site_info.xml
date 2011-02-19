@@ -2296,7 +2296,7 @@
 				
 					<li>
 						<a href="#absalomclip12" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Did Bon love
-						Judith?  (8 May 1958)
+						Judith, or was he using her?  (8 May 1958)
 					</li>
 				
 					<li>
@@ -10795,7 +10795,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#absalomclip02').qtp('wfaudio31.mp4', '00:38:42.63:00', '00:39:19.11:00');
+				$('#absalomclip01').qtp('wfaudio31.mp4', '00:38:42.63:00', '00:39:19.11:00');
 				});
 			</script>
 		</div>	
