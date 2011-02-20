@@ -11111,7 +11111,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#unvanquishedclip03').qtp('wfaudio24_1.mp4', '00:11:57.78:00', '00:14:14.90:00');
+				$('#unvanquishedclip03').qtp('wfaudio24_2.mp4', '00:11:57.78:00', '00:14:14.90:00');
 				});
 			</script>
 		</div>	
@@ -11151,7 +11151,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#unvanquishedclip07').qtp('wfaudio24_1.mp4', '00:14:24.35:00', '00:15:06.33:00');
+				$('#unvanquishedclip07').qtp('wfaudio24_2.mp4', '00:14:24.35:00', '00:15:06.33:00');
 				});
 			</script>
 		</div>	
@@ -11161,7 +11161,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#unvanquishedclip08').qtp('wfaudio24_1.mp4', '00:15:11.83:00', '00:16:47.20:00');
+				$('#unvanquishedclip08').qtp('wfaudio24_2.mp4', '00:15:11.83:00', '00:16:47.20:00');
 				});
 			</script>
 		</div>	
@@ -11181,7 +11181,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#unvanquishedclip10').qtp('wfaudio24_1.mp4', '00:09:50.20:00', '00:11:53.03:00');
+				$('#unvanquishedclip10').qtp('wfaudio24_2.mp4', '00:09:50.20:00', '00:11:53.03:00');
 				});
 			</script>
 		</div>	
