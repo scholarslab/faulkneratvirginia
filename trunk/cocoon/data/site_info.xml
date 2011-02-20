@@ -2342,7 +2342,7 @@
 				<h4><em>The Unvanquished</em></h4>
 				<p>All but the first story in this book were originally published between 1934 and 1936 as separate short stories (five in <em>The Saturday
 					Evening Post</em> and one in <em>Scribner&rsquo;s</em>).  Random House published the novel, as the book is usually categorized, in February 1938.
-				 All but one of the questions <em>below</em> were asked at a meeting of Irby Cauthen&rsquo;s First-Year English Class, though many of the voices
+				 All but two of the questions <em>below</em> were asked at a meeting of Irby Cauthen&rsquo;s First-Year English Class, though many of the voices
 					don&rsquo;t sound like freshmen.  It&rsquo;s clear that when Faulkner visited classrooms, faculty members and others often dropped in to
 					participate.</p>
 				
@@ -2399,12 +2399,24 @@
 					</li>
 					
 					<li>
-						<a href="#unvanquishedclip10" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Does the
+						<a href="#unvanquishedclip10" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> What are
+						Bayard's thoughts about his father's violent death?  (1 May 1958)
+					</li>
+					
+					<li>
+						<a href="#unvanquishedclip11" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> How does
+						Aunt Jenny feel about Bayard's choice at the end?  (28 April 1958)
+					</li>
+					
+					
+					
+					<li>
+						<a href="#unvanquishedclip12" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Does the
 						verbena signify the tradition that Bayard rejects?  (28 April 1958)
 					</li>
 					
 					<li>
-						<a href="#unvanquishedclip11" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Has
+						<a href="#unvanquishedclip13" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Has
 						Hollywood ever expressed any interest in these stories?  (28 April 1958)
 					</li>
 					
@@ -11177,21 +11189,42 @@
 		</div>	
 		
 		<div id="unvanquishedclip10" class="hidden hide_printer">
-			<p>First-Year English Class, 28 April 1958  (2:03):</p>
+			<p>Undergraduate Literature Class, 1 May 1958  (2:55):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#unvanquishedclip10').qtp('wfaudio24_2.mp4', '00:09:50.20:00', '00:11:53.03:00');
+				$('#unvanquishedclip10').qtp('wfaudio25.mp4', '00:11:13.57:00', '00:14:08.96:00');
 				});
 			</script>
 		</div>	
 		
 		<div id="unvanquishedclip11" class="hidden hide_printer">
+			<p>First-Year English Class, 28 April 1958  (1:48):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#unvanquishedclip11').qtp('wfaudio24_2.mp4', '00:07:59.96:00', '00:09:47.72:00');
+				});
+			</script>
+		</div>	
+		
+		
+		<div id="unvanquishedclip12" class="hidden hide_printer">
+			<p>First-Year English Class, 28 April 1958  (2:03):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#unvanquishedclip12').qtp('wfaudio24_2.mp4', '00:09:50.20:00', '00:11:53.03:00');
+				});
+			</script>
+		</div>	
+		
+		<div id="unvanquishedclip13" class="hidden hide_printer">
 			<p>First-Year English Class, 28 April 1958  (0:57):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#unvanquishedclip11').qtp('wfaudio24_1.mp4', '00:24:57.34:00', '00:25:54.21:00');
+				$('#unvanquishedclip13').qtp('wfaudio24_1.mp4', '00:24:57.34:00', '00:25:54.21:00');
 				});
 			</script>
 		</div>	
