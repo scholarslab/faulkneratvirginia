@@ -2345,7 +2345,7 @@
 				 All but two of the questions <em>below</em> were asked at a meeting of Irby Cauthen&rsquo;s First-Year English Class, though many of the voices
 					don&rsquo;t sound like freshmen.  It&rsquo;s clear that when Faulkner visited classrooms, faculty members and others often dropped in to
 					participate.  Faulkner read the book&rsquo;s first story, &ldquo;Was,&rdquo; to two different UVA audiences; due to the deterioration of the
-					tape, one of his readings is very hard to hear, but you can access the other, from 8 May 1957,   from the archive&rsquo;s BROWSE page.</p>
+					tape, one of his readings is very hard to hear, but you can access the other, from 8 May 1957, at the archive&rsquo;s BROWSE page.</p>
 				
 				<div class="cover_image">
 					<img src="unvcovert.jpg" />
@@ -10811,7 +10811,9 @@
 		
 		<div id="lightclip03" class="hidden hide_printer">
 			<p>Local &amp; UVA Communities, 30 May 1957  (1:16):<br/>
-			(The question and the beginning of Faulkner's answer weren't recorded.)</p>
+			(The question and the beginning of Faulkner's answer weren't recorded.  The question was obviously asking again about the significance of the
+				novel's title; the part of the answer we have includes Faulkner's familiar response to that question, but goes on to add some very interesting
+				suggestions about Lena Grove's relationship to that "pagan" light.)</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
@@ -10956,7 +10958,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#absalomclip05').qtp('wfaudio09_1.mp4', '00:20:07.84:00', '00:22:32.83:00');
+				$('#absalomclip05').qtp('wfaudio02_2.mp4', '00:20:07.84:00', '00:22:32.83:00');
 				});
 			</script>
 		</div>	
@@ -11017,8 +11019,8 @@
 				near the end of the book that he did not realize that he was Sutpen's son. Because he's several times
 				mentioned wondering what the secret was that his mother
 				kept and worried about. And yet about twenty or
-				thirty pages from the end of the book he says to Henry that "It's the  
-				miscegenation and not the incest that [you fear] in my marriage to Judith."
+				thirty pages from the end of the book he says to Henry that 'It's the  
+				miscegenation and not the incest that [you fear] in my marriage to Judith.'
 				So at what point
 				did—did he find this out and how did he find out?"</p>
 			
