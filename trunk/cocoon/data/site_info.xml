@@ -1840,6 +1840,7 @@
 				<strong>The William Faulkner Family</strong><br/>
 				<strong>Ted Genoways</strong>, Editor, Virginia Quarterly Review<br/>
 				<strong>Marcus Gray</strong>, St Andrews, UK<br/>
+				<strong>R. C. Greene</strong>, UVA &rsquo;61<br/>
 				<strong>James W. Haskins</strong>, UVA &rsquo;63, &rsquo;66<br/>
 				<strong>William Lecky</strong>, UVA &rsquo;60<br/>
 				<strong>Worthy Martin</strong>, Institute for Advanced Technology in the Humanities<br/>
@@ -2345,8 +2346,7 @@
 					Evening Post</em> and one in <em>Scribner&rsquo;s</em>).  Random House published the novel, as the book is usually categorized, in February 1938.
 				 All but two of the questions <em>below</em> were asked at a meeting of Irby Cauthen&rsquo;s First-Year English Class, though many of the voices
 					don&rsquo;t sound like freshmen.  It&rsquo;s clear that when Faulkner visited classrooms, faculty members and others often dropped in to
-					participate.  Faulkner read the book&rsquo;s first story, &ldquo;Was,&rdquo; to two different UVA audiences; due to the deterioration of the
-					tape, one of his readings is very hard to hear, but you can access the other, from 8 May 1957, at the archive&rsquo;s BROWSE page.</p>
+					participate. </p>
 				
 				<div class="cover_image">
 					<img src="unvcovert.jpg" />
@@ -2421,6 +2421,63 @@
 						<a href="#unvanquishedclip13" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Has
 						Hollywood ever expressed any interest in these stories?  (28 April 1958)
 					</li>
+					
+				</ul>
+			</div>
+			
+			<hr />
+			<div class="clips">
+				
+				<h4><em>Go Down, Moses</em></h4>
+				<p>Most of the questions Faulkner was asked about the stories in this book focused on &ldquo;The Bear,&rdquo; which was one of the most frequently taught American texts during the 1950&rsquo;s.  There are also a number of questions about &ldquo;Was,&rdquo; the story with which the book opens.  At his very first UVA session Faulkner was asked about the poker hand at the end of this tale, but admitted in his reply that &ldquo;I don&rsquo;t remember the story too well,&rdquo; <a href="#specialclip05" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> .  Yet later that semester he chose to read &ldquo;Was,&rdquo; to two different audiences (the best version for listening is the one from 8 May 1957, available on the archive&rsquo;s BROWSE page).  As <em>Go Down, Moses</em> suggests clearly, it&rsquo;s important to note what those various readers at the time Faulkner was in residence did not ask about, as well as what they did.  SEARCHing the archive for &ldquo;The Bear,&rdquo; turns up over fifty hits; on the other hand, he was not asked even once about Lucas Beauchamp.</p>
+				
+				<div class="cover_image">
+					<img src="gdmcovert.jpg" />
+					<p>First Edition Cover</p>
+				</div>
+				
+				<ul class="clip_list">
+					
+					<li>
+						<a href="#mosesclip01" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> How did Uncle Buck end up marrying Sophonsiba?  (11 March 1957)
+					</li>
+					
+					<li>
+						<a href="#mosesclip02" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> When did you begin  writing "The Bear"?  (8 May 1958)
+					</li>
+					
+					<li>
+						<a href="#mosesclip03" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> How should we understand the story's conflict between man and wilderness?  (8 May 1958)
+					</li>
+					
+					<li>
+						<a href="#mosesclip04" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Could you discuss the scene between Ike and his wife?  (8 May 1958)
+					</li>
+					
+					<li>
+						<a href="#mosesclip05" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Why did Boon kill Sam Fathers?  (11 March 1957)
+					</li>
+					
+					<li>
+						<a href="#mosesclip06" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Did Ike fulfill his destiny?  (11 March 1957)
+					</li>
+					
+					<li>
+						<a href="#mosesclip07" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Is Ike a Christ figure?  (1 May 1958)
+					</li>
+					
+					<li>
+						<a href="#mosesclip08" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> How is Part 4 related to the rest of "The Bear"?  (15 February  1957)
+					</li>
+					
+					<li>
+						<a href="#mosesclip08" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Would you re-assess Ike's comment about interracial marriage at the present day?  (11 March 1957)
+					</li>
+					
+					<li>
+						<a href="#mosesclip10" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Do you share Ike's view that there's a curse on the land?  (8 May 1958)
+					</li>
+					
 					
 				</ul>
 			</div>
@@ -10502,6 +10559,15 @@
 			</script>
 		</div>
 	
+		<div id="specialclip05" class="hidden hide_printer">
+			<p>Gwynn's American Fiction Class, 15 February 1957 (2:56):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#specialclip05').qtp('wfaudio01_1.mp4', '00:39:19.65:00', '00:42:14.43:00');
+				});
+			</script>
+		</div>
 		
 		<div id="furyclip01" class="hidden hide_printer">
 			<p>Combined Literature Classes, 13 April 1957 (1:38):</p>
@@ -11291,7 +11357,112 @@
 				$('#unvanquishedclip13').qtp('wfaudio24_1.mp4', '00:24:57.34:00', '00:25:54.21:00');
 				});
 			</script>
-		</div>	
+		</div>
+		
+		
+		<div id="mosesclip01" class="hidden hide_printer">
+			<p>20th Century Literature Class, 11 March 1957 (0:46):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#mosesclip01').qtp('wfaudio04.mp4', '00:05:11.01:00', '00:05:54.57:00');
+				});
+			</script>
+		</div>
+		
+		<div id="mosesclip02" class="hidden hide_printer">
+			<p>Combined Literature Classes, 13 April 1957 (2:38):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#mosesclip02').qtp('wfaudio29_1.mp4', '00:00:22.51:00', '00:03:00.59:00');
+				});
+			</script>
+		</div>
+		
+		<div id="mosesclip03" class="hidden hide_printer">
+			<p>Combined Literature Classes, 13 April 1957 (1:59):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#mosesclip03').qtp('wfaudio29_2.mp4', '00:03:29.76:00', '00:05:27.13:00');
+				});
+			</script>
+		</div>
+		
+		<div id="mosesclip04" class="hidden hide_printer">
+			<p>Combined Literature Classes, 13 April 1957 (3:10):<br />
+				(Here's a transcript of the question which this exchange begins with) — Sir, I'd like some help on understanding the—what I call the
+				bedroom scene in the fourth section of "The Bear." You made one statement, "She
+				is lost. She was born lost." Can you help me to understand what you meant by
+				that?</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#mosesclip04').qtp('wfaudio29_1_2.mp4', '00:00:01.00:00', '00:03:10.57:00');
+				});
+			</script>
+		</div>
+		
+		<div id="mosesclip05" class="hidden hide_printer">
+			<p>20th Century Literature Class, 11 March 1957 (1:02):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#mosesclip05').qtp('wfaudio04.mp4', '00:07:05.85:00', '00:08:08.00:00');
+				});
+			</script>
+		</div>
+		
+		<div id="mosesclip06" class="hidden hide_printer">
+			<p>20th Century Literature Class, 11 March 1957 (1:31):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#mosesclip06').qtp('wfaudio04.mp4', '00:39:09.22:00', '00:40:38.17:00');
+				});
+			</script>
+		</div>
+		
+		<div id="mosesclip07" class="hidden hide_printer">
+			<p>Undergraduate Class in Contemporary Literature, 1 May 1958 (1:28):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#mosesclip07').qtp('wfaudio25.mp4', '00:01:27.92:00', '00:02:55.58:00');
+				});
+			</script>
+		</div>
+		
+		<div id="mosesclip08" class="hidden hide_printer">
+			<p>Gwynn's American Fiction Class, 15 February (1:35):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#mosesclip08').qtp('wfaudio01_1.mp4', '00:27:09.26:00', '00:28:44.18:00');
+				});
+			</script>
+		</div>
+		
+		<div id="mosesclip09" class="hidden hide_printer">
+			<p>20th Century Literature Class, 11 March 1957 (1:22):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#mosesclip09').qtp('wfaudio04.mp4', '00:02:15.55:00', '00:03:36.27:00');
+				});
+			</script>
+		</div>
+		
+		<div id="mosesclip10" class="hidden hide_printer">
+			<p>Combined Literature Classes, 8 May 1958(1:05):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#mosesclip10').qtp('wfaudio29_1.mp4', '00:06:18.81:00', '00:07:23.19:00');
+				});
+			</script>
+		</div>
 		
 		<div id="eveningclip01" class="hidden hide_printer">
 			<p>Gwynn's literature class, 15 February 1957  (1:17):<br />
