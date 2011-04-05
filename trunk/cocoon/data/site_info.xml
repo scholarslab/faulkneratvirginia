@@ -2429,7 +2429,14 @@
 			<div class="clips">
 				
 				<h4><em>Go Down, Moses</em></h4>
-				<p>Most of the questions Faulkner was asked about the stories in this book focused on &ldquo;The Bear,&rdquo; which was one of the most frequently taught American texts during the 1950&rsquo;s.  There are also a number of questions about &ldquo;Was,&rdquo; the story with which the book opens.  At his very first UVA session Faulkner was asked about the poker hand at the end of this tale, but admitted in his reply that &ldquo;I don&rsquo;t remember the story too well,&rdquo; <a href="#specialclip05" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> .  Yet later that semester he chose to read &ldquo;Was,&rdquo; to two different audiences (the best version for listening is the one from 8 May 1957, available on the archive&rsquo;s BROWSE page).  As <em>Go Down, Moses</em> suggests clearly, it&rsquo;s important to note what those various readers at the time Faulkner was in residence did not ask about, as well as what they did.  SEARCHing the archive for &ldquo;The Bear,&rdquo; turns up over fifty hits; on the other hand, he was not asked even once about Lucas Beauchamp.</p>
+				<p>Most of the questions Faulkner was asked about the stories in this book focused on &ldquo;The Bear,&rdquo; which was one of the most frequently
+					taught American texts during the 1950&rsquo;s.  There are also a number of questions about &ldquo;Was,&rdquo; the story with which the book
+					opens.  At his very first UVA session Faulkner was asked about the poker hand at the end of this tale, but admitted in his reply that &ldquo;I
+					don&rsquo;t remember the story too well&rdquo; <a href="#specialclip05" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play
+						Clip" title="Play Clip"/></a> .  Yet later that semester he chose to read &ldquo;Was&rdquo; to two different audiences (the best version for
+					listening is the one from 8 May 1957, available on the archive&rsquo;s BROWSE page).  As <em>Go Down, Moses</em> suggests clearly, it&rsquo;s
+					important to note what those various readers at the time Faulkner was in residence did not ask about, as well as what they did.  SEARCHing the
+					archive for &ldquo;The Bear,&rdquo; for example, turns up over fifty hits; on the other hand, he was not asked even once about Lucas Beauchamp.</p>
 				
 				<div class="cover_image">
 					<img src="gdmcovert.jpg" />
@@ -2447,7 +2454,7 @@
 					</li>
 					
 					<li>
-						<a href="#mosesclip03" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> How should we understand the story's conflict between man and wilderness?  (8 May 1958)
+						<a href="#mosesclip03" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> How should we see the conflict between man and wilderness?  (8 May 1958)
 					</li>
 					
 					<li>
@@ -2471,7 +2478,8 @@
 					</li>
 					
 					<li>
-						<a href="#mosesclip08" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Would you re-assess Ike's comment about interracial marriage at the present day?  (11 March 1957)
+						<a href="#mosesclip08" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Is Ike's comment
+						about interracial marriage still true?  (11 March 1957)
 					</li>
 					
 					<li>
@@ -11399,7 +11407,7 @@
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#mosesclip04').qtp('wfaudio29_1_2.mp4', '00:00:01.00:00', '00:03:10.57:00');
+				$('#mosesclip04').qtp('wfaudio29_1_2.mp4', '00:01:01.00:00', '00:03:10.57:00');
 				});
 			</script>
 		</div>
