@@ -2478,12 +2478,16 @@
 					</li>
 					
 					<li>
-						<a href="#mosesclip09" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Is Ike's comment
+						<a href="#mosesclip09" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Is Ike's predicament that of modern man?  ( 24 April 1958)
+					</li>
+					
+					<li>
+						<a href="#mosesclip10" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Is Ike's comment
 						about interracial marriage still true?  (11 March 1957)
 					</li>
 					
 					<li>
-						<a href="#mosesclip10" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Do you share Ike's view that there's a curse on the land?  (8 May 1958)
+						<a href="#mosesclip11" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Do you share Ike's view that there's a curse on the land?  (8 May 1958)
 					</li>
 					
 					
@@ -11443,31 +11447,41 @@
 		</div>
 		
 		<div id="mosesclip08" class="hidden hide_printer">
-			<p>Gwynn's American Fiction Class, 15 February (1:35):</p>
+			<p>Undergraduate Writing Class, 24 April 1958 (1:07):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#mosesclip08').qtp('wfaudio01_1.mp4', '00:27:09.26:00', '00:28:44.18:00');
+				$('#mosesclip08').qtp('wfaudio23_1.mp4', '00:15:14.84:00', '00:16:21.08:00');
 				});
 			</script>
 		</div>
 		
 		<div id="mosesclip09" class="hidden hide_printer">
-			<p>20th Century Literature Class, 11 March 1957 (1:22):</p>
+			<p>Gwynn's American Fiction Class, 15 February 1957 (1:35):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#mosesclip09').qtp('wfaudio04.mp4', '00:02:15.55:00', '00:03:36.27:00');
+				$('#mosesclip09').qtp('wfaudio01_1.mp4', '00:27:09.26:00', '00:28:44.18:00');
 				});
 			</script>
 		</div>
 		
 		<div id="mosesclip10" class="hidden hide_printer">
+			<p>20th Century Literature Class, 11 March 1957 (1:22):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#mosesclip10').qtp('wfaudio04.mp4', '00:02:15.55:00', '00:03:36.27:00');
+				});
+			</script>
+		</div>
+		
+		<div id="mosesclip11" class="hidden hide_printer">
 			<p>Combined Literature Classes, 8 May 1958(1:05):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#mosesclip10').qtp('wfaudio29_1.mp4', '00:06:18.81:00', '00:07:23.19:00');
+				$('#mosesclip11').qtp('wfaudio29_1.mp4', '00:06:18.81:00', '00:07:23.19:00');
 				});
 			</script>
 		</div>
