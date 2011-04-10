@@ -2478,7 +2478,7 @@
 					</li>
 					
 					<li>
-						<a href="#mosesclip09" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Is Ike's predicament that of modern man?  ( 24 April 1958)
+						<a href="#mosesclip09" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Is Ike's predicament that of modern man?  (24 April 1958)
 					</li>
 					
 					<li>
@@ -11447,21 +11447,21 @@
 		</div>
 		
 		<div id="mosesclip08" class="hidden hide_printer">
-			<p>Undergraduate Writing Class, 24 April 1958 (1:07):</p>
+			<p>Gwynn's American Fiction Class, 15 February 1957 (1:35):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#mosesclip08').qtp('wfaudio23_1.mp4', '00:15:14.84:00', '00:16:21.08:00');
+				$('#mosesclip08').qtp('wfaudio01_1.mp4', '00:27:09.26:00', '00:28:44.18:00');
 				});
 			</script>
 		</div>
 		
 		<div id="mosesclip09" class="hidden hide_printer">
-			<p>Gwynn's American Fiction Class, 15 February 1957 (1:35):</p>
+			<p>Undergraduate Writing Class, 24 April 1958 (1:07):</p>
 			
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
-				$('#mosesclip09').qtp('wfaudio01_1.mp4', '00:27:09.26:00', '00:28:44.18:00');
+				$('#mosesclip09').qtp('wfaudio23_1.mp4', '00:15:14.84:00', '00:16:21.08:00');
 				});
 			</script>
 		</div>
