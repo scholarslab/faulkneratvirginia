@@ -2488,8 +2488,57 @@
 					
 					<li>
 						<a href="#mosesclip11" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Do you share Ike's view that there's a curse on the land?  (8 May 1958)
+					</li>					
+				</ul>
+			</div>
+			
+			<hr />
+			<div class="clips">
+				
+				<h4><em>Intruder in the Dust</em></h4>
+				<p>This novel was published by Random House in 1948.  The film version that Faulkner mentions in the last answer <em>below</em>
+					premiered in 1949 (the play he refers to there is <em>Requiem for a Nun</em>).  The only one of the novel&rsquo;s characters Faulkner&rsquo;s UVA audiences seem to have asked him
+				is Gavin Stevens, whose thoughts about the southern system of segregation in the face of northern pressure to change seemed especially timely in
+					the years Faulkner was in residence in Virginia.</p>
+				
+				<div class="cover_image">
+					<img src="dustcovert.jpg" />
+					<p>First Edition Cover</p>
+				</div>
+				
+				<ul class="clip_list">
+					
+					<li>
+						<a href="#dustclip01" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> How did this novel start?  (13 May 1957)
 					</li>
 					
+					<li>
+						<a href="#dustclip02" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Is Gavin based on a real person?  (12 May 1958)
+					</li>
+					
+					<li>
+						<a href="#dustclip03" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Is Gavin the same in Intruder and The Town?  (13 May 1957)
+					</li>
+					
+					<li>
+						<a href="#dustclip04" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Do you agree with Gavin&rsquo;s politics?  (12 May 1958)
+					</li>
+					
+					<li>
+						<a href="#dustclip05" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Is the Southern attitude toward Negroes still the same?  (12 May 1958)
+					</li>
+					
+					<li>
+						<a href="#dustclip06" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Is South changing too fast or too slowly?  (11 March 1957)
+					</li>
+					
+					<li>
+						<a href="#dustclip07" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Are you trying to make a point about segregation?  (7 May 1958)
+					</li>
+					
+					<li>
+						<a href="#dustclip08" class="inline"><img src="arrow-right-play.gif" class="inline" alt="Play Clip" title="Play Clip"/></a> Do you like the movie versions of your work?  (12 May 1958)
+					</li>
 					
 				</ul>
 			</div>
@@ -11482,6 +11531,86 @@
 			<script language="JavaScript" type="text/javascript">
 				$(document).ready(function(){
 				$('#mosesclip11').qtp('wfaudio29_1.mp4', '00:06:18.81:00', '00:07:23.19:00');
+				});
+			</script>
+		</div>
+		
+		<div id="dustclip01" class="hidden hide_printer">
+			<p>English Department Faculty &amp; Wives, 13 May 1957 (1:20):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#dustclip01').qtp('wfaudio13.mp4', '00:33:44.98:00', '00:35:04.32:00');
+				});
+			</script>
+		</div>
+		
+		<div id="dustclip02" class="hidden hide_printer">
+			<p>Representatives from Other Colleges, 12 May 1958 (1:50):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#dustclip02').qtp('wfaudio30_1.mp4', '00:14:50.26:00', '00:16:40.11:00');
+				});
+			</script>
+		</div>
+		
+		<div id="dustclip03" class="hidden hide_printer">
+			<p>English Department Faculty &amp; Wives, 13 May 1957 (0:55):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#dustclip03').qtp('wfaudio13.mp4', '00:32:00.59:00', '00:32:55.12:00');
+				});
+			</script>
+		</div>
+		
+		<div id="dustclip04" class="hidden hide_printer">
+			<p>Representatives from Other Colleges, 12 May 1958 (3:37):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#dustclip04').qtp('wfaudio30_1.mp4', '00:11:00.04:00', '00:14:37.04:00');
+				});
+			</script>
+		</div>
+		
+		<div id="dustclip05" class="hidden hide_printer">
+			<p>Representatives from Other Colleges, 12 May 1958 (1:04):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#dustclip05').qtp('wfaudio30_1.mp4', '00:08:25.57:00', '00:09:28.39:00');
+				});
+			</script>
+		</div>
+		
+		<div id="dustclip06" class="hidden hide_printer">
+			<p>20th Century Literature Class, 11 March 1957 (2:54):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#dustclip06').qtp('wfaudio04.mp4', '00:17:10.83:00', '00:20:04.16:00');
+				});
+			</script>
+		</div>
+		
+		<div id="dustclip07" class="hidden hide_printer">
+			<p>Department of Psychiatry, 7 May 1958 (2:02):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#dustclip07').qtp('wfaudio28_2.mp4', '00:17:22.31:00', '00:19:25.20:00');
+				});
+			</script>
+		</div>
+		
+		<div id="dustclip08" class="hidden hide_printer">
+			<p>Representatives from Other Colleges, 12 May 1958 (1:19):</p>
+			
+			<script language="JavaScript" type="text/javascript">
+				$(document).ready(function(){
+				$('#dustclip08').qtp('wfaudio30_2.mp4', '00:13:06.64:00', '00:14:27.33:00');
 				});
 			</script>
 		</div>
