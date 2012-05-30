@@ -2553,7 +2553,12 @@
 			<hr />
 			<div class="clips">
 				
-				<h4>&ldquo;A Rose for Emily&rdquo;</h4>
+				<h4>Early Short Stories:<br/> &ldquo;A Rose for Emily&rdquo;</h4>
+				
+				<div class="cover_image">
+					<img src="13covert.jpg" />
+					<p>First Edition Cover</p>
+				</div>
 				
 				<p>This story was first published in <em>Forum</em>, 30 April 1930.</p>
 				
