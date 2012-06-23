@@ -1881,7 +1881,11 @@
 		
 		<section id="selections" title="Selected Clips">
 			<h3>Selected Clips</h3>
-			<p><img src="clipshp.jpg" alt="RALPH THOMPSON PHOTOGRAPH" title="RALPH THOMPSON PHOTOGRAPH"/>  
+			
+			<div class="cover_image">
+				<img src="clipshp.jpg" alt="RALPH THOMPSON PHOTOGRAPH" title="RALPH THOMPSON PHOTOGRAPH"/>
+			</div>
+			<p>  
 				<em>Below</em> are some of the best moments from the hours of material in this archive: about 230 clips, selected from the total of over 1400 
 				answers Faulkner gave to his UVA audiences.  About three-quarters of them focus on a specific novel or story, 23 of his works in all.  In the final sixty 
 				clips Faulkner gives his views on other subjects, including writing and art, other writers, the South and the Civil Rights Movement.<br/>
