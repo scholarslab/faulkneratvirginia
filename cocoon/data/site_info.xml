@@ -1880,7 +1880,7 @@
 		
 		
 		<section id="selections" title="Selected Clips">
-			<h3>Selected Clips</h3>
+			<h3 class="center">Selected Clips</h3>
 			
 			<div class="cover_image">
 				<img src="clipshp.jpg" alt="RALPH THOMPSON PHOTOGRAPH" title="RALPH THOMPSON PHOTOGRAPH"/>
@@ -2130,7 +2130,8 @@
 			<hr />
 			<div class="clips">
 				
-				<h4>Early Short Stories:<br/> &ldquo;A Rose for Emily&rdquo;</h4>
+				<h3 class="center">Early Short Stories</h3>
+				<h4> &ldquo;A Rose for Emily&rdquo;</h4>
 				
 				<div class="cover_image">
 					<img src="thirteencovert.jpg" />
@@ -2975,7 +2976,8 @@
 			<hr />
 			<div class="clips">
 				
-				<h4>Later Short Stories:<br/> &ldquo;Shingles for the Lord&rdquo;</h4>
+				<h3 class="center">Later Short Stories</h3>
+				<h4> &ldquo;Shingles for the Lord&rdquo;</h4>
 				
 				<div class="cover_image">
 					<img src="storiescovert.jpg" />
@@ -3044,7 +3046,7 @@
 			
 			<hr />
 			<div class="clips">
-				
+				<h3 class="center">Other Subjects</h3>
 				<h4>Some Comments on His Writing &amp; Career</h4>
 				
 				<p>text?
