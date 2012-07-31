@@ -21,11 +21,12 @@
 						<a href="{$path}search">Search</a>
 					</li>
 					<li>
-						<a href="{$path}page?id=about&amp;section=credits">About</a>
+						<a href="{$path}page?id=clips&amp;section=selections">Clips</a>
 					</li>
 					<li>
-						<a href="{$path}page?id=clips&amp;section=selections">Selected Clips</a>
+						<a href="{$path}page?id=about&amp;section=credits">About</a>
 					</li>
+					
 					<!-- <xsl:for-each select="document('../data/site_info.xml')//page">
 						<li>
 							<a href="{$path}page?id={@id}">
