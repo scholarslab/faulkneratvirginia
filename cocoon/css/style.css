@@ -113,6 +113,7 @@ ul.menu li {
     letter-spacing:2px;
     text-align:center;
     font-weight:bold;
+    text-align: center;
 }
 ul.menu li a {
     text-decoration:none;
@@ -322,6 +323,7 @@ dd {
  .cover_image img {
      width: 137px;
      overflow: hidden;
+     margin: 0 10px;
  }
  
  .cover_image p {
