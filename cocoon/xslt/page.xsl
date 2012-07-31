@@ -73,8 +73,10 @@
 					<xsl:call-template name="header"/>
 					<div class="content">
 						<xsl:if test="descendant::page[@id=$id]/section">
-							<h4><xsl:value-of select="descendant::page[@id=$id]/@title"/></h4>
 							<xsl:if test="$id != 'clips'">
+								
+							<h4><xsl:value-of select="descendant::page[@id=$id]/@title"/></h4>
+							
 							<ul class="page_toc">
 								<xsl:for-each select="descendant::page[@id=$id]/section">
 									<xsl:choose>
