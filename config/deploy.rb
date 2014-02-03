@@ -1,6 +1,6 @@
 set :application, "faulkner"
-#set :repository, 'https://subversion.lib.virginia.edu/repos/faulkner/trunk/'
-set :repository, 'http://faulkneratvirginia.googlecode.com/svn/trunk/'
+set :repository, 'https://subversion.lib.virginia.edu/repos/faulkner/trunk/'
+#set :repository, 'http://faulkneratvirginia.googlecode.com/svn/trunk/'
 
 set :deploy_to, "/usr/local/projects/#{application}"
 set :deploy_via, :remote_cache
@@ -20,18 +20,18 @@ set :env, ENV['ENV'].to_s.empty? ? 'staging' : ENV['ENV'].to_s
 case env
 when 'production'
   set :rails_env, 'quandu_production'
-  role :app, "sds3.itc.virginia.edu" 
-  role :app, "sds5.itc.virginia.edu", :no_release => true
-  role :web, "sds3.itc.virginia.edu", "sds5.itc.virginia.edu", :no_release => true
+  role :app, "sdsv2.its.virginia.edu" 
+  role :app, "sdsv3.its.virginia.edu", :no_release => true
+  role :web, "sdsv2.its.virginia.edu", "sdsv3.its.virginia.edu", :no_release => true
   # execute the migrate tasks from sds1, even though the server is sds2
-  role :db,  "sds3.itc.virginia.edu", :primary => true, :no_release=>true
+  role :db,  "sdsv2.its.virginia.edu", :primary => true, :no_release=>true
   
 when 'staging'
   set :rails_env, 'quandu_staging'
-  role :app, "sds6.itc.virginia.edu"
-  role :web, "sds6.itc.virginia.edu"
+  role :app, "sdsv1.its.virginia.edu"
+  role :web, "sdsv1.its.virginia.edu"
   # execute the migrate tasks from sds1, even though the server is sds2
-  role :db,  "sds6.itc.virginia.edu", :primary => true, :no_release=>true
+  role :db,  "sdsv1.its.virginia.edu", :primary => true, :no_release=>true
 else
   raise 'Invalid stage (should be "staging" or "production")'
 end
