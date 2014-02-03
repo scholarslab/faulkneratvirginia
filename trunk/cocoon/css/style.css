@@ -3,80 +3,46 @@
   GLOBAL
   ****************************************
  */
-body {
-    background:url('faulknerback2.jpg') fixed;
-/* * background: #F5F5F5; */
-}
+/*
+  body {
+  background-color:#0d2142;
+  background-image:url('background.jpg');
+  background-repeat:repeat-x;
+  }
+ */
 a:link {
-    color:#992222;
+	color:#8BADCF;
 }
 a:visited {
-    color:#992222;
+	color:#8BADCF;
 }
 a:hover {
-    color: #CFAB88;
+	color: #627eb7;
 }
 em {
-/*
-  * font-weight:bold;
-  font-style: italic;
- */
+	font-weight:bold;
 }
 p {
-    line-height: 1.5em;
+	line-height: 1.5em;
 }
-
-
-/**
- * FORM
- */
-fieldset {
-	border: 0 solid #648040;
-}
-
 input, select {
-    font-size:11px;
-    margin:0px 10px;
-}
-
-
-input.search_box {
-	width: 300px;
-	/*font-size: 20px;
-	border: 1px solid #ccc;
-	padding: 2px;
-	vertical-align: middle;*/
-}
-
-.search_button {
-	/** background: #eee !important;
-	padding-left: 2px !important;
-	font-size: 18px;*/
-}
-
-a img {
-    border: none;
+	font-size:11px;
+	margin:0px 10px;
 }
 #wrap {
-    width: 740px;
-    font-family: Georgia, serif;
-    margin: 25px auto;
-    padding: 5px 15px;
-/*
-  *border: 4px solid #EFEFEF;
-  background: #F5F5F5;
-  background-image: url(faulknerback2.jpg);
- */
+	width: 720px;
+	font-family: Georgia, serif;
+	margin: 25px auto;
+	padding: 0;
+	border: 0;
+	background-color:white;
 /*
   border:1px solid silver;
   padding:2px;
  */
 }
 .content {
-    min-height:400px;
-}
-.clearfix {
-    display: block;
+	min-height:400px;
 }
 /*
   ****************************************
@@ -84,97 +50,30 @@ a img {
   ****************************************
  */
 #header {
-    height: 100px;
+	height: 100px;
 }
 #header h1 {
-    font-family: Helvetica, "Trebuchet MS", Trebuchet, Verdana, sans-serif;
+	font-family: Helvetica, "Trebuchet MS", Trebuchet, Verdana, sans-serif;
 }
-
-/** main horizontal navigation */
-#main_nav {
-	border-bottom: 1px solid silver;
-	display: table;
-	width: 100%;
-}
-
 ul.menu {
-    display:table;
-    list-style-type:none;
-    margin:0;
-    padding:0;
-    float:left;
-    margin-top:10px;
+	display:table;
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	float:left;
+	margin-top:10px;
 }
 ul.menu li {
-    float:left;
-    width:100px;
-    font-size:11px;
-    text-transform:uppercase;
-    letter-spacing:2px;
-    text-align:center;
-    font-weight:bold;
-    text-align: center;
+	float:left;
+	width:100px;
+	font-size:11px;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	text-align:center;
+	font-weight:bold;
 }
 ul.menu li a {
-    text-decoration:none;
-}
-
-.content center {
-	height: 215px;
-	overflow: hidden;
-}
-/*
-  ****************************************
-  Inline modal windows DISPLAY
-  *****************************************
- */
-.hidden {
-    display: none;
-}
-/*
-  ****************************************
-  Gallery DISPLAY
-  **************************************
- */
-ul.gallery {
-    float: left;
-    width: 735px;
-/* margin: 0 20px; */
-    padding: 0;
-}
-ul.gallery li {
-    display: inline;
-    float: left;
-    list-style-image: none;
-    list-style-position: outside;
-    list-style-type: none;
-    margin: 2px 3px;
-}
-ul.gallery img {
-    margin: 0;
-    padding: 0;
-    max-height: 160px;
-}
-#essay_content ul.gallery img {
-	padding: 0;
-	margin: 0;
-/*
-  background: #CFAB88 none repeat scroll 0 0;
-  height: 110px;
-  padding: 3px;
- */
-    width: 110px;
-}
-ul.gallery a {
-    display: block;
-    min-height: 139px;
-    overflow: hidden;
-    border: 3px solid #CFAB88;
-    margin: 0;
-}
-ul.gallery li a {
-    min-height: 139px;
-    max-width: 110px;
+	text-decoration:none;
 }
 /*
   ****************************************
@@ -182,74 +81,59 @@ ul.gallery li a {
   ****************************************
  */
 #main {
-    float: left;
-    width: 513px;
-    margin: 0;
-    padding-left: 15px;
-	padding-bottom: 15px;
-    height: 1%;
+	float: left;
+	width: 513px;
+	margin: 0;
+	padding-left: 15px;
+	height: 1%;
 /* Holly hack for Peekaboo Bug */
 }
 #nav {
-    float: left;
-    width: 185px;
-    border-style: solid solid none solid;
-    border-color: silver;
-    border-width: 1px;
+	float: left;
+	width: 185px;
+	border-style: solid solid none solid;
+	border-color: #bcd2e6;
+	border-width: 1px;
 }
 #nav ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    font-size: 80%;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	font-size: 80%;
 }
 #nav li a {
-    height: 32px;
-    voice-family: "\"}\"";
-    voice-family: inherit;
-    height: 24px;
-    text-decoration: none;
+	height: 32px;
+	voice-family: "\"}\"";
+	voice-family: inherit;
+	height: 24px;
+	text-decoration: none;
 }
 #nav li a:link, #nav li a:visited {
-    color: #992222;
-    display: block;
-    padding: 8px 0 0 10px;
+	color: #8badcf;
+	display: block;
+	padding: 8px 0 0 10px;
 }
 #nav li a:hover {
-    color: #CFAB88;
-    padding: 8px 0 0 10px;
+	color: #627eb7;
+	padding: 8px 0 0 10px;
 }
-
-.unclear { }
-.gap { }
-.event { }
-
+.unclear {
+}
+.gap {
+}
+.event {
+}
 li {
-    font-family: Helvetica, "Trebuchet MS", Trebuchet, Verdana, arial, sans-serif;
-    font-size: 85%;
-}
-.uppercase {
-    text-transform: uppercase;
-}
-.caps {
-    text-transform: capitalize;
-}
-
-.player-line {
-    height: 30px;
+	font-family: Helvetica, "Trebuchet MS", Trebuchet, Verdana, arial, sans-serif;
 }
 .alt {
-    color: #666;
-    font-family: "Warnock Pro", "Goudy Old Style","Palatino","Book Antiqua", Georgia, serif;
-    font-style: italic;
-    font-weight: normal;
-}
-#wrap .content h1 {
-    font-family: "Palatino","Book Antiqua", Georgia, serif;
-    color: #992222;
+	color: #666;
+	font-family: "Warnock Pro", "Goudy Old Style","Palatino","Book Antiqua", Georgia, serif;
+	font-style: italic;
+	font-weight: normal;
 }
 h3.div_head {
-    display:inline;
+	display:inline;
 }
 /*
   ****************************************
@@ -257,231 +141,68 @@ h3.div_head {
   ****************************************
  */
 .result_div_even {
-    padding:25px 0px;
-    border-top:1px dotted silver;
-    display:table;
-    width:100%;
-    font-size:80%;
-    background-color:#EFEFEF;
+	padding:25px 0px;
+	border-top:1px dotted silver;
+	display:table;
+	width:100%;
+	font-size:80%;
+	background-color:#EFEFEF;
 }
 .result_div_odd {
-    padding:25px 0px;
-    border-top:1px dotted silver;
-    display:table;
-    width:100%;
-    font-size:80%;
+	padding:25px 0px;
+	border-top:1px dotted silver;
+	display:table;
+	width:100%;
+	font-size:80%;
 }
 .result_div_odd dl a, .result_div_even dl a {
-    font-size:120%;
+	font-size:120%;
 }
 dl {
-    padding:0;
-    margin:0px 10px;
+	padding:0;
+	margin:0px 10px;
 }
 dl>div {
-    display:table;
+	display:table;
 }
 dt {
-    float:left;
-    width:100px;
-    font-weight:bold;
+	float:left;
+	width:100px;
+	font-weight:bold;
 }
 dd {
-    margin-left:125px;
+	margin-left:125px;
 }
 .paging_div {
-    display:table;
-    margin:10px 0;
-    width:100%;
+	display:table;
+	margin:10px 0;
+	width:100%;
 }
 .pagingSep, .pagingBtn {
-    margin-left:5px;
-    margin-right:5px;
+	margin-left:5px;
+	margin-right:5px;
 }
 .sort_results {
-    margin-left:10px;
-    display:inline;
+	margin-left:10px;
+	display:inline;
 }
 /*
   ****************************************
   PAGES/FEATURES/BROWSE
   ****************************************
  */
- 
- .clips {
-     clear: both;
- }
- 
- hr {
-     clear: both;
- }
- 
- .cover_image {
-     float: left;
- }
- 
- .cover_image img {
-     width: 137px;
-     overflow: hidden;
-     margin: 0 10px;
- }
- 
- .cover_image p {
-     text-align: center;
-     font-weight: bold;
-     font-size: smaller;
-     text-indent: 0;
-     width: 137px;
- }
- 
- ul.clip_list {
-     float: left;
-     padding: 0;
-     margin: 0 0 0 20px;
-     padding: 0 0 20px 0;
- }
- 
- .clip_list li {
-     list-style: none;
- }
- 
- 
- 
 .page_toc {
-    font-size:1.3em;
+	font-size:12px;
 }
 .browse_table {
-    width:100%;
+	width:100%;
 }
 .odd-row, .odd-row>td {
-    background-color:white;
-    padding:2px;
+	background-color:white;
 }
 .even-row>td {
-    padding:2px;
-    border-spacing:4px;
+	background-color:#EFEFEF;
 }
 .addthis_button {
-/* float:right; */
-}
-.writing, .dark_red {
-    color: #652720;
-}
-
-#essay_content {
-    width: 660px;
-    margin: 0 auto;
-}
-#essay_content img {
-    float: left;
-    margin: 0 15px 5px 0;
-}
-
-#essay_content img.inline {
-	padding: 0;
-	margin: 0;
-	float: none;
-}
-
-#cboxLoadedContent > div { padding: 2em; }
-
-.hide_printer > img.print_hidden { display:none; }
-
-/**
-  *
-  * Style Hacks
- */
-.center {
-    text-align: center;     
-}
-
-img.center {
-	text-align: center;
-	display: block;
-	margin: 0 auto;
-}
-
-.left {
-    text-align: left;
-     
-}
-.right {
-    text-align: right;
-     
-}
-.float_left {
-    float: left;
-     
-}
-.float_right {
-    float: right;
-}
-
-.top_button {
-	margin-left: 1.2em;
-}
-
-.underline {
-    text-decoration: underline;
-}
-
-/**
- * FOOTER
- */
-#footer {
-    margin-top: 2em;
-	clear: both;
-    padding: 0;
-	font-size: 14px;
-}
-#footer p {
-    margin-top: 10px;
-    line-height: 5px;
-}
-.f_title {
-    font-weight: bold;
-    font-style: italic;
-}
-#footer .f_wrap {
-    line-height: 1.5em;
-    float: left;
-    padding-left: 0.8em;
-}
-#footer .f_wrap p {
-    line-height: 1.5em;
-    padding: 0;
-    margin: 0;
-}
-#footer .f_wrap p.copyright {
-    padding-left: 1em;
-}
-
-/* (C) and use page */
-
-.big-notice {
-	font-size: 16px;
-}
-
-h4.use-head {
-	font-variant: small-caps;
-}
-
-.use-strong {
-	font-weight: bold;
-	font-style: normal;
-}
-
-.use-vstrong {
-	font-weight: bold;
-	font-style: italic;
-}
-
-.use-em {
-	font-weight: normal;
-	font-style: italic;
-}
-
-.use-li {
-	visibility: hidden;
-	list-style: none;
+	float:right;
 }

@@ -26,19 +26,15 @@
 	<xsl:template match="/">
 		<html>
 			<head>
+				<link type="text/css" href="style.css" rel="stylesheet"/>
+				<script type="text/javascript" language="javascript" src="javascript/jquery-1.3.2.min.js"/>
+				<script type="text/javascript" language="javascript" src="javascript/sort_results.js"/>				
 				<title>
 					<xsl:value-of select="document('../data/site_info.xml')//title"/>
 				</title>
-					
-				<link type="text/css" href="/style.css" rel="stylesheet" media="screen,projection"/>
-				<link type="text/css" href="/colorbox.css" rel="stylesheet" media="screen"/>
-				
-				<script type="text/javascript" language="javascript" src="javascript/jquery-1.3.2.min.js"/>
-				<script type="text/javascript" language="javascript" src="javascript/sort_results.js"/>				
-				<script type="text/javascript" language="javascript" src="javascript/AC_Quicktime.js">//</script>
 			</head>
 			<body>
-				
+				<script type="text/javascript" language="javascript" src="javascript/AC_Quicktime.js">//</script>
 				<div id="wrap">
 					<xsl:call-template name="header"/>
 					<div class="content">
@@ -83,11 +79,11 @@
 								<xsl:otherwise>[No Header]</xsl:otherwise>
 							</xsl:choose>
 						</a>
-						<div><p>
+						<div>
 							<script language="JavaScript" type="text/javascript">
 							try {
 							QT_WriteOBJECT(
-							'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="str[@name='doc_id']"/>.mp4', ' 300 ', ' 16 ', '',
+							'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="str[@name='doc_id']"/>.mp4 ', ' 300 ', ' 30 ', '',
 							'autoplay', 'false',
 							'scale', 'tofit',
 							'starttime','<xsl:value-of select="replace(str[@name='start'], '\.', ':')"/>',
@@ -95,7 +91,7 @@
 							}
 							catch (e) {
 							//document.write(e);
-							}</script></p>
+							}</script>
 						</div>
 						<div>
 							<dt>Date:</dt>
@@ -104,7 +100,7 @@
 							</dd>
 						</div>
 						<div>
-							<dt>Participants:</dt>
+							<dt>Location:</dt>
 							<dd>
 								<xsl:value-of select="str[@name='location']"/>
 							</dd>
@@ -112,70 +108,30 @@
 					</xsl:when>
 					<xsl:when test="$type='prose'">
 						<xsl:choose>
-							<xsl:when test="str[@name='page_id']">
-								<xsl:choose>
-									<xsl:when test="string(str[@name='section_title'])">
-										<a
-											href="page?id={str[@name='page_id']}&amp;section={str[@name='id']}">
-											<xsl:value-of select="str[@name='section_title']"/>
-										</a>
-										<xsl:text>, from </xsl:text>
-										<xsl:value-of select="str[@name='page_title']"/>
-									</xsl:when>
-									<xsl:otherwise>
-										<a href="page?id={str[@name='id']}">
-											<xsl:value-of select="str[@name='page_title']"/>
-										</a>
-									</xsl:otherwise>
-								</xsl:choose>
+							<xsl:when test="string(str[@name='section_title'])">
+								<a
+									href="page?id={str[@name='page_id']}&amp;section={str[@name='id']}">
+									<xsl:value-of select="str[@name='section_title']"/>
+								</a>
+								<xsl:text>, from </xsl:text>
+								<xsl:value-of select="str[@name='page_title']"/>
 							</xsl:when>
 							<xsl:otherwise>
-								<xsl:choose>
-									<xsl:when test="str[@name='section_title'] = 'Image'">
-										<div style="float:left;width:120px;">
-											<a href="media?id={str[@name='id']}">
-												<img src="{str[@name='thumb_image']}" style="max-width:120px;"/>
-											</a>
-										</div>
-										<div style="margin-left:140px;">
-										<a href="media?id={str[@name='id']}">
-											File
-											<!--<xsl:value-of select="str[@name='section_title']"/> -->
-										</a>
-										</div>
-									</xsl:when>
-									<xsl:otherwise>
-										<a href="media?id={str[@name='id']}">
-											<xsl:value-of select="str[@name='section_title']"/>
-										</a>
-									</xsl:otherwise>
-								</xsl:choose>
+								<a href="page?id={str[@name='id']}">
+									<xsl:value-of select="str[@name='page_title']"/>
+								</a>
 							</xsl:otherwise>
 						</xsl:choose>
 					</xsl:when>
 				</xsl:choose>
-				
-				<xsl:choose>
-					<xsl:when test="str[@name='section_title'] = 'Image'">
-						<div style="margin-left:140px;">
-							<dt>Snippet:</dt>
-							<dd>
-								<xsl:value-of select="//lst[@name=$id]/arr/str"
-									disable-output-escaping="yes"/>
-							</dd>
-						</div>
-					</xsl:when>
-					<xsl:otherwise>
-						<div>
-							<dt>Snippet:</dt>
-							<dd>
-								<xsl:value-of select="//lst[@name=$id]/arr/str"
-									disable-output-escaping="yes"/>
-							</dd>
-						</div>
-					</xsl:otherwise>
-				</xsl:choose>
-				
+
+				<div>
+					<dt>Snippet:</dt>
+					<dd>
+						<xsl:value-of select="//lst[@name=$id]/arr/str"
+							disable-output-escaping="yes"/>
+					</dd>
+				</div>
 			</dl>
 		</div>
 	</xsl:template>
@@ -221,10 +177,10 @@
 				</b>
 
 				<!-- if the search is a transcription search, show sort mechanism -->
-				<!-- <xsl:if test="$type = 'transcription'"> -->
+				<xsl:if test="$type = 'transcription'">
 					<xsl:text> sorted by </xsl:text>
 					<xsl:call-template name="sort"/>
-				<!-- </xsl:if> -->
+				</xsl:if>
 			</div>
 
 			<!-- paging functionality -->
@@ -423,7 +379,7 @@
 
 	<xsl:template name="sort">
 		<form action="results" class="sort_results">
-			<input type="text" value="{$q}" name="q"/>
+			<input type="hidden" value="{$q}" name="q"/>
 			<input type="hidden" name="type" value="{$type}"/>
 			<input type="hidden" name="sort"/>
 			<select id="sort">
@@ -432,42 +388,42 @@
 						<option value="relevance">Relevance</option>
 						<option value="date_sint asc" selected="selected">Date, Ascending</option>
 						<option value="date_sint desc">Date, Descending</option>
-						<!-- <option value="location asc">Location, Ascending</option>
-						<option value="location desc">Location, Descending</option> -->
+						<option value="location asc">Location, Ascending</option>
+						<option value="location desc">Location, Descending</option>
 					</xsl:when>
 					<xsl:when test="$sort = 'date_sint desc'">
 						<option value="relevance">Relevance</option>
 						<option value="date_sint asc">Date, Ascending</option>
 						<option value="date_sint desc" selected="selected">Date, Descending</option>
-						<!-- <option value="location asc">Location, Ascending</option>
-						<option value="location desc">Location, Descending</option> -->
+						<option value="location asc">Location, Ascending</option>
+						<option value="location desc">Location, Descending</option>
 					</xsl:when>
 					<xsl:when test="$sort = 'location asc'">
 						<option value="relevance">Relevance</option>
 						<option value="date_sint asc">Date, Ascending</option>
 						<option value="date_sint desc">Date, Descending</option>
-						<!-- <option value="location asc" selected="selected">Location,
+						<option value="location asc" selected="selected">Location,
 							Ascending</option>
-						<option value="location desc">Location, Descending</option>-->
+						<option value="location desc">Location, Descending</option>
 					</xsl:when>
 					<xsl:when test="$sort = 'location desc'">
 						<option value="relevance">Relevance</option>
 						<option value="date_sint asc">Date, Ascending</option>
 						<option value="date_sint desc">Date, Descending</option>
-						<!-- <option value="location asc">Location, Ascending</option>
+						<option value="location asc">Location, Ascending</option>
 						<option value="location desc" selected="selected">Location,
-							Descending</option> -->
+							Descending</option>
 					</xsl:when>
 					<xsl:otherwise>
 						<option value="relevance">Relevance</option>
 						<option value="date_sint asc">Date, Ascending</option>
 						<option value="date_sint desc">Date, Descending</option>
-						<!-- <option value="location asc">Location, Ascending</option>
-						<option value="location desc">Location, Descending</option> -->
+						<option value="location asc">Location, Ascending</option>
+						<option value="location desc">Location, Descending</option>
 					</xsl:otherwise>
 				</xsl:choose>
 			</select>
-			<input type="submit" value="Search" id="submit_button"/>
+			<input type="submit" value="Go" id="submit_button"/>
 		</form>
 	</xsl:template>
 
