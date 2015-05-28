@@ -227,12 +227,29 @@
 			<xs:choice minOccurs="0" maxOccurs="unbounded">
 				<xs:element ref="img"/>
 				<xs:element ref="strong"/>
+				<xs:element ref="figure"/>
 			</xs:choice>
 			<xs:attribute name="class" type="xs:NCName"/>
 			<xs:attribute name="href" type="xs:anyURI"/>
 			<xs:attribute name="name" type="xs:NCName"/>
 		</xs:complexType>
 	</xs:element>
+	<xs:element name="figure">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="img"/>
+				<xs:element ref="figcaption"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="figcaption">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="cite"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="cite" type="xs:string"/>
 	<xs:element name="br">
 		<xs:complexType/>
 	</xs:element>
